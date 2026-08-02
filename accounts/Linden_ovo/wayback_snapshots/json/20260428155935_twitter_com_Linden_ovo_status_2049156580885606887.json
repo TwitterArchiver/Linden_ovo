@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2049156580885606887",
+    "created_at": "2026-04-28T15:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T16:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049156580885606887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1797563313016233984",
+          "start": 3,
+          "username": "TOURS_imas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049156580885606887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 413
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049141839236649220",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TOURS_imas: 本日は、藤田ことねさんの誕生日🎉✨\nログインするといいことがありますよ。\n\n🎂誕生日コミュ公開期間🎂\n⇒4/29 7:00～4/29 25:59\n\n🎁ログインボーナス獲得期間\n⇒4/29 7:00～5/1 23:59\n※期間中1回のみです\n\n#藤…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "『アイドルマスター TOURS』藤田ことね",
+        "height": 1080,
+        "media_key": "3_2046423171709218816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGZbCEHbMAAIBuB.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2049156580885606887",
+        "created_at": "2026-04-28T15:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049156580885606887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797563313016233984",
+              "start": 3,
+              "username": "TOURS_imas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049156580885606887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 413
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049141839236649220",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TOURS_imas: 本日は、藤田ことねさんの誕生日🎉✨\nログインするといいことがありますよ。\n\n🎂誕生日コミュ公開期間🎂\n⇒4/29 7:00～4/29 25:59\n\n🎁ログインボーナス獲得期間\n⇒4/29 7:00～5/1 23:59\n※期間中1回のみです\n\n#藤…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046423171709218816"
+          ]
+        },
+        "author_id": "1797563313016233984",
+        "conversation_id": "2049141839236649220",
+        "created_at": "2026-04-28T15:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049141839236649220"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 121,
+              "tag": "藤田ことね"
+            },
+            {
+              "end": 132,
+              "start": 128,
+              "tag": "HBD"
+            },
+            {
+              "end": 138,
+              "start": 133,
+              "tag": "ツアマス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oz4CY9TQ4M",
+              "end": 162,
+              "expanded_url": "https://x.com/TOURS_imas/status/2049141839236649220/photo/1",
+              "media_key": "3_2046423171709218816",
+              "start": 139,
+              "url": "https://t.co/oz4CY9TQ4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049141839236649220",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 22619,
+          "like_count": 1171,
+          "quote_count": 28,
+          "reply_count": 2,
+          "retweet_count": 413
+        },
+        "reply_settings": "everyone",
+        "text": "本日は、藤田ことねさんの誕生日🎉✨\nログインするといいことがありますよ。\n\n🎂誕生日コミュ公開期間🎂\n⇒4/29 7:00～4/29 25:59\n\n🎁ログインボーナス獲得期間\n⇒4/29 7:00～5/1 23:59\n※期間中1回のみです\n\n#藤田ことね #HBD #ツアマス https://t.co/oz4CY9TQ4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 1638,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 973
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T09:43:39.000Z",
+        "description": "「アイドルマスター TOURS」の公式アカウントです✈ |アイドルマスター」シリーズのアイドルが登場！| アイドル、衣装、楽曲、ステージを自分好みに決めて、ライブ中もリアルタイムに演出する「アイドルライブプロデュースゲーム」です",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bandainamco-am.co.jp/am/vg/idolmast…",
+                "end": 23,
+                "expanded_url": "https://bandainamco-am.co.jp/am/vg/idolmaster-tours/",
+                "start": 0,
+                "url": "https://t.co/2tj6uQymrZ"
+              }
+            ]
+          }
+        },
+        "id": "1797563313016233984",
+        "name": "アイドルマスター TOURS【公式】",
+        "pinned_tweet_id": "2046876670779445537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798867111978356736/vDn9AHyx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58209,
+          "following_count": 33,
+          "like_count": 149,
+          "listed_count": 460,
+          "media_count": 800,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/2tj6uQymrZ",
+        "username": "TOURS_imas",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2027400026901954741",
+    "created_at": "2026-02-27T15:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027400026901954741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1622651388135378944",
+          "start": 3,
+          "username": "Lyle_Anla"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027400026901954741",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 64
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026874087151423797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyle_Anla: 以下盤點8個\n我認為女生那些做了很扣分的行為：\n.\n.\n.\n.\n.\n.\n.\n.\n1.向英吉利國開戰！\n2.向法蘭西國開戰！\n3.向美利堅國開戰！\n4.向德意志國開戰！\n5.向俄羅斯國開戰！\n6.向義大利國開戰！\n7.向奧地利國開戰！\n8.向日本國開…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2027400026901954741",
+        "created_at": "2026-02-27T15:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027400026901954741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1622651388135378944",
+              "start": 3,
+              "username": "Lyle_Anla"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027400026901954741",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026874087151423797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lyle_Anla: 以下盤點8個\n我認為女生那些做了很扣分的行為：\n.\n.\n.\n.\n.\n.\n.\n.\n1.向英吉利國開戰！\n2.向法蘭西國開戰！\n3.向美利堅國開戰！\n4.向德意志國開戰！\n5.向俄羅斯國開戰！\n6.向義大利國開戰！\n7.向奧地利國開戰！\n8.向日本國開…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1622651388135378944",
+        "conversation_id": "2026874087151423797",
+        "created_at": "2026-02-26T04:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026874087151423797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026874087151423797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 97382,
+          "like_count": 1883,
+          "quote_count": 5,
+          "reply_count": 62,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "以下盤點8個\n我認為女生那些做了很扣分的行為：\n.\n.\n.\n.\n.\n.\n.\n.\n1.向英吉利國開戰！\n2.向法蘭西國開戰！\n3.向美利堅國開戰！\n4.向德意志國開戰！\n5.向俄羅斯國開戰！\n6.向義大利國開戰！\n7.向奧地利國開戰！\n8.向日本國開戰！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1231,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 640
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T17:41:09.000Z",
+        "description": "停播一年半後回來復健的過氣人\n隔壁蒔主播：@makiyui_28\n\n重生信號台：https://t.co/n8UfoMvrAH\nFoodGuoba 死人DC伺服器：https://t.co/DvpUvUmUYn\nFanArt：#辣麼有才",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 113,
+                "tag": "辣麼有才"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "makiyui_28"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/lyle_ann",
+                "end": 63,
+                "expanded_url": "https://www.twitch.tv/lyle_ann",
+                "start": 40,
+                "url": "https://t.co/n8UfoMvrAH"
+              },
+              {
+                "display_url": "discord.gg/KMbmrCZ957",
+                "end": 105,
+                "expanded_url": "http://discord.gg/KMbmrCZ957",
+                "start": 82,
+                "url": "https://t.co/DvpUvUmUYn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Anla",
+                "end": 23,
+                "expanded_url": "https://lit.link/Anla",
+                "start": 0,
+                "url": "https://t.co/OXngFrdiCs"
+              }
+            ]
+          }
+        },
+        "id": "1622651388135378944",
+        "name": "安辣 Anla🌶️ | 一個平凡的Vtuber",
+        "pinned_tweet_id": "2008773137723519236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008771121571864576/yGIYG7T-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 194,
+          "like_count": 7604,
+          "listed_count": 7,
+          "media_count": 627,
+          "tweet_count": 4563
+        },
+        "url": "https://t.co/OXngFrdiCs",
+        "username": "Lyle_Anla",
+        "verified": false
+      }
+    ]
+  }
+}

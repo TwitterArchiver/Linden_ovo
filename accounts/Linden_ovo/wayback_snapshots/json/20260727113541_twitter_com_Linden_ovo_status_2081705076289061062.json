@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081636569866482083",
+    "created_at": "2026-07-27T11:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081705076289061062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081705076289061062",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081636569866482083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 我妈上次专门拿了个家里的杯子给我说你不要再买这么漂亮的杯子当烟灰缸了你用这个吧…😸"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081636552980176896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HON1anvaIAAtWMl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081636569866482083",
+        "created_at": "2026-07-27T11:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081705076289061062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081705076289061062",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081636569866482083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 我妈上次专门拿了个家里的杯子给我说你不要再买这么漂亮的杯子当烟灰缸了你用这个吧…😸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081636552980176896"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081636569866482083",
+        "created_at": "2026-07-27T07:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081636569866482083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2v6Or0srK",
+              "end": 34,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2081636569866482083/photo/1",
+              "media_key": "3_2081636552980176896",
+              "start": 11,
+              "url": "https://t.co/A2v6Or0srK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081636569866482083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小水杯已沦陷为烟灰缸 https://t.co/A2v6Or0srK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2827,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1851
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 241,
+          "like_count": 1762,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 1073
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

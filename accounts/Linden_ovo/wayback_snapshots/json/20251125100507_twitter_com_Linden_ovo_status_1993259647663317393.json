@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1992987810769617174",
+    "created_at": "2025-11-25T10:05:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T11:05:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993259647663317393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2681499344",
+          "start": 0,
+          "username": "DianXian_cos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993259647663317393",
+    "in_reply_to_user_id": "2681499344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992987810769617174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianXian_cos 最喜欢的电线出了最喜欢的虹v!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992987803416981504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD2RBa8AAQg17.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992987803442102272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD2RHaQAARoNT.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1992987803450572800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD2RJbgAAYEVD.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1992987803467337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6iD2RNbUAAHO5b.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1992987810769617174",
+        "created_at": "2025-11-25T10:05:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T11:05:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993259647663317393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2681499344",
+              "start": 0,
+              "username": "DianXian_cos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993259647663317393",
+        "in_reply_to_user_id": "2681499344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992987810769617174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianXian_cos 最喜欢的电线出了最喜欢的虹v!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992987803416981504",
+            "3_1992987803442102272",
+            "3_1992987803450572800",
+            "3_1992987803467337728"
+          ]
+        },
+        "author_id": "2681499344",
+        "conversation_id": "1992987810769617174",
+        "created_at": "2025-11-24T16:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T17:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992987810769617174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "サラ星図"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TvjAfMLUZR",
+              "end": 56,
+              "expanded_url": "https://x.com/DianXian_cos/status/1992987810769617174/photo/1",
+              "media_key": "3_1992987803416981504",
+              "start": 33,
+              "url": "https://t.co/TvjAfMLUZR"
+            },
+            {
+              "display_url": "pic.x.com/TvjAfMLUZR",
+              "end": 56,
+              "expanded_url": "https://x.com/DianXian_cos/status/1992987810769617174/photo/1",
+              "media_key": "3_1992987803442102272",
+              "start": 33,
+              "url": "https://t.co/TvjAfMLUZR"
+            },
+            {
+              "display_url": "pic.x.com/TvjAfMLUZR",
+              "end": 56,
+              "expanded_url": "https://x.com/DianXian_cos/status/1992987810769617174/photo/1",
+              "media_key": "3_1992987803450572800",
+              "start": 33,
+              "url": "https://t.co/TvjAfMLUZR"
+            },
+            {
+              "display_url": "pic.x.com/TvjAfMLUZR",
+              "end": 56,
+              "expanded_url": "https://x.com/DianXian_cos/status/1992987810769617174/photo/1",
+              "media_key": "3_1992987803467337728",
+              "start": 33,
+              "url": "https://t.co/TvjAfMLUZR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992987810769617174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "初次见面，我是闪耀的一番星，星川莎拉！请多多关照！\n #サラ星図 https://t.co/TvjAfMLUZR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 281
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-26T06:05:29.000Z",
+        "description": "爱好cosplay，喜欢看Vtuber，男孩子一枚，请多多指教！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/4494100",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/4494100",
+                "start": 0,
+                "url": "https://t.co/4DTu3Ku5Qw"
+              }
+            ]
+          }
+        },
+        "id": "2681499344",
+        "location": "China",
+        "name": "穿越电线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936673693574250496/BBpffYV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5484,
+          "following_count": 556,
+          "like_count": 5050,
+          "listed_count": 20,
+          "media_count": 322,
+          "tweet_count": 1645
+        },
+        "url": "https://t.co/4DTu3Ku5Qw",
+        "username": "DianXian_cos",
+        "verified": false
+      }
+    ]
+  }
+}

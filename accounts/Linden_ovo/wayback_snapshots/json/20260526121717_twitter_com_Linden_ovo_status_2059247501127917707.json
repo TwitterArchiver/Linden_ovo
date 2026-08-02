@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059194596887011328"
+      ],
+      "media_source_tweet_id": [
+        "2059194821139714508"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2059247501127917707",
+    "created_at": "2026-05-26T12:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059247501127917707"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424571429803028489",
+          "start": 3,
+          "username": "kmnm_1403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AtAI2msObU",
+          "end": 38,
+          "expanded_url": "https://x.com/kmnm_1403/status/2059194821139714508/photo/1",
+          "media_key": "3_2059194596887011328",
+          "start": 15,
+          "url": "https://t.co/AtAI2msObU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059247501127917707",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2978
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059194821139714508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kmnm_1403: https://t.co/AtAI2msObU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_2059194596887011328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO6k2baoAAxQto.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059194596887011328"
+          ],
+          "media_source_tweet_id": [
+            "2059194821139714508"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2059247501127917707",
+        "created_at": "2026-05-26T12:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059247501127917707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424571429803028489",
+              "start": 3,
+              "username": "kmnm_1403"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtAI2msObU",
+              "end": 38,
+              "expanded_url": "https://x.com/kmnm_1403/status/2059194821139714508/photo/1",
+              "media_key": "3_2059194596887011328",
+              "start": 15,
+              "url": "https://t.co/AtAI2msObU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059247501127917707",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2978
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059194821139714508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kmnm_1403: https://t.co/AtAI2msObU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059194596887011328"
+          ]
+        },
+        "author_id": "1424571429803028489",
+        "conversation_id": "2059194821139714508",
+        "created_at": "2026-05-26T08:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059194821139714508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtAI2msObU",
+              "end": 23,
+              "expanded_url": "https://x.com/kmnm_1403/status/2059194821139714508/photo/1",
+              "media_key": "3_2059194596887011328",
+              "start": 0,
+              "url": "https://t.co/AtAI2msObU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059194821139714508",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 647,
+          "impression_count": 219052,
+          "like_count": 13154,
+          "quote_count": 73,
+          "reply_count": 14,
+          "retweet_count": 2978
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/AtAI2msObU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 105,
+          "like_count": 1740,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1077
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T03:21:31.000Z",
+        "description": "「👾🎮」 狛七日 + 雑多垢 |🔕|⚠️ ネタバレ\nskeb: https://t.co/hzsupthiI7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kmnm_1403",
+                "end": 55,
+                "expanded_url": "http://skeb.jp/@kmnm_1403",
+                "start": 32,
+                "url": "https://t.co/hzsupthiI7"
+              }
+            ]
+          }
+        },
+        "id": "1424571429803028489",
+        "name": "7海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048885771562885120/FjWz7_ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15017,
+          "following_count": 51,
+          "like_count": 15564,
+          "listed_count": 36,
+          "media_count": 204,
+          "tweet_count": 1551
+        },
+        "username": "kmnm_1403",
+        "verified": false
+      }
+    ]
+  }
+}

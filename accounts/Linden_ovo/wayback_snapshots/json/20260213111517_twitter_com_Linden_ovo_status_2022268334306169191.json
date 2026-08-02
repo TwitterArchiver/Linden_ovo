@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2022092792567410991",
+    "created_at": "2026-02-13T11:15:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:15:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022268334306169191"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1873582469854949376",
+          "start": 0,
+          "username": "shikonnotama999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022268334306169191",
+    "in_reply_to_user_id": "1873582469854949376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022092792567410991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shikonnotama999 我这辈子都想和这样的天使女孩恋爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2022092792567410991",
+        "created_at": "2026-02-13T11:15:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022268334306169191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1873582469854949376",
+              "start": 0,
+              "username": "shikonnotama999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022268334306169191",
+        "in_reply_to_user_id": "1873582469854949376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022092792567410991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shikonnotama999 我这辈子都想和这样的天使女孩恋爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873582469854949376",
+        "conversation_id": "2022092792567410991",
+        "created_at": "2026-02-12T23:37:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T00:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022092792567410991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022092792567410991",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4747,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我就喜欢那种不混圈 整日神神叨叨的活在自己的世界的单机地雷女 和她们深入交流真的挺好玩的 并且也不用听圈内那些无聊的事…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 1145,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 567
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T04:10:58.000Z",
+        "description": "我喜欢和淡淡的人交流 私信只回口令 一直问拉黑",
+        "id": "1873582469854949376",
+        "location": "🚪288/520/1314^ ^.",
+        "name": "愈美湯力水oO",
+        "pinned_tweet_id": "2019526992228741478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007098307173048320/lHWZnHB0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 98,
+          "like_count": 801,
+          "listed_count": 3,
+          "media_count": 16,
+          "tweet_count": 145
+        },
+        "username": "shikonnotama999",
+        "verified": false
+      }
+    ]
+  }
+}

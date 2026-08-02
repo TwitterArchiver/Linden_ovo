@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074098208981065728"
+      ],
+      "media_source_tweet_id": [
+        "2074098219823382939"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074396010789392694",
+    "created_at": "2026-07-07T07:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074396010789392694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1944679199358570496",
+          "start": 3,
+          "username": "0kada_Mi0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BxBjv5UdBC",
+          "end": 60,
+          "expanded_url": "https://x.com/0kada_Mi0/status/2074098219823382939/photo/1",
+          "media_key": "3_2074098208981065728",
+          "start": 37,
+          "url": "https://t.co/BxBjv5UdBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074396010789392694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074098219823382939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0kada_Mi0: 死了可以重生 attendance失不再来 https://t.co/BxBjv5UdBC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 781,
+        "media_key": "3_2074098208981065728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMitVP-XIAADjzg.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074098208981065728"
+          ],
+          "media_source_tweet_id": [
+            "2074098219823382939"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074396010789392694",
+        "created_at": "2026-07-07T07:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074396010789392694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1944679199358570496",
+              "start": 3,
+              "username": "0kada_Mi0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxBjv5UdBC",
+              "end": 60,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2074098219823382939/photo/1",
+              "media_key": "3_2074098208981065728",
+              "start": 37,
+              "url": "https://t.co/BxBjv5UdBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074396010789392694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074098219823382939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0kada_Mi0: 死了可以重生 attendance失不再来 https://t.co/BxBjv5UdBC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074098208981065728"
+          ]
+        },
+        "author_id": "1944679199358570496",
+        "conversation_id": "2074098219823382939",
+        "created_at": "2026-07-06T11:48:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074098219823382939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxBjv5UdBC",
+              "end": 45,
+              "expanded_url": "https://x.com/0kada_Mi0/status/2074098219823382939/photo/1",
+              "media_key": "3_2074098208981065728",
+              "start": 22,
+              "url": "https://t.co/BxBjv5UdBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074098219823382939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 894,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "死了可以重生 attendance失不再来 https://t.co/BxBjv5UdBC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 132,
+          "like_count": 2254,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1446
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T08:43:53.000Z",
+        "description": "电子呕吐物\n06/碎碎念/brat/自伤od/高p\n想和女孩们互fo\n不卖不约不线下不聊骚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tellonym.me/user.miovo",
+                "end": 23,
+                "expanded_url": "https://tellonym.me/user.miovo",
+                "start": 0,
+                "url": "https://t.co/1hFCOSHHsL"
+              }
+            ]
+          }
+        },
+        "id": "1944679199358570496",
+        "name": "miovo",
+        "pinned_tweet_id": "2035614009211408662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944683149348175873/7SJk6K0n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1868,
+          "following_count": 233,
+          "like_count": 20046,
+          "listed_count": 5,
+          "media_count": 225,
+          "tweet_count": 3470
+        },
+        "url": "https://t.co/1hFCOSHHsL",
+        "username": "0kada_Mi0",
+        "verified": false
+      }
+    ]
+  }
+}

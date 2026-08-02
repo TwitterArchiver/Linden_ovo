@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1886004840435999180",
+    "created_at": "2025-02-04T10:42:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-04T11:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886727116135546983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1713237273272365056",
+          "start": 0,
+          "username": "TwCaris70234"
+        },
+        {
+          "end": 27,
+          "id": "1709222815105515520",
+          "start": 14,
+          "username": "James_Kuma18"
+        },
+        {
+          "end": 38,
+          "id": "33154347",
+          "start": 28,
+          "username": "sischapel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886727116135546983",
+    "in_reply_to_user_id": "1713237273272365056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886498005383291249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TwCaris70234 @James_Kuma18 @sischapel 这就像男生喜欢胸大的女孩，嫌弃平胸女，但是胸大不大其实是无所谓的事情吧？dna里自带的性崇拜，我是这样认为的，因为我不把性看的很重要。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1886004840435999180",
+        "created_at": "2025-02-04T10:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-04T11:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886727116135546983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1713237273272365056",
+              "start": 0,
+              "username": "TwCaris70234"
+            },
+            {
+              "end": 27,
+              "id": "1709222815105515520",
+              "start": 14,
+              "username": "James_Kuma18"
+            },
+            {
+              "end": 38,
+              "id": "33154347",
+              "start": 28,
+              "username": "sischapel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886727116135546983",
+        "in_reply_to_user_id": "1713237273272365056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886498005383291249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TwCaris70234 @James_Kuma18 @sischapel 这就像男生喜欢胸大的女孩，嫌弃平胸女，但是胸大不大其实是无所谓的事情吧？dna里自带的性崇拜，我是这样认为的，因为我不把性看的很重要。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1713237273272365056",
+        "conversation_id": "1886004840435999180",
+        "created_at": "2025-02-03T19:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T20:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886498005383291249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709222815105515520",
+              "start": 0,
+              "username": "James_Kuma18"
+            },
+            {
+              "end": 24,
+              "id": "33154347",
+              "start": 14,
+              "username": "sischapel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886498005383291249",
+        "in_reply_to_user_id": "1709222815105515520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5124,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886301049528664240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James_Kuma18 @sischapel 既然內部沒有感覺 \n那為什麼有些女孩子會嫌男生雞雞短小?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 82,
+          "like_count": 313,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 115
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-14T16:56:27.000Z",
+        "description": "中國人性最大的暖心就是恨你有、笑你無，嫌你窮、怕你富。\n壞事都賴台灣人 好事都是中國人\n影片不利都造假 狂吠狗幹汪汪汪",
+        "id": "1713237273272365056",
+        "location": "台灣.新竹縣這裡是高科技產業 生產地 ",
+        "name": "Caris TW",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713237345741484032/lnHcSTha_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 5,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 852
+        },
+        "username": "TwCaris70234",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-03T15:04:26.000Z",
+        "description": "",
+        "id": "1709222815105515520",
+        "name": "Jams Kuma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1709222964993081344/FqhGVtSa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 214,
+          "like_count": 4297,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 948
+        },
+        "username": "James_Kuma18",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-19T07:10:46.000Z",
+        "description": "所有人都要在某个瞬间直面命运的真颜",
+        "id": "33154347",
+        "name": "兔兔猫",
+        "pinned_tweet_id": "1875456354825224268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815368179981688832/qiPYvajF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9684,
+          "following_count": 514,
+          "like_count": 7766,
+          "listed_count": 75,
+          "media_count": 2056,
+          "tweet_count": 16300
+        },
+        "username": "sischapel",
+        "verified": false
+      }
+    ]
+  }
+}

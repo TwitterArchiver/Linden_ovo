@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2022001973512253440"
+      ],
+      "media_source_tweet_id": [
+        "2022002025203216714"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022212138580992091",
+    "created_at": "2026-02-13T07:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022212138580992091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1161380924229115907",
+          "start": 3,
+          "username": "DqKeita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTLLN8I1at",
+          "end": 36,
+          "expanded_url": "https://x.com/DqKeita/status/2022002025203216714/video/1",
+          "media_key": "7_2022001973512253440",
+          "start": 13,
+          "url": "https://t.co/FTLLN8I1at"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022212138580992091",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1369
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022002025203216714",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DqKeita: https://t.co/FTLLN8I1at"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45720,
+        "height": 890,
+        "media_key": "7_2022001973512253440",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022001973512253440/pu/img/UpaBJTc0thzrDiWf.jpg",
+        "public_metrics": {
+          "view_count": 88580
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022001973512253440/pu/vid/avc1/320x494/ZoUMCQ6t8OK351t1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022001973512253440/pu/vid/avc1/480x740/qhSPNYOOZGi2inH0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022001973512253440/pu/vid/avc1/576x890/JhUY5bMjXmFHrmUU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022001973512253440/pu/pl/IvlT0CrvmeiA-xea.m3u8?v=98c"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022001973512253440"
+          ],
+          "media_source_tweet_id": [
+            "2022002025203216714"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022212138580992091",
+        "created_at": "2026-02-13T07:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022212138580992091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1161380924229115907",
+              "start": 3,
+              "username": "DqKeita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTLLN8I1at",
+              "end": 36,
+              "expanded_url": "https://x.com/DqKeita/status/2022002025203216714/video/1",
+              "media_key": "7_2022001973512253440",
+              "start": 13,
+              "url": "https://t.co/FTLLN8I1at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022212138580992091",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1369
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022002025203216714",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DqKeita: https://t.co/FTLLN8I1at"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022001973512253440"
+          ]
+        },
+        "author_id": "1161380924229115907",
+        "conversation_id": "2022002025203216714",
+        "created_at": "2026-02-12T17:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022002025203216714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTLLN8I1at",
+              "end": 23,
+              "expanded_url": "https://x.com/DqKeita/status/2022002025203216714/video/1",
+              "media_key": "7_2022001973512253440",
+              "start": 0,
+              "url": "https://t.co/FTLLN8I1at"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022002025203216714",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3023,
+          "impression_count": 143722,
+          "like_count": 12097,
+          "quote_count": 14,
+          "reply_count": 13,
+          "retweet_count": 1369
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FTLLN8I1at"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 1142,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 564
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-13T20:56:04.000Z",
+        "description": "ฅ(• ɪ •)HoyoCC Official✦\n🔴https://t.co/P7WTpRLTbU |\n🟣https://t.co/7VpRaPi6Fc |\n\n✉️Keitaro@amg.gg\n\n Enlace de descuento▶️https://t.co/zKrZk1Mnrd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KeitaroTR",
+                "end": 49,
+                "expanded_url": "http://youtube.com/@KeitaroTR",
+                "start": 26,
+                "url": "https://t.co/P7WTpRLTbU"
+              },
+              {
+                "display_url": "twitch.tv/keitarotr",
+                "end": 76,
+                "expanded_url": "http://twitch.tv/keitarotr",
+                "start": 53,
+                "url": "https://t.co/7VpRaPi6Fc"
+              },
+              {
+                "display_url": "ene.ba/Keitaro",
+                "end": 143,
+                "expanded_url": "https://ene.ba/Keitaro",
+                "start": 120,
+                "url": "https://t.co/zKrZk1Mnrd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/KeitaroTR",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/KeitaroTR",
+                "start": 0,
+                "url": "https://t.co/DMU2wxMt2e"
+              }
+            ]
+          }
+        },
+        "id": "1161380924229115907",
+        "location": "Comunidad Valenciana, España",
+        "name": "Keitaro",
+        "pinned_tweet_id": "2018402494221537629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975233561494986753/2jbdzKAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61953,
+          "following_count": 2619,
+          "like_count": 193692,
+          "listed_count": 82,
+          "media_count": 16490,
+          "tweet_count": 50181
+        },
+        "url": "https://t.co/DMU2wxMt2e",
+        "username": "DqKeita",
+        "verified": true
+      }
+    ]
+  }
+}

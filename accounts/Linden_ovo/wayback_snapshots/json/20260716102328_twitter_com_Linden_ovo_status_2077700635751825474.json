@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2077700635751825474",
+    "created_at": "2026-07-16T10:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T11:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077700635751825474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1745160587292610560",
+          "start": 3,
+          "username": "GabrielFor6287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077700635751825474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077674611765051555",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GabrielFor6287: 无脑人类手法双弹拉点绕高低差建筑好秀啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2077700635751825474",
+        "created_at": "2026-07-16T10:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T11:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077700635751825474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1745160587292610560",
+              "start": 3,
+              "username": "GabrielFor6287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077700635751825474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077674611765051555",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GabrielFor6287: 无脑人类手法双弹拉点绕高低差建筑好秀啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745160587292610560",
+        "conversation_id": "2077674611765051555",
+        "created_at": "2026-07-16T08:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077674611765051555"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077674611765051555",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "无脑人类手法双弹拉点绕高低差建筑好秀啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 136,
+          "like_count": 2472,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "1745161003019501957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 48,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

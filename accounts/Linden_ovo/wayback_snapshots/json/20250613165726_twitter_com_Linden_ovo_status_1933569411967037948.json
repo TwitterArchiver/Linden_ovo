@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1933550827698073744",
+    "created_at": "2025-06-13T16:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T17:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933569411967037948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433667543806267393",
+          "start": 0,
+          "username": "hakuikoyori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933569411967037948",
+    "in_reply_to_user_id": "1433667543806267393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933550827698073744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hakuikoyori 楽しみだねっ！！♡ ♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1933550827698073744",
+        "created_at": "2025-06-13T16:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933569411967037948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433667543806267393",
+              "start": 0,
+              "username": "hakuikoyori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933569411967037948",
+        "in_reply_to_user_id": "1433667543806267393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933550827698073744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hakuikoyori 楽しみだねっ！！♡ ♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433667543806267393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404850247428308995",
+              "name": "Tokimeki Memorial"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404850247428308995",
+              "name": "Tokimeki Memorial"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405259614053036032",
+              "name": "Dating sims"
+            }
+          }
+        ],
+        "conversation_id": "1933550827698073744",
+        "created_at": "2025-06-13T15:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933550827698073744"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "ときめきメモリアル2",
+              "probability": 0.7375,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hakuikoyori/st…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/hakuikoyori/status/1933421973478248528",
+              "start": 88,
+              "url": "https://t.co/DxnydZs9wr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933550827698073744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27343,
+          "like_count": 767,
+          "quote_count": 0,
+          "reply_count": 50,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933421973478248528",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "明日(今日)起きてお昼の11時からは「ときめきメモリアル2」！！！\nこの日を楽しみにしてた！！！！！！！\n運命の出会い・・・どんな子と出会えるだろう(ᐡ⸝⸝• ̫ •⸝⸝ᐡ) https://t.co/DxnydZs9wr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 372,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 149
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T05:46:28.000Z",
+        "description": "ホロライブ6期生🧪holoXの頭脳🧠博衣こよりだよ🎀初見古参関係なく楽しめるがモットー！夢を全部叶えるのが夢！(ᐡ •͈ ·̫ •͈ ᐡ)ﾉ💞／🎨 #こよりすけっち／📺 #こより実験中／ファンネーム：助手くん❤️ももこママ(@momoco_haru) いいねやリプは気まぐれ！特別扱いではないから安心してねっ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "こよりすけっち"
+              },
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "こより実験中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "momoco_haru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6eWC…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+                "start": 0,
+                "url": "https://t.co/U4G9NUjWs5"
+              }
+            ]
+          }
+        },
+        "id": "1433667543806267393",
+        "location": "助手くんの心の中(ᐡ •͈ ·̫ •͈ ᐡ)",
+        "name": "博衣こより🧪1stアルバム発売中!!新曲MVも見てね🎉",
+        "pinned_tweet_id": "1873685808827482191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907071586194411520/mH_qxVy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953130,
+          "following_count": 529,
+          "like_count": 47125,
+          "listed_count": 9459,
+          "media_count": 6736,
+          "tweet_count": 31676
+        },
+        "url": "https://t.co/U4G9NUjWs5",
+        "username": "hakuikoyori",
+        "verified": true
+      }
+    ]
+  }
+}

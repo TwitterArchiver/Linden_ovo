@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1991057194918564215",
+    "created_at": "2025-11-19T08:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T09:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991057194918564215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1098902673464520704",
+          "start": 3,
+          "username": "Y4nRNRTJCwchhS4"
+        },
+        {
+          "end": 32,
+          "id": "1750684739441446912",
+          "start": 21,
+          "username": "wngy189327"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991057194918564215",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991054617741046243",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Y4nRNRTJCwchhS4: @wngy189327 第三張應該可以拿去借錢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1991057194918564215",
+        "created_at": "2025-11-19T08:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991057194918564215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1098902673464520704",
+              "start": 3,
+              "username": "Y4nRNRTJCwchhS4"
+            },
+            {
+              "end": 32,
+              "id": "1750684739441446912",
+              "start": 21,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991057194918564215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991054617741046243",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Y4nRNRTJCwchhS4: @wngy189327 第三張應該可以拿去借錢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1098902673464520704",
+        "conversation_id": "1991009208536609204",
+        "created_at": "2025-11-19T08:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T09:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991054617741046243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1750684739441446912",
+              "start": 0,
+              "username": "wngy189327"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991054617741046243",
+        "in_reply_to_user_id": "1750684739441446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991009208536609204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngy189327 第三張應該可以拿去借錢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 748,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 277
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-22T11:09:48.000Z",
+        "description": "沒",
+        "id": "1098902673464520704",
+        "name": "杯子蛋糕麵",
+        "pinned_tweet_id": "1600177471571517440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1324236409511661568/430SW5Ys_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 232,
+          "like_count": 3889,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1602
+        },
+        "username": "Y4nRNRTJCwchhS4",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一段时间先不上推了（偶尔可能也会上，但是不会像以前那样频繁了）\n140斤\n10年的mtf\n15岁的xyn\n有小证\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n会割手但不od（偶尔也会o）\n同类互fo",
+        "id": "1750684739441446912",
+        "name": "核弹 🍥（实名上网）",
+        "pinned_tweet_id": "1991009208536609204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 391,
+          "like_count": 5783,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 832
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

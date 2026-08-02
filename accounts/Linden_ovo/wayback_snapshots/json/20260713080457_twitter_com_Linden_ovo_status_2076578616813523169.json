@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076578616813523169",
+    "created_at": "2026-07-13T08:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076578616813523169"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "angel_OvO27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076578616813523169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076181818634912081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angel_OvO27: 我宁愿断子绝孙也不愿断网"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076578616813523169",
+        "created_at": "2026-07-13T08:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076578616813523169"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "angel_OvO27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076578616813523169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076181818634912081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angel_OvO27: 我宁愿断子绝孙也不愿断网"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2076181818634912081",
+        "created_at": "2026-07-12T05:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076181818634912081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076181818634912081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3067,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "我宁愿断子绝孙也不愿断网"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 135,
+          "like_count": 2403,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1567
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户487",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068721135324385280/FkNg_ewA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 66,
+          "like_count": 2666,
+          "listed_count": 3,
+          "media_count": 178,
+          "tweet_count": 5314
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "angel_OvO27",
+        "verified": false
+      }
+    ]
+  }
+}

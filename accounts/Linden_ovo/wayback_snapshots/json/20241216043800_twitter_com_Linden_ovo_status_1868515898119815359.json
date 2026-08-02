@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1868132013796151296"
+      ],
+      "media_source_tweet_id": [
+        "1868132019911397607"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1868515898119815359",
+    "created_at": "2024-12-16T04:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T05:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868515898119815359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1829757833090646016",
+          "start": 3,
+          "username": "BAM_CATCAT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UAMYzcP8yw",
+          "end": 68,
+          "expanded_url": "https://x.com/BAM_CATCAT/status/1868132019911397607/photo/1",
+          "media_key": "3_1868132013796151296",
+          "start": 45,
+          "url": "https://t.co/UAMYzcP8yw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868515898119815359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868132019911397607",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BAM_CATCAT: 八荣八耻\n中共胡锦涛总书记\n大家如何评价这位中共的领导人 https://t.co/UAMYzcP8yw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 433,
+        "media_key": "3_1868132013796151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GezwKzPa0AAPtLU.jpg",
+        "width": 442
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868132013796151296"
+          ],
+          "media_source_tweet_id": [
+            "1868132019911397607"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868515898119815359",
+        "created_at": "2024-12-16T04:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-16T05:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868515898119815359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1829757833090646016",
+              "start": 3,
+              "username": "BAM_CATCAT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAMYzcP8yw",
+              "end": 68,
+              "expanded_url": "https://x.com/BAM_CATCAT/status/1868132019911397607/photo/1",
+              "media_key": "3_1868132013796151296",
+              "start": 45,
+              "url": "https://t.co/UAMYzcP8yw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868515898119815359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868132019911397607",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BAM_CATCAT: 八荣八耻\n中共胡锦涛总书记\n大家如何评价这位中共的领导人 https://t.co/UAMYzcP8yw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1868132013796151296"
+          ]
+        },
+        "author_id": "1829757833090646016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1868132019911397607",
+        "created_at": "2024-12-15T03:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T04:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1868132019911397607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UAMYzcP8yw",
+              "end": 52,
+              "expanded_url": "https://x.com/BAM_CATCAT/status/1868132019911397607/photo/1",
+              "media_key": "3_1868132013796151296",
+              "start": 29,
+              "url": "https://t.co/UAMYzcP8yw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868132019911397607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 47723,
+          "like_count": 328,
+          "quote_count": 9,
+          "reply_count": 104,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "八荣八耻\n中共胡锦涛总书记\n大家如何评价这位中共的领导人 https://t.co/UAMYzcP8yw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 60,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 44
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-31T05:47:28.000Z",
+        "description": "我是一隻白色的貓貓貓🐱｜現居日本🇯🇵【民國派🇹🇼 】【民國97年🇹🇼 】【匪黨還我河山❀】【左翼三民主義❂】【科學發展和諧社會】【CH台日中日】【Furry】【同性戀者🏳️‍🌈】｜已有恋人💗｜全網最尊重粉紅的頻道🇨🇳🙄💅｜東🇯🇵亞🇰🇷團🇹🇼結",
+        "id": "1829757833090646016",
+        "location": "中華民國東南省份",
+        "name": "白猫🏳️‍🌈🇹🇼 ❀",
+        "pinned_tweet_id": "1838953273660993699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829758711692476418/RG6bvb_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 165,
+          "like_count": 2503,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 1727
+        },
+        "username": "BAM_CATCAT",
+        "verified": false
+      }
+    ]
+  }
+}

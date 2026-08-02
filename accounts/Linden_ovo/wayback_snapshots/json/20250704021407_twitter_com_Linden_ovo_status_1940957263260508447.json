@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1903072262049370112",
+        "3_1903072262070341633",
+        "3_1903072262057758722"
+      ],
+      "media_source_tweet_id": [
+        "1903072271784415260",
+        "1903072271784415260",
+        "1903072271784415260"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1940957263260508447",
+    "created_at": "2025-07-04T02:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T03:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940957263260508447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1540060752530120704",
+          "start": 3,
+          "username": "y7946382150990"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hO9cFZ53QF",
+          "end": 43,
+          "expanded_url": "https://x.com/y7946382150990/status/1903072271784415260/photo/1",
+          "media_key": "3_1903072262049370112",
+          "start": 20,
+          "url": "https://t.co/hO9cFZ53QF"
+        },
+        {
+          "display_url": "pic.x.com/hO9cFZ53QF",
+          "end": 43,
+          "expanded_url": "https://x.com/y7946382150990/status/1903072271784415260/photo/1",
+          "media_key": "3_1903072262070341633",
+          "start": 20,
+          "url": "https://t.co/hO9cFZ53QF"
+        },
+        {
+          "display_url": "pic.x.com/hO9cFZ53QF",
+          "end": 43,
+          "expanded_url": "https://x.com/y7946382150990/status/1903072271784415260/photo/1",
+          "media_key": "3_1903072262057758722",
+          "start": 20,
+          "url": "https://t.co/hO9cFZ53QF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940957263260508447",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903072271784415260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @y7946382150990: https://t.co/hO9cFZ53QF"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1940957263260508447].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1940957263260508447",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1940957263260508447"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1903072262049370112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkSI7FaEAA3X94.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903072262070341633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkSI7KaEAEIwRi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1903072262057758722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmkSI7HaEAITMLp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903072262049370112",
+            "3_1903072262070341633",
+            "3_1903072262057758722"
+          ]
+        },
+        "author_id": "1540060752530120704",
+        "conversation_id": "1903072271784415260",
+        "created_at": "2025-03-21T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903072271784415260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hO9cFZ53QF",
+              "end": 23,
+              "expanded_url": "https://x.com/y7946382150990/status/1903072271784415260/photo/1",
+              "media_key": "3_1903072262049370112",
+              "start": 0,
+              "url": "https://t.co/hO9cFZ53QF"
+            },
+            {
+              "display_url": "pic.x.com/hO9cFZ53QF",
+              "end": 23,
+              "expanded_url": "https://x.com/y7946382150990/status/1903072271784415260/photo/1",
+              "media_key": "3_1903072262070341633",
+              "start": 0,
+              "url": "https://t.co/hO9cFZ53QF"
+            },
+            {
+              "display_url": "pic.x.com/hO9cFZ53QF",
+              "end": 23,
+              "expanded_url": "https://x.com/y7946382150990/status/1903072271784415260/photo/1",
+              "media_key": "3_1903072262057758722",
+              "start": 0,
+              "url": "https://t.co/hO9cFZ53QF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903072271784415260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 29021,
+          "like_count": 586,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/hO9cFZ53QF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 30,
+          "like_count": 394,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 102
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T19:54:51.000Z",
+        "description": "",
+        "id": "1540060752530120704",
+        "name": "y7946382150990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940874883317354496/Qq2bnoFP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13702,
+          "following_count": 182,
+          "like_count": 773,
+          "listed_count": 53,
+          "media_count": 31,
+          "tweet_count": 89
+        },
+        "username": "y7946382150990",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047519850583732224"
+      ],
+      "media_source_tweet_id": [
+        "2047519858477482208"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2047637157850870199",
+    "created_at": "2026-04-24T11:21:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T12:21:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047637157850870199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "4173345192",
+          "start": 3,
+          "username": "kanipoposu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kjrbzLNm6c",
+          "end": 43,
+          "expanded_url": "https://x.com/kanipoposu/status/2047519858477482208/photo/1",
+          "media_key": "3_2047519850583732224",
+          "start": 20,
+          "url": "https://t.co/kjrbzLNm6c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047637157850870199",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 463
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047519858477482208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanipoposu: 🐴！？ https://t.co/kjrbzLNm6c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3957,
+        "media_key": "3_2047519850583732224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpAdLSasAAyYhK.jpg",
+        "width": 2967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047519850583732224"
+          ],
+          "media_source_tweet_id": [
+            "2047519858477482208"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2047637157850870199",
+        "created_at": "2026-04-24T11:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T12:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047637157850870199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "4173345192",
+              "start": 3,
+              "username": "kanipoposu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjrbzLNm6c",
+              "end": 43,
+              "expanded_url": "https://x.com/kanipoposu/status/2047519858477482208/photo/1",
+              "media_key": "3_2047519850583732224",
+              "start": 20,
+              "url": "https://t.co/kjrbzLNm6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047637157850870199",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 463
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047519858477482208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanipoposu: 🐴！？ https://t.co/kjrbzLNm6c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047519850583732224"
+          ]
+        },
+        "author_id": "4173345192",
+        "conversation_id": "2047519858477482208",
+        "created_at": "2026-04-24T03:35:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T04:35:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047519858477482208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kjrbzLNm6c",
+              "end": 27,
+              "expanded_url": "https://x.com/kanipoposu/status/2047519858477482208/photo/1",
+              "media_key": "3_2047519850583732224",
+              "start": 4,
+              "url": "https://t.co/kjrbzLNm6c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047519858477482208",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 36542,
+          "like_count": 3340,
+          "quote_count": 4,
+          "reply_count": 3,
+          "retweet_count": 463
+        },
+        "reply_settings": "everyone",
+        "text": "🐴！？ https://t.co/kjrbzLNm6c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 97,
+          "like_count": 1595,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 944
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-09T00:01:17.000Z",
+        "description": "絵を描く 成人済◇skeb https://t.co/fyU9cuFNll ◇意見 https://t.co/f2B03HxdSI ◇ご依頼→DM ◇通販https://t.co/oo3TREMCeA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kanipoposu",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@kanipoposu",
+                "start": 14,
+                "url": "https://t.co/fyU9cuFNll"
+              },
+              {
+                "display_url": "marshmallow-qa.com/kanipoposu",
+                "end": 65,
+                "expanded_url": "https://marshmallow-qa.com/kanipoposu",
+                "start": 42,
+                "url": "https://t.co/f2B03HxdSI"
+              },
+              {
+                "display_url": "melonbooks.co.jp/circle/index.p…",
+                "end": 100,
+                "expanded_url": "https://www.melonbooks.co.jp/circle/index.php?circle_id=129343",
+                "start": 77,
+                "url": "https://t.co/oo3TREMCeA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/7787282",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/7787282",
+                "start": 0,
+                "url": "https://t.co/SNpJcBBhBT"
+              }
+            ]
+          }
+        },
+        "id": "4173345192",
+        "name": "かにぽぽす🦀",
+        "pinned_tweet_id": "2015282434145943712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601566836558266368/YkFEJP9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5401,
+          "following_count": 644,
+          "like_count": 30615,
+          "listed_count": 88,
+          "media_count": 834,
+          "tweet_count": 5454
+        },
+        "url": "https://t.co/SNpJcBBhBT",
+        "username": "kanipoposu",
+        "verified": false
+      }
+    ]
+  }
+}

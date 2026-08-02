@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2077664457283469312"
+      ],
+      "media_source_tweet_id": [
+        "2077664768635093307"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2078001989233836419",
+    "created_at": "2026-07-17T06:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078001989233836419"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 53,
+          "tag": "偶遇网红"
+        },
+        {
+          "end": 64,
+          "start": 59,
+          "tag": "路人视角"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "街头卖艺"
+        },
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "魔怔"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "视觉系"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820189807777349632",
+          "start": 3,
+          "username": "Sisyphussts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CKJjhIMPRh",
+          "end": 103,
+          "expanded_url": "https://x.com/Sisyphussts/status/2077664768635093307/video/1",
+          "media_key": "13_2077664457283469312",
+          "start": 80,
+          "url": "https://t.co/CKJjhIMPRh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078001989233836419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077664768635093307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sisyphussts: 广东视觉系之王吉他张当众向美女路人索取圣水 @吉他张CartierRR #偶遇网红 #路人视角 #街头卖艺 #魔怔 #视觉系 https://t.co/CKJjhIMPRh"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20826,
+        "height": 1280,
+        "media_key": "13_2077664457283469312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077664457283469312/img/Z2idB8oMHoAZxzfY.jpg",
+        "public_metrics": {
+          "view_count": 2755
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077664457283469312/vid/avc1/320x568/mmR9Qe704fohIync.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077664457283469312/vid/avc1/480x852/ih0asEL7VrMPgx9y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077664457283469312/vid/avc1/720x1280/eVmz7hbCKWZOZhq9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077664457283469312/pl/im7r8WmhfKD4cbC7.m3u8?v=95a"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077664457283469312"
+          ]
+        },
+        "author_id": "1820189807777349632",
+        "conversation_id": "2077664768635093307",
+        "created_at": "2026-07-16T08:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077664768635093307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "偶遇网红"
+            },
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "路人视角"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "街头卖艺"
+            },
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "魔怔"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "视觉系"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKJjhIMPRh",
+              "end": 86,
+              "expanded_url": "https://x.com/Sisyphussts/status/2077664768635093307/video/1",
+              "media_key": "13_2077664457283469312",
+              "start": 63,
+              "url": "https://t.co/CKJjhIMPRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077664768635093307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6946,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "广东视觉系之王吉他张当众向美女路人索取圣水 @吉他张CartierRR #偶遇网红 #路人视角 #街头卖艺 #魔怔 #视觉系 https://t.co/CKJjhIMPRh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077664457283469312"
+          ],
+          "media_source_tweet_id": [
+            "2077664768635093307"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2078001989233836419",
+        "created_at": "2026-07-17T06:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078001989233836419"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 53,
+              "tag": "偶遇网红"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "路人视角"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "街头卖艺"
+            },
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "魔怔"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "视觉系"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820189807777349632",
+              "start": 3,
+              "username": "Sisyphussts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CKJjhIMPRh",
+              "end": 103,
+              "expanded_url": "https://x.com/Sisyphussts/status/2077664768635093307/video/1",
+              "media_key": "13_2077664457283469312",
+              "start": 80,
+              "url": "https://t.co/CKJjhIMPRh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078001989233836419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077664768635093307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sisyphussts: 广东视觉系之王吉他张当众向美女路人索取圣水 @吉他张CartierRR #偶遇网红 #路人视角 #街头卖艺 #魔怔 #视觉系 https://t.co/CKJjhIMPRh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 137,
+          "like_count": 2503,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1622
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T20:07:31.000Z",
+        "description": "田怀东受众@pilljvce @pil1jvce",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "pilljvce"
+              },
+              {
+                "end": 24,
+                "start": 15,
+                "username": "pil1jvce"
+              }
+            ]
+          }
+        },
+        "id": "1820189807777349632",
+        "location": "侵华日军南京大屠杀遇难同胞纪念馆",
+        "name": "田怀东受众",
+        "pinned_tweet_id": "2074127253236048100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073035952327651328/EtUxkOWV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 62,
+          "like_count": 888,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "Sisyphussts",
+        "verified": false
+      }
+    ]
+  }
+}

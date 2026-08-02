@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1922319931577606498",
+    "created_at": "2025-05-13T15:56:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-13T16:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1922319931577606498"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1474968433171533824",
+          "start": 3,
+          "username": "Josettechenkkk"
+        },
+        {
+          "end": 35,
+          "id": "1748026454569582592",
+          "start": 20,
+          "username": "CreechJen12380"
+        },
+        {
+          "end": 50,
+          "id": "1824335360031330305",
+          "start": 36,
+          "username": "Sexytoxiaoshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922319931577606498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1922311366599151853",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Josettechenkkk: @CreechJen12380 @Sexytoxiaoshu 性是权力的体现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1922319931577606498",
+        "created_at": "2025-05-13T15:56:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922319931577606498"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1474968433171533824",
+              "start": 3,
+              "username": "Josettechenkkk"
+            },
+            {
+              "end": 35,
+              "id": "1748026454569582592",
+              "start": 20,
+              "username": "CreechJen12380"
+            },
+            {
+              "end": 50,
+              "id": "1824335360031330305",
+              "start": 36,
+              "username": "Sexytoxiaoshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922319931577606498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922311366599151853",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Josettechenkkk: @CreechJen12380 @Sexytoxiaoshu 性是权力的体现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1474968433171533824",
+        "conversation_id": "1921900665078427712",
+        "created_at": "2025-05-13T15:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-13T16:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1922311366599151853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748026454569582592",
+              "start": 0,
+              "username": "CreechJen12380"
+            },
+            {
+              "end": 30,
+              "id": "1824335360031330305",
+              "start": 16,
+              "username": "Sexytoxiaoshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1922311366599151853",
+        "in_reply_to_user_id": "1748026454569582592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 612,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1922080944653054362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CreechJen12380 @Sexytoxiaoshu 性是权力的体现"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921183838115373056/kjJnBUER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 61,
+          "like_count": 345,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 143
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-26T05:01:08.000Z",
+        "description": "she/her  bi  混乱中立entp",
+        "id": "1474968433171533824",
+        "location": "缸中之脑",
+        "name": "清纯奶比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747283882935013376/7BOX0nKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 72,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 74
+        },
+        "username": "Josettechenkkk",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-18T16:56:24.000Z",
+        "description": "~",
+        "id": "1748026454569582592",
+        "name": "Jen Creech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871167454212411392/7QbrJ6Ei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 126,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 10
+        },
+        "username": "CreechJen12380",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T06:40:25.000Z",
+        "description": "超级无敌纯净版叔！在我这里永远看不到广告！只有无穷无尽符合主题的帖子！女生联系阿房宫进行原创验证@SexytoGbds呱呱！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 48,
+                "username": "SexytoGbds"
+              }
+            ]
+          }
+        },
+        "id": "1824335360031330305",
+        "name": "沈万姬",
+        "pinned_tweet_id": "1910265719079710793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911798911594856448/CC5qa7t6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568818,
+          "following_count": 943,
+          "like_count": 1,
+          "listed_count": 495,
+          "media_count": 580,
+          "tweet_count": 1051
+        },
+        "username": "Sexytoxiaoshu",
+        "verified": true
+      }
+    ]
+  }
+}

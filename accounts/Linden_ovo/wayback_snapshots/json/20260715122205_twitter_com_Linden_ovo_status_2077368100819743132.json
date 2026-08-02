@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2077368100819743132",
+    "created_at": "2026-07-15T12:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077368100819743132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2040058349610483712",
+          "start": 3,
+          "username": "Soslmgi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077368100819743132",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077014392978440292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Soslmgi: 我操了你的逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2077368100819743132",
+        "created_at": "2026-07-15T12:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077368100819743132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2040058349610483712",
+              "start": 3,
+              "username": "Soslmgi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077368100819743132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077014392978440292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Soslmgi: 我操了你的逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040058349610483712",
+        "conversation_id": "2077014392978440292",
+        "created_at": "2026-07-14T12:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T13:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077014392978440292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/atautstrongcha…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/atautstrongchat/status/2076666025807155233",
+              "start": 7,
+              "url": "https://t.co/Mrsi9wWeXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077014392978440292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 293,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076666025807155233",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我操了你的逼 https://t.co/Mrsi9wWeXi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 136,
+          "like_count": 2453,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1588
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T13:27:09.000Z",
+        "description": "碳基生物会玩手机",
+        "id": "2040058349610483712",
+        "name": "我烤箱咋滴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073458726099656706/gsuePvYb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 32,
+          "like_count": 1454,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "Soslmgi",
+        "verified": false
+      }
+    ]
+  }
+}

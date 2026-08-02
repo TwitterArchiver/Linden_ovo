@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2042995726658011639",
+    "created_at": "2026-04-11T15:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042995726658011639"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/dailymonog1tar…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/dailymonog1tari/status/2042713501467123737",
+          "start": 4,
+          "url": "https://t.co/83Ieb0ymgq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042995726658011639",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042713501467123737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "八九寺 https://t.co/83Ieb0ymgq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2042713499411820544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFktGt5WMAA3ihZ.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2042995726658011639",
+        "created_at": "2026-04-11T15:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042995726658011639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dailymonog1tar…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/dailymonog1tari/status/2042713501467123737",
+              "start": 4,
+              "url": "https://t.co/83Ieb0ymgq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042995726658011639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042713501467123737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "八九寺 https://t.co/83Ieb0ymgq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042713499411820544"
+          ]
+        },
+        "author_id": "1864701921220808705",
+        "conversation_id": "2042713501467123737",
+        "created_at": "2026-04-10T21:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T22:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042713501467123737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o6kQR58wYd",
+              "end": 23,
+              "expanded_url": "https://x.com/DailyMonog1tari/status/2042713501467123737/photo/1",
+              "media_key": "3_2042713499411820544",
+              "start": 0,
+              "url": "https://t.co/o6kQR58wYd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042713501467123737",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 229550,
+          "like_count": 11102,
+          "quote_count": 43,
+          "reply_count": 31,
+          "retweet_count": 870
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/o6kQR58wYd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 85,
+          "like_count": 1489,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 841
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T16:02:50.000Z",
+        "description": "Daily images of Monogatari series.",
+        "id": "1864701921220808705",
+        "name": "Daily Monogatari",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864728359059505152/GQKLf9Nn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20562,
+          "following_count": 8,
+          "like_count": 926,
+          "listed_count": 27,
+          "media_count": 460,
+          "tweet_count": 481
+        },
+        "username": "DailyMonog1tari",
+        "verified": false
+      }
+    ]
+  }
+}

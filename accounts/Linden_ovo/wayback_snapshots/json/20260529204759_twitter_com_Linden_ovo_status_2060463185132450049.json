@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2060463185132450049",
+    "created_at": "2026-05-29T20:47:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T21:47:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060463185132450049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2043525377943855104",
+          "start": 3,
+          "username": "umiiruuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060463185132450049",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060137587705061589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @umiiruuu: Me la paso todo el día masturbandome como una retrasada"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2060463185132450049",
+        "created_at": "2026-05-29T20:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T21:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060463185132450049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2043525377943855104",
+              "start": 3,
+              "username": "umiiruuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060463185132450049",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060137587705061589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @umiiruuu: Me la paso todo el día masturbandome como una retrasada"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043525377943855104",
+        "conversation_id": "2060137587705061589",
+        "created_at": "2026-05-28T23:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060137587705061589"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060137587705061589",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 207593,
+          "like_count": 3293,
+          "quote_count": 37,
+          "reply_count": 357,
+          "retweet_count": 282
+        },
+        "reply_settings": "everyone",
+        "text": "Me la paso todo el día masturbandome como una retrasada"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1771,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1096
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T03:03:33.000Z",
+        "description": "🇨🇴 | 19 ♡",
+        "id": "2043525377943855104",
+        "location": "Zootopia",
+        "name": "miru",
+        "pinned_tweet_id": "2053764682033361003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053633546267344896/vtVQbife_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2518,
+          "following_count": 5,
+          "like_count": 289,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 140
+        },
+        "username": "umiiruuu",
+        "verified": false
+      }
+    ]
+  }
+}

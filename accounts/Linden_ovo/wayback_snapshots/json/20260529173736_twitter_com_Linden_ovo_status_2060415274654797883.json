@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2060415274654797883",
+    "created_at": "2026-05-29T17:37:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:37:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060415274654797883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1975006867245207553",
+          "start": 3,
+          "username": "Cho_KaguyaHime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060415274654797883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3655
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060285054740496726",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cho_KaguyaHime: タコの絵文字をタップすると、ヤチヨに会えます✨\n\n　　　　　　　　　🐙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2060415274654797883",
+        "created_at": "2026-05-29T17:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060415274654797883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1975006867245207553",
+              "start": 3,
+              "username": "Cho_KaguyaHime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060415274654797883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3655
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060285054740496726",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cho_KaguyaHime: タコの絵文字をタップすると、ヤチヨに会えます✨\n\n　　　　　　　　　🐙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975006867245207553",
+        "conversation_id": "2060285054740496726",
+        "created_at": "2026-05-29T09:00:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T10:00:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060285054740496726"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060285054740496726",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1541,
+          "impression_count": 3417799,
+          "like_count": 50891,
+          "quote_count": 117,
+          "reply_count": 475,
+          "retweet_count": 3655
+        },
+        "reply_settings": "everyone",
+        "text": "タコの絵文字をタップすると、ヤチヨに会えます✨\n\n　　　　　　　　　🐙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1763,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1091
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T01:15:46.000Z",
+        "description": "アニメ映画『超かぐや姫！』公式／大ヒット上映中🐰／Netflixにて世界独占配信中🌕／監督：山下清悟 × 楽曲提供：豪華ボカロP陣／新時代の音楽アニメーションプロジェクト、開幕！／©コロリド・ツインエンジンパートナーズ／ #超かぐや姫 #CosmicPrincessKaguya",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 111,
+                "tag": "超かぐや姫"
+              },
+              {
+                "end": 139,
+                "start": 118,
+                "tag": "CosmicPrincessKaguya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cho-kaguyahime.com",
+                "end": 23,
+                "expanded_url": "https://www.cho-kaguyahime.com/",
+                "start": 0,
+                "url": "https://t.co/ODAIRUfpA3"
+              }
+            ]
+          }
+        },
+        "id": "1975006867245207553",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "『超かぐや姫！』公式",
+        "pinned_tweet_id": "2059922631407890636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986041262919860224/4yjhTSK__normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 467724,
+          "following_count": 29,
+          "like_count": 499,
+          "listed_count": 657,
+          "media_count": 662,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/ODAIRUfpA3",
+        "username": "Cho_KaguyaHime",
+        "verified": true
+      }
+    ]
+  }
+}

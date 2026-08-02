@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1926426216824725894",
+    "created_at": "2025-05-25T20:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-25T21:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926742440133775690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809002293049896960",
+          "start": 0,
+          "username": "landawanggg7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926742440133775690",
+    "in_reply_to_user_id": "1809002293049896960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926426216824725894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@landawanggg7 约炮谈啥感情，有恋爱想法的去参考这话还差不多，约炮只解决性欲"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1327,
+        "media_key": "3_1926426207148560384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrwKbcMX0AAlLwo.jpg",
+        "width": 1882
+      },
+      {
+        "height": 1456,
+        "media_key": "3_1926426207140130816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrwKbcKXMAACQEG.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1926426216824725894",
+        "created_at": "2025-05-25T20:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T21:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926742440133775690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809002293049896960",
+              "start": 0,
+              "username": "landawanggg7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926742440133775690",
+        "in_reply_to_user_id": "1809002293049896960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926426216824725894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@landawanggg7 约炮谈啥感情，有恋爱想法的去参考这话还差不多，约炮只解决性欲"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1926426207148560384",
+            "3_1926426207140130816"
+          ]
+        },
+        "author_id": "1809002293049896960",
+        "conversation_id": "1926426216824725894",
+        "created_at": "2025-05-24T23:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-25T00:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926426216824725894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrJ9g3H4Tj",
+              "end": 58,
+              "expanded_url": "https://x.com/landawanggg7/status/1926426216824725894/photo/1",
+              "media_key": "3_1926426207148560384",
+              "start": 35,
+              "url": "https://t.co/YrJ9g3H4Tj"
+            },
+            {
+              "display_url": "pic.x.com/YrJ9g3H4Tj",
+              "end": 58,
+              "expanded_url": "https://x.com/landawanggg7/status/1926426216824725894/photo/1",
+              "media_key": "3_1926426207140130816",
+              "start": 35,
+              "url": "https://t.co/YrJ9g3H4Tj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926426216824725894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 391,
+          "impression_count": 447232,
+          "like_count": 2274,
+          "quote_count": 20,
+          "reply_count": 135,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "所有有约炮想法但是还没有真正行动的小女孩都去抖音看这个博主的视频好吗 https://t.co/YrJ9g3H4Tj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921183838115373056/kjJnBUER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 64,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 148
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T23:12:26.000Z",
+        "description": "备用小号：@xiaoyuu177 熟人刷到我请当没看见 | 优选机场VPN https://t.co/ZcUkLGR1tB | 蜂鸟VPN https://t.co/m3AirUSGv1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "xiaoyuu177"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yzt1.281968.xyz/#/register?cod…",
+                "end": 61,
+                "expanded_url": "https://yzt1.281968.xyz/#/register?code=QMA14gnm",
+                "start": 38,
+                "url": "https://t.co/ZcUkLGR1tB"
+              },
+              {
+                "display_url": "vpn1.fnvpn.top/#/register?cod…",
+                "end": 93,
+                "expanded_url": "https://vpn1.fnvpn.top/#/register?code=JHineq37",
+                "start": 70,
+                "url": "https://t.co/m3AirUSGv1"
+              }
+            ]
+          }
+        },
+        "id": "1809002293049896960",
+        "location": "🚪188  |  置顶推广自辨",
+        "name": "老公你说句话啊",
+        "pinned_tweet_id": "1926484486830637060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920370948886220800/XbO28kS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9521,
+          "following_count": 194,
+          "like_count": 4582,
+          "listed_count": 17,
+          "media_count": 342,
+          "tweet_count": 5280
+        },
+        "username": "landawanggg7",
+        "verified": true
+      }
+    ]
+  }
+}

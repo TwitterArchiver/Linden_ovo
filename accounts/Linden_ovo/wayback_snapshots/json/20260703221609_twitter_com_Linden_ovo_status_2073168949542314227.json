@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073168949542314227",
+    "created_at": "2026-07-03T22:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T23:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073168949542314227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727277830025973760",
+          "start": 3,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073168949542314227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072945363078771138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuriano3479: 全世界的地雷系女孩都在为了有日本味而服美役"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073168949542314227",
+        "created_at": "2026-07-03T22:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T23:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073168949542314227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727277830025973760",
+              "start": 3,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073168949542314227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072945363078771138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuriano3479: 全世界的地雷系女孩都在为了有日本味而服美役"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727277830025973760",
+        "conversation_id": "2072945363078771138",
+        "created_at": "2026-07-03T07:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072945363078771138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072945363078771138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 14183,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "全世界的地雷系女孩都在为了有日本味而服美役"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "可以和我聊天\n但是对象不让",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 117,
+          "like_count": 2054,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "ユリです。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2062862792403951637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1148,
+          "following_count": 369,
+          "like_count": 5797,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1856
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1857842184126607484",
+    "created_at": "2024-11-16T17:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T18:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857842184126607484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1730152594906202112",
+          "start": 3,
+          "username": "13_for_love"
+        },
+        {
+          "end": 29,
+          "id": "1291988176496545792",
+          "start": 17,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857842184126607484",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857736920425705551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13_for_love: @Vox35112635 笑死我了，你不分手还来评理🤭🤭估计网友前脚把女生骂一顿，你后脚就给她说“网友都骂你说让我和你分手，可是我爱你不想和你分”，然后你们一起骂网友，我猜的对吧哥们"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1857842184126607484",
+        "created_at": "2024-11-16T17:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T18:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857842184126607484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1730152594906202112",
+              "start": 3,
+              "username": "13_for_love"
+            },
+            {
+              "end": 29,
+              "id": "1291988176496545792",
+              "start": 17,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857842184126607484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857736920425705551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13_for_love: @Vox35112635 笑死我了，你不分手还来评理🤭🤭估计网友前脚把女生骂一顿，你后脚就给她说“网友都骂你说让我和你分手，可是我爱你不想和你分”，然后你们一起骂网友，我猜的对吧哥们"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730152594906202112",
+        "conversation_id": "1857646355361226959",
+        "created_at": "2024-11-16T10:46:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T11:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857736920425705551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857736920425705551",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4068,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857646355361226959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 笑死我了，你不分手还来评理🤭🤭估计网友前脚把女生骂一顿，你后脚就给她说“网友都骂你说让我和你分手，可是我爱你不想和你分”，然后你们一起骂网友，我猜的对吧哥们"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 57,
+          "like_count": 149,
+          "listed_count": 0,
+          "tweet_count": 36
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-30T09:11:50.000Z",
+        "description": "04老登雌性哥布林，友跨顺直，xp男娘正太，1i怕疼，4i怕累，做亚逼不够亚，听术曲但不会日文，二次元浓度不够，现实又一眼油头死宅，正常人嫌我太有病，有病的嫌我太正常😇不搞黄不接任何线下不是福利姬不卖图包，墙内朋友请口下留情，女孩子/mtx/女装子互fo交个朋友喵~",
+        "id": "1730152594906202112",
+        "location": "北京",
+        "name": "13岁为爱做1",
+        "pinned_tweet_id": "1842561735871680761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829841941011578880/VVjdNAo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2320,
+          "following_count": 494,
+          "like_count": 8848,
+          "listed_count": 4,
+          "tweet_count": 1091
+        },
+        "username": "13_for_love",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上交友委托/加vx随缘给门槛就好了/开了一家影视传媒公司有拍摄业务可以联系我",
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1847868532903866380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214454,
+          "following_count": 520,
+          "like_count": 499,
+          "listed_count": 251,
+          "tweet_count": 11876
+        },
+        "username": "Vox35112635",
+        "verified": true
+      }
+    ]
+  }
+}

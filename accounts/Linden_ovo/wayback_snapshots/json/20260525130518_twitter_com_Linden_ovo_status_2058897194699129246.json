@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058720942650744832"
+      ],
+      "media_source_tweet_id": [
+        "2058720951794360729"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2058897194699129246",
+    "created_at": "2026-05-25T13:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058897194699129246"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1741063508102627328",
+          "start": 3,
+          "username": "kitty068_ly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whi1zOuDUZ",
+          "end": 46,
+          "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+          "media_key": "3_2058720942650744832",
+          "start": 23,
+          "url": "https://t.co/whi1zOuDUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058897194699129246",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058720951794360729",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kitty068_ly: 我靠我炸了 https://t.co/whi1zOuDUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2058720942650744832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJILyi5a4AAWTyF.jpg",
+        "width": 710
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058720942650744832"
+          ],
+          "media_source_tweet_id": [
+            "2058720951794360729"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2058897194699129246",
+        "created_at": "2026-05-25T13:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058897194699129246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1741063508102627328",
+              "start": 3,
+              "username": "kitty068_ly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whi1zOuDUZ",
+              "end": 46,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+              "media_key": "3_2058720942650744832",
+              "start": 23,
+              "url": "https://t.co/whi1zOuDUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058897194699129246",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058720951794360729",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kitty068_ly: 我靠我炸了 https://t.co/whi1zOuDUZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058720942650744832"
+          ]
+        },
+        "author_id": "1741063508102627328",
+        "conversation_id": "2058720951794360729",
+        "created_at": "2026-05-25T01:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T02:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058720951794360729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whi1zOuDUZ",
+              "end": 29,
+              "expanded_url": "https://x.com/kitty068_ly/status/2058720951794360729/photo/1",
+              "media_key": "3_2058720942650744832",
+              "start": 6,
+              "url": "https://t.co/whi1zOuDUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058720951794360729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 286,
+          "impression_count": 424461,
+          "like_count": 3662,
+          "quote_count": 31,
+          "reply_count": 299,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "我靠我炸了 https://t.co/whi1zOuDUZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 105,
+          "like_count": 1735,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1063
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人请大家保持文明呦/经常失踪想念我的话欢迎私联/一个lgbtqia \n任何求偶意愿的私信和评论@dngyng169770781都会看/https://t.co/RoA8dVrPtp",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 80,
+                "username": "dngyng169770781"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%A4%A9%E4%B…",
+                "end": 123,
+                "expanded_url": "https://ngl.link/%E5%A4%A9%E4%BD%BF%E9%93%83",
+                "start": 100,
+                "url": "https://t.co/RoA8dVrPtp"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "South Park",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 522,
+          "like_count": 7716,
+          "listed_count": 3,
+          "media_count": 230,
+          "tweet_count": 4375
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

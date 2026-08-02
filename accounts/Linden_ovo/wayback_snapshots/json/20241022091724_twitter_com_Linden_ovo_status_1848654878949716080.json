@@ -1,0 +1,156 @@
+{
+  "data": {
+    "author_id": "1842490676543627264",
+    "conversation_id": "1848654878949716080",
+    "created_at": "2024-10-22T09:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-22T10:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1848654878949716080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1426789547954737153",
+          "start": 3,
+          "username": "DelayNoMore64"
+        }
+      ]
+    },
+    "id": "1848654878949716080",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797916393012404423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DelayNoMore64: 1949年之前学生搞运动就是反帝反封建反独裁\n1949年之后学生搞运动就是反党反革命做汉奸\n1976年之前群众支持文革就是毛泽东的好学生\n1976年之后群众支持文革就是反革命分子篡党夺权\n现在做到“四个意识”“两个维护”的人就是爱党爱国社会…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "author_id": "1842490676543627264",
+        "conversation_id": "1848654878949716080",
+        "created_at": "2024-10-22T09:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-22T10:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1848654878949716080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1426789547954737153",
+              "start": 3,
+              "username": "DelayNoMore64"
+            }
+          ]
+        },
+        "id": "1848654878949716080",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797916393012404423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DelayNoMore64: 1949年之前学生搞运动就是反帝反封建反独裁\n1949年之后学生搞运动就是反党反革命做汉奸\n1976年之前群众支持文革就是毛泽东的好学生\n1976年之后群众支持文革就是反革命分子篡党夺权\n现在做到“四个意识”“两个维护”的人就是爱党爱国社会…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 59,
+          "like_count": 155,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 43
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-15T06:19:30.000Z",
+        "description": "一蕉羞貍貔Bot 谢绝粉红关注/ 一个Telegram频道: https://t.co/dfFkcJdtzk /交流社群在频道内 /遇Block回Block",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 54,
+                "expanded_url": "http://t.me/HatimiCat",
+                "start": 31,
+                "url": "https://t.co/dfFkcJdtzk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/HatimiCat",
+                "end": 23,
+                "expanded_url": "https://t.me/HatimiCat",
+                "start": 0,
+                "url": "https://t.co/JFB2u2QKRQ"
+              }
+            ]
+          }
+        },
+        "id": "1426789547954737153",
+        "location": "대한민국",
+        "name": "BocchiNya🐱🇹🇼",
+        "pinned_tweet_id": "1819597316514529437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844317930814885888/lekLzvzd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41894,
+          "following_count": 893,
+          "like_count": 29948,
+          "listed_count": 156,
+          "media_count": 2206,
+          "tweet_count": 16283
+        },
+        "url": "https://t.co/JFB2u2QKRQ",
+        "username": "DelayNoMore64",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2083429253547266050",
+    "created_at": "2026-08-01T14:07:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:07:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083555313932755076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659979401042493441",
+          "start": 0,
+          "username": "Yudal9645510352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083555313932755076",
+    "in_reply_to_user_id": "1659979401042493441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083481110248566868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yudal9645510352 我现在在干男娘"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083481110248566868].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083481110248566868",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083481110248566868"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2083429253547266050",
+        "created_at": "2026-08-01T14:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083555313932755076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659979401042493441",
+              "start": 0,
+              "username": "Yudal9645510352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083555313932755076",
+        "in_reply_to_user_id": "1659979401042493441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083481110248566868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yudal9645510352 我现在在干男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 146,
+          "like_count": 2896,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1917
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T17:48:35.000Z",
+        "description": "总有一天会好的总有一天。",
+        "id": "1659979401042493441",
+        "location": "Munich, Bavaria",
+        "name": "Tina",
+        "pinned_tweet_id": "2028234214504534060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064442613114036224/48tNPCPT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 77,
+          "like_count": 2141,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "Yudal9645510352",
+        "verified": false
+      }
+    ]
+  }
+}

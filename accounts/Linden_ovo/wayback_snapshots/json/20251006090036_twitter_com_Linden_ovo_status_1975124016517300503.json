@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1975124016517300503",
+    "created_at": "2025-10-06T09:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975124016517300503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975124016517300503",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近超级想要交友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1975124016517300503",
+        "created_at": "2025-10-06T09:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975124016517300503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975124016517300503",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近超级想要交友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "ip西班牙点进来视奸我推立刻死妈",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 52,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 156
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

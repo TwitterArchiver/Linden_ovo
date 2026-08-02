@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1999947903633396127",
+    "created_at": "2025-12-13T21:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T22:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999947903633396127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1999947903633396127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的无法去不在意你啊 你根本不懂，这份感情我已无法承担 即使我拥有了全新的的关系 即使你这样的人我身边也很多 即使各方面条件都那么好的人在我身边转我还是喜欢你 我受不了了 我去社交新的人 就是为了忘记你 舍弃这段不可能的情愫 但你他妈就是让我做梦都想 我做梦都想你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1999947903633396127",
+        "created_at": "2025-12-13T21:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T22:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999947903633396127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999947903633396127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的无法去不在意你啊 你根本不懂，这份感情我已无法承担 即使我拥有了全新的的关系 即使你这样的人我身边也很多 即使各方面条件都那么好的人在我身边转我还是喜欢你 我受不了了 我去社交新的人 就是为了忘记你 舍弃这段不可能的情愫 但你他妈就是让我做梦都想 我做梦都想你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 886,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 372
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

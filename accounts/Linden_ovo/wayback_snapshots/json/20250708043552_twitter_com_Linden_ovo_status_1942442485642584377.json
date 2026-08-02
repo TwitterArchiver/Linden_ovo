@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1938920395979288577"
+      ],
+      "media_source_tweet_id": [
+        "1938920786657714191"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1942442485642584377",
+    "created_at": "2025-07-08T04:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-08T05:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942442485642584377"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "911509691150118913",
+          "start": 3,
+          "username": "Luke_The_Tako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tIO1au0wzC",
+          "end": 72,
+          "expanded_url": "https://x.com/Luke_The_Tako/status/1938920786657714191/video/1",
+          "media_key": "13_1938920395979288577",
+          "start": 49,
+          "url": "https://t.co/tIO1au0wzC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942442485642584377",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1316
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938920786657714191",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luke_The_Tako: get kicked pebbles\n#bijouwled https://t.co/tIO1au0wzC"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6033,
+        "height": 1080,
+        "media_key": "13_1938920395979288577",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1938920395979288577/img/1Jxv4_uMCWsyHk6S.jpg",
+        "public_metrics": {
+          "view_count": 69069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938920395979288577/vid/avc1/360x270/O8QyvIW6MTkS3tFp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938920395979288577/vid/avc1/480x360/EIrcxsOoDXoGD3sm.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1938920395979288577/vid/avc1/960x720/wmVctms9EupSeRmI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1938920395979288577/pl/GvuDu1_8K2IVuz0Z.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938920395979288577"
+          ],
+          "media_source_tweet_id": [
+            "1938920786657714191"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1942442485642584377",
+        "created_at": "2025-07-08T04:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-08T05:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942442485642584377"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "911509691150118913",
+              "start": 3,
+              "username": "Luke_The_Tako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIO1au0wzC",
+              "end": 72,
+              "expanded_url": "https://x.com/Luke_The_Tako/status/1938920786657714191/video/1",
+              "media_key": "13_1938920395979288577",
+              "start": 49,
+              "url": "https://t.co/tIO1au0wzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942442485642584377",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1316
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938920786657714191",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luke_The_Tako: get kicked pebbles\n#bijouwled https://t.co/tIO1au0wzC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1938920395979288577"
+          ]
+        },
+        "author_id": "911509691150118913",
+        "conversation_id": "1938920786657714191",
+        "created_at": "2025-06-28T11:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938920786657714191"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "bijouwled",
+              "probability": 0.4387,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIO1au0wzC",
+              "end": 53,
+              "expanded_url": "https://x.com/Luke_The_Tako/status/1938920786657714191/video/1",
+              "media_key": "13_1938920395979288577",
+              "start": 30,
+              "url": "https://t.co/tIO1au0wzC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938920786657714191",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1139,
+          "impression_count": 142252,
+          "like_count": 14479,
+          "quote_count": 5,
+          "reply_count": 32,
+          "retweet_count": 1316
+        },
+        "reply_settings": "everyone",
+        "text": "get kicked pebbles\n#bijouwled https://t.co/tIO1au0wzC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 30,
+          "like_count": 406,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 114
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-23T08:37:00.000Z",
+        "description": "hobby artist who draws biboo / silly biboo mmd :D\nsupport me here :D https://t.co/tvzU0amMSh\n🇻🇳",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lukethetako",
+                "end": 92,
+                "expanded_url": "https://ko-fi.com/lukethetako",
+                "start": 69,
+                "url": "https://t.co/tvzU0amMSh"
+              }
+            ]
+          }
+        },
+        "id": "911509691150118913",
+        "location": "Vietnam",
+        "name": "Luke",
+        "pinned_tweet_id": "1917191291173245148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812298131221991424/gVv2geLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 491,
+          "like_count": 54372,
+          "listed_count": 4,
+          "media_count": 3088,
+          "tweet_count": 13950
+        },
+        "username": "Luke_The_Tako",
+        "verified": false
+      }
+    ]
+  }
+}

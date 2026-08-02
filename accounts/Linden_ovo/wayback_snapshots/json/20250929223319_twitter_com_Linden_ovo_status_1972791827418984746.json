@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972449241084657664"
+      ],
+      "media_source_tweet_id": [
+        "1972449301017358818"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1972791827418984746",
+    "created_at": "2025-09-29T22:33:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T23:33:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972791827418984746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755412002669789184",
+          "start": 3,
+          "username": "VTuberMemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRIkqccuiO",
+          "end": 40,
+          "expanded_url": "https://x.com/VTuberMemes/status/1972449301017358818/video/1",
+          "media_key": "13_1972449241084657664",
+          "start": 17,
+          "url": "https://t.co/SRIkqccuiO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972791827418984746",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972449301017358818",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VTuberMemes: https://t.co/SRIkqccuiO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8707,
+        "height": 1920,
+        "media_key": "13_1972449241084657664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972449241084657664/img/xbhudoUtT8BMgash.jpg",
+        "public_metrics": {
+          "view_count": 38942
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972449241084657664/vid/avc1/720x1280/OE287r6tigui_enl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972449241084657664/vid/avc1/480x852/mFawtyWOM3MZ5NaN.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972449241084657664/vid/avc1/320x568/5LHh70dsnyQ22zxf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972449241084657664/vid/avc1/1080x1920/ep0CJ8m9K_W7ZI8u.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972449241084657664/pl/KhP5S1X--0hwx0aG.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972449241084657664"
+          ],
+          "media_source_tweet_id": [
+            "1972449301017358818"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1972791827418984746",
+        "created_at": "2025-09-29T22:33:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T23:33:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972791827418984746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755412002669789184",
+              "start": 3,
+              "username": "VTuberMemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRIkqccuiO",
+              "end": 40,
+              "expanded_url": "https://x.com/VTuberMemes/status/1972449301017358818/video/1",
+              "media_key": "13_1972449241084657664",
+              "start": 17,
+              "url": "https://t.co/SRIkqccuiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972791827418984746",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972449301017358818",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VTuberMemes: https://t.co/SRIkqccuiO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972449241084657664"
+          ]
+        },
+        "author_id": "1755412002669789184",
+        "conversation_id": "1972449301017358818",
+        "created_at": "2025-09-28T23:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T00:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972449301017358818"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRIkqccuiO",
+              "end": 23,
+              "expanded_url": "https://x.com/VTuberMemes/status/1972449301017358818/video/1",
+              "media_key": "13_1972449241084657664",
+              "start": 0,
+              "url": "https://t.co/SRIkqccuiO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972449301017358818",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 770,
+          "impression_count": 97873,
+          "like_count": 6637,
+          "quote_count": 11,
+          "reply_count": 23,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SRIkqccuiO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 50,
+          "like_count": 550,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 148
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T02:03:42.000Z",
+        "description": "Memes? We got 'em! Clips? We got 'em!  #VTuberMemes \nParody Account. VTubers in Fortnite PLEASE!! Pfp by @HolyKoshi. Banner by @DimeKrasi.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 39,
+                "tag": "VTuberMemes"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "HolyKoshi"
+              },
+              {
+                "end": 137,
+                "start": 127,
+                "username": "DimeKrasi"
+              }
+            ]
+          }
+        },
+        "id": "1755412002669789184",
+        "location": "VTubers",
+        "name": "VTuber Memes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908286682014568448/AFL-oJHZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52921,
+          "following_count": 383,
+          "like_count": 217730,
+          "listed_count": 60,
+          "media_count": 7217,
+          "tweet_count": 34939
+        },
+        "username": "VTuberMemes",
+        "verified": true
+      }
+    ]
+  }
+}

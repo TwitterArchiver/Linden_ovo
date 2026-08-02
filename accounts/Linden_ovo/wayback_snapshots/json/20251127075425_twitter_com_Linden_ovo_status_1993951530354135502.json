@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993706039536230400"
+      ],
+      "media_source_tweet_id": [
+        "1993706042430218625"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993951530354135502",
+    "created_at": "2025-11-27T07:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993951530354135502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1471640417519030275",
+          "start": 3,
+          "username": "TopGyaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zmRr0hCAz0",
+          "end": 39,
+          "expanded_url": "https://x.com/TopGyaru/status/1993706042430218625/photo/1",
+          "media_key": "3_1993706039536230400",
+          "start": 16,
+          "url": "https://t.co/zmRr0hCAz0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993951530354135502",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3393
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993706042430218625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TopGyaru: . https://t.co/zmRr0hCAz0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1993706039536230400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6sRFHEboAAH9hw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993706039536230400"
+          ],
+          "media_source_tweet_id": [
+            "1993706042430218625"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993951530354135502",
+        "created_at": "2025-11-27T07:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993951530354135502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1471640417519030275",
+              "start": 3,
+              "username": "TopGyaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmRr0hCAz0",
+              "end": 39,
+              "expanded_url": "https://x.com/TopGyaru/status/1993706042430218625/photo/1",
+              "media_key": "3_1993706039536230400",
+              "start": 16,
+              "url": "https://t.co/zmRr0hCAz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993951530354135502",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3393
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993706042430218625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TopGyaru: . https://t.co/zmRr0hCAz0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993706039536230400"
+          ]
+        },
+        "author_id": "1471640417519030275",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993706042430218625",
+        "created_at": "2025-11-26T15:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T16:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993706042430218625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zmRr0hCAz0",
+              "end": 25,
+              "expanded_url": "https://x.com/TopGyaru/status/1993706042430218625/photo/1",
+              "media_key": "3_1993706039536230400",
+              "start": 2,
+              "url": "https://t.co/zmRr0hCAz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993706042430218625",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2634,
+          "impression_count": 370006,
+          "like_count": 32430,
+          "quote_count": 73,
+          "reply_count": 47,
+          "retweet_count": 3393
+        },
+        "reply_settings": "everyone",
+        "text": ". https://t.co/zmRr0hCAz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 770,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 301
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T00:36:50.000Z",
+        "description": "Top Gyaru at your service! I just shitpost and retweet My Dress-up Darling stuff 😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/topgyaru",
+                "end": 23,
+                "expanded_url": "https://ko-fi.com/topgyaru",
+                "start": 0,
+                "url": "https://t.co/PeVNLbcRpx"
+              }
+            ]
+          }
+        },
+        "id": "1471640417519030275",
+        "location": " She/Her",
+        "name": "Maririn~",
+        "pinned_tweet_id": "1985922672992403580",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1742239844129210369/Y0waOB9T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275938,
+          "following_count": 1383,
+          "like_count": 135756,
+          "listed_count": 494,
+          "media_count": 8845,
+          "tweet_count": 25183
+        },
+        "url": "https://t.co/PeVNLbcRpx",
+        "username": "TopGyaru",
+        "verified": true
+      }
+    ]
+  }
+}

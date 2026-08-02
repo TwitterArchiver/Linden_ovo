@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1883385768586137633",
+    "created_at": "2025-01-26T08:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T09:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883437399134650595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1498750645431857152",
+          "start": 0,
+          "username": "SeediqChiet"
+        },
+        {
+          "end": 29,
+          "id": "1363489029430403073",
+          "start": 13,
+          "username": "5cmdkOARZbuaVAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883437399134650595",
+    "in_reply_to_user_id": "1498750645431857152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883436019909046348",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeediqChiet @5cmdkOARZbuaVAG 第一，世界如果真的像你所说的这样没有什么高智商人群了，那我多生一个少生一个结果都是一样。我个体并不生育，很大程度是因为我不需要后代给自己兜底。第二，回归你幸福的埃及生活，找到属于你的不要彩礼的穆斯林女孩，并生个大胖小子，😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1883385768586137633",
+        "created_at": "2025-01-26T08:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883437399134650595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1498750645431857152",
+              "start": 0,
+              "username": "SeediqChiet"
+            },
+            {
+              "end": 29,
+              "id": "1363489029430403073",
+              "start": 13,
+              "username": "5cmdkOARZbuaVAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883437399134650595",
+        "in_reply_to_user_id": "1498750645431857152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883436019909046348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeediqChiet @5cmdkOARZbuaVAG 第一，世界如果真的像你所说的这样没有什么高智商人群了，那我多生一个少生一个结果都是一样。我个体并不生育，很大程度是因为我不需要后代给自己兜底。第二，回归你幸福的埃及生活，找到属于你的不要彩礼的穆斯林女孩，并生个大胖小子，😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498750645431857152",
+        "conversation_id": "1883385768586137633",
+        "created_at": "2025-01-26T08:45:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:45:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883436019909046348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            },
+            {
+              "end": 28,
+              "id": "1363489029430403073",
+              "start": 12,
+              "username": "5cmdkOARZbuaVAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883436019909046348",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883434781805084805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo @5cmdkOARZbuaVAG 当你能活到九十岁的时候 发现身边的年轻男人女人都是你今天认为傻乎乎生小孩的那些女人的后代 而高智商高学历的人却没有多少了 你怎么想 你以什么为骄傲 就要努力养活这群人的后代 让自己这个群体的炮灰男树立围墙 防止那些你看不上的炮灰男的残暴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 81,
+          "like_count": 302,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T20:04:03.000Z",
+        "description": "we have surrendered to China many times but we want to liberate ourselves",
+        "id": "1498750645431857152",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "Seediq Bale de Huyện Tiêu Sơn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498751854003761152/w74IEPYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 473,
+          "like_count": 212,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 922
+        },
+        "username": "SeediqChiet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T14:02:24.000Z",
+        "description": "Es ist ein Segen für dich, mich zu kennen, und es ist auch deine Vergeltung.  👸👩‍✈️👩‍🎓👮‍♀️🤵‍♀️\n“我”本位。100%支持激进女权。极度厌蠢。不完全统计99%的男的都是蠢货，挨骂是必然。来吧，向我证明你是那1%",
+        "id": "1363489029430403073",
+        "name": "Wilde Hexe",
+        "pinned_tweet_id": "1833034551548879315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760395314610008064/Bj_yjfX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 484,
+          "like_count": 84603,
+          "listed_count": 17,
+          "media_count": 1926,
+          "tweet_count": 42684
+        },
+        "username": "5cmdkOARZbuaVAG",
+        "verified": false
+      }
+    ]
+  }
+}

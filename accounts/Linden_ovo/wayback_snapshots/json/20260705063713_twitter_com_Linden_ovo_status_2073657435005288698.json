@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073657435005288698",
+    "created_at": "2026-07-05T06:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073657435005288698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1700917352064561152",
+          "start": 3,
+          "username": "jing1234560"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073657435005288698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073634108832620829",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jing1234560: 喂你好，你妈死了，过来拿一下死亡证明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073657435005288698",
+        "created_at": "2026-07-05T06:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073657435005288698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1700917352064561152",
+              "start": 3,
+              "username": "jing1234560"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073657435005288698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073634108832620829",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jing1234560: 喂你好，你妈死了，过来拿一下死亡证明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700917352064561152",
+        "conversation_id": "2073634108832620829",
+        "created_at": "2026-07-05T05:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T06:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073634108832620829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073634108832620829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 174,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喂你好，你妈死了，过来拿一下死亡证明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 128,
+          "like_count": 2135,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1358
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T17:01:20.000Z",
+        "description": "🌈卧槽尼玛我的人生怎么变成县城小太妹了 过门请私信🚪88块钱 小号@xingyi1234560 推广自辨",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 33,
+                "username": "xingyi1234560"
+              }
+            ]
+          }
+        },
+        "id": "1700917352064561152",
+        "location": "在苞米地里务农",
+        "name": "恋痛症Z",
+        "pinned_tweet_id": "2030262711075098692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784554850753400832/oPoWwB4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6214,
+          "following_count": 119,
+          "like_count": 10658,
+          "listed_count": 8,
+          "media_count": 298,
+          "tweet_count": 5678
+        },
+        "url": "",
+        "username": "jing1234560",
+        "verified": false
+      }
+    ]
+  }
+}

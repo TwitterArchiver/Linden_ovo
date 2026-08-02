@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2001037466535686465",
+    "created_at": "2025-12-17T16:54:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:54:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001335299973222827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1914340168158547969",
+          "start": 0,
+          "username": "KINGofPRC8964"
+        },
+        {
+          "end": 30,
+          "id": "44186175",
+          "start": 15,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001335299973222827",
+    "in_reply_to_user_id": "1914340168158547969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001225205306548280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KINGofPRC8964 @xiaojingcanxue 发达国家都是这样方针的嘛，更多应该是受最社会主流价值观、性教育及宗教影响，确定并落实后 也需要一定的时间足以完成新的时代推进…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2001037466535686465",
+        "created_at": "2025-12-17T16:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001335299973222827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1914340168158547969",
+              "start": 0,
+              "username": "KINGofPRC8964"
+            },
+            {
+              "end": 30,
+              "id": "44186175",
+              "start": 15,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001335299973222827",
+        "in_reply_to_user_id": "1914340168158547969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001225205306548280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KINGofPRC8964 @xiaojingcanxue 发达国家都是这样方针的嘛，更多应该是受最社会主流价值观、性教育及宗教影响，确定并落实后 也需要一定的时间足以完成新的时代推进…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914340168158547969",
+        "conversation_id": "2001037466535686465",
+        "created_at": "2025-12-17T09:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T10:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001225205306548280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001225205306548280",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 398,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001037466535686465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 那么，如果反过来，以尊重人权为前提、政府或社会组织为有意愿的适龄人士提供相识的机会，在保障医疗、保障生命安全的基础上，提供性教育课程并免费发放优质的避孕工具，以及提供生活补助。会良性提高生育率吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 398
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-21T15:28:08.000Z",
+        "description": "阳痿/风湿/前列腺炎/腰间盘突出",
+        "id": "1914340168158547969",
+        "name": "小学博士烹小鲜",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 31,
+          "like_count": 3741,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 520
+        },
+        "username": "KINGofPRC8964",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235131,
+          "following_count": 1841,
+          "like_count": 192,
+          "listed_count": 1232,
+          "media_count": 27262,
+          "tweet_count": 34833
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

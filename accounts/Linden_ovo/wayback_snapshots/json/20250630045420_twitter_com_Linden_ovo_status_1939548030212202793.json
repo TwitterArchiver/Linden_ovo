@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1939548030212202793",
+    "created_at": "2025-06-30T04:54:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T05:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1939548030212202793"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kosekibijou/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/kosekibijou/status/1938596995327054084",
+          "start": 21,
+          "url": "https://t.co/EJiWW0jMfE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939548030212202793",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938596995327054084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Yea its literally me https://t.co/EJiWW0jMfE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 964,
+        "media_key": "3_1938596976515563520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GudHrdPbQAANn1m.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1939548030212202793",
+        "created_at": "2025-06-30T04:54:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T05:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939548030212202793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kosekibijou/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/kosekibijou/status/1938596995327054084",
+              "start": 21,
+              "url": "https://t.co/EJiWW0jMfE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939548030212202793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938596995327054084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Yea its literally me https://t.co/EJiWW0jMfE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938596976515563520"
+          ]
+        },
+        "author_id": "1656531547279982593",
+        "conversation_id": "1938596995327054084",
+        "created_at": "2025-06-27T13:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T14:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938596995327054084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xsOq096zhr",
+              "end": 25,
+              "expanded_url": "https://x.com/kosekibijou/status/1938596995327054084/photo/1",
+              "media_key": "3_1938596976515563520",
+              "start": 2,
+              "url": "https://t.co/xsOq096zhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938596995327054084",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 481,
+          "impression_count": 248742,
+          "like_count": 24074,
+          "quote_count": 12,
+          "reply_count": 206,
+          "retweet_count": 1351
+        },
+        "reply_settings": "everyone",
+        "text": "🪨 https://t.co/xsOq096zhr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 78,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 173
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T05:28:03.000Z",
+        "description": "Sparkling Gem of hololive English -Advent- |✨ Kira Kira~ Koseki! | Mama: @428clv | Papa: @otsukue | 🎨: #bijouwled | #LIVEseki | #LMOAI | #pebblesona",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "bijouwled"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "LIVEseki"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "LMOAI"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "tag": "pebblesona"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "428clv"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "otsukue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KosekiBijou",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KosekiBijou",
+                "start": 0,
+                "url": "https://t.co/BPFanQd0yb"
+              }
+            ]
+          }
+        },
+        "id": "1656531547279982593",
+        "name": "Koseki Bijou🗿holoEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776452971662049280/V_D-4vKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375190,
+          "following_count": 182,
+          "like_count": 20059,
+          "listed_count": 2628,
+          "media_count": 1090,
+          "tweet_count": 7397
+        },
+        "url": "https://t.co/BPFanQd0yb",
+        "username": "kosekibijou",
+        "verified": true
+      }
+    ]
+  }
+}

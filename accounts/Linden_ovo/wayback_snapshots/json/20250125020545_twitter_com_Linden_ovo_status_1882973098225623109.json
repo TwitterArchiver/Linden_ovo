@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1882973098225623109",
+    "created_at": "2025-01-25T02:05:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T03:05:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882973098225623109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1876935224489287681",
+          "start": 3,
+          "username": "Constantine648"
+        },
+        {
+          "end": 36,
+          "id": "1595871946943537152",
+          "start": 20,
+          "username": "FagainstAnimals"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882973098225623109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882845683209892231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Constantine648: @FagainstAnimals 出生玩意以为只要自己精神胜利解决自己那所谓的民族自卑了，却没想到它自己嘴中的支那猪就是自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1882973098225623109",
+        "created_at": "2025-01-25T02:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882973098225623109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1876935224489287681",
+              "start": 3,
+              "username": "Constantine648"
+            },
+            {
+              "end": 36,
+              "id": "1595871946943537152",
+              "start": 20,
+              "username": "FagainstAnimals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882973098225623109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882845683209892231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Constantine648: @FagainstAnimals 出生玩意以为只要自己精神胜利解决自己那所谓的民族自卑了，却没想到它自己嘴中的支那猪就是自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876935224489287681",
+        "conversation_id": "1882773894190473693",
+        "created_at": "2025-01-24T17:39:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T18:39:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882845683209892231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1595871946943537152",
+              "start": 0,
+              "username": "FagainstAnimals"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882845683209892231",
+        "in_reply_to_user_id": "1595871946943537152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1315,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882773894190473693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FagainstAnimals 出生玩意以为只要自己精神胜利解决自己那所谓的民族自卑了，却没想到它自己嘴中的支那猪就是自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 94
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T10:14:06.000Z",
+        "description": "列托夫意志的继承者/超视社会主义/道家☯️\n\n大炎劳工联合会总书记-岁家三姊本人（架空世界“泰拉的黎明前”中的身份，但确实是你三姊黍）\n\n不知上下的左壬\n\n友好🏳️‍🌈🏳️‍⚧️，在接近🏳️‍⚧️中\n\n可不可以互fo，谢谢你口扌立",
+        "id": "1876935224489287681",
+        "location": "大炎共和诸城邦联 大荒人民自治市第二生产大队",
+        "name": "🈳白请输入 疑似接近🏳️‍⚧️中？",
+        "pinned_tweet_id": "1878137226720338079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881312827673350144/rYhEFDBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 103,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 258
+        },
+        "username": "Constantine648",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T20:08:38.000Z",
+        "description": "支黑迷惑行为收集处（接网友投稿） 支黑蛆爆破军团群（爆破支黑）入群请私信 支黑爆破军团“社区”欢迎各路人士！逃生舱@itfeelsfragrant",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "itfeelsfragrant"
+              }
+            ]
+          }
+        },
+        "id": "1595871946943537152",
+        "name": "支黑迷惑行为鉴赏",
+        "pinned_tweet_id": "1873744688521658457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732364638581579776/OjTJV7FB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9424,
+          "following_count": 8388,
+          "like_count": 12,
+          "listed_count": 33,
+          "media_count": 518,
+          "tweet_count": 690
+        },
+        "username": "FagainstAnimals",
+        "verified": false
+      }
+    ]
+  }
+}

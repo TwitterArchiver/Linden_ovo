@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070330916392910898",
+    "created_at": "2026-06-26T02:18:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:18:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070330916392910898"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1777129646867542016",
+          "start": 3,
+          "username": "Sunset__3000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070330916392910898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069673247931822199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sunset__3000: 直率一点叫滥用，含蓄一点叫偶滴，乡土一点叫嗑药，可爱一点叫oo，普通一点叫od，老外一点叫overdose，放荡一点叫吸毒，科学一点叫药物过量，风趣一点叫上劲，还有什么叫法吗🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070330916392910898",
+        "created_at": "2026-06-26T02:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070330916392910898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1777129646867542016",
+              "start": 3,
+              "username": "Sunset__3000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070330916392910898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069673247931822199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sunset__3000: 直率一点叫滥用，含蓄一点叫偶滴，乡土一点叫嗑药，可爱一点叫oo，普通一点叫od，老外一点叫overdose，放荡一点叫吸毒，科学一点叫药物过量，风趣一点叫上劲，还有什么叫法吗🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777129646867542016",
+        "conversation_id": "2069673247931822199",
+        "created_at": "2026-06-24T06:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069673247931822199"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069673247931822199",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 23940,
+          "like_count": 480,
+          "quote_count": 8,
+          "reply_count": 75,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "直率一点叫滥用，含蓄一点叫偶滴，乡土一点叫嗑药，可爱一点叫oo，普通一点叫od，老外一点叫overdose，放荡一点叫吸毒，科学一点叫药物过量，风趣一点叫上劲，还有什么叫法吗🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1805,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T00:21:51.000Z",
+        "description": "o割餐券女 | 精神病 | 家里蹲备考 | 极端悲观主义 | 爱好生化药理板绘 | 同类互fo漏回提醒下🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org/",
+                "start": 0,
+                "url": "https://t.co/swMyC2Mdbe"
+              }
+            ]
+          }
+        },
+        "id": "1777129646867542016",
+        "location": "神秘600号",
+        "name": "日落三千次💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040999312478621696/QZAhsYwI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 603,
+          "like_count": 4003,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/swMyC2Mdbe",
+        "username": "Sunset__3000",
+        "verified": false
+      }
+    ]
+  }
+}

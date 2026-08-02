@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049818710379008000",
+        "3_2049818710391586816"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049818717152784694",
+    "created_at": "2026-04-30T11:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049818717152784694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1fMpXKfy4d",
+          "end": 29,
+          "expanded_url": "https://x.com/Linden_ovo/status/2049818717152784694/photo/1",
+          "media_key": "3_2049818710379008000",
+          "start": 6,
+          "url": "https://t.co/1fMpXKfy4d"
+        },
+        {
+          "display_url": "pic.x.com/1fMpXKfy4d",
+          "end": 29,
+          "expanded_url": "https://x.com/Linden_ovo/status/2049818717152784694/photo/1",
+          "media_key": "3_2049818710391586816",
+          "start": 6,
+          "url": "https://t.co/1fMpXKfy4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049818717152784694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "助力我谢谢 https://t.co/1fMpXKfy4d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 847,
+        "media_key": "3_2049818710379008000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJrQbYXEAAfY7G.jpg",
+        "width": 956
+      },
+      {
+        "height": 1878,
+        "media_key": "3_2049818710391586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJrQbbXAAAzOps.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049818710379008000",
+            "3_2049818710391586816"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049818717152784694",
+        "created_at": "2026-04-30T11:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049818717152784694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fMpXKfy4d",
+              "end": 29,
+              "expanded_url": "https://x.com/Linden_ovo/status/2049818717152784694/photo/1",
+              "media_key": "3_2049818710379008000",
+              "start": 6,
+              "url": "https://t.co/1fMpXKfy4d"
+            },
+            {
+              "display_url": "pic.x.com/1fMpXKfy4d",
+              "end": 29,
+              "expanded_url": "https://x.com/Linden_ovo/status/2049818717152784694/photo/1",
+              "media_key": "3_2049818710391586816",
+              "start": 6,
+              "url": "https://t.co/1fMpXKfy4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049818717152784694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "助力我谢谢 https://t.co/1fMpXKfy4d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 100,
+          "like_count": 1651,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 984
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

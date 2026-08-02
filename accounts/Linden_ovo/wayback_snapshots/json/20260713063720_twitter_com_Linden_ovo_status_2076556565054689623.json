@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076556565054689623",
+    "created_at": "2026-07-13T06:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076556565054689623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901339878966636544",
+          "start": 3,
+          "username": "tteokki9"
+        },
+        {
+          "end": 25,
+          "id": "2028553979895091200",
+          "start": 14,
+          "username": "Jocelynu6n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076556565054689623",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076379005335544200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tteokki9: @Jocelynu6n 你可以等27年7月8日"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076556565054689623",
+        "created_at": "2026-07-13T06:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076556565054689623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901339878966636544",
+              "start": 3,
+              "username": "tteokki9"
+            },
+            {
+              "end": 25,
+              "id": "2028553979895091200",
+              "start": 14,
+              "username": "Jocelynu6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076556565054689623",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076379005335544200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tteokki9: @Jocelynu6n 你可以等27年7月8日"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901339878966636544",
+        "conversation_id": "2076366707120390291",
+        "created_at": "2026-07-12T18:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T19:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076379005335544200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028553979895091200",
+              "start": 0,
+              "username": "Jocelynu6n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076379005335544200",
+        "in_reply_to_user_id": "2028553979895091200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2729,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076374629472756186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jocelynu6n 你可以等27年7月8日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 135,
+          "like_count": 2387,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1557
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T18:28:59.000Z",
+        "description": "可以叫我小叽叽^o^ 私信只回有意思的 随便发着玩@yokyo7lly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "yokyo7lly"
+              }
+            ]
+          }
+        },
+        "id": "1901339878966636544",
+        "location": "纯绿🚪288",
+        "name": "椰叽",
+        "pinned_tweet_id": "1984659027478102138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005152049189797889/D1ONNjj1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6322,
+          "following_count": 87,
+          "like_count": 4460,
+          "listed_count": 4,
+          "media_count": 262,
+          "tweet_count": 3129
+        },
+        "url": "",
+        "username": "tteokki9",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T19:32:51.000Z",
+        "description": "",
+        "id": "2028553979895091200",
+        "name": "Jocelyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067486351956819968/0z_CWpbB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 39,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 28
+        },
+        "url": "",
+        "username": "Jocelynu6n",
+        "verified": false
+      }
+    ]
+  }
+}

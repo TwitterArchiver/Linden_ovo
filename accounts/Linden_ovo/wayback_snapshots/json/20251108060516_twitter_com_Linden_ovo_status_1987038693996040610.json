@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1987038693996040610",
+    "created_at": "2025-11-08T06:05:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T07:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987038693996040610"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1987038693996040610",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你凭什么说我好感度掉了？你打开状态栏看了吗？我的心情值、陪伴值、礼物值这三个隐藏属性你有关注过吗，我有那么好攻略吗？光靠每天打卡式聊天就指望我亮起爱心图标了？你甚至不愿意花心思了解一下我的专属攻略！现在好了，触发我的“冷漠”事件了，你满意了？自己去读档吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1987038693996040610",
+        "created_at": "2025-11-08T06:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T07:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987038693996040610"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987038693996040610",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你凭什么说我好感度掉了？你打开状态栏看了吗？我的心情值、陪伴值、礼物值这三个隐藏属性你有关注过吗，我有那么好攻略吗？光靠每天打卡式聊天就指望我亮起爱心图标了？你甚至不愿意花心思了解一下我的专属攻略！现在好了，触发我的“冷漠”事件了，你满意了？自己去读档吧！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 60,
+          "like_count": 716,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 246
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

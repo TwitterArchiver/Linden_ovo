@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073360645609656388",
+    "created_at": "2026-07-04T10:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073360645609656388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1810570297437020160",
+          "start": 3,
+          "username": "ace31ch"
+        },
+        {
+          "end": 27,
+          "id": "1791585754755350528",
+          "start": 13,
+          "username": "RainLemon0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073360645609656388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073098679347785962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ace31ch: @RainLemon0715 不是我干的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073360645609656388",
+        "created_at": "2026-07-04T10:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073360645609656388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1810570297437020160",
+              "start": 3,
+              "username": "ace31ch"
+            },
+            {
+              "end": 27,
+              "id": "1791585754755350528",
+              "start": 13,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073360645609656388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073098679347785962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ace31ch: @RainLemon0715 不是我干的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810570297437020160",
+        "conversation_id": "2072996504298823820",
+        "created_at": "2026-07-03T17:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073098679347785962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791585754755350528",
+              "start": 0,
+              "username": "RainLemon0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073098679347785962",
+        "in_reply_to_user_id": "1791585754755350528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4313,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072996504298823820",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RainLemon0715 不是我干的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论上可以和我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 119,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1326
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-09T07:03:02.000Z",
+        "description": "- ✰*🔮✩👾✰*💜✩-\n生活在互聯網！我是低齡唐逼大傻福，十分抱歉！\n宇宙級嚴重嗜睡\nintp-t/🇨🇳建制左/社會自由主義/民主社會主義\n黑色長條生物：@Shivam3228",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 78,
+                "username": "Shivam3228"
+              }
+            ]
+          }
+        },
+        "id": "1810570297437020160",
+        "location": "精神衛生中心",
+        "name": "spring风＃星宿四/三周目版",
+        "pinned_tweet_id": "2053483960211214638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024747915840016390/eLTLiD4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 180,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1201
+        },
+        "url": "",
+        "username": "ace31ch",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T21:45:14.000Z",
+        "description": "07🍥🏳️‍⚧️｜持证含糖，hrt21.1.8｜究极家暴党｜双向+重抑|欢迎来找我贴贴｜现居山东｜不od不割手｜INFP｜想当个女孩子｜SRS资金筹备ing｜无政治立场｜努力rle中｜最好的老婆@whalexxs，我的此生挚爱~|“我曾踏足山巅，也曾进入低谷，二者都使我受益良多”（现在是兼职糖果商人哦）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "whalexxs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+iN5huf7JvPkxY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+iN5huf7JvPkxYWE9",
+                "start": 0,
+                "url": "https://t.co/GweBgmAiDG"
+              }
+            ]
+          }
+        },
+        "id": "1791585754755350528",
+        "location": "明天",
+        "name": "🍥神楽坂·雨檬&梦雨🏳️‍⚧️🍬🍬🍬",
+        "pinned_tweet_id": "2072850591412625599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330545328152576/MiPIgQL4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4072,
+          "following_count": 326,
+          "like_count": 7889,
+          "listed_count": 6,
+          "media_count": 225,
+          "tweet_count": 2188
+        },
+        "url": "https://t.co/GweBgmAiDG",
+        "username": "RainLemon0715",
+        "verified": true
+      }
+    ]
+  }
+}

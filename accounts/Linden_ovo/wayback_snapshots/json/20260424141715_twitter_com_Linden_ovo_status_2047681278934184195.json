@@ -1,0 +1,707 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2047681278934184195",
+    "created_at": "2026-04-24T14:17:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:17:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047681278934184195"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 50,
+          "tag": "宝鐘マリン"
+        },
+        {
+          "end": 133,
+          "start": 128,
+          "tag": "ホロドリ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980507507954159616",
+          "start": 3,
+          "username": "hololive_dreams"
+        },
+        {
+          "end": 72,
+          "id": "1153192638645821440",
+          "start": 58,
+          "username": "houshoumarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047681278934184195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4814
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047148456221769903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hololive_dreams: /／\n🏴‍☠️★5カードイラスト初公開 🏴‍☠️\n\\＼\n\n#宝鐘マリン (@houshoumarine)さんの魅力と個性を詰め込んだオリジナルの衣装👗\n\n他タレントのカードイラストも順次公開予定🎉\nお楽しみに✨\n\n#ホロドリ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046756549293694977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGeKPMZa4AEQ8e_.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2047681278934184195",
+        "created_at": "2026-04-24T14:17:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:17:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047681278934184195"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 50,
+              "tag": "宝鐘マリン"
+            },
+            {
+              "end": 133,
+              "start": 128,
+              "tag": "ホロドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980507507954159616",
+              "start": 3,
+              "username": "hololive_dreams"
+            },
+            {
+              "end": 72,
+              "id": "1153192638645821440",
+              "start": 58,
+              "username": "houshoumarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047681278934184195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4814
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047148456221769903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hololive_dreams: /／\n🏴‍☠️★5カードイラスト初公開 🏴‍☠️\n\\＼\n\n#宝鐘マリン (@houshoumarine)さんの魅力と個性を詰め込んだオリジナルの衣装👗\n\n他タレントのカードイラストも順次公開予定🎉\nお楽しみに✨\n\n#ホロドリ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046756549293694977"
+          ]
+        },
+        "author_id": "1980507507954159616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2047148456221769903",
+        "created_at": "2026-04-23T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047148456221769903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 29,
+              "tag": "宝鐘マリン"
+            },
+            {
+              "end": 112,
+              "start": 107,
+              "tag": "ホロドリ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 51,
+              "id": "1153192638645821440",
+              "start": 37,
+              "username": "houshoumarine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWv8grSRAy",
+              "end": 136,
+              "expanded_url": "https://x.com/hololive_dreams/status/2047148456221769903/photo/1",
+              "media_key": "3_2046756549293694977",
+              "start": 113,
+              "url": "https://t.co/OWv8grSRAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047148456221769903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3636,
+          "impression_count": 681723,
+          "like_count": 32717,
+          "quote_count": 538,
+          "reply_count": 218,
+          "retweet_count": 4814
+        },
+        "reply_settings": "everyone",
+        "text": "/／\n🏴‍☠️★5カードイラスト初公開 🏴‍☠️\n\\＼\n\n#宝鐘マリン (@houshoumarine)さんの魅力と個性を詰め込んだオリジナルの衣装👗\n\n他タレントのカードイラストも順次公開予定🎉\nお楽しみに✨\n\n#ホロドリ https://t.co/OWv8grSRAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 99,
+          "like_count": 1607,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 956
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-21T05:35:32.000Z",
+        "description": "#ホロライブ 初の公式スマホゲーム #ホロドリ 全世界同時リリース予定📣\n🏰事前登録受付中🎶\nhttps://t.co/IhHCMno1dL\n\nEN:@holo_dreams_en\nYouTube:https://t.co/jJtr32eVRL",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "ホロライブ"
+              },
+              {
+                "end": 23,
+                "start": 18,
+                "tag": "ホロドリ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 90,
+                "start": 75,
+                "username": "holo_dreams_en"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hololive-dreams.com",
+                "end": 70,
+                "expanded_url": "https://hololive-dreams.com/",
+                "start": 47,
+                "url": "https://t.co/IhHCMno1dL"
+              },
+              {
+                "display_url": "youtube.com/@hololivedreams",
+                "end": 122,
+                "expanded_url": "https://www.youtube.com/@hololivedreams",
+                "start": 99,
+                "url": "https://t.co/jJtr32eVRL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hololive-dreams.com",
+                "end": 23,
+                "expanded_url": "https://hololive-dreams.com/",
+                "start": 0,
+                "url": "https://t.co/IhHCMno1dL"
+              }
+            ]
+          }
+        },
+        "id": "1980507507954159616",
+        "name": "ホロライブドリームス【ホロドリ】",
+        "pinned_tweet_id": "2044589427104858468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009210413947486208/cx6yg16M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178124,
+          "following_count": 68,
+          "like_count": 65,
+          "listed_count": 477,
+          "media_count": 407,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/IhHCMno1dL",
+        "username": "hololive_dreams",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T06:38:45.000Z",
+        "description": "hololive houshou marine/【ファンネーム】宝鐘の一味/【生放送タグ】#マリン航海記/【切り抜き動画タグ】#わかるマリン/【ファンアート】#マリンのお宝/おかあさん💘 @AkasaAi /【TikTok】https://t.co/nK67k0iVCM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "マリン航海記"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "わかるマリン"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "tag": "マリンのお宝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "AkasaAi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onl.tw/77s8tJX",
+                "end": 135,
+                "expanded_url": "https://onl.tw/77s8tJX",
+                "start": 112,
+                "url": "https://t.co/nK67k0iVCM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCCzUf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/fGejv72tSS"
+              }
+            ]
+          }
+        },
+        "id": "1153192638645821440",
+        "location": "ホロライブファンタジー",
+        "name": "宝鐘マリン🏴‍☠️＠ホロライブ3期生",
+        "pinned_tweet_id": "2027734280181272626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835492753289220096/rpWSQdrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975735,
+          "following_count": 1342,
+          "like_count": 91631,
+          "listed_count": 16436,
+          "media_count": 3072,
+          "tweet_count": 27214
+        },
+        "url": "https://t.co/fGejv72tSS",
+        "username": "houshoumarine",
+        "verified": true
+      }
+    ]
+  }
+}

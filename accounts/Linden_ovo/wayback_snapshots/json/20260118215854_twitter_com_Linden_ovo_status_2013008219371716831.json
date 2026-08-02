@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2012703378858504427",
+    "created_at": "2026-01-18T21:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T22:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013008219371716831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1674018191562113029",
+          "start": 0,
+          "username": "GlockinMyLap0"
+        },
+        {
+          "end": 25,
+          "id": "1522945124346601474",
+          "start": 15,
+          "username": "KunaAkem1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013008219371716831",
+    "in_reply_to_user_id": "1674018191562113029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012973408317812780",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GlockinMyLap0 @KunaAkem1 二十欧一盘国内均价十几块的预制家常菜，两个人去吃也得三盘菜两碗米吧，装牛魔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2012703378858504427",
+        "created_at": "2026-01-18T21:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T22:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013008219371716831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1674018191562113029",
+              "start": 0,
+              "username": "GlockinMyLap0"
+            },
+            {
+              "end": 25,
+              "id": "1522945124346601474",
+              "start": 15,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013008219371716831",
+        "in_reply_to_user_id": "1674018191562113029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012973408317812780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GlockinMyLap0 @KunaAkem1 二十欧一盘国内均价十几块的预制家常菜，两个人去吃也得三盘菜两碗米吧，装牛魔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674018191562113029",
+        "conversation_id": "2012703378858504427",
+        "created_at": "2026-01-18T19:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T20:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012973408317812780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1522945124346601474",
+              "start": 0,
+              "username": "KunaAkem1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012973408317812780",
+        "in_reply_to_user_id": "1522945124346601474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012703378858504427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KunaAkem1 。。。吃不起好像是你的问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了滚",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 1027,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 477
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-28T11:33:49.000Z",
+        "description": "喵",
+        "id": "1674018191562113029",
+        "name": "我卟幺上学",
+        "pinned_tweet_id": "1677817884041707520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688687563882831872/JL4eZvFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 97,
+          "like_count": 6628,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 73
+        },
+        "username": "GlockinMyLap0",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-07T14:23:29.000Z",
+        "description": "河豚",
+        "id": "1522945124346601474",
+        "location": "Aachen, Germany",
+        "name": "Kuna",
+        "pinned_tweet_id": "1942955528356847757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978949784867123200/e6evBQw8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 501,
+          "like_count": 7845,
+          "listed_count": 4,
+          "media_count": 754,
+          "tweet_count": 4631
+        },
+        "username": "KunaAkem1",
+        "verified": false
+      }
+    ]
+  }
+}

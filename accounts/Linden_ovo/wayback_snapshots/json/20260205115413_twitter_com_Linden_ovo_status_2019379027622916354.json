@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2019379027622916354",
+    "created_at": "2026-02-05T11:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T12:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019379027622916354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "749461493322686464",
+          "start": 3,
+          "username": "miya21274"
+        },
+        {
+          "end": 27,
+          "id": "3063132101",
+          "start": 15,
+          "username": "sfxheeroyui"
+        },
+        {
+          "end": 38,
+          "id": "628018419",
+          "start": 28,
+          "username": "PunsukaSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019379027622916354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019249713070108755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miya21274: @sfxheeroyui @PunsukaSu 有的，當然有的。\n像這種遇上善良的人只會展現毫無道德底限的惡意、碰到比自己更壞的人只會夾著尾巴龜縮起來的社會渣滓被傳承下來了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2019379027622916354",
+        "created_at": "2026-02-05T11:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T12:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019379027622916354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "749461493322686464",
+              "start": 3,
+              "username": "miya21274"
+            },
+            {
+              "end": 27,
+              "id": "3063132101",
+              "start": 15,
+              "username": "sfxheeroyui"
+            },
+            {
+              "end": 38,
+              "id": "628018419",
+              "start": 28,
+              "username": "PunsukaSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019379027622916354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019249713070108755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miya21274: @sfxheeroyui @PunsukaSu 有的，當然有的。\n像這種遇上善良的人只會展現毫無道德底限的惡意、碰到比自己更壞的人只會夾著尾巴龜縮起來的社會渣滓被傳承下來了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "749461493322686464",
+        "conversation_id": "2019208223614726299",
+        "created_at": "2026-02-05T03:20:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T04:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019249713070108755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3063132101",
+              "start": 0,
+              "username": "sfxheeroyui"
+            },
+            {
+              "end": 23,
+              "id": "628018419",
+              "start": 13,
+              "username": "PunsukaSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019249713070108755",
+        "in_reply_to_user_id": "3063132101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1746,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019239051375841606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfxheeroyui @PunsukaSu 有的，當然有的。\n像這種遇上善良的人只會展現毫無道德底限的惡意、碰到比自己更壞的人只會夾著尾巴龜縮起來的社會渣滓被傳承下來了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 1102,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 542
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-03T04:35:19.000Z",
+        "description": "Taiwanese ,華語簡繁皆可,English🤏 ,日本語🤏,other language need to trans.\n會看中之人而且很頻繁但不會同時轉發，不想知道的請自己避開。",
+        "id": "749461493322686464",
+        "name": "ミヤリ🎉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1673576415965446144/bNbE2Cpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 420,
+          "like_count": 26506,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1954
+        },
+        "username": "miya21274",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-25T19:55:02.000Z",
+        "description": "",
+        "id": "3063132101",
+        "name": "蔡馨毅",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/713390243295002624/XWy5wc5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 3544,
+          "like_count": 148186,
+          "listed_count": 17,
+          "media_count": 718,
+          "tweet_count": 112695
+        },
+        "username": "sfxheeroyui",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-06T01:58:29.000Z",
+        "description": "台灣人 Formosan フォルモサン / 最不缺柯粉紅支噁男指教 /小國小民，好國好民 / 不結怨政策 / 上班眼神死，下班ぽよよん。",
+        "id": "628018419",
+        "name": "Emilia_Su🐶🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003027260501352448/9jxaeLow_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6090,
+          "following_count": 1059,
+          "like_count": 216090,
+          "listed_count": 41,
+          "media_count": 3172,
+          "tweet_count": 34600
+        },
+        "username": "PunsukaSu",
+        "verified": false
+      }
+    ]
+  }
+}

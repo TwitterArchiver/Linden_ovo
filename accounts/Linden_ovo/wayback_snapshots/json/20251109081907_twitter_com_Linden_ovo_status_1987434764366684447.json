@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1987434764366684447",
+    "created_at": "2025-11-09T08:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T09:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987434764366684447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1538480151419228160",
+          "start": 3,
+          "username": "ayue74"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987434764366684447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987391782066528411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayue74: 前段日子调小狗，双方正在兴头上，我问她，“要不要当爹爹一辈子的小狗?”,\n\n她说：“抱歉，我不能给出难以兑现的承诺”.....??..这番话灼痛了我...不知如何言语\n\n所以说，我讨厌太认真的人，不是因为破坏了气氛，而是因为她竟然如此真挚、负责，显得随意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1987434764366684447",
+        "created_at": "2025-11-09T08:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T09:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987434764366684447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1538480151419228160",
+              "start": 3,
+              "username": "ayue74"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987434764366684447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987391782066528411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayue74: 前段日子调小狗，双方正在兴头上，我问她，“要不要当爹爹一辈子的小狗?”,\n\n她说：“抱歉，我不能给出难以兑现的承诺”.....??..这番话灼痛了我...不知如何言语\n\n所以说，我讨厌太认真的人，不是因为破坏了气氛，而是因为她竟然如此真挚、负责，显得随意…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538480151419228160",
+        "conversation_id": "1987391782066528411",
+        "created_at": "2025-11-09T05:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T06:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987391782066528411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987391782066528411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1395,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "前段日子调小狗，双方正在兴头上，我问她，“要不要当爹爹一辈子的小狗?”,\n\n她说：“抱歉，我不能给出难以兑现的承诺”.....??..这番话灼痛了我...不知如何言语\n\n所以说，我讨厌太认真的人，不是因为破坏了气氛，而是因为她竟然如此真挚、负责，显得随意做出许诺、随意索求许诺的我如此幽默，无地自容。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 60,
+          "like_count": 722,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 251
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T11:13:58.000Z",
+        "description": "暴论不致歉",
+        "id": "1538480151419228160",
+        "name": "霉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962544922143412224/iTsfTAsd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 31,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 38
+        },
+        "username": "ayue74",
+        "verified": false
+      }
+    ]
+  }
+}

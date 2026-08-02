@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081538503704498176"
+      ],
+      "media_source_tweet_id": [
+        "2081538523665215605"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081653135823495566",
+    "created_at": "2026-07-27T08:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T09:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081653135823495566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1863439189909618688",
+          "start": 3,
+          "username": "hsn8086xe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lXxL5rzTtc",
+          "end": 38,
+          "expanded_url": "https://x.com/hsn8086xe/status/2081538523665215605/photo/1",
+          "media_key": "3_2081538503704498176",
+          "start": 15,
+          "url": "https://t.co/lXxL5rzTtc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081653135823495566",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081538523665215605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsn8086xe: https://t.co/lXxL5rzTtc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1177,
+        "media_key": "3_2081538503704498176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMcPZua0AAlyIJ.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081538503704498176"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2081538523665215605",
+        "created_at": "2026-07-27T00:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081538523665215605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXxL5rzTtc",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2081538523665215605/photo/1",
+              "media_key": "3_2081538503704498176",
+              "start": 0,
+              "url": "https://t.co/lXxL5rzTtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081538523665215605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 35540,
+          "like_count": 1167,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/lXxL5rzTtc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081538503704498176"
+          ],
+          "media_source_tweet_id": [
+            "2081538523665215605"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081653135823495566",
+        "created_at": "2026-07-27T08:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T09:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081653135823495566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1863439189909618688",
+              "start": 3,
+              "username": "hsn8086xe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXxL5rzTtc",
+              "end": 38,
+              "expanded_url": "https://x.com/hsn8086xe/status/2081538523665215605/photo/1",
+              "media_key": "3_2081538503704498176",
+              "start": 15,
+              "url": "https://t.co/lXxL5rzTtc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081653135823495566",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081538523665215605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsn8086xe: https://t.co/lXxL5rzTtc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2812,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36784,
+          "following_count": 368,
+          "like_count": 264,
+          "listed_count": 110,
+          "media_count": 18284,
+          "tweet_count": 18386
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

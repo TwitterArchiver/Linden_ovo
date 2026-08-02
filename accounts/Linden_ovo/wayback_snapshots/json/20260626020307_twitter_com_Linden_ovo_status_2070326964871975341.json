@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070326964871975341",
+    "created_at": "2026-06-26T02:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070326964871975341"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1637732697790627840",
+          "start": 3,
+          "username": "jujubeandpapaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070326964871975341",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069699198963081445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jujubeandpapaya: 当主人也少操心狗在外面蹭谁了，发情想起你来就知足吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070326964871975341",
+        "created_at": "2026-06-26T02:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070326964871975341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1637732697790627840",
+              "start": 3,
+              "username": "jujubeandpapaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070326964871975341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069699198963081445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jujubeandpapaya: 当主人也少操心狗在外面蹭谁了，发情想起你来就知足吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1637732697790627840",
+        "conversation_id": "2069699198963081445",
+        "created_at": "2026-06-24T08:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069699198963081445"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/movingheart_/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/movingheart_/status/2041710883987190176",
+              "start": 26,
+              "url": "https://t.co/mz1M2QjJwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069699198963081445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 197980,
+          "like_count": 2374,
+          "quote_count": 18,
+          "reply_count": 113,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041710883987190176",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "当主人也少操心狗在外面蹭谁了，发情想起你来就知足吧 https://t.co/mz1M2QjJwt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1804,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1137
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-20T08:28:13.000Z",
+        "description": "Did You Know That There's A Tunnel Under Ocean Blvd\n不开私信 别骚扰/乱七八糟的碎碎念",
+        "id": "1637732697790627840",
+        "location": "Canada",
+        "name": "❄️🌲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726787374279970821/fmO1R1Gb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3572,
+          "following_count": 443,
+          "like_count": 23224,
+          "listed_count": 13,
+          "media_count": 38,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "jujubeandpapaya",
+        "verified": false
+      }
+    ]
+  }
+}

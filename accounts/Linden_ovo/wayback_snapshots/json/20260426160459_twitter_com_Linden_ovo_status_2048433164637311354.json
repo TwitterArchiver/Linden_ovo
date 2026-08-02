@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      }
+    ],
+    "conversation_id": "2048433164637311354",
+    "created_at": "2026-04-26T16:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048433164637311354"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 41,
+          "tag": "ホロライブEnglish"
+        },
+        {
+          "end": 78,
+          "start": 69,
+          "tag": "ハコス・ベールズ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2797405346",
+          "start": 3,
+          "username": "designcoco_t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048433164637311354",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1266
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047843037825679836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @designcoco_t: ／\n「AXGRIT」プロジェクト第5弾！\n＼\n#ホロライブEnglish -Promise-より、『 #ハコス・ベールズ』が「AXGRIT」オリジナル衣装で1/7スケールフィギュア化！\n\n☆完全受注生産☆\n予約締切：7/30→https://…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2047647510987251712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq0j_WboAAEIg_.jpg",
+        "width": 2000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2047647551533490176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGq0mWZaIAAyuup.jpg",
+        "width": 2320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2048433164637311354",
+        "created_at": "2026-04-26T16:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048433164637311354"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 41,
+              "tag": "ホロライブEnglish"
+            },
+            {
+              "end": 78,
+              "start": 69,
+              "tag": "ハコス・ベールズ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2797405346",
+              "start": 3,
+              "username": "designcoco_t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048433164637311354",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1266
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047843037825679836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @designcoco_t: ／\n「AXGRIT」プロジェクト第5弾！\n＼\n#ホロライブEnglish -Promise-より、『 #ハコス・ベールズ』が「AXGRIT」オリジナル衣装で1/7スケールフィギュア化！\n\n☆完全受注生産☆\n予約締切：7/30→https://…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047647510987251712",
+            "3_2047647551533490176"
+          ]
+        },
+        "author_id": "2797405346",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          }
+        ],
+        "conversation_id": "2047843037825679836",
+        "created_at": "2026-04-25T01:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T02:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047843037825679836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 23,
+              "tag": "ホロライブEnglish"
+            },
+            {
+              "end": 60,
+              "start": 51,
+              "tag": "ハコス・ベールズ"
+            },
+            {
+              "end": 145,
+              "start": 138,
+              "tag": "AXGRIT"
+            },
+            {
+              "end": 154,
+              "start": 147,
+              "tag": "デザインココ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ホロライブ English -Promise-より「ハコス・ベールズ」が1/7スケールフィギュアで登場！カバー株式会社全面協力の元、AXGRITの世界観を反映したオリジナル衣装で立体化しました。",
+              "display_url": "coco-store.jp/products/92",
+              "end": 136,
+              "expanded_url": "https://coco-store.jp/products/92",
+              "images": [
+                {
+                  "height": 3000,
+                  "url": "https://pbs.twimg.com/news_img/2047986327086657537/rR7vcJfq?format=jpg&name=orig",
+                  "width": 2000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047986327086657537/rR7vcJfq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 113,
+              "status": 404,
+              "title": "ホロライブ English -Promise- ハコス・ベールズ 「AXGRIT」Ver. 1/7スケールフィギュア",
+              "unwound_url": "https://coco-store.jp/products/92",
+              "url": "https://t.co/0JWyILwn8W"
+            },
+            {
+              "display_url": "pic.x.com/VOwILjFc8d",
+              "end": 178,
+              "expanded_url": "https://x.com/designcoco_t/status/2047843037825679836/photo/1",
+              "media_key": "3_2047647510987251712",
+              "start": 155,
+              "url": "https://t.co/VOwILjFc8d"
+            },
+            {
+              "display_url": "pic.x.com/VOwILjFc8d",
+              "end": 178,
+              "expanded_url": "https://x.com/designcoco_t/status/2047843037825679836/photo/1",
+              "media_key": "3_2047647551533490176",
+              "start": 155,
+              "url": "https://t.co/VOwILjFc8d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047843037825679836",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 916,
+          "impression_count": 364294,
+          "like_count": 8318,
+          "quote_count": 82,
+          "reply_count": 24,
+          "retweet_count": 1266
+        },
+        "reply_settings": "everyone",
+        "text": "／\n「AXGRIT」プロジェクト第5弾！\n＼\n#ホロライブEnglish -Promise-より、『 #ハコス・ベールズ』が「AXGRIT」オリジナル衣装で1/7スケールフィギュア化！\n\n☆完全受注生産☆\n予約締切：7/30→https://t.co/0JWyILwn8W\n\n#AXGRIT  #デザインココ https://t.co/VOwILjFc8d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 100,
+          "like_count": 1613,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 956
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-08T07:12:44.000Z",
+        "description": "“ものづくり”の会社です💃主に等身大&スケールフィギュアを作っています\n ECサイト：https://t.co/Rw86lEy5E1 \nInstagram：https://t.co/PHoSyMeARK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "coco-store.jp",
+                "end": 66,
+                "expanded_url": "http://coco-store.jp",
+                "start": 43,
+                "url": "https://t.co/Rw86lEy5E1"
+              },
+              {
+                "display_url": "instagram.com/design_coco__/",
+                "end": 101,
+                "expanded_url": "http://instagram.com/design_coco__/",
+                "start": 78,
+                "url": "https://t.co/PHoSyMeARK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dcoco.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.dcoco.co.jp/",
+                "start": 0,
+                "url": "https://t.co/t3SKVghF9b"
+              }
+            ]
+          }
+        },
+        "id": "2797405346",
+        "location": "宮城県仙台市",
+        "name": "デザインココ",
+        "pinned_tweet_id": "2047843037825679836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585077533045067776/FskNMm7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113525,
+          "following_count": 145,
+          "like_count": 2118,
+          "listed_count": 319,
+          "media_count": 800,
+          "tweet_count": 2934
+        },
+        "url": "https://t.co/t3SKVghF9b",
+        "username": "designcoco_t",
+        "verified": true
+      }
+    ]
+  }
+}

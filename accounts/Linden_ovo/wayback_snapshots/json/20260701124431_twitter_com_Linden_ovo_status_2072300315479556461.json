@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072300315479556461",
+    "created_at": "2026-07-01T12:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072300315479556461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072300315479556461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071956989333340582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 冷静下来想想劳荣枝会怎么做"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072300315479556461",
+        "created_at": "2026-07-01T12:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072300315479556461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072300315479556461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071956989333340582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 冷静下来想想劳荣枝会怎么做"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2071956989333340582",
+        "created_at": "2026-06-30T14:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071956989333340582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071956989333340582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15083,
+          "like_count": 78,
+          "quote_count": 3,
+          "reply_count": 47,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "冷静下来想想劳荣枝会怎么做"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 115,
+          "like_count": 1913,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1195
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "你每次爱我的时候我开心的不行不要不要的",
+        "id": "1581937806435573760",
+        "location": "你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22564,
+          "following_count": 0,
+          "like_count": 1644,
+          "listed_count": 22,
+          "media_count": 290,
+          "tweet_count": 2089
+        },
+        "url": "",
+        "username": "fadai202202",
+        "verified": true
+      }
+    ]
+  }
+}

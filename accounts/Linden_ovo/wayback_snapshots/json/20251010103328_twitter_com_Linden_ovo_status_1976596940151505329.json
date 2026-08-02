@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976239599723876352"
+      ],
+      "media_source_tweet_id": [
+        "1976239611283480916"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1976596940151505329",
+    "created_at": "2025-10-10T10:33:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:33:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976596940151505329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868968470517555200",
+          "start": 3,
+          "username": "BailiKoi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fR1nl28Cf6",
+          "end": 63,
+          "expanded_url": "https://x.com/BailiKoi/status/1976239611283480916/photo/1",
+          "media_key": "3_1976239599723876352",
+          "start": 40,
+          "url": "https://t.co/fR1nl28Cf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976596940151505329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976239611283480916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BailiKoi: 😡这视角呢如何呢，又说我神秘视角？我真得控制你了！ https://t.co/fR1nl28Cf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1976239599723876352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20DcgSaEAA993l.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976239599723876352"
+          ],
+          "media_source_tweet_id": [
+            "1976239611283480916"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1976596940151505329",
+        "created_at": "2025-10-10T10:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976596940151505329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868968470517555200",
+              "start": 3,
+              "username": "BailiKoi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fR1nl28Cf6",
+              "end": 63,
+              "expanded_url": "https://x.com/BailiKoi/status/1976239611283480916/photo/1",
+              "media_key": "3_1976239599723876352",
+              "start": 40,
+              "url": "https://t.co/fR1nl28Cf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976596940151505329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976239611283480916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BailiKoi: 😡这视角呢如何呢，又说我神秘视角？我真得控制你了！ https://t.co/fR1nl28Cf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976239599723876352"
+          ]
+        },
+        "author_id": "1868968470517555200",
+        "conversation_id": "1976239611283480916",
+        "created_at": "2025-10-09T10:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T11:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976239611283480916"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fR1nl28Cf6",
+              "end": 49,
+              "expanded_url": "https://x.com/BailiKoi/status/1976239611283480916/photo/1",
+              "media_key": "3_1976239599723876352",
+              "start": 26,
+              "url": "https://t.co/fR1nl28Cf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976239611283480916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 571,
+          "impression_count": 117118,
+          "like_count": 4159,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "😡这视角呢如何呢，又说我神秘视角？我真得控制你了！ https://t.co/fR1nl28Cf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 174
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T10:36:41.000Z",
+        "description": "图包杂谈@HeiliKoi\n谢谢喜欢，我是女生，不喜欢开性别玩笑。\n同样当我是精神问题严重吧，不喜欢被指点，会急如眼，破如防。拍的照片您喜欢的话夸夸我会很开心，不喜欢就非常抱歉脏你眼睛了\nfanbox：https://t.co/kPgcl55yf7",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "HeiliKoi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bailikoi.fanbox.cc",
+                "end": 124,
+                "expanded_url": "http://bailikoi.fanbox.cc",
+                "start": 101,
+                "url": "https://t.co/kPgcl55yf7"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hedaoapp.com/yun/core?wid=3…",
+                "end": 23,
+                "expanded_url": "https://www.hedaoapp.com/yun/core?wid=32073",
+                "start": 0,
+                "url": "https://t.co/CldpJfOnIA"
+              }
+            ]
+          }
+        },
+        "id": "1868968470517555200",
+        "location": "紅魔館",
+        "name": "白栎Shirly",
+        "pinned_tweet_id": "1898047600773021904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964989097904312320/EkhBjxKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121052,
+          "following_count": 200,
+          "like_count": 237,
+          "listed_count": 416,
+          "media_count": 351,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/CldpJfOnIA",
+        "username": "BailiKoi",
+        "verified": true
+      }
+    ]
+  }
+}

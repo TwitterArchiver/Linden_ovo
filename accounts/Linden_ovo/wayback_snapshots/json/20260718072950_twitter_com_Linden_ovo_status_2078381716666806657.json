@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2078312422629326895",
+    "created_at": "2026-07-18T07:29:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T08:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078381716666806657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1932054193625522176",
+          "start": 0,
+          "username": "6forsaken6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078381716666806657",
+    "in_reply_to_user_id": "1932054193625522176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078312422629326895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6forsaken6 笑死我了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078312415041921024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNemIU7boAAC3DJ.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2078312422629326895",
+        "created_at": "2026-07-18T07:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078381716666806657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1932054193625522176",
+              "start": 0,
+              "username": "6forsaken6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078381716666806657",
+        "in_reply_to_user_id": "1932054193625522176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078312422629326895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6forsaken6 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078312415041921024"
+          ]
+        },
+        "author_id": "1932054193625522176",
+        "conversation_id": "2078312422629326895",
+        "created_at": "2026-07-18T02:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078312422629326895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjx4mYhYNz",
+              "end": 29,
+              "expanded_url": "https://x.com/6forsaken6/status/2078312422629326895/photo/1",
+              "media_key": "3_2078312415041921024",
+              "start": 6,
+              "url": "https://t.co/rjx4mYhYNz"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c00e5392b3fa46fb"
+        },
+        "id": "2078312422629326895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 703,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这野人魔了 https://t.co/rjx4mYhYNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 140,
+          "like_count": 2553,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1666
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-09T12:36:37.000Z",
+        "description": "ENTP/爱看百合/tomorin/废物吉他手(兼没用的贝斯手)/木柜子痴/马克思主义者/交友互fo一定要私信\n\nhttps://t.co/RYdboBzlGB     喵喵喵",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/forsaken48477",
+                "end": 80,
+                "expanded_url": "http://ngl.link/forsaken48477",
+                "start": 57,
+                "url": "https://t.co/RYdboBzlGB"
+              }
+            ]
+          }
+        },
+        "id": "1932054193625522176",
+        "name": "常凯申",
+        "pinned_tweet_id": "2067677786752614637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053420265867239424/YR7k3Ggn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 199,
+          "like_count": 3926,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1871
+        },
+        "url": "",
+        "username": "6forsaken6",
+        "verified": false
+      }
+    ]
+  }
+}

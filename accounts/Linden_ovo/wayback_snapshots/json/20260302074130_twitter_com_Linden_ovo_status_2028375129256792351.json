@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2028375129256792351",
+    "created_at": "2026-03-02T07:41:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:41:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028375129256792351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062499145267605504",
+          "start": 3,
+          "username": "AZKi_VDiVA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028375129256792351",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 525
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028245648747921801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AZKi_VDiVA: おはあずき☀️月曜日！今週もがんばろおおおおおお💪\n花粉に負けない…🤧🤧🤧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2028375129256792351",
+        "created_at": "2026-03-02T07:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028375129256792351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062499145267605504",
+              "start": 3,
+              "username": "AZKi_VDiVA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028375129256792351",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 525
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028245648747921801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AZKi_VDiVA: おはあずき☀️月曜日！今週もがんばろおおおおおお💪\n花粉に負けない…🤧🤧🤧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1062499145267605504",
+        "conversation_id": "2028245648747921801",
+        "created_at": "2026-03-01T23:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T00:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028245648747921801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028245648747921801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 53015,
+          "like_count": 5701,
+          "quote_count": 0,
+          "reply_count": 606,
+          "retweet_count": 525
+        },
+        "reply_settings": "everyone",
+        "text": "おはあずき☀️月曜日！今週もがんばろおおおおおお💪\n花粉に負けない…🤧🤧🤧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 80,
+          "like_count": 1251,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 659
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T00:15:11.000Z",
+        "description": "ホロライブ(@hololivetv)所属のAZKiです。歌うことが大好き。タグ #AZKi ファンアートは #AZKiART 私と一緒に世界を創ってくれる ファンのみんなは #開拓者 ⚒️ パパは@ksk_st",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "AZKi"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "AZKiART"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "開拓者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "hololivetv"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "ksk_st"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC0TXe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+                "start": 0,
+                "url": "https://t.co/yd3bOc0Tqo"
+              }
+            ]
+          }
+        },
+        "id": "1062499145267605504",
+        "name": "AZKi",
+        "pinned_tweet_id": "2022672173429928121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991852837131960320/6Nb-9SzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904468,
+          "following_count": 966,
+          "like_count": 29633,
+          "listed_count": 10263,
+          "media_count": 4176,
+          "tweet_count": 22523
+        },
+        "url": "https://t.co/yd3bOc0Tqo",
+        "username": "AZKi_VDiVA",
+        "verified": true
+      }
+    ]
+  }
+}

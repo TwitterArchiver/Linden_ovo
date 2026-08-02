@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2025936884233392128"
+      ],
+      "media_source_tweet_id": [
+        "2025948765287493983"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026234350124072962",
+    "created_at": "2026-02-24T09:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026234350124072962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1791459618343759872",
+          "start": 3,
+          "username": "mico_bola2230"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j6m3JRwQpy",
+          "end": 42,
+          "expanded_url": "https://x.com/mico_bola2230/status/2025948765287493983/video/1",
+          "media_key": "13_2025936884233392128",
+          "start": 19,
+          "url": "https://t.co/j6m3JRwQpy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026234350124072962",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 750
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025948765287493983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mico_bola2230: https://t.co/j6m3JRwQpy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29975,
+        "height": 640,
+        "media_key": "13_2025936884233392128",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2025936884233392128/img/yosxiiikydna5hml.jpg",
+        "public_metrics": {
+          "view_count": 43717
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025936884233392128/vid/avc1/320x320/afNVSpqpJ6dS5Vph.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025936884233392128/vid/avc1/540x540/TC8-LVIX9AGPmLSM.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2025936884233392128/vid/avc1/640x640/TKo6_NXH_U_5cI4N.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2025936884233392128/pl/Kg2tL_htVS7sEq1D.m3u8?tag=14"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025936884233392128"
+          ],
+          "media_source_tweet_id": [
+            "2025948765287493983"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026234350124072962",
+        "created_at": "2026-02-24T09:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026234350124072962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1791459618343759872",
+              "start": 3,
+              "username": "mico_bola2230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6m3JRwQpy",
+              "end": 42,
+              "expanded_url": "https://x.com/mico_bola2230/status/2025948765287493983/video/1",
+              "media_key": "13_2025936884233392128",
+              "start": 19,
+              "url": "https://t.co/j6m3JRwQpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026234350124072962",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 750
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025948765287493983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mico_bola2230: https://t.co/j6m3JRwQpy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2025936884233392128"
+          ]
+        },
+        "author_id": "1791459618343759872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025948765287493983",
+        "created_at": "2026-02-23T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025948765287493983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j6m3JRwQpy",
+              "end": 23,
+              "expanded_url": "https://x.com/mico_bola2230/status/2025948765287493983/video/1",
+              "media_key": "13_2025936884233392128",
+              "start": 0,
+              "url": "https://t.co/j6m3JRwQpy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025948765287493983",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1482,
+          "impression_count": 84901,
+          "like_count": 5995,
+          "quote_count": 12,
+          "reply_count": 12,
+          "retweet_count": 750
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/j6m3JRwQpy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 83,
+          "like_count": 1208,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 618
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T13:24:11.000Z",
+        "description": "A.\nPosto memes aleatórios da galeria e eu não sei português básico.\nE o meu nome não é gabriel\n\nBazinga",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Google.com",
+                "end": 23,
+                "expanded_url": "http://Google.com",
+                "start": 0,
+                "url": "https://t.co/r7DIK0THaY"
+              }
+            ]
+          }
+        },
+        "id": "1791459618343759872",
+        "location": "6ond9/MC V.V",
+        "name": "🩷Só Sigo Pessoas Incríveis De Bom Coração❤️",
+        "pinned_tweet_id": "1851976518454399236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013414461445427200/HqUF7r1C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8370,
+          "following_count": 939,
+          "like_count": 63193,
+          "listed_count": 14,
+          "media_count": 6099,
+          "tweet_count": 25829
+        },
+        "url": "https://t.co/r7DIK0THaY",
+        "username": "mico_bola2230",
+        "verified": false
+      }
+    ]
+  }
+}

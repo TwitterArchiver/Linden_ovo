@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1986504511603810727",
+    "created_at": "2025-11-06T18:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T19:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986504511603810727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1960389326258495492",
+          "start": 3,
+          "username": "looolzaozimin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986504511603810727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986408415086919819",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @looolzaozimin: 我真的觉得od的男生女生都好帅呀，真的好喜欢，特别是可以o几百片的，真的好可爱好勇敢好帅好忧郁，我的理想型"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1986504511603810727",
+        "created_at": "2025-11-06T18:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T19:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986504511603810727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1960389326258495492",
+              "start": 3,
+              "username": "looolzaozimin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986504511603810727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986408415086919819",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @looolzaozimin: 我真的觉得od的男生女生都好帅呀，真的好喜欢，特别是可以o几百片的，真的好可爱好勇敢好帅好忧郁，我的理想型"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960389326258495492",
+        "conversation_id": "1986408415086919819",
+        "created_at": "2025-11-06T12:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T13:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986408415086919819"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1986408415086919819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9920,
+          "like_count": 147,
+          "quote_count": 5,
+          "reply_count": 30,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得od的男生女生都好帅呀，真的好喜欢，特别是可以o几百片的，真的好可爱好勇敢好帅好忧郁，我的理想型"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 60,
+          "like_count": 714,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 241
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "我叫小藻性别是怪诞小精灵喜欢我的话请给我钱吧",
+        "id": "1960389326258495492",
+        "location": "🚪188",
+        "name": "下坠下坠下坠",
+        "pinned_tweet_id": "1969267181771804999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979667185812258816/DUbJWtJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18821,
+          "following_count": 18,
+          "like_count": 55,
+          "listed_count": 21,
+          "media_count": 47,
+          "tweet_count": 93
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

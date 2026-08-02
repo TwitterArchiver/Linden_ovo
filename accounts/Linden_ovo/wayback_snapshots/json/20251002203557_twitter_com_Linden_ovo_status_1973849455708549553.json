@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973324460406288384"
+      ],
+      "media_source_tweet_id": [
+        "1973324463434506499"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1973849455708549553",
+    "created_at": "2025-10-02T20:35:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T21:35:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973849455708549553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1446068140287332354",
+          "start": 3,
+          "username": "chaoyun12"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/40n0oPJmnc",
+          "end": 48,
+          "expanded_url": "https://x.com/chaoyun12/status/1973324463434506499/photo/1",
+          "media_key": "3_1973324460406288384",
+          "start": 25,
+          "url": "https://t.co/40n0oPJmnc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973849455708549553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973324463434506499",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chaoyun12: 这种的话，那我爱磕 https://t.co/40n0oPJmnc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 951,
+        "media_key": "3_1973324460406288384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2KoJEEbMAAoqjo.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973324460406288384"
+          ],
+          "media_source_tweet_id": [
+            "1973324463434506499"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1973849455708549553",
+        "created_at": "2025-10-02T20:35:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T21:35:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973849455708549553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1446068140287332354",
+              "start": 3,
+              "username": "chaoyun12"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/40n0oPJmnc",
+              "end": 48,
+              "expanded_url": "https://x.com/chaoyun12/status/1973324463434506499/photo/1",
+              "media_key": "3_1973324460406288384",
+              "start": 25,
+              "url": "https://t.co/40n0oPJmnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973849455708549553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973324463434506499",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chaoyun12: 这种的话，那我爱磕 https://t.co/40n0oPJmnc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973324460406288384"
+          ]
+        },
+        "author_id": "1446068140287332354",
+        "conversation_id": "1973324463434506499",
+        "created_at": "2025-10-01T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973324463434506499"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/40n0oPJmnc",
+              "end": 33,
+              "expanded_url": "https://x.com/chaoyun12/status/1973324463434506499/photo/1",
+              "media_key": "3_1973324460406288384",
+              "start": 10,
+              "url": "https://t.co/40n0oPJmnc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973324463434506499",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 250567,
+          "like_count": 1333,
+          "quote_count": 10,
+          "reply_count": 52,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "这种的话，那我爱磕 https://t.co/40n0oPJmnc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 51,
+          "like_count": 553,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 151
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-07T11:01:41.000Z",
+        "description": "水中月，镜中花，逆旅惊鸿客",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chaoyun.bsky.social",
+                "end": 23,
+                "expanded_url": "http://chaoyun.bsky.social",
+                "start": 0,
+                "url": "https://t.co/p80F0PY73U"
+              }
+            ]
+          }
+        },
+        "id": "1446068140287332354",
+        "name": "朝云",
+        "pinned_tweet_id": "1871903249940599027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948581561844334599/BOsEuQX4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 256,
+          "like_count": 77351,
+          "listed_count": 11,
+          "media_count": 2070,
+          "tweet_count": 40582
+        },
+        "url": "https://t.co/p80F0PY73U",
+        "username": "chaoyun12",
+        "verified": false
+      }
+    ]
+  }
+}

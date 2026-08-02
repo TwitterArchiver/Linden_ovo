@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2074425204546433024"
+      ],
+      "media_source_tweet_id": [
+        "2074425293008441543"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2074892895220355525",
+    "created_at": "2026-07-08T16:26:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:26:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074892895220355525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "797439291752378368",
+          "start": 3,
+          "username": "lover_ning"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mThPALinlb",
+          "end": 39,
+          "expanded_url": "https://x.com/lover_ning/status/2074425293008441543/video/1",
+          "media_key": "13_2074425204546433024",
+          "start": 16,
+          "url": "https://t.co/mThPALinlb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074892895220355525",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074425293008441543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lover_ning: https://t.co/mThPALinlb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 43048,
+        "height": 640,
+        "media_key": "13_2074425204546433024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074425204546433024/img/-xwiBZfCK7W519CR.jpg",
+        "public_metrics": {
+          "view_count": 34305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074425204546433024/vid/avc1/320x568/rPWvNo0y-iPKVuEI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074425204546433024/vid/avc1/360x640/TbaEdALwr3OUiXDn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074425204546433024/pl/yZdoFd9lab-vZCim.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074425204546433024"
+          ],
+          "media_source_tweet_id": [
+            "2074425293008441543"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2074892895220355525",
+        "created_at": "2026-07-08T16:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074892895220355525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "797439291752378368",
+              "start": 3,
+              "username": "lover_ning"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mThPALinlb",
+              "end": 39,
+              "expanded_url": "https://x.com/lover_ning/status/2074425293008441543/video/1",
+              "media_key": "13_2074425204546433024",
+              "start": 16,
+              "url": "https://t.co/mThPALinlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074892895220355525",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074425293008441543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lover_ning: https://t.co/mThPALinlb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074425204546433024"
+          ]
+        },
+        "author_id": "797439291752378368",
+        "conversation_id": "2074425293008441543",
+        "created_at": "2026-07-07T09:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074425293008441543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mThPALinlb",
+              "end": 23,
+              "expanded_url": "https://x.com/lover_ning/status/2074425293008441543/video/1",
+              "media_key": "13_2074425204546433024",
+              "start": 0,
+              "url": "https://t.co/mThPALinlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074425293008441543",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 68308,
+          "like_count": 450,
+          "quote_count": 6,
+          "reply_count": 28,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mThPALinlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 134,
+          "like_count": 2311,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1486
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-12T14:01:57.000Z",
+        "description": "本号偏猎奇向，谨慎关注 / 头像是本人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onion03.vip/?channelid=145…",
+                "end": 23,
+                "expanded_url": "https://onion03.vip?channelid=14532&tid=562324&type=7&system=1",
+                "start": 0,
+                "url": "https://t.co/V6J2FWCXht"
+              }
+            ]
+          }
+        },
+        "id": "797439291752378368",
+        "location": "自用VPN👉🏼",
+        "name": "SUZU",
+        "pinned_tweet_id": "1970317413502853194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746648879364501505/tSGXif8I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292033,
+          "following_count": 92,
+          "like_count": 32570,
+          "listed_count": 480,
+          "media_count": 3592,
+          "tweet_count": 28627
+        },
+        "url": "https://t.co/V6J2FWCXht",
+        "username": "lover_ning",
+        "verified": false
+      }
+    ]
+  }
+}

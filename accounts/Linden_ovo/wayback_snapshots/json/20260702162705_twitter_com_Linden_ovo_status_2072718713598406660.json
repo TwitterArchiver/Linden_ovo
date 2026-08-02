@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072718713598406660",
+    "created_at": "2026-07-02T16:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072718713598406660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842490676543627264",
+          "start": 3,
+          "username": "Linden_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072718713598406660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982786060489806127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Linden_ovo: 睡觉吧 你啥样了 我都喜欢你 你嘴巴再毒 你再不讲理 你心里也不是那样想的 你很想表达 可是大小姐脾气嘛 我理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072718713598406660",
+        "created_at": "2026-07-02T16:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072718713598406660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842490676543627264",
+              "start": 3,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072718713598406660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982786060489806127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Linden_ovo: 睡觉吧 你啥样了 我都喜欢你 你嘴巴再毒 你再不讲理 你心里也不是那样想的 你很想表达 可是大小姐脾气嘛 我理解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1982786060489806127",
+        "created_at": "2025-10-27T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982786060489806127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982786060489806127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉吧 你啥样了 我都喜欢你 你嘴巴再毒 你再不讲理 你心里也不是那样想的 你很想表达 可是大小姐脾气嘛 我理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 115,
+          "like_count": 2009,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1257
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

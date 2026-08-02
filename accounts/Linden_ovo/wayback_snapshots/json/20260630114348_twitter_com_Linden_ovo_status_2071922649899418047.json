@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2071922649899418047",
+    "created_at": "2026-06-30T11:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071922649899418047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1717080688342794240",
+          "start": 3,
+          "username": "luv1187348"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071922649899418047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071494900760334619",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luv1187348: 你文化水准高，知道什么LGBT，我乡下人，我不知道我是不是男同，我爸妈从小就不要我了，村里东一口西一口混饭长大的，饥一顿饱一顿是常态，这个男的给我吃给我喝给我住，夏天还让我吹空调，操就操了，不让他操我还能干嘛，死在路边吗，我不知道你们这些大学生在…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071922649899418047",
+        "created_at": "2026-06-30T11:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071922649899418047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1717080688342794240",
+              "start": 3,
+              "username": "luv1187348"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071922649899418047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071494900760334619",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luv1187348: 你文化水准高，知道什么LGBT，我乡下人，我不知道我是不是男同，我爸妈从小就不要我了，村里东一口西一口混饭长大的，饥一顿饱一顿是常态，这个男的给我吃给我喝给我住，夏天还让我吹空调，操就操了，不让他操我还能干嘛，死在路边吗，我不知道你们这些大学生在…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717080688342794240",
+        "conversation_id": "2071494900760334619",
+        "created_at": "2026-06-29T07:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T08:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071494900760334619"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071494900760334619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 53297,
+          "like_count": 507,
+          "quote_count": 6,
+          "reply_count": 27,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "你文化水准高，知道什么LGBT，我乡下人，我不知道我是不是男同，我爸妈从小就不要我了，村里东一口西一口混饭长大的，饥一顿饱一顿是常态，这个男的给我吃给我喝给我住，夏天还让我吹空调，操就操了，不让他操我还能干嘛，死在路边吗，我不知道你们这些大学生在想什么，我只知道幸福很难，遇到就要抓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 111,
+          "like_count": 1861,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1162
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T07:28:41.000Z",
+        "description": "别看我长得萌就一定呆啊",
+        "id": "1717080688342794240",
+        "name": "大耳帽兜",
+        "pinned_tweet_id": "1941787163991195786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992801489765777408/ghcSPAZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 342,
+          "like_count": 780,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 2803
+        },
+        "url": "",
+        "username": "luv1187348",
+        "verified": false
+      }
+    ]
+  }
+}

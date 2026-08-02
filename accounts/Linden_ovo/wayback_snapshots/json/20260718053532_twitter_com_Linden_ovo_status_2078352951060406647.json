@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2078352951060406647",
+    "created_at": "2026-07-18T05:35:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T06:35:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078352951060406647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2069484916648366080",
+          "start": 3,
+          "username": "Waheu0n"
+        },
+        {
+          "end": 24,
+          "id": "1153373316977176576",
+          "start": 13,
+          "username": "kotoro0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078352951060406647",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078094484085342390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Waheu0n: @kotoro0223 男生有的时候会和自己的几把吵架，急眼了就一刀下去了，当然不会砍那么狠，毕竟是自己的几把"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2078352951060406647",
+        "created_at": "2026-07-18T05:35:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T06:35:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078352951060406647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2069484916648366080",
+              "start": 3,
+              "username": "Waheu0n"
+            },
+            {
+              "end": 24,
+              "id": "1153373316977176576",
+              "start": 13,
+              "username": "kotoro0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078352951060406647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078094484085342390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Waheu0n: @kotoro0223 男生有的时候会和自己的几把吵架，急眼了就一刀下去了，当然不会砍那么狠，毕竟是自己的几把"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069484916648366080",
+        "conversation_id": "2078090537241079826",
+        "created_at": "2026-07-17T12:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T13:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078094484085342390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1153373316977176576",
+              "start": 0,
+              "username": "kotoro0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078094484085342390",
+        "in_reply_to_user_id": "1153373316977176576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16937,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078090537241079826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kotoro0223 男生有的时候会和自己的几把吵架，急眼了就一刀下去了，当然不会砍那么狠，毕竟是自己的几把"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 140,
+          "like_count": 2547,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-23T18:17:57.000Z",
+        "description": "And I wonder if you know\nWhat it means",
+        "id": "2069484916648366080",
+        "location": "Lands Between",
+        "name": "Wahe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069485289266143232/armklFPO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 126,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "Waheu0n",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5687,
+          "following_count": 98,
+          "like_count": 1313,
+          "listed_count": 5,
+          "media_count": 247,
+          "tweet_count": 1292
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

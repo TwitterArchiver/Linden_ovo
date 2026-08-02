@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054547949724811264"
+      ],
+      "media_source_tweet_id": [
+        "2054547954816655706"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2054797680279232803",
+    "created_at": "2026-05-14T05:35:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T06:35:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054797680279232803"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 15,
+          "tag": "学マスFA"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890780488077590528",
+          "start": 3,
+          "username": "Otema_san"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cJ3a46bXMx",
+          "end": 49,
+          "expanded_url": "https://x.com/Otema_san/status/2054547954816655706/photo/1",
+          "media_key": "3_2054547949724811264",
+          "start": 26,
+          "url": "https://t.co/cJ3a46bXMx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054797680279232803",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 563
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054547954816655706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Otema_san: #学マスFA \n🇨🇳 https://t.co/cJ3a46bXMx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2054547949724811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIM4eY1awAA1spm.jpg",
+        "width": 989
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054547949724811264"
+          ],
+          "media_source_tweet_id": [
+            "2054547954816655706"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2054797680279232803",
+        "created_at": "2026-05-14T05:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T06:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054797680279232803"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 15,
+              "tag": "学マスFA"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890780488077590528",
+              "start": 3,
+              "username": "Otema_san"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJ3a46bXMx",
+              "end": 49,
+              "expanded_url": "https://x.com/Otema_san/status/2054547954816655706/photo/1",
+              "media_key": "3_2054547949724811264",
+              "start": 26,
+              "url": "https://t.co/cJ3a46bXMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054797680279232803",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 563
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054547954816655706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Otema_san: #学マスFA \n🇨🇳 https://t.co/cJ3a46bXMx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054547949724811264"
+          ]
+        },
+        "author_id": "1890780488077590528",
+        "conversation_id": "2054547954816655706",
+        "created_at": "2026-05-13T13:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T14:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054547954816655706"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "学マスFA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cJ3a46bXMx",
+              "end": 34,
+              "expanded_url": "https://x.com/Otema_san/status/2054547954816655706/photo/1",
+              "media_key": "3_2054547949724811264",
+              "start": 11,
+              "url": "https://t.co/cJ3a46bXMx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054547954816655706",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 367,
+          "impression_count": 101956,
+          "like_count": 4856,
+          "quote_count": 10,
+          "reply_count": 7,
+          "retweet_count": 563
+        },
+        "reply_settings": "everyone",
+        "text": "#学マスFA \n🇨🇳 https://t.co/cJ3a46bXMx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 101,
+          "like_count": 1689,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1025
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "早くねないとおてまさんくるよ",
+        "id": "1890780488077590528",
+        "location": "ぬいの国",
+        "name": "おてまさん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039246772888051712/J6-g-Fu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1753,
+          "following_count": 1,
+          "like_count": 375,
+          "listed_count": 8,
+          "media_count": 161,
+          "tweet_count": 164
+        },
+        "username": "Otema_san",
+        "verified": false
+      }
+    ]
+  }
+}

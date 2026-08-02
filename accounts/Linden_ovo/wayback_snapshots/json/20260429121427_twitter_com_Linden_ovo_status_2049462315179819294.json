@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049174000082014208"
+      ],
+      "media_source_tweet_id": [
+        "2049174005655974036"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2049462315179819294",
+    "created_at": "2026-04-29T12:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049462315179819294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1792732643966304256",
+          "start": 3,
+          "username": "aqCuSO_4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hJPfGeKWNh",
+          "end": 45,
+          "expanded_url": "https://x.com/aqCuSO_4/status/2049174005655974036/photo/1",
+          "media_key": "3_2049174000082014208",
+          "start": 22,
+          "url": "https://t.co/hJPfGeKWNh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049462315179819294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049174005655974036",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aqCuSO_4: 被山东s笑抽了 https://t.co/hJPfGeKWNh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 758,
+        "media_key": "3_2049174000082014208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAg5WXa0AAIWzB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049174000082014208"
+          ],
+          "media_source_tweet_id": [
+            "2049174005655974036"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2049462315179819294",
+        "created_at": "2026-04-29T12:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049462315179819294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1792732643966304256",
+              "start": 3,
+              "username": "aqCuSO_4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJPfGeKWNh",
+              "end": 45,
+              "expanded_url": "https://x.com/aqCuSO_4/status/2049174005655974036/photo/1",
+              "media_key": "3_2049174000082014208",
+              "start": 22,
+              "url": "https://t.co/hJPfGeKWNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049462315179819294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049174005655974036",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aqCuSO_4: 被山东s笑抽了 https://t.co/hJPfGeKWNh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049174000082014208"
+          ]
+        },
+        "author_id": "1792732643966304256",
+        "conversation_id": "2049174005655974036",
+        "created_at": "2026-04-28T17:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T18:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049174005655974036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hJPfGeKWNh",
+              "end": 31,
+              "expanded_url": "https://x.com/aqCuSO_4/status/2049174005655974036/photo/1",
+              "media_key": "3_2049174000082014208",
+              "start": 8,
+              "url": "https://t.co/hJPfGeKWNh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049174005655974036",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 226879,
+          "like_count": 805,
+          "quote_count": 16,
+          "reply_count": 31,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "被山东s笑抽了 https://t.co/hJPfGeKWNh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 1646,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 976
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T01:42:31.000Z",
+        "description": "男，31岁，无房无车无工作，离异三次带俩娃。",
+        "id": "1792732643966304256",
+        "location": "好想吃麦当劳",
+        "name": "CuSO₄(aq)",
+        "pinned_tweet_id": "1832384349406425416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920434314782642177/8EIblPxh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6382,
+          "following_count": 735,
+          "like_count": 8641,
+          "listed_count": 7,
+          "media_count": 669,
+          "tweet_count": 3882
+        },
+        "username": "aqCuSO_4",
+        "verified": false
+      }
+    ]
+  }
+}

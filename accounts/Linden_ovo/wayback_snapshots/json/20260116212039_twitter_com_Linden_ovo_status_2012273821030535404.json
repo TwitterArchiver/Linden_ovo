@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2011604249474458069",
+    "created_at": "2026-01-16T21:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T22:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012273821030535404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617162636415598593",
+          "start": 0,
+          "username": "DebbieS23013354"
+        },
+        {
+          "end": 24,
+          "id": "1545277694325116928",
+          "start": 17,
+          "username": "BI3BXI"
+        },
+        {
+          "end": 30,
+          "id": "1720665183188922368",
+          "start": 25,
+          "username": "grok"
+        },
+        {
+          "end": 36,
+          "id": "1720665183188922368",
+          "start": 31,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012273821030535404",
+    "in_reply_to_user_id": "1617162636415598593",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012024848823038280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbieS23013354 @BI3BXI @grok @grok is he telling truth"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2011604249474458069",
+        "created_at": "2026-01-16T21:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T22:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012273821030535404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617162636415598593",
+              "start": 0,
+              "username": "DebbieS23013354"
+            },
+            {
+              "end": 24,
+              "id": "1545277694325116928",
+              "start": 17,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 30,
+              "id": "1720665183188922368",
+              "start": 25,
+              "username": "grok"
+            },
+            {
+              "end": 36,
+              "id": "1720665183188922368",
+              "start": 31,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012273821030535404",
+        "in_reply_to_user_id": "1617162636415598593",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012024848823038280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbieS23013354 @BI3BXI @grok @grok is he telling truth"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617162636415598593",
+        "conversation_id": "2011604249474458069",
+        "created_at": "2026-01-16T04:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T05:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012024848823038280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            },
+            {
+              "end": 19,
+              "id": "1545277694325116928",
+              "start": 12,
+              "username": "BI3BXI"
+            },
+            {
+              "end": 25,
+              "id": "1720665183188922368",
+              "start": 20,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012024848823038280",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011700311665291395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo @BI3BXI @grok 这辈子有了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了滚",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 73,
+          "like_count": 996,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 457
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "😈💩🫶🤡🙀👹🤲🫥😪🤥🤮🫲👋🫷🫀👄🫁🫂🫦👯👩‍🦼👯‍♀️🫶😋🫁🏝️🍊💰😂💩🏝️🥺🧦🚪",
+        "id": "1617162636415598593",
+        "location": "贾巴沃克岛🏝️",
+        "name": "3r EUSho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 353,
+          "like_count": 12009,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 3096
+        },
+        "username": "DebbieS23013354",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "@snowfairy011026所属｜前世17kfollowers @ryq59｜本体@yqua_｜除了梗图外 时不时发一些有价值的内容｜点击“查看更多”可以了解我～｜400一年X Premium可以私信我｜杂鱼@cy79p｜浔姐姐@tonghua245｜🌟😠@long_long99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 40,
+                "start": 34,
+                "username": "ryq59"
+              },
+              {
+                "end": 49,
+                "start": 43,
+                "username": "yqua_"
+              },
+              {
+                "end": 112,
+                "start": 106,
+                "username": "cy79p"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "tonghua245"
+              },
+              {
+                "end": 142,
+                "start": 130,
+                "username": "long_long99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPBAmp"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "铨（互fo寻回中）",
+        "pinned_tweet_id": "2011604249474458069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6145,
+          "following_count": 3261,
+          "like_count": 29912,
+          "listed_count": 16,
+          "media_count": 1134,
+          "tweet_count": 5368
+        },
+        "url": "https://t.co/9ZD7jPBAmp",
+        "username": "BI3BXI",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7546992,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5810,
+          "media_count": 7776473,
+          "tweet_count": 91289060
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

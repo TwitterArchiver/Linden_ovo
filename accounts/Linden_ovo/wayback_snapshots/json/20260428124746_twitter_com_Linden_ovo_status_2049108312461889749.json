@@ -1,0 +1,621 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048968858564972544"
+      ],
+      "media_source_tweet_id": [
+        "2049051000850256333"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2049108312461889749",
+    "created_at": "2026-04-28T12:47:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:47:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049108312461889749"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "ホロベース2026"
+        },
+        {
+          "end": 59,
+          "start": 52,
+          "tag": "古石ビジュー"
+        },
+        {
+          "end": 83,
+          "start": 78,
+          "tag": "音乃瀬奏"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915216259605733377",
+          "start": 3,
+          "username": "hololiveBASE"
+        },
+        {
+          "end": 73,
+          "id": "1656531547279982593",
+          "start": 61,
+          "username": "kosekibijou"
+        },
+        {
+          "end": 99,
+          "id": "1677214311738118144",
+          "start": 85,
+          "username": "otonosekanade"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hbDIz7Ww1N",
+          "end": 124,
+          "expanded_url": "https://x.com/hololiveBASE/status/2049051000850256333/photo/1",
+          "media_key": "3_2048968858564972544",
+          "start": 101,
+          "url": "https://t.co/hbDIz7Ww1N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049108312461889749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 457
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049051000850256333",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hololiveBASE: ／\n#ホロベース2026\n宮城担当のイラストをご紹介❣️\n＼\n\n🗿 #古石ビジュー (@kosekibijou)\n🎹✨ #音乃瀬奏 (@otonosekanade) https://t.co/hbDIz7Ww1N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048968858564972544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9mUiqaUAATV_-.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048968858564972544"
+          ],
+          "media_source_tweet_id": [
+            "2049051000850256333"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2049108312461889749",
+        "created_at": "2026-04-28T12:47:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:47:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049108312461889749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "ホロベース2026"
+            },
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "古石ビジュー"
+            },
+            {
+              "end": 83,
+              "start": 78,
+              "tag": "音乃瀬奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915216259605733377",
+              "start": 3,
+              "username": "hololiveBASE"
+            },
+            {
+              "end": 73,
+              "id": "1656531547279982593",
+              "start": 61,
+              "username": "kosekibijou"
+            },
+            {
+              "end": 99,
+              "id": "1677214311738118144",
+              "start": 85,
+              "username": "otonosekanade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbDIz7Ww1N",
+              "end": 124,
+              "expanded_url": "https://x.com/hololiveBASE/status/2049051000850256333/photo/1",
+              "media_key": "3_2048968858564972544",
+              "start": 101,
+              "url": "https://t.co/hbDIz7Ww1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049108312461889749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 457
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049051000850256333",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hololiveBASE: ／\n#ホロベース2026\n宮城担当のイラストをご紹介❣️\n＼\n\n🗿 #古石ビジュー (@kosekibijou)\n🎹✨ #音乃瀬奏 (@otonosekanade) https://t.co/hbDIz7Ww1N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048968858564972544"
+          ]
+        },
+        "author_id": "1915216259605733377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2049051000850256333",
+        "created_at": "2026-04-28T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049051000850256333"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "ホロベース2026"
+            },
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "古石ビジュー"
+            },
+            {
+              "end": 65,
+              "start": 60,
+              "tag": "音乃瀬奏"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1656531547279982593",
+              "start": 43,
+              "username": "kosekibijou"
+            },
+            {
+              "end": 81,
+              "id": "1677214311738118144",
+              "start": 67,
+              "username": "otonosekanade"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbDIz7Ww1N",
+              "end": 106,
+              "expanded_url": "https://x.com/hololiveBASE/status/2049051000850256333/photo/1",
+              "media_key": "3_2048968858564972544",
+              "start": 83,
+              "url": "https://t.co/hbDIz7Ww1N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049051000850256333",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 36034,
+          "like_count": 1979,
+          "quote_count": 54,
+          "reply_count": 8,
+          "retweet_count": 457
+        },
+        "reply_settings": "everyone",
+        "text": "／\n#ホロベース2026\n宮城担当のイラストをご紹介❣️\n＼\n\n🗿 #古石ビジュー (@kosekibijou)\n🎹✨ #音乃瀬奏 (@otonosekanade) https://t.co/hbDIz7Ww1N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 1623,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 961
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T01:29:37.000Z",
+        "description": "「hololive BASE on Tour! 2026 Duet Stage!」の公式アカウントです！\nグッズや開催情報などについて情報発信を致します。\n※旧hololive SUPER EXPO 2025 後夜祭 ~bonus stage~のアカウントが本アカウントに変更されました。\n※個別のお返事はできません。",
+        "id": "1915216259605733377",
+        "location": "日本",
+        "name": "hololive BASE on Tour! 2026 Duet Stage!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027292414315278336/bdT3cq9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20786,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 70,
+          "media_count": 11,
+          "tweet_count": 15
+        },
+        "username": "hololiveBASE",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T05:28:03.000Z",
+        "description": "Sparkling Gem of hololive English -Advent- |✨ Kira Kira~ Koseki! | Mama: @428clv | Papa: @otsukue | 🎨: #bijouwled | #LIVEseki | #LMOAI | #pebblesona",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "bijouwled"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "LIVEseki"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "LMOAI"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "tag": "pebblesona"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "428clv"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "otsukue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KosekiBijou",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KosekiBijou",
+                "start": 0,
+                "url": "https://t.co/BPFanQd0yb"
+              }
+            ]
+          }
+        },
+        "id": "1656531547279982593",
+        "name": "Koseki Bijou🗿holoEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776452971662049280/V_D-4vKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402754,
+          "following_count": 199,
+          "like_count": 24341,
+          "listed_count": 2770,
+          "media_count": 1516,
+          "tweet_count": 8742
+        },
+        "url": "https://t.co/BPFanQd0yb",
+        "username": "kosekibijou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-07T07:14:05.000Z",
+        "description": "ドレミファソラシド～！\nホロライブDEV_IS所属、ReGLOSSの音楽家の卵！\n音乃瀬～奏で～～～す！\nホロライブプロダクション | ママ: @gcmzi | パパ: @otsukue | FAタグ: #Artnose 配信タグ: #生音乃瀬 ファンネーム: #音の勢 |",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "Artnose"
+              },
+              {
+                "end": 122,
+                "start": 117,
+                "tag": "生音乃瀬"
+              },
+              {
+                "end": 135,
+                "start": 131,
+                "tag": "音の勢"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 72,
+                "username": "gcmzi"
+              },
+              {
+                "end": 93,
+                "start": 85,
+                "username": "otsukue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@OtonoseKanade…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@OtonoseKanade/?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/TJTT677k0t"
+              }
+            ]
+          }
+        },
+        "id": "1677214311738118144",
+        "name": "音乃瀬奏🎹✨ReGLOSS",
+        "pinned_tweet_id": "2046200305269002622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955104032349155328/pEplDUNs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369508,
+          "following_count": 236,
+          "like_count": 25647,
+          "listed_count": 4287,
+          "media_count": 1482,
+          "tweet_count": 11074
+        },
+        "url": "https://t.co/TJTT677k0t",
+        "username": "otonosekanade",
+        "verified": false
+      }
+    ]
+  }
+}

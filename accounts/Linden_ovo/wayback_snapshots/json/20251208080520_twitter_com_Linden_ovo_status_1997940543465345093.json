@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1997940543465345093",
+    "created_at": "2025-12-08T08:05:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T09:05:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997940543465345093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1383099092834734080",
+          "start": 3,
+          "username": "Donmasayosi"
+        },
+        {
+          "end": 33,
+          "id": "1404116100271460359",
+          "start": 17,
+          "username": "minami_with_bei"
+        },
+        {
+          "end": 42,
+          "id": "1263514257414516736",
+          "start": 34,
+          "username": "chsmqgj"
+        },
+        {
+          "end": 52,
+          "id": "1589809419822329857",
+          "start": 43,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997940543465345093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997940372337750092",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donmasayosi: @minami_with_bei @chsmqgj @jianlvup 动物的确实可以。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1997940543465345093",
+        "created_at": "2025-12-08T08:05:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:05:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997940543465345093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1383099092834734080",
+              "start": 3,
+              "username": "Donmasayosi"
+            },
+            {
+              "end": 33,
+              "id": "1404116100271460359",
+              "start": 17,
+              "username": "minami_with_bei"
+            },
+            {
+              "end": 42,
+              "id": "1263514257414516736",
+              "start": 34,
+              "username": "chsmqgj"
+            },
+            {
+              "end": 52,
+              "id": "1589809419822329857",
+              "start": 43,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997940543465345093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997940372337750092",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donmasayosi: @minami_with_bei @chsmqgj @jianlvup 动物的确实可以。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1383099092834734080",
+        "conversation_id": "1997806488753172621",
+        "created_at": "2025-12-08T08:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T09:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997940372337750092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1404116100271460359",
+              "start": 0,
+              "username": "minami_with_bei"
+            },
+            {
+              "end": 25,
+              "id": "1263514257414516736",
+              "start": 17,
+              "username": "chsmqgj"
+            },
+            {
+              "end": 35,
+              "id": "1589809419822329857",
+              "start": 26,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997940372337750092",
+        "in_reply_to_user_id": "1404116100271460359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997938849381773493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minami_with_bei @chsmqgj @jianlvup 动物的确实可以。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 834,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 339
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-16T16:45:03.000Z",
+        "description": "",
+        "id": "1383099092834734080",
+        "name": "给你一拳！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950249848273588226/yk6vbqDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 717,
+          "like_count": 18131,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 14
+        },
+        "username": "Donmasayosi",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T16:39:10.000Z",
+        "description": "想要朋友/祈祷稳定多巴胺血清素/是个里账号/infp/坐标合肥&宣城",
+        "id": "1404116100271460359",
+        "location": "地球🌍",
+        "name": "minami南🌈🏳 北北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654136864398540800/HiK9Ta_M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 962,
+          "like_count": 18260,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 3435
+        },
+        "username": "minami_with_bei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T16:57:34.000Z",
+        "description": "",
+        "id": "1263514257414516736",
+        "name": "chsmqgj",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 275,
+          "like_count": 49,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 258
+        },
+        "username": "chsmqgj",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人  INTJ 欢迎交流 爱评论点赞 \n逃生舱：@jianlvya\n搭档:@KawawaDiana8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 29,
+                "username": "jianlvya"
+              },
+              {
+                "end": 58,
+                "start": 42,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1997805636038570382",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992981633105113088/ZtR4hyl0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13508,
+          "following_count": 1125,
+          "like_count": 62043,
+          "listed_count": 46,
+          "media_count": 2185,
+          "tweet_count": 4930
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

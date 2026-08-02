@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080281380014239744"
+      ],
+      "media_source_tweet_id": [
+        "2080281386960003272"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080628354294636609",
+    "created_at": "2026-07-24T12:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080628354294636609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ba2RNcbYDZ",
+          "end": 61,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2080281386960003272/photo/1",
+          "media_key": "3_2080281380014239744",
+          "start": 38,
+          "url": "https://t.co/Ba2RNcbYDZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080628354294636609",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080281386960003272",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 你们别凹了，再凹就要把人凹没了喵😭 https://t.co/Ba2RNcbYDZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1574,
+        "media_key": "3_2080281380014239744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6k5LCbsAAPKK1.jpg",
+        "width": 786
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080281380014239744"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2080281386960003272",
+        "created_at": "2026-07-23T13:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080281386960003272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ba2RNcbYDZ",
+              "end": 41,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2080281386960003272/photo/1",
+              "media_key": "3_2080281380014239744",
+              "start": 18,
+              "url": "https://t.co/Ba2RNcbYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080281386960003272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 141691,
+          "like_count": 927,
+          "quote_count": 1,
+          "reply_count": 114,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "你们别凹了，再凹就要把人凹没了喵😭 https://t.co/Ba2RNcbYDZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080281380014239744"
+          ],
+          "media_source_tweet_id": [
+            "2080281386960003272"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080628354294636609",
+        "created_at": "2026-07-24T12:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080628354294636609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ba2RNcbYDZ",
+              "end": 61,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2080281386960003272/photo/1",
+              "media_key": "3_2080281380014239744",
+              "start": 38,
+              "url": "https://t.co/Ba2RNcbYDZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080628354294636609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080281386960003272",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 你们别凹了，再凹就要把人凹没了喵😭 https://t.co/Ba2RNcbYDZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 146,
+          "like_count": 2761,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11787,
+          "following_count": 882,
+          "like_count": 31551,
+          "listed_count": 20,
+          "media_count": 2228,
+          "tweet_count": 10974
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

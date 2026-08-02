@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2079184213635371055",
+    "created_at": "2026-07-20T19:27:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T20:27:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079287002910876013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312081858859991041",
+          "start": 0,
+          "username": "Fulukawa_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079287002910876013",
+    "in_reply_to_user_id": "1312081858859991041",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079209320970174744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fulukawa_na 你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2079184213635371055",
+        "created_at": "2026-07-20T19:27:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079287002910876013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312081858859991041",
+              "start": 0,
+              "username": "Fulukawa_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079287002910876013",
+        "in_reply_to_user_id": "1312081858859991041",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079209320970174744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fulukawa_na 你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312081858859991041",
+        "conversation_id": "2079184213635371055",
+        "created_at": "2026-07-20T14:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079209320970174744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079209320970174744",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079184213635371055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 是谁呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078903804787924993/eOQFJr9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 144,
+          "like_count": 2638,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T17:28:06.000Z",
+        "description": "請不要找我女朋友聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@akamiomo?_r=1…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@akamiomo?_r=1&_t=ZS-91U2e55O9rT",
+                "start": 0,
+                "url": "https://t.co/XgD7RU9nW2"
+              }
+            ]
+          }
+        },
+        "id": "1312081858859991041",
+        "name": "AKami_o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078903069103001600/51P84xVD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 118,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 32
+        },
+        "url": "https://t.co/XgD7RU9nW2",
+        "username": "Fulukawa_na",
+        "verified": false
+      }
+    ]
+  }
+}

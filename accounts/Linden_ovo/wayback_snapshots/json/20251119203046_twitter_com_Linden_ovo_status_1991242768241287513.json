@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1991242768241287513",
+    "created_at": "2025-11-19T20:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-19T21:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991242768241287513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "217689128",
+          "start": 3,
+          "username": "q1ngyang"
+        },
+        {
+          "end": 23,
+          "id": "878230708606468098",
+          "start": 14,
+          "username": "Dotshite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991242768241287513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991099244242211016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @q1ngyang: @Dotshite 越来越和小学生没区别了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1991242768241287513",
+        "created_at": "2025-11-19T20:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T21:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991242768241287513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "217689128",
+              "start": 3,
+              "username": "q1ngyang"
+            },
+            {
+              "end": 23,
+              "id": "878230708606468098",
+              "start": 14,
+              "username": "Dotshite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991242768241287513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991099244242211016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @q1ngyang: @Dotshite 越来越和小学生没区别了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "217689128",
+        "conversation_id": "1990609469987041600",
+        "created_at": "2025-11-19T11:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-19T12:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991099244242211016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "878230708606468098",
+              "start": 0,
+              "username": "Dotshite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991099244242211016",
+        "in_reply_to_user_id": "878230708606468098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2862,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990609469987041600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dotshite 越来越和小学生没区别了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 752,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 280
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-20T06:46:43.000Z",
+        "description": "＼＼\\\\٩( 'ω' )و //／／",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dou.bi",
+                "end": 23,
+                "expanded_url": "http://dou.bi",
+                "start": 0,
+                "url": "https://t.co/9tKWYMCCu2"
+              }
+            ]
+          }
+        },
+        "id": "217689128",
+        "location": "Mars",
+        "name": "轻飏",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881368683274289153/BJY6LkZk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20913,
+          "following_count": 9759,
+          "like_count": 1613,
+          "listed_count": 151,
+          "media_count": 1732,
+          "tweet_count": 22871
+        },
+        "url": "https://t.co/9tKWYMCCu2",
+        "username": "q1ngyang",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-23T12:38:12.000Z",
+        "description": "为什么",
+        "id": "878230708606468098",
+        "location": "麦門町",
+        "name": "點解質",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969826378821545984/grCscniS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 1146,
+          "like_count": 38412,
+          "listed_count": 1,
+          "media_count": 758,
+          "tweet_count": 4622
+        },
+        "username": "Dotshite",
+        "verified": true
+      }
+    ]
+  }
+}

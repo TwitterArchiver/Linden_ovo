@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049461921393565696",
+        "3_2049461921364287488",
+        "3_2049461921372569600",
+        "3_2049461921368395776"
+      ],
+      "media_source_tweet_id": [
+        "2049461948266483978",
+        "2049461948266483978",
+        "2049461948266483978",
+        "2049461948266483978"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2049773219473670238",
+    "created_at": "2026-04-30T08:49:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:49:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049773219473670238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "749833254052605952",
+          "start": 3,
+          "username": "toarutoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/asuZgFSwuu",
+          "end": 56,
+          "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+          "media_key": "3_2049461921393565696",
+          "start": 33,
+          "url": "https://t.co/asuZgFSwuu"
+        },
+        {
+          "display_url": "pic.x.com/asuZgFSwuu",
+          "end": 56,
+          "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+          "media_key": "3_2049461921364287488",
+          "start": 33,
+          "url": "https://t.co/asuZgFSwuu"
+        },
+        {
+          "display_url": "pic.x.com/asuZgFSwuu",
+          "end": 56,
+          "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+          "media_key": "3_2049461921372569600",
+          "start": 33,
+          "url": "https://t.co/asuZgFSwuu"
+        },
+        {
+          "display_url": "pic.x.com/asuZgFSwuu",
+          "end": 56,
+          "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+          "media_key": "3_2049461921368395776",
+          "start": 33,
+          "url": "https://t.co/asuZgFSwuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049773219473670238",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 928
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049461948266483978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @toarutoa: 日本、もう擬似化されてないものない説 https://t.co/asuZgFSwuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_2049461921393565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEmwk1aYAAhMbm.jpg",
+        "width": 1124
+      },
+      {
+        "height": 822,
+        "media_key": "3_2049461921364287488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEmwkuboAABRaE.jpg",
+        "width": 1124
+      },
+      {
+        "height": 1690,
+        "media_key": "3_2049461921372569600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEmwkwaAAAC57A.jpg",
+        "width": 1124
+      },
+      {
+        "height": 1645,
+        "media_key": "3_2049461921368395776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEmwkvaUAAiwRY.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049461921393565696",
+            "3_2049461921364287488",
+            "3_2049461921372569600",
+            "3_2049461921368395776"
+          ],
+          "media_source_tweet_id": [
+            "2049461948266483978",
+            "2049461948266483978",
+            "2049461948266483978",
+            "2049461948266483978"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2049773219473670238",
+        "created_at": "2026-04-30T08:49:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:49:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049773219473670238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "749833254052605952",
+              "start": 3,
+              "username": "toarutoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 56,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921393565696",
+              "start": 33,
+              "url": "https://t.co/asuZgFSwuu"
+            },
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 56,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921364287488",
+              "start": 33,
+              "url": "https://t.co/asuZgFSwuu"
+            },
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 56,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921372569600",
+              "start": 33,
+              "url": "https://t.co/asuZgFSwuu"
+            },
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 56,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921368395776",
+              "start": 33,
+              "url": "https://t.co/asuZgFSwuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049773219473670238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 928
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049461948266483978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @toarutoa: 日本、もう擬似化されてないものない説 https://t.co/asuZgFSwuu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049461921393565696",
+            "3_2049461921364287488",
+            "3_2049461921372569600",
+            "3_2049461921368395776"
+          ]
+        },
+        "author_id": "749833254052605952",
+        "conversation_id": "2049461948266483978",
+        "created_at": "2026-04-29T12:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049461948266483978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 42,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921393565696",
+              "start": 19,
+              "url": "https://t.co/asuZgFSwuu"
+            },
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 42,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921364287488",
+              "start": 19,
+              "url": "https://t.co/asuZgFSwuu"
+            },
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 42,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921372569600",
+              "start": 19,
+              "url": "https://t.co/asuZgFSwuu"
+            },
+            {
+              "display_url": "pic.x.com/asuZgFSwuu",
+              "end": 42,
+              "expanded_url": "https://x.com/toarutoa/status/2049461948266483978/photo/1",
+              "media_key": "3_2049461921368395776",
+              "start": 19,
+              "url": "https://t.co/asuZgFSwuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049461948266483978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1078,
+          "impression_count": 890407,
+          "like_count": 9916,
+          "quote_count": 292,
+          "reply_count": 415,
+          "retweet_count": 928
+        },
+        "reply_settings": "everyone",
+        "text": "日本、もう擬似化されてないものない説 https://t.co/asuZgFSwuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 100,
+          "like_count": 1648,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 981
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-04T05:12:33.000Z",
+        "description": "アニメ一覧を作りながらアニメの紹介、ネタツイ、聖地巡礼等のツイートしています。\n日常垢→(@yumenotobira_A)/趣味で動かしている垢なので案件DM×/アイコンは(@haruharo_7315 )さん、お借りしてるアイコンの為、使用や加工は固く禁じます。\n多忙な時は再掲してます。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 45,
+                "username": "yumenotobira_A"
+              },
+              {
+                "end": 101,
+                "start": 87,
+                "username": "haruharo_7315"
+              }
+            ]
+          }
+        },
+        "id": "749833254052605952",
+        "name": "とあるん",
+        "pinned_tweet_id": "2037490026465075463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790684842084159489/o69xKaOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283555,
+          "following_count": 805,
+          "like_count": 132685,
+          "listed_count": 631,
+          "media_count": 5032,
+          "tweet_count": 91411
+        },
+        "username": "toarutoa",
+        "verified": false
+      }
+    ]
+  }
+}

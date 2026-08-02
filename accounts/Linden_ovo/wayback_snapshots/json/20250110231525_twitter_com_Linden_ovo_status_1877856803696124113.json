@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1877631110722769143",
+    "created_at": "2025-01-10T23:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T00:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877856803696124113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1836593778930651136",
+          "start": 0,
+          "username": "du9294914936996"
+        },
+        {
+          "end": 30,
+          "id": "1825908586297368576",
+          "start": 17,
+          "username": "JiangZemin64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877856803696124113",
+    "in_reply_to_user_id": "1836593778930651136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877641091090129246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@du9294914936996 @JiangZemin64 中国人大多数认知和文化水平低下，基本大半的中国人都是廉价劳动力，蠢的不行心眼坏还小，真的配不上民主喵。更别提中国人想骑别人头上的心愿五千年从未变过😏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1877631110722769143",
+        "created_at": "2025-01-10T23:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T00:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877856803696124113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1836593778930651136",
+              "start": 0,
+              "username": "du9294914936996"
+            },
+            {
+              "end": 30,
+              "id": "1825908586297368576",
+              "start": 17,
+              "username": "JiangZemin64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877856803696124113",
+        "in_reply_to_user_id": "1836593778930651136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877641091090129246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@du9294914936996 @JiangZemin64 中国人大多数认知和文化水平低下，基本大半的中国人都是廉价劳动力，蠢的不行心眼坏还小，真的配不上民主喵。更别提中国人想骑别人头上的心愿五千年从未变过😏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1836593778930651136",
+        "conversation_id": "1877631110722769143",
+        "created_at": "2025-01-10T08:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T09:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877641091090129246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1825908586297368576",
+              "start": 0,
+              "username": "JiangZemin64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877641091090129246",
+        "in_reply_to_user_id": "1825908586297368576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 794,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877631110722769143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiangZemin64 中国人之所以不适合民主，是因为绝大多数中国人并不想要平等。我是八零后，我读书的时候父母教育我“吃得苦中苦方为人上人”，当人上人就是为了骑在别人头上，人上人的“极致”不就是当皇帝吗？刘晓波说，中国需要被西方基督教文明殖民三百年，人人平等才能深入人心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 70,
+          "like_count": 208,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 74
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-19T02:31:12.000Z",
+        "description": "A dogecoin enthusiast from China.",
+        "id": "1836593778930651136",
+        "location": "China, Qinghai Province",
+        "name": "赵朵丁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861695992900599808/V0fA30Jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 311,
+          "like_count": 1372,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1408
+        },
+        "username": "du9294914936996",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T14:51:55.000Z",
+        "description": "江河湖海泽万民｜闷声大发财｜酒精考验的战士｜谈笑风生的长者｜身经百战｜为什么总有人认为我和@IamNOT_Tibetora是同一人？｜祝习主席万寿无疆，李强总理永远健康｜可能来不及回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 45,
+                "username": "IamNOT_Tibetora"
+              }
+            ]
+          }
+        },
+        "id": "1825908586297368576",
+        "name": "上海の虎",
+        "pinned_tweet_id": "1877631110722769143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877148392016822272/V2CB965Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 144,
+          "like_count": 5679,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 1004
+        },
+        "username": "JiangZemin64",
+        "verified": false
+      }
+    ]
+  }
+}

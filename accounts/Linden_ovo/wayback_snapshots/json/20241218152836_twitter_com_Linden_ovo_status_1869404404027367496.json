@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1869404404027367496",
+    "created_at": "2024-12-18T15:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869404404027367496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1569196464009773058",
+          "start": 3,
+          "username": "wocaonimenmama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869404404027367496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869015803343126582",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wocaonimenmama: 闺女真牛逼，天天就是在屋里嗑药，划胳膊，血滋啦滋啦的喷一地，点赞👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1869404404027367496",
+        "created_at": "2024-12-18T15:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869404404027367496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1569196464009773058",
+              "start": 3,
+              "username": "wocaonimenmama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869404404027367496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869015803343126582",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wocaonimenmama: 闺女真牛逼，天天就是在屋里嗑药，划胳膊，血滋啦滋啦的喷一地，点赞👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569196464009773058",
+        "conversation_id": "1869015803343126582",
+        "created_at": "2024-12-17T13:44:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-17T14:44:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869015803343126582"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869015803343126582",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 60435,
+          "like_count": 664,
+          "quote_count": 7,
+          "reply_count": 52,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "闺女真牛逼，天天就是在屋里嗑药，划胳膊，血滋啦滋啦的喷一地，点赞👍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 61,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-12T05:29:37.000Z",
+        "description": "不线下无福利不出原味纯绿纯绿纯绿 自用vpn https://t.co/637ityYULw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "my.vpnpn.com/register?r=194…",
+                "end": 46,
+                "expanded_url": "https://my.vpnpn.com/register?r=19483",
+                "start": 23,
+                "url": "https://t.co/637ityYULw"
+              }
+            ]
+          }
+        },
+        "id": "1569196464009773058",
+        "location": "🚪100纯绿",
+        "name": "神垂死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843571667324571648/9xG_U6U6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3732,
+          "following_count": 25,
+          "like_count": 19303,
+          "listed_count": 11,
+          "media_count": 43,
+          "tweet_count": 1046
+        },
+        "username": "wocaonimenmama",
+        "verified": false
+      }
+    ]
+  }
+}

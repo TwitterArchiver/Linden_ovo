@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1997457613156708832",
+    "created_at": "2025-12-07T00:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-07T01:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997457613156708832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748589691874795520",
+          "start": 3,
+          "username": "cct1215881"
+        },
+        {
+          "end": 25,
+          "id": "1952303368866836480",
+          "start": 16,
+          "username": "heanx004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997457613156708832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997136974386438563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cct1215881: @heanx004 你说的这个情况是不是叫强j"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1997457613156708832",
+        "created_at": "2025-12-07T00:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T01:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997457613156708832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748589691874795520",
+              "start": 3,
+              "username": "cct1215881"
+            },
+            {
+              "end": 25,
+              "id": "1952303368866836480",
+              "start": 16,
+              "username": "heanx004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997457613156708832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997136974386438563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cct1215881: @heanx004 你说的这个情况是不是叫强j"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748589691874795520",
+        "conversation_id": "1996924831733109146",
+        "created_at": "2025-12-06T02:52:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T03:52:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997136974386438563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1952303368866836480",
+              "start": 0,
+              "username": "heanx004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997136974386438563",
+        "in_reply_to_user_id": "1952303368866836480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50631,
+          "like_count": 592,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996924831733109146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@heanx004 你说的这个情况是不是叫强j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 828,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 337
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T06:14:12.000Z",
+        "description": "所见之事，皆为自然",
+        "id": "1748589691874795520",
+        "name": "octik",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794543354719727617/y59oBJWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 13,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "cct1215881",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T09:39:41.000Z",
+        "description": "爱发照片是因为自恋 没有🚪 不约 不卡 不交友",
+        "id": "1952303368866836480",
+        "name": "等雨停",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952303607229095936/eoa85sA7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 0,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 31
+        },
+        "username": "heanx004",
+        "verified": false
+      }
+    ]
+  }
+}

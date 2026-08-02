@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045094094725414912"
+      ],
+      "media_source_tweet_id": [
+        "2045094096935776419"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "General Fashion",
+          "id": "844604232737087488",
+          "name": "General Fashion"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Outerwear",
+          "id": "846722850627080192",
+          "name": "Outerwear"
+        }
+      }
+    ],
+    "conversation_id": "2045533642865144275",
+    "created_at": "2026-04-18T16:03:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045533642865144275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1746337516448575488",
+          "start": 3,
+          "username": "o_ko_ge2024"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/At9WyCbpOL",
+          "end": 61,
+          "expanded_url": "https://x.com/o_ko_ge2024/status/2045094096935776419/photo/1",
+          "media_key": "3_2045094094725414912",
+          "start": 38,
+          "url": "https://t.co/At9WyCbpOL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045533642865144275",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1789
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045094096935776419",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_ko_ge2024: 絶対パーカー似合うと思って描いた記憶🅰️ https://t.co/At9WyCbpOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045094094725414912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGiPmhbgAAFiJm.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045094094725414912"
+          ],
+          "media_source_tweet_id": [
+            "2045094096935776419"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2045533642865144275",
+        "created_at": "2026-04-18T16:03:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045533642865144275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1746337516448575488",
+              "start": 3,
+              "username": "o_ko_ge2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/At9WyCbpOL",
+              "end": 61,
+              "expanded_url": "https://x.com/o_ko_ge2024/status/2045094096935776419/photo/1",
+              "media_key": "3_2045094094725414912",
+              "start": 38,
+              "url": "https://t.co/At9WyCbpOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045533642865144275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1789
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045094096935776419",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_ko_ge2024: 絶対パーカー似合うと思って描いた記憶🅰️ https://t.co/At9WyCbpOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045094094725414912"
+          ]
+        },
+        "author_id": "1746337516448575488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "General Fashion",
+              "id": "844604232737087488",
+              "name": "General Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Outerwear",
+              "id": "846722850627080192",
+              "name": "Outerwear"
+            }
+          }
+        ],
+        "conversation_id": "2045094096935776419",
+        "created_at": "2026-04-17T10:56:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T11:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045094096935776419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/At9WyCbpOL",
+              "end": 44,
+              "expanded_url": "https://x.com/o_ko_ge2024/status/2045094096935776419/photo/1",
+              "media_key": "3_2045094094725414912",
+              "start": 21,
+              "url": "https://t.co/At9WyCbpOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045094096935776419",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1344,
+          "impression_count": 128598,
+          "like_count": 12247,
+          "quote_count": 31,
+          "reply_count": 4,
+          "retweet_count": 1789
+        },
+        "reply_settings": "everyone",
+        "text": "絶対パーカー似合うと思って描いた記憶🅰️ https://t.co/At9WyCbpOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 95,
+          "like_count": 1560,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 893
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-14T01:05:12.000Z",
+        "description": "推しの絵を描いてます(ˇωˇ)｜生成AIダメ絶対｜love:umamusume",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96874364",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96874364",
+                "start": 0,
+                "url": "https://t.co/SbdPl4cO0v"
+              }
+            ]
+          }
+        },
+        "id": "1746337516448575488",
+        "name": "オコゲ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889118476100644865/x4bzY9zz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23999,
+          "following_count": 231,
+          "like_count": 43326,
+          "listed_count": 100,
+          "media_count": 113,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/SbdPl4cO0v",
+        "username": "o_ko_ge2024",
+        "verified": false
+      }
+    ]
+  }
+}

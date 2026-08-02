@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072634205058544060",
+    "created_at": "2026-07-02T10:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072634205058544060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1957764296651468805",
+          "start": 3,
+          "username": "namakem087"
+        },
+        {
+          "end": 23,
+          "id": "1996993545379717120",
+          "start": 16,
+          "username": "vc0ulh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072634205058544060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072609388544864679",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @namakem087: @vc0ulh 別れたら爆竹つけて飛ばせるしな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072634205058544060",
+        "created_at": "2026-07-02T10:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072634205058544060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1957764296651468805",
+              "start": 3,
+              "username": "namakem087"
+            },
+            {
+              "end": 23,
+              "id": "1996993545379717120",
+              "start": 16,
+              "username": "vc0ulh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072634205058544060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072609388544864679",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @namakem087: @vc0ulh 別れたら爆竹つけて飛ばせるしな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1957764296651468805",
+        "conversation_id": "2072350924316856674",
+        "created_at": "2026-07-02T09:12:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:12:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072609388544864679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1996993545379717120",
+              "start": 0,
+              "username": "vc0ulh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072609388544864679",
+        "in_reply_to_user_id": "1996993545379717120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 26362,
+          "like_count": 217,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072350924316856674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vc0ulh 別れたら爆竹つけて飛ばせるしな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 111,
+          "like_count": 1961,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 1219
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-19T11:19:29.000Z",
+        "description": "",
+        "id": "1957764296651468805",
+        "name": "なまけもの",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957764524976865280/k-1qa1dM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 1,
+          "like_count": 88,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1904
+        },
+        "url": "",
+        "username": "namakem087",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T17:22:26.000Z",
+        "description": "下ネタ惚気アカウント",
+        "id": "1996993545379717120",
+        "name": "不名誉",
+        "pinned_tweet_id": "2049488342983831600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996993884086554624/U-BgxEfN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 391,
+          "like_count": 7184,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 711
+        },
+        "url": "",
+        "username": "vc0ulh",
+        "verified": true
+      }
+    ]
+  }
+}

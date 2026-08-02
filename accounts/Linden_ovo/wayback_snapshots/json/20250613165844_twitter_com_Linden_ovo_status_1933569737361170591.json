@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1933569737361170591",
+    "created_at": "2025-06-13T16:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T17:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933569737361170591"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 91,
+          "normalized_text": "ドズル社",
+          "probability": 0.7232,
+          "start": 88,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "ホロ金策サバイバル"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433667543806267393",
+          "start": 3,
+          "username": "hakuikoyori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/NDQoNhE",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/NDQoNhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933569737361170591",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 278
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933550420854780239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakuikoyori: #ホロ金策サバイバル 1日で稼げたのは200万でした！！！\n闇のゲーム胸がアツくなったな・・・！\n\n1日でも楽しかった！！\n主催のぼたん先輩、ドズル社さん\n遊んでくださった皆さんありがとうございました✨\nhttps://t.co/NDQoNhE…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_1933550243272142850",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtVZs62bMAII1EK.jpg",
+        "width": 1235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933569737361170591",
+        "created_at": "2025-06-13T16:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T17:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933569737361170591"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 91,
+              "normalized_text": "ドズル社",
+              "probability": 0.7232,
+              "start": 88,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "ホロ金策サバイバル"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433667543806267393",
+              "start": 3,
+              "username": "hakuikoyori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/NDQoNhE",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/NDQoNhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933569737361170591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 278
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933550420854780239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakuikoyori: #ホロ金策サバイバル 1日で稼げたのは200万でした！！！\n闇のゲーム胸がアツくなったな・・・！\n\n1日でも楽しかった！！\n主催のぼたん先輩、ドズル社さん\n遊んでくださった皆さんありがとうございました✨\nhttps://t.co/NDQoNhE…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1933550243272142850"
+          ]
+        },
+        "author_id": "1433667543806267393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933550420854780239",
+        "created_at": "2025-06-13T15:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T16:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933550420854780239"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "ドズル社",
+              "probability": 0.6957,
+              "start": 71,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "ホロ金策サバイバル"
+            },
+            {
+              "end": 133,
+              "start": 126,
+              "tag": "こより実験中"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#ホロ金策サバイバル 最終日になっちゃったけど・・・参戦します！！！✊🔥💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶　https://cover.lnk.to/SdOKbq💒結婚できます！おすすめジューンブライドボイス発売中！👰https://shop.hololiv...",
+              "display_url": "youtube.com/watch?v=4-Nh5m…",
+              "end": 125,
+              "expanded_url": "https://www.youtube.com/watch?v=4-Nh5mTutUk",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1933421007093559296/F04y5nC5?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1933421007093559296/F04y5nC5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "【 #ホロ金策サバイバル 】最終日にたった1日で億万長者になることはできるのか⁉なんでもやります精神です！！！【博衣こより/ホロライブ】",
+              "unwound_url": "https://www.youtube.com/watch?v=4-Nh5mTutUk",
+              "url": "https://t.co/NDQoNhE6GY"
+            },
+            {
+              "display_url": "pic.x.com/6SXPJDJ1DL",
+              "end": 157,
+              "expanded_url": "https://x.com/hakuikoyori/status/1933550420854780239/photo/1",
+              "media_key": "3_1933550243272142850",
+              "start": 134,
+              "url": "https://t.co/6SXPJDJ1DL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933550420854780239",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 32479,
+          "like_count": 1869,
+          "quote_count": 0,
+          "reply_count": 122,
+          "retweet_count": 278
+        },
+        "reply_settings": "everyone",
+        "text": "#ホロ金策サバイバル 1日で稼げたのは200万でした！！！\n闇のゲーム胸がアツくなったな・・・！\n\n1日でも楽しかった！！\n主催のぼたん先輩、ドズル社さん\n遊んでくださった皆さんありがとうございました✨\nhttps://t.co/NDQoNhE6GY\n#こより実験中 https://t.co/6SXPJDJ1DL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 372,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 150
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T05:46:28.000Z",
+        "description": "ホロライブ6期生🧪holoXの頭脳🧠博衣こよりだよ🎀初見古参関係なく楽しめるがモットー！夢を全部叶えるのが夢！(ᐡ •͈ ·̫ •͈ ᐡ)ﾉ💞／🎨 #こよりすけっち／📺 #こより実験中／ファンネーム：助手くん❤️ももこママ(@momoco_haru) いいねやリプは気まぐれ！特別扱いではないから安心してねっ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "こよりすけっち"
+              },
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "こより実験中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "momoco_haru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6eWC…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+                "start": 0,
+                "url": "https://t.co/U4G9NUjWs5"
+              }
+            ]
+          }
+        },
+        "id": "1433667543806267393",
+        "location": "助手くんの心の中(ᐡ •͈ ·̫ •͈ ᐡ)",
+        "name": "博衣こより🧪1stアルバム発売中!!新曲MVも見てね🎉",
+        "pinned_tweet_id": "1873685808827482191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907071586194411520/mH_qxVy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953131,
+          "following_count": 529,
+          "like_count": 47125,
+          "listed_count": 9459,
+          "media_count": 6736,
+          "tweet_count": 31676
+        },
+        "url": "https://t.co/U4G9NUjWs5",
+        "username": "hakuikoyori",
+        "verified": true
+      }
+    ]
+  }
+}

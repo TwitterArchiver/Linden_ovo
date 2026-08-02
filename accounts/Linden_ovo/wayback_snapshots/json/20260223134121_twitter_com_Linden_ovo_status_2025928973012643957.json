@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2023323439134842880"
+      ],
+      "media_source_tweet_id": [
+        "2023323479588905183"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2025928973012643957",
+    "created_at": "2026-02-23T13:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025928973012643957"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "篠澤広",
+          "probability": 0.5691,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "初星学園スノボ部"
+        },
+        {
+          "end": 47,
+          "start": 37,
+          "tag": "初星学園ぬいぬい部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1545596572414902274",
+          "start": 3,
+          "username": "yuji040404"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jSZz0myOO8",
+          "end": 71,
+          "expanded_url": "https://x.com/yuji040404/status/2023323479588905183/video/1",
+          "media_key": "7_2023323439134842880",
+          "start": 48,
+          "url": "https://t.co/jSZz0myOO8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025928973012643957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1790
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023323479588905183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuji040404: 篠澤広、滑る、よ❓️\n#初星学園スノボ部 #初星学園ぬいぬい部 https://t.co/jSZz0myOO8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8916,
+        "height": 1280,
+        "media_key": "7_2023323439134842880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2023323439134842880/pu/img/wMGOAg1PGxV4oyP1.jpg",
+        "public_metrics": {
+          "view_count": 119117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023323439134842880/pu/vid/avc1/320x568/hpyuTxosNCR7NrtD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023323439134842880/pu/vid/avc1/480x852/rkrX3GFodFThg0QL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2023323439134842880/pu/vid/avc1/720x1280/8Rnur7xGU1hD3uFQ.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2023323439134842880/pu/pl/gmTMZRlKyza0OdEZ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023323439134842880"
+          ],
+          "media_source_tweet_id": [
+            "2023323479588905183"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2025928973012643957",
+        "created_at": "2026-02-23T13:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025928973012643957"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "篠澤広",
+              "probability": 0.5691,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "初星学園スノボ部"
+            },
+            {
+              "end": 47,
+              "start": 37,
+              "tag": "初星学園ぬいぬい部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1545596572414902274",
+              "start": 3,
+              "username": "yuji040404"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSZz0myOO8",
+              "end": 71,
+              "expanded_url": "https://x.com/yuji040404/status/2023323479588905183/video/1",
+              "media_key": "7_2023323439134842880",
+              "start": 48,
+              "url": "https://t.co/jSZz0myOO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025928973012643957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1790
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023323479588905183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuji040404: 篠澤広、滑る、よ❓️\n#初星学園スノボ部 #初星学園ぬいぬい部 https://t.co/jSZz0myOO8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2023323439134842880"
+          ]
+        },
+        "author_id": "1545596572414902274",
+        "conversation_id": "2023323479588905183",
+        "created_at": "2026-02-16T09:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023323479588905183"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "篠澤広",
+              "probability": 0.5951,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 11,
+              "tag": "初星学園スノボ部"
+            },
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "初星学園ぬいぬい部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSZz0myOO8",
+              "end": 55,
+              "expanded_url": "https://x.com/yuji040404/status/2023323479588905183/video/1",
+              "media_key": "7_2023323439134842880",
+              "start": 32,
+              "url": "https://t.co/jSZz0myOO8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023323479588905183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1240,
+          "impression_count": 351623,
+          "like_count": 13960,
+          "quote_count": 63,
+          "reply_count": 18,
+          "retweet_count": 1790
+        },
+        "reply_settings": "everyone",
+        "text": "篠澤広、滑る、よ❓️\n#初星学園スノボ部 #初星学園ぬいぬい部 https://t.co/jSZz0myOO8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 80,
+          "like_count": 1193,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 602
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T02:32:59.000Z",
+        "description": "広✖毬に振り回される日常、それでもいいか…。いや、それがいいのか…。",
+        "id": "1545596572414902274",
+        "name": "ユウジ",
+        "pinned_tweet_id": "2001784029235007815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002702707715706880/Z6U8h4hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 812,
+          "like_count": 15070,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 202
+        },
+        "username": "yuji040404",
+        "verified": false
+      }
+    ]
+  }
+}

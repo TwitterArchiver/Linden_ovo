@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032676762824708096"
+      ],
+      "media_source_tweet_id": [
+        "2032676772316328358"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2032760720379494410",
+    "created_at": "2026-03-14T10:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032760720379494410"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 35,
+          "start": 17,
+          "tag": "推しのパネルの展示を1枚無言で貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1969976795702366208",
+          "start": 3,
+          "username": "Kinoko_2991"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lFXUYa4ebU",
+          "end": 59,
+          "expanded_url": "https://x.com/Kinoko_2991/status/2032676772316328358/photo/1",
+          "media_key": "3_2032676762824708096",
+          "start": 36,
+          "url": "https://t.co/lFXUYa4ebU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032760720379494410",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032676772316328358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kinoko_2991: #推しのパネルの展示を1枚無言で貼る https://t.co/lFXUYa4ebU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1477,
+        "media_key": "3_2032676762824708096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDWEvwdbkAA8C_L.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032676762824708096"
+          ],
+          "media_source_tweet_id": [
+            "2032676772316328358"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2032760720379494410",
+        "created_at": "2026-03-14T10:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032760720379494410"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 17,
+              "tag": "推しのパネルの展示を1枚無言で貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1969976795702366208",
+              "start": 3,
+              "username": "Kinoko_2991"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFXUYa4ebU",
+              "end": 59,
+              "expanded_url": "https://x.com/Kinoko_2991/status/2032676772316328358/photo/1",
+              "media_key": "3_2032676762824708096",
+              "start": 36,
+              "url": "https://t.co/lFXUYa4ebU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032760720379494410",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032676772316328358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kinoko_2991: #推しのパネルの展示を1枚無言で貼る https://t.co/lFXUYa4ebU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032676762824708096"
+          ]
+        },
+        "author_id": "1969976795702366208",
+        "conversation_id": "2032676772316328358",
+        "created_at": "2026-03-14T04:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T05:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032676772316328358"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "推しのパネルの展示を1枚無言で貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lFXUYa4ebU",
+              "end": 42,
+              "expanded_url": "https://x.com/Kinoko_2991/status/2032676772316328358/photo/1",
+              "media_key": "3_2032676762824708096",
+              "start": 19,
+              "url": "https://t.co/lFXUYa4ebU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032676772316328358",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 3091,
+          "like_count": 254,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "#推しのパネルの展示を1枚無言で貼る https://t.co/lFXUYa4ebU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 79,
+          "like_count": 1330,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 725
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-22T04:07:34.000Z",
+        "description": "さぶ垢です。\n台湾開拓者 / 開拓者No.0007352\n推し: ⚒️🏴‍☠️💫🧪🍃\n中国語〇 / 日本語△ / 英語△",
+        "id": "1969976795702366208",
+        "name": "きのこ",
+        "pinned_tweet_id": "2030194238407987372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992870359805370368/eUsSou43_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 989,
+          "like_count": 2898,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1853
+        },
+        "username": "Kinoko_2991",
+        "verified": true
+      }
+    ]
+  }
+}

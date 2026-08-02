@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1984687700272967680"
+      ],
+      "media_source_tweet_id": [
+        "1984687735412760794"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1984945329096040558",
+    "created_at": "2025-11-02T11:26:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T12:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984945329096040558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1865419581206208512",
+          "start": 3,
+          "username": "DDzhanshou5150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YLtk5muOBN",
+          "end": 49,
+          "expanded_url": "https://x.com/DDzhanshou5150/status/1984687735412760794/photo/1",
+          "media_key": "3_1984687700272967680",
+          "start": 26,
+          "url": "https://t.co/YLtk5muOBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984945329096040558",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984687735412760794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDzhanshou5150: 要笑死了啊 https://t.co/YLtk5muOBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_1984687700272967680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4sG8rTbcAADsQw.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984687700272967680"
+          ],
+          "media_source_tweet_id": [
+            "1984687735412760794"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1984945329096040558",
+        "created_at": "2025-11-02T11:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T12:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984945329096040558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1865419581206208512",
+              "start": 3,
+              "username": "DDzhanshou5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLtk5muOBN",
+              "end": 49,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1984687735412760794/photo/1",
+              "media_key": "3_1984687700272967680",
+              "start": 26,
+              "url": "https://t.co/YLtk5muOBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984945329096040558",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984687735412760794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDzhanshou5150: 要笑死了啊 https://t.co/YLtk5muOBN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984687700272967680"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1984687735412760794",
+        "created_at": "2025-11-01T18:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T19:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984687735412760794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YLtk5muOBN",
+              "end": 29,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1984687735412760794/photo/1",
+              "media_key": "3_1984687700272967680",
+              "start": 6,
+              "url": "https://t.co/YLtk5muOBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984687735412760794",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 60312,
+          "like_count": 712,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "要笑死了啊 https://t.co/YLtk5muOBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 58,
+          "like_count": 695,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 232
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8759,
+          "following_count": 7517,
+          "like_count": 26342,
+          "listed_count": 18,
+          "media_count": 5970,
+          "tweet_count": 39292
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

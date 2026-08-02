@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1855660487842934784"
+      ],
+      "media_source_tweet_id": [
+        "1855660494067323166"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1856273311241732566",
+    "created_at": "2024-11-12T09:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T10:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856273311241732566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768487038645678080",
+          "start": 3,
+          "username": "Yamada_Ryo4"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VdSzUIw9Vn",
+          "end": 48,
+          "expanded_url": "https://x.com/Yamada_Ryo4/status/1855660494067323166/photo/1",
+          "media_key": "3_1855660487842934784",
+          "start": 25,
+          "url": "https://t.co/VdSzUIw9Vn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856273311241732566",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855660494067323166",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yamada_Ryo4: 這是在幹什麼？ https://t.co/VdSzUIw9Vn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 676,
+        "media_key": "3_1855660487842934784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GcChYcmbMAA1kOX.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855660487842934784"
+          ],
+          "media_source_tweet_id": [
+            "1855660494067323166"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1856273311241732566",
+        "created_at": "2024-11-12T09:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T10:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856273311241732566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768487038645678080",
+              "start": 3,
+              "username": "Yamada_Ryo4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdSzUIw9Vn",
+              "end": 48,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1855660494067323166/photo/1",
+              "media_key": "3_1855660487842934784",
+              "start": 25,
+              "url": "https://t.co/VdSzUIw9Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856273311241732566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855660494067323166",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yamada_Ryo4: 這是在幹什麼？ https://t.co/VdSzUIw9Vn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1855660487842934784"
+          ]
+        },
+        "author_id": "1768487038645678080",
+        "conversation_id": "1855660494067323166",
+        "created_at": "2024-11-10T17:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-10T18:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855660494067323166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VdSzUIw9Vn",
+              "end": 31,
+              "expanded_url": "https://x.com/Yamada_Ryo4/status/1855660494067323166/photo/1",
+              "media_key": "3_1855660487842934784",
+              "start": 8,
+              "url": "https://t.co/VdSzUIw9Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855660494067323166",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 60080,
+          "like_count": 870,
+          "quote_count": 5,
+          "reply_count": 87,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "這是在幹什麼？ https://t.co/VdSzUIw9Vn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "中区, 新加坡",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 51,
+          "like_count": 128,
+          "listed_count": 0,
+          "tweet_count": 23
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-15T03:59:19.000Z",
+        "description": "清水推｜🚫涉政🚫｜攝影｜星粉｜INFP｜中文/English/日本語OK｜山田涼單推人｜逃生艙 @YamadaRyoooooo｜互fo私訊｜提問箱https://t.co/8bcsLpdRdY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 48,
+                "username": "YamadaRyoooooo"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yamada_ryo4",
+                "end": 96,
+                "expanded_url": "https://ngl.link/yamada_ryo4",
+                "start": 73,
+                "url": "https://t.co/8bcsLpdRdY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yamada…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/yamada-ryo4.bsky.social",
+                "start": 0,
+                "url": "https://t.co/XfKQNjfysE"
+              }
+            ]
+          }
+        },
+        "id": "1768487038645678080",
+        "location": "東京 世田谷区 下北沢",
+        "name": "迷人的リョウ⛩️",
+        "pinned_tweet_id": "1815747031748800978",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841431584622493696/IHVwsXPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 449,
+          "like_count": 6182,
+          "listed_count": 3,
+          "tweet_count": 3780
+        },
+        "url": "https://t.co/XfKQNjfysE",
+        "username": "Yamada_Ryo4",
+        "verified": false
+      }
+    ]
+  }
+}

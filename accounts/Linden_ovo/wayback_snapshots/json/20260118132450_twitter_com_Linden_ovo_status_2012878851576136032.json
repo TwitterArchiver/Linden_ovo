@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001750432029511681"
+      ],
+      "media_source_tweet_id": [
+        "2001750469639917738"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2012878851576136032",
+    "created_at": "2026-01-18T13:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012878851576136032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999007250829230080",
+          "start": 3,
+          "username": "DDaquaforever"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nxuv6a3g9l",
+          "end": 48,
+          "expanded_url": "https://x.com/DDaquaforever/status/2001750469639917738/photo/1",
+          "media_key": "3_2001750432029511681",
+          "start": 25,
+          "url": "https://t.co/Nxuv6a3g9l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012878851576136032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 120
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001750469639917738",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DDaquaforever: 卧槽龙玉涛 https://t.co/Nxuv6a3g9l"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 853,
+        "media_key": "3_2001750432029511681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8elaYYakAEIFeV.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001750432029511681"
+          ],
+          "media_source_tweet_id": [
+            "2001750469639917738"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2012878851576136032",
+        "created_at": "2026-01-18T13:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012878851576136032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999007250829230080",
+              "start": 3,
+              "username": "DDaquaforever"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nxuv6a3g9l",
+              "end": 48,
+              "expanded_url": "https://x.com/DDaquaforever/status/2001750469639917738/photo/1",
+              "media_key": "3_2001750432029511681",
+              "start": 25,
+              "url": "https://t.co/Nxuv6a3g9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012878851576136032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 120
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001750469639917738",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DDaquaforever: 卧槽龙玉涛 https://t.co/Nxuv6a3g9l"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001750432029511681"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "2001750469639917738",
+        "created_at": "2025-12-18T20:24:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T21:24:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001750469639917738"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nxuv6a3g9l",
+              "end": 29,
+              "expanded_url": "https://x.com/DDaquaforever/status/2001750469639917738/photo/1",
+              "media_key": "3_2001750432029511681",
+              "start": 6,
+              "url": "https://t.co/Nxuv6a3g9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001750469639917738",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 92661,
+          "like_count": 3552,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 120
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽龙玉涛 https://t.co/Nxuv6a3g9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了滚",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 74,
+          "like_count": 1021,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 471
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "不想多说什么了 可爱的YOYO：@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1883,
+          "following_count": 2249,
+          "like_count": 2172,
+          "listed_count": 7,
+          "media_count": 961,
+          "tweet_count": 3756
+        },
+        "username": "DDaquaforever",
+        "verified": false
+      }
+    ]
+  }
+}

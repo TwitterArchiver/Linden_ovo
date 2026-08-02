@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2046708421550838242",
+    "created_at": "2026-04-22T09:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T10:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046885670040277495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1265910411364192257",
+          "start": 0,
+          "username": "Lr55686466"
+        },
+        {
+          "end": 28,
+          "id": "1659979401042493441",
+          "start": 12,
+          "username": "Yudal9645510352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046885670040277495",
+    "in_reply_to_user_id": "1265910411364192257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046752479426289698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lr55686466 @Yudal9645510352 心理健康程度较高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2046708421550838242",
+        "created_at": "2026-04-22T09:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T10:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046885670040277495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1265910411364192257",
+              "start": 0,
+              "username": "Lr55686466"
+            },
+            {
+              "end": 28,
+              "id": "1659979401042493441",
+              "start": 12,
+              "username": "Yudal9645510352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046885670040277495",
+        "in_reply_to_user_id": "1265910411364192257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046752479426289698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lr55686466 @Yudal9645510352 心理健康程度较高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265910411364192257",
+        "conversation_id": "2046708421550838242",
+        "created_at": "2026-04-22T00:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T01:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046752479426289698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            },
+            {
+              "end": 28,
+              "id": "1659979401042493441",
+              "start": 12,
+              "username": "Yudal9645510352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046752479426289698",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046746029572112841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo @Yudal9645510352 自毁倾向嘛，补药啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 95,
+          "like_count": 1577,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 933
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T07:39:10.000Z",
+        "description": "发癫，去码头搞点乐子",
+        "id": "1265910411364192257",
+        "location": "Hong Kong",
+        "name": "三倍ice cream",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274705927149682689/kcY6tUyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 421,
+          "like_count": 756,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1301
+        },
+        "username": "Lr55686466",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T17:48:35.000Z",
+        "description": "'◡'",
+        "id": "1659979401042493441",
+        "location": "Munich, Bavaria",
+        "name": "sHiRang",
+        "pinned_tweet_id": "2028234214504534060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045430113337065472/eOmiItk9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 67,
+          "like_count": 2093,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "Yudal9645510352",
+        "verified": false
+      }
+    ]
+  }
+}

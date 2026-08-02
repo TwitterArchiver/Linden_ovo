@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1948369637869277184"
+      ],
+      "media_source_tweet_id": [
+        "1948371754164089138"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1948794155691638837",
+    "created_at": "2025-07-25T17:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-25T18:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1948794155691638837"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 34,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1203005172340801536",
+          "start": 3,
+          "username": "ComomoGummy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RFz7r0J6aC",
+          "end": 68,
+          "expanded_url": "https://x.com/ComomoGummy/status/1948371754164089138/photo/1",
+          "media_key": "3_1948369637869277184",
+          "start": 45,
+          "url": "https://t.co/RFz7r0J6aC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948794155691638837",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 55
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948371754164089138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ComomoGummy: UMAPYOI UMAPYOI✨\n#bijouwled https://t.co/RFz7r0J6aC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1427,
+        "media_key": "3_1948369637869277184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gwn_3Nxa0AAhCyb.jpg",
+        "width": 1013
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948369637869277184"
+          ],
+          "media_source_tweet_id": [
+            "1948371754164089138"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1948794155691638837",
+        "created_at": "2025-07-25T17:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-25T18:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1948794155691638837"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 34,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1203005172340801536",
+              "start": 3,
+              "username": "ComomoGummy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFz7r0J6aC",
+              "end": 68,
+              "expanded_url": "https://x.com/ComomoGummy/status/1948371754164089138/photo/1",
+              "media_key": "3_1948369637869277184",
+              "start": 45,
+              "url": "https://t.co/RFz7r0J6aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948794155691638837",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948371754164089138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ComomoGummy: UMAPYOI UMAPYOI✨\n#bijouwled https://t.co/RFz7r0J6aC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1948369637869277184"
+          ]
+        },
+        "author_id": "1203005172340801536",
+        "conversation_id": "1948371754164089138",
+        "created_at": "2025-07-24T13:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T14:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948371754164089138"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RFz7r0J6aC",
+              "end": 51,
+              "expanded_url": "https://x.com/ComomoGummy/status/1948371754164089138/photo/1",
+              "media_key": "3_1948369637869277184",
+              "start": 28,
+              "url": "https://t.co/RFz7r0J6aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948371754164089138",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 2410,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "UMAPYOI UMAPYOI✨\n#bijouwled https://t.co/RFz7r0J6aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 34,
+          "like_count": 451,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 124
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-06T17:36:18.000Z",
+        "description": "I'm Coｍomo./JP&ENG/ウマ娘/ホロライブ\nhttps://t.co/1ITz8v3Ap9\n(Only the copyright holder is allowed to use my works.)\nPIXIV: https://t.co/nVqPA36Yjh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ComomoGummy",
+                "end": 52,
+                "expanded_url": "http://skeb.jp/@ComomoGummy",
+                "start": 29,
+                "url": "https://t.co/1ITz8v3Ap9"
+              },
+              {
+                "display_url": "pixiv.net/users/45312217",
+                "end": 139,
+                "expanded_url": "https://www.pixiv.net/users/45312217",
+                "start": 116,
+                "url": "https://t.co/nVqPA36Yjh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manga.nicovideo.jp/comic/53922",
+                "end": 23,
+                "expanded_url": "https://manga.nicovideo.jp/comic/53922",
+                "start": 0,
+                "url": "https://t.co/17FLpLDWBB"
+              }
+            ]
+          }
+        },
+        "id": "1203005172340801536",
+        "location": "ウマ娘の漫画まとめ（ニコニコ漫画）→",
+        "name": "こももぐみ",
+        "pinned_tweet_id": "1867897639586746786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727326113461161984/pyEv5Ap2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7246,
+          "following_count": 364,
+          "like_count": 2300,
+          "listed_count": 92,
+          "media_count": 353,
+          "tweet_count": 1900
+        },
+        "url": "https://t.co/17FLpLDWBB",
+        "username": "ComomoGummy",
+        "verified": false
+      }
+    ]
+  }
+}

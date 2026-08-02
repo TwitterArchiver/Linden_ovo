@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073964342974808138",
+    "created_at": "2026-07-06T02:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T03:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073964342974808138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2007104134466736129",
+          "start": 3,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073964342974808138",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067019975567839637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @peipeimao: 因为我很圣母然后吃这个愚昧片会变得愚昧于是不再圣母解离解离解解解。这行字神秘地颤抖着，祈求分开。它们厌倦被这样排列在一起。掀解构，再诠释，生人说，活人死。圣母赐生人以悲悯，赐死亡以仁爱，赐人愚昧以暂留观众喝彩。于是我们吞再吞，饮再饮，胃酸融化了这个…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073964342974808138",
+        "created_at": "2026-07-06T02:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T03:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073964342974808138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2007104134466736129",
+              "start": 3,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073964342974808138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067019975567839637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @peipeimao: 因为我很圣母然后吃这个愚昧片会变得愚昧于是不再圣母解离解离解解解。这行字神秘地颤抖着，祈求分开。它们厌倦被这样排列在一起。掀解构，再诠释，生人说，活人死。圣母赐生人以悲悯，赐死亡以仁爱，赐人愚昧以暂留观众喝彩。于是我们吞再吞，饮再饮，胃酸融化了这个…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007104134466736129",
+        "conversation_id": "2067019975567839637",
+        "created_at": "2026-06-16T23:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T00:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067019975567839637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067019975567839637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2949,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "因为我很圣母然后吃这个愚昧片会变得愚昧于是不再圣母解离解离解解解。这行字神秘地颤抖着，祈求分开。它们厌倦被这样排列在一起。掀解构，再诠释，生人说，活人死。圣母赐生人以悲悯，赐死亡以仁爱，赐人愚昧以暂留观众喝彩。于是我们吞再吞，饮再饮，胃酸融化了这个世界，红黄蓝，倾斜而下，精品神药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 402,
+          "following_count": 130,
+          "like_count": 2186,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1405
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4643,
+          "following_count": 169,
+          "like_count": 682,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "peipeimao",
+        "verified": true
+      }
+    ]
+  }
+}

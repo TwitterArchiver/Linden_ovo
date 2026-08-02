@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2027406239982878981",
+    "created_at": "2026-02-27T15:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027406239982878981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1778600109154172928",
+          "start": 3,
+          "username": "KMS_PzEUGIN_III"
+        },
+        {
+          "end": 30,
+          "id": "1828632343680294916",
+          "start": 21,
+          "username": "jianlvya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027406239982878981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026840748788748605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KMS_PzEUGIN_III: @jianlvya 说句难听的，在资本主义社会下去打工都算是一种不出卖性价值的卖淫，因为社会就是一个大妓院，性工作者出卖的是性价值，职场、工厂的员工出卖的是劳动力，没有谁比谁更自由，谁比谁更平等，谁比谁更高贵这一说，不打垮私有制和雇佣劳…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2027406239982878981",
+        "created_at": "2026-02-27T15:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027406239982878981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1778600109154172928",
+              "start": 3,
+              "username": "KMS_PzEUGIN_III"
+            },
+            {
+              "end": 30,
+              "id": "1828632343680294916",
+              "start": 21,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027406239982878981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026840748788748605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KMS_PzEUGIN_III: @jianlvya 说句难听的，在资本主义社会下去打工都算是一种不出卖性价值的卖淫，因为社会就是一个大妓院，性工作者出卖的是性价值，职场、工厂的员工出卖的是劳动力，没有谁比谁更自由，谁比谁更平等，谁比谁更高贵这一说，不打垮私有制和雇佣劳…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1778600109154172928",
+        "conversation_id": "2026804430524617140",
+        "created_at": "2026-02-26T02:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026840748788748605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828632343680294916",
+              "start": 0,
+              "username": "jianlvya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026840748788748605",
+        "in_reply_to_user_id": "1828632343680294916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 38197,
+          "like_count": 507,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026804430524617140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvya 说句难听的，在资本主义社会下去打工都算是一种不出卖性价值的卖淫，因为社会就是一个大妓院，性工作者出卖的是性价值，职场、工厂的员工出卖的是劳动力，没有谁比谁更自由，谁比谁更平等，谁比谁更高贵这一说，不打垮私有制和雇佣劳动制，ban卖淫就是假命题，治标不治本"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1235,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 644
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-12T01:44:56.000Z",
+        "description": "屎踢姆账号：482729448/跑路小账@lappydaisuki/ 像垃圾袋这样实用的东西有时候也装满了风",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "lappydaisuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kms_pzeugin_iii",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kms_pzeugin_iii",
+                "start": 0,
+                "url": "https://t.co/NKw2JIeEm8"
+              }
+            ]
+          }
+        },
+        "id": "1778600109154172928",
+        "location": "8°45′9.49″N 167°40′59.60″E",
+        "name": "KMS-PrinzEugin",
+        "pinned_tweet_id": "1943389207017275820",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790573689211346944/mT4Zy9tR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 3224,
+          "like_count": 39478,
+          "listed_count": 5,
+          "media_count": 844,
+          "tweet_count": 11186
+        },
+        "url": "https://t.co/NKw2JIeEm8",
+        "username": "KMS_PzEUGIN_III",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T03:15:12.000Z",
+        "description": "会点赞 INTJ 欢迎交流 \n伙伴：@KawawaDiana8964\n逃生舱：@fanlvup",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 47,
+                "start": 39,
+                "username": "fanlvup"
+              }
+            ]
+          }
+        },
+        "id": "1828632343680294916",
+        "location": "Hi，你好，繁律！",
+        "name": "繁律",
+        "pinned_tweet_id": "2026804430524617140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016260938069061632/4QiMAEi1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2953,
+          "following_count": 791,
+          "like_count": 9079,
+          "listed_count": 5,
+          "media_count": 345,
+          "tweet_count": 690
+        },
+        "username": "jianlvya",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,749 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048968554121404416"
+      ],
+      "media_source_tweet_id": [
+        "2048968597339525574"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2049124521135788214",
+    "created_at": "2026-04-28T13:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049124521135788214"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 20,
+          "tag": "ホロベース2026"
+        },
+        {
+          "end": 58,
+          "start": 52,
+          "tag": "白上フブキ"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "大神ミオ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1915216259605733377",
+          "start": 3,
+          "username": "hololiveBASE"
+        },
+        {
+          "end": 76,
+          "id": "997786053124616192",
+          "start": 60,
+          "username": "shirakamifubuki"
+        },
+        {
+          "end": 97,
+          "id": "1063337246231687169",
+          "start": 87,
+          "username": "ookamimio"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4qrXbqlS4Y",
+          "end": 122,
+          "expanded_url": "https://x.com/hololiveBASE/status/2048968597339525574/photo/1",
+          "media_key": "3_2048968554121404416",
+          "start": 99,
+          "url": "https://t.co/4qrXbqlS4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049124521135788214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 812
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048968597339525574",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hololiveBASE: ／\n#ホロベース2026\n東京担当のイラストをご紹介❣️\n＼\n\n🌽 #白上フブキ (@shirakamifubuki)\n🌲 #大神ミオ (@ookamimio) https://t.co/4qrXbqlS4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2048968554121404416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9mC0haIAABVTg.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048968554121404416"
+          ],
+          "media_source_tweet_id": [
+            "2048968597339525574"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2049124521135788214",
+        "created_at": "2026-04-28T13:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049124521135788214"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 20,
+              "tag": "ホロベース2026"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "白上フブキ"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "大神ミオ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1915216259605733377",
+              "start": 3,
+              "username": "hololiveBASE"
+            },
+            {
+              "end": 76,
+              "id": "997786053124616192",
+              "start": 60,
+              "username": "shirakamifubuki"
+            },
+            {
+              "end": 97,
+              "id": "1063337246231687169",
+              "start": 87,
+              "username": "ookamimio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qrXbqlS4Y",
+              "end": 122,
+              "expanded_url": "https://x.com/hololiveBASE/status/2048968597339525574/photo/1",
+              "media_key": "3_2048968554121404416",
+              "start": 99,
+              "url": "https://t.co/4qrXbqlS4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049124521135788214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 812
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048968597339525574",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hololiveBASE: ／\n#ホロベース2026\n東京担当のイラストをご紹介❣️\n＼\n\n🌽 #白上フブキ (@shirakamifubuki)\n🌲 #大神ミオ (@ookamimio) https://t.co/4qrXbqlS4Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048968554121404416"
+          ]
+        },
+        "author_id": "1915216259605733377",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2048968597339525574",
+        "created_at": "2026-04-28T03:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T04:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048968597339525574"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "ホロベース2026"
+            },
+            {
+              "end": 40,
+              "start": 34,
+              "tag": "白上フブキ"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "大神ミオ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 58,
+              "id": "997786053124616192",
+              "start": 42,
+              "username": "shirakamifubuki"
+            },
+            {
+              "end": 79,
+              "id": "1063337246231687169",
+              "start": 69,
+              "username": "ookamimio"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qrXbqlS4Y",
+              "end": 104,
+              "expanded_url": "https://x.com/hololiveBASE/status/2048968597339525574/photo/1",
+              "media_key": "3_2048968554121404416",
+              "start": 81,
+              "url": "https://t.co/4qrXbqlS4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048968597339525574",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 300,
+          "impression_count": 94504,
+          "like_count": 3825,
+          "quote_count": 24,
+          "reply_count": 8,
+          "retweet_count": 812
+        },
+        "reply_settings": "everyone",
+        "text": "／\n#ホロベース2026\n東京担当のイラストをご紹介❣️\n＼\n\n🌽 #白上フブキ (@shirakamifubuki)\n🌲 #大神ミオ (@ookamimio) https://t.co/4qrXbqlS4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 1629,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 965
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-24T01:29:37.000Z",
+        "description": "「hololive BASE on Tour! 2026 Duet Stage!」の公式アカウントです！\nグッズや開催情報などについて情報発信を致します。\n※旧hololive SUPER EXPO 2025 後夜祭 ~bonus stage~のアカウントが本アカウントに変更されました。\n※個別のお返事はできません。",
+        "id": "1915216259605733377",
+        "location": "日本",
+        "name": "hololive BASE on Tour! 2026 Duet Stage!",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027292414315278336/bdT3cq9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20807,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 69,
+          "media_count": 11,
+          "tweet_count": 15
+        },
+        "username": "hololiveBASE",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-19T10:28:27.000Z",
+        "description": "ホロライブ🦊 担当絵師:@lemon_mito 【素材】#白上配信素材【絵】＃絵フブキ 【配信】#フブキングダム【メン限】#フブキングダム総会【切り抜き】#フブ切り【ファン】#すこん部 【サブ】@fubuchandayo【小説】#FBKINGDOMSTORY",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 35,
+                "start": 28,
+                "tag": "白上配信素材"
+              },
+              {
+                "end": 43,
+                "start": 38,
+                "tag": "絵フブキ"
+              },
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "フブキングダム"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "tag": "フブキングダム総会"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "フブ切り"
+              },
+              {
+                "end": 92,
+                "start": 87,
+                "tag": "すこん部"
+              },
+              {
+                "end": 129,
+                "start": 114,
+                "tag": "FBKINGDOMSTORY"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 12,
+                "username": "lemon_mito"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "fubuchandayo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCdn5B…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/Z9k2AiKZRJ"
+              }
+            ]
+          }
+        },
+        "id": "997786053124616192",
+        "location": "侵略  部屋 花吹雪  円卓 祝祭 ",
+        "name": "白上フブキ🌽フブキングダム👑",
+        "pinned_tweet_id": "2046564284117741916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901181089017942016/XT-8dH2J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1917897,
+          "following_count": 1477,
+          "like_count": 235898,
+          "listed_count": 16410,
+          "media_count": 17820,
+          "tweet_count": 129001
+        },
+        "url": "https://t.co/Z9k2AiKZRJ",
+        "username": "shirakamifubuki",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-16T07:45:30.000Z",
+        "description": "ホロライブゲーマーズ所属の狼🐺Vtuber✨ 日常垢➡️ @ookamimio_sab 担当Illustrator：泉彩パパ@AC______ ✍️推しマーク(🌲) #ミオかわいい #みおーん絵 #朝ミオ #ミオパーツ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 90,
+                "start": 83,
+                "tag": "ミオかわいい"
+              },
+              {
+                "end": 97,
+                "start": 91,
+                "tag": "みおーん絵"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "朝ミオ"
+              },
+              {
+                "end": 109,
+                "start": 103,
+                "tag": "ミオパーツ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "ookamimio_sab"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "username": "AC______"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCp-5t…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/QYSfTtnBfS"
+              }
+            ]
+          }
+        },
+        "id": "1063337246231687169",
+        "location": "ホロライブ",
+        "name": "大神ミオ🌲ホロライブゲーマーズ🐺",
+        "pinned_tweet_id": "1997635976080834657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998402010845249536/MEQbUFP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140641,
+          "following_count": 1548,
+          "like_count": 62402,
+          "listed_count": 12539,
+          "media_count": 3674,
+          "tweet_count": 22977
+        },
+        "url": "https://t.co/QYSfTtnBfS",
+        "username": "ookamimio",
+        "verified": true
+      }
+    ]
+  }
+}

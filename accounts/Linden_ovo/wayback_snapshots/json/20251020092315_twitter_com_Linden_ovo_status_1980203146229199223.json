@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1979902884805480602",
+    "created_at": "2025-10-20T09:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T10:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980203146229199223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1318106119978381313",
+          "start": 0,
+          "username": "slOb225azEd4H0C"
+        },
+        {
+          "end": 24,
+          "id": "1519691891855425537",
+          "start": 17,
+          "username": "isCccw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980203146229199223",
+    "in_reply_to_user_id": "1318106119978381313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980041448935588148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@slOb225azEd4H0C @isCccw 虽然但是大部分留学生的父母只会觉得送出去是一笔消费阿、要考虑这些问题的人自己会有妥善安排的能力，没有能力去考虑这些的相辅相成也没必要去想吧，都是被捧着长大的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1979902884805480602",
+        "created_at": "2025-10-20T09:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980203146229199223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1318106119978381313",
+              "start": 0,
+              "username": "slOb225azEd4H0C"
+            },
+            {
+              "end": 24,
+              "id": "1519691891855425537",
+              "start": 17,
+              "username": "isCccw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980203146229199223",
+        "in_reply_to_user_id": "1318106119978381313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980041448935588148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@slOb225azEd4H0C @isCccw 虽然但是大部分留学生的父母只会觉得送出去是一笔消费阿、要考虑这些问题的人自己会有妥善安排的能力，没有能力去考虑这些的相辅相成也没必要去想吧，都是被捧着长大的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1318106119978381313",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "1979902884805480602",
+        "created_at": "2025-10-19T22:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980041448935588148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1519691891855425537",
+              "start": 0,
+              "username": "isCccw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980041448935588148",
+        "in_reply_to_user_id": "1519691891855425537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 243,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979902884805480602",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isCccw 虽然但是如果雅思纯靠做题技巧考过的话留学基本没什么意义，课也听不懂导师沟通也费劲，出去留学的钱回来工作不知道多少年才能把这个差价赚回来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 628,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 194
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-19T08:26:10.000Z",
+        "description": "这什么都没有哦",
+        "id": "1318106119978381313",
+        "location": "Scotland, United Kingdom",
+        "name": "一只魔芋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972858005994508288/sc8sJNks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 151,
+          "like_count": 9,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "slOb225azEd4H0C",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T14:56:05.000Z",
+        "description": "可以叫我cw/池物，是个光脚185的超级高妹，记录一点自己的穿搭 ，私信只回支付宝口令红包，喜欢我请打钱支持我，骚扰信息拉黑，感谢投喂这个cw可以让我买好看衣服🌹",
+        "id": "1519691891855425537",
+        "location": "88r30天🚪/520r永久🚪/1314r定制服装🚪",
+        "name": "是Cccw",
+        "pinned_tweet_id": "1972521126250332217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519692137616404482/HtJTuTJG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33943,
+          "following_count": 353,
+          "like_count": 1084,
+          "listed_count": 144,
+          "media_count": 125,
+          "tweet_count": 461
+        },
+        "username": "isCccw",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072883209378181204",
+    "created_at": "2026-07-03T05:31:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:31:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072916152301330855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072916152301330855",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072883209378181204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 卧槽萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2072883203615137792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRcSoRaoAAOZ0P.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072883209378181204",
+        "created_at": "2026-07-03T05:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072916152301330855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072916152301330855",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072883209378181204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 卧槽萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072883203615137792"
+          ]
+        },
+        "author_id": "2016028559228469252",
+        "conversation_id": "2072883209378181204",
+        "created_at": "2026-07-03T03:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072883209378181204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qq1OsTeNIM",
+              "end": 32,
+              "expanded_url": "https://x.com/Alvvaysioffy1/status/2072883209378181204/photo/1",
+              "media_key": "3_2072883203615137792",
+              "start": 9,
+              "url": "https://t.co/Qq1OsTeNIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072883209378181204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无脖子之人www https://t.co/Qq1OsTeNIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 116,
+          "like_count": 2029,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1271
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 224,
+          "like_count": 1367,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 877
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

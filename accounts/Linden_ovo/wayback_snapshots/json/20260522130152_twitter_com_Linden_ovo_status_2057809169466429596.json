@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057670159461134336"
+      ],
+      "media_source_tweet_id": [
+        "2057670172329275845"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2057809169466429596",
+    "created_at": "2026-05-22T13:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057809169466429596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Skgrs3HOtk",
+          "end": 48,
+          "expanded_url": "https://x.com/chan19890604t04/status/2057670172329275845/photo/1",
+          "media_key": "3_2057670159461134336",
+          "start": 25,
+          "url": "https://t.co/Skgrs3HOtk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057809169466429596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057670172329275845",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 看起來 https://t.co/Skgrs3HOtk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1773,
+        "media_key": "3_2057670159461134336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5QG6eaMAAFNN2.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057670159461134336"
+          ],
+          "media_source_tweet_id": [
+            "2057670172329275845"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2057809169466429596",
+        "created_at": "2026-05-22T13:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057809169466429596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Skgrs3HOtk",
+              "end": 48,
+              "expanded_url": "https://x.com/chan19890604t04/status/2057670172329275845/photo/1",
+              "media_key": "3_2057670159461134336",
+              "start": 25,
+              "url": "https://t.co/Skgrs3HOtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057809169466429596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057670172329275845",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 看起來 https://t.co/Skgrs3HOtk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057670159461134336"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "2057670172329275845",
+        "created_at": "2026-05-22T03:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T04:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057670172329275845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Skgrs3HOtk",
+              "end": 27,
+              "expanded_url": "https://x.com/chan19890604t04/status/2057670172329275845/photo/1",
+              "media_key": "3_2057670159461134336",
+              "start": 4,
+              "url": "https://t.co/Skgrs3HOtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057670172329275845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 23368,
+          "like_count": 454,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "看起來 https://t.co/Skgrs3HOtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 104,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1051
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "2043861225516499293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3231,
+          "following_count": 1749,
+          "like_count": 70993,
+          "listed_count": 19,
+          "media_count": 14051,
+          "tweet_count": 34023
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

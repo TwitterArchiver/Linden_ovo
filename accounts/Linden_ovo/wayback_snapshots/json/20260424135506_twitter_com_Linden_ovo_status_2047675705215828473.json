@@ -1,0 +1,608 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047506910820311040"
+      ],
+      "media_source_tweet_id": [
+        "2047508172748050553"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Generic Drinks",
+          "id": "834828445238431744",
+          "name": "Generic Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Coffee",
+          "id": "850442647088971776",
+          "name": "Coffee"
+        }
+      }
+    ],
+    "conversation_id": "2047675705215828473",
+    "created_at": "2026-04-24T13:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047675705215828473"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 42,
+          "tag": "恋と魔法のティーパーティー"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "465247684",
+          "start": 3,
+          "username": "shiratamacaron"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kzktQeWCHh",
+          "end": 124,
+          "expanded_url": "https://x.com/shiratamacaron/status/2047508172748050553/photo/1",
+          "media_key": "3_2047506910820311040",
+          "start": 101,
+          "url": "https://t.co/kzktQeWCHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047675705215828473",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047508172748050553",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shiratamacaron: きゃべつそふと 9th Project🥬\n\n#恋と魔法のティーパーティー\n\n鋭意制作中です！！⊂( ^-^)⊃\n（きゃべつそふとCafeで新情報が…！？🪄🫖✨） https://t.co/kzktQeWCHh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1190,
+        "media_key": "3_2047506910820311040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGo0r-6aIAAJzv1.jpg",
+        "width": 1670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047506910820311040"
+          ],
+          "media_source_tweet_id": [
+            "2047508172748050553"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2047675705215828473",
+        "created_at": "2026-04-24T13:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047675705215828473"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 42,
+              "tag": "恋と魔法のティーパーティー"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "465247684",
+              "start": 3,
+              "username": "shiratamacaron"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzktQeWCHh",
+              "end": 124,
+              "expanded_url": "https://x.com/shiratamacaron/status/2047508172748050553/photo/1",
+              "media_key": "3_2047506910820311040",
+              "start": 101,
+              "url": "https://t.co/kzktQeWCHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047675705215828473",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047508172748050553",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shiratamacaron: きゃべつそふと 9th Project🥬\n\n#恋と魔法のティーパーティー\n\n鋭意制作中です！！⊂( ^-^)⊃\n（きゃべつそふとCafeで新情報が…！？🪄🫖✨） https://t.co/kzktQeWCHh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047506910820311040"
+          ]
+        },
+        "author_id": "465247684",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2047508172748050553",
+        "created_at": "2026-04-24T02:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047508172748050553"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 22,
+              "tag": "恋と魔法のティーパーティー"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kzktQeWCHh",
+              "end": 104,
+              "expanded_url": "https://x.com/shiratamacaron/status/2047508172748050553/photo/1",
+              "media_key": "3_2047506910820311040",
+              "start": 81,
+              "url": "https://t.co/kzktQeWCHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047508172748050553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 31909,
+          "like_count": 1208,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 330
+        },
+        "reply_settings": "everyone",
+        "text": "きゃべつそふと 9th Project🥬\n\n#恋と魔法のティーパーティー\n\n鋭意制作中です！！⊂( ^-^)⊃\n（きゃべつそふとCafeで新情報が…！？🪄🫖✨） https://t.co/kzktQeWCHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 98,
+          "like_count": 1601,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 949
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-16T04:14:07.000Z",
+        "description": "イラストレーター・ゲーム原画家です❄️🍡\nにじさんじ えま★おうがすと/双葉シャロ/恋花苺みるは/アズールレーン 文月・長月\n【お仕事経歴・ご依頼】https://t.co/V3xF5lCw1p \n【FANBOX】https://t.co/Je7ULFhKkM \n【星空鉄道とシロの旅】https://t.co/SkFpwGFtQU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.gd/lpmO7",
+                "end": 97,
+                "expanded_url": "http://x.gd/lpmO7",
+                "start": 74,
+                "url": "https://t.co/V3xF5lCw1p"
+              },
+              {
+                "display_url": "shiratamaco.fanbox.cc",
+                "end": 130,
+                "expanded_url": "http://shiratamaco.fanbox.cc",
+                "start": 107,
+                "url": "https://t.co/Je7ULFhKkM"
+              },
+              {
+                "display_url": "shiratamaco.com",
+                "end": 166,
+                "expanded_url": "http://shiratamaco.com",
+                "start": 143,
+                "url": "https://t.co/SkFpwGFtQU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCF3Y1…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCF3Y12X8s0nAJHb4eJfxfqw/featured",
+                "start": 0,
+                "url": "https://t.co/NTAeZYsRdg"
+              }
+            ]
+          }
+        },
+        "id": "465247684",
+        "location": "講談社ラノベ文庫『ちいさな君と、こえを遠くに』①②③発売中！",
+        "name": "しらたま❄️新作ゲーム2本制作中🐇🫖",
+        "pinned_tweet_id": "2035318001528865278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857297459430699008/j2hI77Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298957,
+          "following_count": 2092,
+          "like_count": 80606,
+          "listed_count": 3394,
+          "media_count": 1279,
+          "tweet_count": 14538
+        },
+        "url": "https://t.co/NTAeZYsRdg",
+        "username": "shiratamacaron",
+        "verified": true
+      }
+    ]
+  }
+}

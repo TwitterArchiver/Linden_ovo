@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2060049739295420454",
+    "created_at": "2026-05-29T21:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060468532765249961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1650706290929446912",
+          "start": 0,
+          "username": "snail_9106"
+        },
+        {
+          "end": 23,
+          "id": "1445104645622407168",
+          "start": 12,
+          "username": "yasmim_bdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060468532765249961",
+    "in_reply_to_user_id": "1650706290929446912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060182090549719533",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@snail_9106 @yasmim_bdz 好你妈傻逼能不能去死"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 830,
+        "media_key": "3_2060182065664970754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJc8rGSXUAI_--h.png",
+        "width": 678
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2060049739295420454",
+        "created_at": "2026-05-29T21:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060468532765249961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1650706290929446912",
+              "start": 0,
+              "username": "snail_9106"
+            },
+            {
+              "end": 23,
+              "id": "1445104645622407168",
+              "start": 12,
+              "username": "yasmim_bdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060468532765249961",
+        "in_reply_to_user_id": "1650706290929446912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060182090549719533",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@snail_9106 @yasmim_bdz 好你妈傻逼能不能去死"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060182065664970754"
+          ]
+        },
+        "author_id": "1650706290929446912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060049739295420454",
+        "created_at": "2026-05-29T02:11:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T03:11:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060182090549719533"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1445104645622407168",
+              "start": 0,
+              "username": "yasmim_bdz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wXhXaiNcXg",
+              "end": 46,
+              "expanded_url": "https://x.com/snail_9106/status/2060182090549719533/photo/1",
+              "media_key": "3_2060182065664970754",
+              "start": 23,
+              "url": "https://t.co/wXhXaiNcXg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060182090549719533",
+        "in_reply_to_user_id": "1445104645622407168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 56234,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049739295420454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yasmim_bdz 你应该看看中国的美食 https://t.co/wXhXaiNcXg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1772,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1098
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T03:40:47.000Z",
+        "description": "AI、自媒体\n公众号创作者\n一个项目3个月7位数\n专注自媒体和小项目实践\nStanley 、Hername 社群助理\n持续分享，每天进步一点点",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "woniu.chuhai.store",
+                "end": 23,
+                "expanded_url": "https://woniu.chuhai.store",
+                "start": 0,
+                "url": "https://t.co/SIM7xyctq4"
+              }
+            ]
+          }
+        },
+        "id": "1650706290929446912",
+        "location": "🌏V510626 出海账号→",
+        "name": "蜗牛King 👑",
+        "pinned_tweet_id": "2018549157108031975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006754379890593792/rZQ06k6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18941,
+          "following_count": 907,
+          "like_count": 10387,
+          "listed_count": 63,
+          "media_count": 1097,
+          "tweet_count": 16605
+        },
+        "url": "https://t.co/SIM7xyctq4",
+        "username": "snail_9106",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-04T19:13:49.000Z",
+        "description": "🇧🇷",
+        "id": "1445104645622407168",
+        "name": "Yasmimヤスミン",
+        "pinned_tweet_id": "2060049739295420454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027525839735160833/jYle7TkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 1601,
+          "like_count": 43874,
+          "listed_count": 10,
+          "media_count": 2016,
+          "tweet_count": 27693
+        },
+        "username": "yasmim_bdz",
+        "verified": true
+      }
+    ]
+  }
+}

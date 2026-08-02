@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074053710112776192"
+      ],
+      "media_source_tweet_id": [
+        "2074053716018377043"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074485895256735806",
+    "created_at": "2026-07-07T13:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074485895256735806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581593955874918402",
+          "start": 3,
+          "username": "3q7lv"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ieIrIjXUfl",
+          "end": 48,
+          "expanded_url": "https://x.com/3q7lv/status/2074053716018377043/photo/1",
+          "media_key": "3_2074053710112776192",
+          "start": 25,
+          "url": "https://t.co/ieIrIjXUfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074485895256735806",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29858
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074053716018377043",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @3q7lv: こんな感じで退職しようかな https://t.co/ieIrIjXUfl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2074053710112776192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiE3ExaYAAz0r2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074053710112776192"
+          ],
+          "media_source_tweet_id": [
+            "2074053716018377043"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074485895256735806",
+        "created_at": "2026-07-07T13:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074485895256735806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581593955874918402",
+              "start": 3,
+              "username": "3q7lv"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieIrIjXUfl",
+              "end": 48,
+              "expanded_url": "https://x.com/3q7lv/status/2074053716018377043/photo/1",
+              "media_key": "3_2074053710112776192",
+              "start": 25,
+              "url": "https://t.co/ieIrIjXUfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074485895256735806",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29858
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074053716018377043",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @3q7lv: こんな感じで退職しようかな https://t.co/ieIrIjXUfl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074053710112776192"
+          ]
+        },
+        "author_id": "1581593955874918402",
+        "conversation_id": "2074053716018377043",
+        "created_at": "2026-07-06T08:51:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:51:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074053716018377043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ieIrIjXUfl",
+              "end": 37,
+              "expanded_url": "https://x.com/3q7lv/status/2074053716018377043/photo/1",
+              "media_key": "3_2074053710112776192",
+              "start": 14,
+              "url": "https://t.co/ieIrIjXUfl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074053716018377043",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13472,
+          "impression_count": 7787507,
+          "like_count": 423493,
+          "quote_count": 999,
+          "reply_count": 1070,
+          "retweet_count": 29859
+        },
+        "reply_settings": "everyone",
+        "text": "こんな感じで退職しようかな https://t.co/ieIrIjXUfl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 132,
+          "like_count": 2271,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1454
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-16T10:33:05.000Z",
+        "description": "",
+        "id": "1581593955874918402",
+        "name": "佑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073603039190220800/yW3xHl3j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1434,
+          "following_count": 891,
+          "like_count": 33634,
+          "listed_count": 9,
+          "media_count": 78,
+          "tweet_count": 901
+        },
+        "url": "",
+        "username": "3q7lv",
+        "verified": false
+      }
+    ]
+  }
+}

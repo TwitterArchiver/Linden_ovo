@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972548055036731393"
+      ],
+      "media_source_tweet_id": [
+        "1972548062217453720"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1972790386402938999",
+    "created_at": "2025-09-29T22:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T23:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972790386402938999"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 18,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1464984363981242368",
+          "start": 3,
+          "username": "Ricke_1102"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LpsAmTBxqz",
+          "end": 52,
+          "expanded_url": "https://x.com/Ricke_1102/status/1972548062217453720/photo/1",
+          "media_key": "3_1972548055036731393",
+          "start": 29,
+          "url": "https://t.co/LpsAmTBxqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972790386402938999",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972548062217453720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ricke_1102: 🗿\n#bijouwled https://t.co/LpsAmTBxqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_1972548055036731393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1_mAUraIAEHK1d.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972548055036731393"
+          ],
+          "media_source_tweet_id": [
+            "1972548062217453720"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1972790386402938999",
+        "created_at": "2025-09-29T22:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T23:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972790386402938999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 18,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1464984363981242368",
+              "start": 3,
+              "username": "Ricke_1102"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpsAmTBxqz",
+              "end": 52,
+              "expanded_url": "https://x.com/Ricke_1102/status/1972548062217453720/photo/1",
+              "media_key": "3_1972548055036731393",
+              "start": 29,
+              "url": "https://t.co/LpsAmTBxqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972790386402938999",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972548062217453720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ricke_1102: 🗿\n#bijouwled https://t.co/LpsAmTBxqz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972548055036731393"
+          ]
+        },
+        "author_id": "1464984363981242368",
+        "conversation_id": "1972548062217453720",
+        "created_at": "2025-09-29T06:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T07:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972548062217453720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LpsAmTBxqz",
+              "end": 36,
+              "expanded_url": "https://x.com/Ricke_1102/status/1972548062217453720/photo/1",
+              "media_key": "3_1972548055036731393",
+              "start": 13,
+              "url": "https://t.co/LpsAmTBxqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972548062217453720",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 212,
+          "impression_count": 19038,
+          "like_count": 2764,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "🗿\n#bijouwled https://t.co/LpsAmTBxqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 50,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 144
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T15:47:56.000Z",
+        "description": "絵垢 AI加工禁止。 中文/English OK /日本語 勉強中 Discord: ricke.11_02 Contact: ricecake911102@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/75603323",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/75603323",
+                "start": 0,
+                "url": "https://t.co/VzcG0nciAM"
+              }
+            ]
+          }
+        },
+        "id": "1464984363981242368",
+        "location": "Military  ends: January 14th.",
+        "name": "RicKe",
+        "pinned_tweet_id": "1972548062217453720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777240770078187520/xI3yOb-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7369,
+          "following_count": 886,
+          "like_count": 6985,
+          "listed_count": 63,
+          "media_count": 313,
+          "tweet_count": 2082
+        },
+        "url": "https://t.co/VzcG0nciAM",
+        "username": "Ricke_1102",
+        "verified": false
+      }
+    ]
+  }
+}

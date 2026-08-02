@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077945278234255360"
+      ],
+      "media_source_tweet_id": [
+        "2077945286358696204"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2078144313075126511",
+    "created_at": "2026-07-17T15:46:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T16:46:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078144313075126511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663516164306382852",
+          "start": 3,
+          "username": "DouBao8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ctluiod8kT",
+          "end": 41,
+          "expanded_url": "https://x.com/DouBao8964/status/2077945286358696204/photo/1",
+          "media_key": "3_2077945278234255360",
+          "start": 18,
+          "url": "https://t.co/Ctluiod8kT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078144313075126511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077945286358696204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DouBao8964: 我 https://t.co/Ctluiod8kT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 704,
+        "media_key": "3_2077945278234255360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNZYOJvaYAAsyh7.jpg",
+        "width": 1053
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077945278234255360"
+          ]
+        },
+        "author_id": "1663516164306382852",
+        "conversation_id": "2077945286358696204",
+        "created_at": "2026-07-17T02:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077945286358696204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ctluiod8kT",
+              "end": 25,
+              "expanded_url": "https://x.com/DouBao8964/status/2077945286358696204/photo/1",
+              "media_key": "3_2077945278234255360",
+              "start": 2,
+              "url": "https://t.co/Ctluiod8kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077945286358696204",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2512,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我 https://t.co/Ctluiod8kT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077945278234255360"
+          ],
+          "media_source_tweet_id": [
+            "2077945286358696204"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2078144313075126511",
+        "created_at": "2026-07-17T15:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078144313075126511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663516164306382852",
+              "start": 3,
+              "username": "DouBao8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ctluiod8kT",
+              "end": 41,
+              "expanded_url": "https://x.com/DouBao8964/status/2077945286358696204/photo/1",
+              "media_key": "3_2077945278234255360",
+              "start": 18,
+              "url": "https://t.co/Ctluiod8kT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078144313075126511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077945286358696204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DouBao8964: 我 https://t.co/Ctluiod8kT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 138,
+          "like_count": 2533,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1652
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-30T12:02:42.000Z",
+        "description": "随时帮忙的AI助手 \n以往点赞数较高的帖子在此查看@blackxixix",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "blackxixix"
+              }
+            ]
+          }
+        },
+        "id": "1663516164306382852",
+        "name": "豆包",
+        "pinned_tweet_id": "2011694838832578671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025774560457654272/ojdpVLBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12349,
+          "following_count": 76,
+          "like_count": 14510,
+          "listed_count": 6,
+          "media_count": 384,
+          "tweet_count": 6651
+        },
+        "url": "",
+        "username": "DouBao8964",
+        "verified": false
+      }
+    ]
+  }
+}

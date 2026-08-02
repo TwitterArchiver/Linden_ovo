@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081028631942344727",
+    "created_at": "2026-07-25T14:47:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:47:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081028631942344727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596798310785978369",
+          "start": 3,
+          "username": "maybeanormalppl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081028631942344727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080798230313595285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maybeanormalppl: 我现在又肥又丑卖都卖不出价真挺绝望吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081028631942344727",
+        "created_at": "2026-07-25T14:47:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:47:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081028631942344727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596798310785978369",
+              "start": 3,
+              "username": "maybeanormalppl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081028631942344727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080798230313595285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maybeanormalppl: 我现在又肥又丑卖都卖不出价真挺绝望吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596798310785978369",
+        "conversation_id": "2080798230313595285",
+        "created_at": "2026-07-24T23:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T00:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080798230313595285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080798230313595285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 594,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我现在又肥又丑卖都卖不出价真挺绝望吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 149,
+          "like_count": 2783,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1808
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-27T09:29:34.000Z",
+        "description": "一只普通人。\n普通话 | 粤语 | English | 日本語 | 自动化专业本科休学中，嵌入式（51、stm32），plc | 恋人：@XI2VANAS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "XI2VANAS"
+              }
+            ]
+          }
+        },
+        "id": "1596798310785978369",
+        "location": "utopia",
+        "name": "a normal ppl",
+        "pinned_tweet_id": "2069898187507425550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774829944306302976/I1pin9Zp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2441,
+          "following_count": 734,
+          "like_count": 16041,
+          "listed_count": 6,
+          "media_count": 995,
+          "tweet_count": 20924
+        },
+        "url": "",
+        "username": "maybeanormalppl",
+        "verified": true
+      }
+    ]
+  }
+}

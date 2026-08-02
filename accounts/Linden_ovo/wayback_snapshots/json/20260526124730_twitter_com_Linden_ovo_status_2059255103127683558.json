@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2058905300048961660",
+    "created_at": "2026-05-26T12:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059255103127683558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1166340260177076224",
+          "start": 0,
+          "username": "kioless2"
+        },
+        {
+          "end": 25,
+          "id": "1516975944484990977",
+          "start": 10,
+          "username": "SuisPasDaVinci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059255103127683558",
+    "in_reply_to_user_id": "1166340260177076224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059159530882335034",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kioless2 @SuisPasDaVinci 阅读理解能力："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2058905300048961660",
+        "created_at": "2026-05-26T12:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059255103127683558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1166340260177076224",
+              "start": 0,
+              "username": "kioless2"
+            },
+            {
+              "end": 25,
+              "id": "1516975944484990977",
+              "start": 10,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059255103127683558",
+        "in_reply_to_user_id": "1166340260177076224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059159530882335034",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kioless2 @SuisPasDaVinci 阅读理解能力："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1166340260177076224",
+        "conversation_id": "2058905300048961660",
+        "created_at": "2026-05-26T06:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T07:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059159530882335034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1516975944484990977",
+              "start": 0,
+              "username": "SuisPasDaVinci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059159530882335034",
+        "in_reply_to_user_id": "1516975944484990977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3581,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058905300048961660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuisPasDaVinci 你无证驾驶。。。说句母道话，我没骂你就已经很给面子了，别说报警了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 105,
+          "like_count": 1745,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1081
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-27T13:22:51.000Z",
+        "description": "",
+        "id": "1166340260177076224",
+        "name": "葵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843340701058338816/_BivdDeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 109,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 552
+        },
+        "username": "kioless2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-21T03:04:01.000Z",
+        "description": "加拿大🇨🇦10年老炮｜Stanley社群主理人 | TOP500公司程序员 | →下一站深圳做AI｜普通人逆袭千万之路",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "suispasdavinci.com",
+                "end": 23,
+                "expanded_url": "http://suispasdavinci.com",
+                "start": 0,
+                "url": "https://t.co/XaMLV00z9k"
+              }
+            ]
+          }
+        },
+        "id": "1516975944484990977",
+        "location": "CANADIAN TIRED",
+        "name": "达芬七",
+        "pinned_tweet_id": "2017777161340440688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022377311010471936/qiAJoIzu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18306,
+          "following_count": 1451,
+          "like_count": 40709,
+          "listed_count": 70,
+          "media_count": 2430,
+          "tweet_count": 23788
+        },
+        "url": "https://t.co/XaMLV00z9k",
+        "username": "SuisPasDaVinci",
+        "verified": true
+      }
+    ]
+  }
+}

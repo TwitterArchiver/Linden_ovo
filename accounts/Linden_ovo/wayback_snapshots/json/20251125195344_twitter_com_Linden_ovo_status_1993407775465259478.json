@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993321574406193152"
+      ],
+      "media_source_tweet_id": [
+        "1993321577598140552"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1993407775465259478",
+    "created_at": "2025-11-25T19:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993407775465259478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1975500696427581440",
+          "start": 3,
+          "username": "TReverie_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1fh6qkkN3A",
+          "end": 38,
+          "expanded_url": "https://x.com/TReverie_/status/1993321577598140552/photo/1",
+          "media_key": "3_1993321574406193152",
+          "start": 15,
+          "url": "https://t.co/1fh6qkkN3A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993407775465259478",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993321577598140552",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TReverie_: https://t.co/1fh6qkkN3A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1993321574406193152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6mzaS2agAAlovP.jpg",
+        "width": 905
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993321574406193152"
+          ],
+          "media_source_tweet_id": [
+            "1993321577598140552"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1993407775465259478",
+        "created_at": "2025-11-25T19:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993407775465259478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1975500696427581440",
+              "start": 3,
+              "username": "TReverie_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fh6qkkN3A",
+              "end": 38,
+              "expanded_url": "https://x.com/TReverie_/status/1993321577598140552/photo/1",
+              "media_key": "3_1993321574406193152",
+              "start": 15,
+              "url": "https://t.co/1fh6qkkN3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993407775465259478",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993321577598140552",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TReverie_: https://t.co/1fh6qkkN3A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993321574406193152"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "conversation_id": "1993321577598140552",
+        "created_at": "2025-11-25T14:11:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T15:11:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993321577598140552"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1fh6qkkN3A",
+              "end": 23,
+              "expanded_url": "https://x.com/TReverie_/status/1993321577598140552/photo/1",
+              "media_key": "3_1993321574406193152",
+              "start": 0,
+              "url": "https://t.co/1fh6qkkN3A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993321577598140552",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 9238,
+          "like_count": 235,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1fh6qkkN3A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 289
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "包蜜😋 | 情绪超级不稳，喜欢三天两头切换状态 | 反共的我看到一个fo一个 | Blue Archive | 反支性，支持脱支 | Stand up for yourself",
+        "id": "1975500696427581440",
+        "location": "London, England",
+        "name": "Tiny Reverie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987433052960923712/V6mQbiI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 913,
+          "following_count": 566,
+          "like_count": 7244,
+          "listed_count": 6,
+          "media_count": 528,
+          "tweet_count": 2277
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

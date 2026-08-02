@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2037486624414589097",
+    "created_at": "2026-03-27T11:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037486624414589097"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/linden_ovo/status/2037486127133667807",
+          "start": 39,
+          "url": "https://t.co/gB9u6o5Sm1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037486624414589097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037486127133667807",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在这个梦里我们在一起了，在这个令我无法想象的维度里我为什么面对你还是这么自卑 https://t.co/gB9u6o5Sm1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2037486624414589097",
+        "created_at": "2026-03-27T11:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037486624414589097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2037486127133667807",
+              "start": 39,
+              "url": "https://t.co/gB9u6o5Sm1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037486624414589097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037486127133667807",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在这个梦里我们在一起了，在这个令我无法想象的维度里我为什么面对你还是这么自卑 https://t.co/gB9u6o5Sm1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2037486127133667807",
+        "created_at": "2026-03-27T11:05:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:05:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037486127133667807"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037486127133667807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦见我们在车上 坐在一起 出租车 回某处住所的路上 你在和我讲近代史，这场革命我看过好多文献，但在和你谈论时哑口了，可能让我哑口的是我眼前的你吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "或曾梦见 与你亲密无间",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 83,
+          "like_count": 1428,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 802
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

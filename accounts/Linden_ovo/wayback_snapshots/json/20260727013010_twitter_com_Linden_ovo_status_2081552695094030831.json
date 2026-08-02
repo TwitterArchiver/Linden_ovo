@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081552695094030831",
+    "created_at": "2026-07-27T01:30:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T02:30:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081552695094030831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651273923114455041",
+          "start": 3,
+          "username": "X1anx1anZong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081552695094030831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081374525053345835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1anx1anZong: 比我的龟头更敏感的是我的心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081552695094030831",
+        "created_at": "2026-07-27T01:30:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T02:30:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081552695094030831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651273923114455041",
+              "start": 3,
+              "username": "X1anx1anZong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081552695094030831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081374525053345835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X1anx1anZong: 比我的龟头更敏感的是我的心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "conversation_id": "2081374525053345835",
+        "created_at": "2026-07-26T13:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081374525053345835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081374525053345835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12532,
+          "like_count": 195,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "比我的龟头更敏感的是我的心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 148,
+          "like_count": 2807,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1834
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "魔女裁判",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039711550400057345/hBevM-k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3173,
+          "following_count": 59,
+          "like_count": 20205,
+          "listed_count": 4,
+          "media_count": 331,
+          "tweet_count": 12047
+        },
+        "url": "",
+        "username": "X1anx1anZong",
+        "verified": false
+      }
+    ]
+  }
+}

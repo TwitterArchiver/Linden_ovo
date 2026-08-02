@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1996364855906030078",
+    "created_at": "2025-12-03T23:44:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T00:44:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996364855906030078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1613079089879076864",
+          "start": 3,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996364855906030078",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996273287039750409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cldeop: 孩子，你就继续熬夜，继续刷你那个破手机，你全身的器官都不累，不难过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1996364855906030078",
+        "created_at": "2025-12-03T23:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T00:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996364855906030078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1613079089879076864",
+              "start": 3,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996364855906030078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996273287039750409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cldeop: 孩子，你就继续熬夜，继续刷你那个破手机，你全身的器官都不累，不难过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1613079089879076864",
+        "conversation_id": "1996273287039750409",
+        "created_at": "2025-12-03T17:40:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T18:40:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996273287039750409"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996273287039750409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 21928,
+          "like_count": 349,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，你就继续熬夜，继续刷你那个破手机，你全身的器官都不累，不难过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 62,
+          "like_count": 822,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 329
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92537,
+          "following_count": 666,
+          "like_count": 32469,
+          "listed_count": 268,
+          "media_count": 13782,
+          "tweet_count": 19859
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

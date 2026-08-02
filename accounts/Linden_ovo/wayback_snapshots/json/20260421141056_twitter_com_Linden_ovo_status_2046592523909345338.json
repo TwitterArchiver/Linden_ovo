@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2046592523909345338",
+    "created_at": "2026-04-21T14:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T15:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046592523909345338"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 173,
+          "expanded_url": "https://twitter.com/linden_ovo/status/2046587020860903516",
+          "start": 150,
+          "url": "https://t.co/j0zLgg5kVb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046592523909345338",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046587020860903516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "牛舌，俄式肉肠，鹿肉排，番茄肉酱 Tagliatelle Pasta，哈尔滨红肠，牛排饭（配无菌蛋，肘子拌饭，炒鸡配宽面，烤油包肝沾甜醋，文贝肉，过油肉拌面，鸡蛋土豆泥沙拉，凉皮，裹凉皮，鱿鱼煲，pho，粿条，鲍鱼饭，日式肥牛饭，凤梨牛肉堡，烤苕皮，烤年糕，千层面，臭豆腐，瘦肉粥，疙瘩汤，煎饼果子 https://t.co/j0zLgg5kVb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2046592523909345338",
+        "created_at": "2026-04-21T14:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T15:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046592523909345338"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2046587020860903516",
+              "start": 150,
+              "url": "https://t.co/j0zLgg5kVb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046592523909345338",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046587020860903516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛舌，俄式肉肠，鹿肉排，番茄肉酱 Tagliatelle Pasta，哈尔滨红肠，牛排饭（配无菌蛋，肘子拌饭，炒鸡配宽面，烤油包肝沾甜醋，文贝肉，过油肉拌面，鸡蛋土豆泥沙拉，凉皮，裹凉皮，鱿鱼煲，pho，粿条，鲍鱼饭，日式肥牛饭，凤梨牛肉堡，烤苕皮，烤年糕，千层面，臭豆腐，瘦肉粥，疙瘩汤，煎饼果子 https://t.co/j0zLgg5kVb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2046587020860903516",
+        "created_at": "2026-04-21T13:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046587020860903516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2046584604241400163",
+              "start": 141,
+              "url": "https://t.co/7eMtJ9tRhl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046587020860903516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046584604241400163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "工人路炸鸡，煮的辛拉面，豚骨拉面，手工虾仁混沌，手工胡萝卜羊肉饺子，番茄鸡蛋面加小米辣，黑虎虾，红魔虾，螺蛳粉，手工肉丸白萝卜乌冬面，钵钵鸡，粉耗子，麻辣厚豆干，羊肉手抓饭，川式红油无骨鸡爪，番茄肉酱意面，生煎，灌汤包，台式卤肉饭，猪脚饭，苹果焗鸡，糯米排骨，糯米丸子，肉酱刀削面 https://t.co/7eMtJ9tRhl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 95,
+          "like_count": 1574,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 919
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

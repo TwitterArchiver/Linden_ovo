@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970006412664471552"
+      ],
+      "media_source_tweet_id": [
+        "1970006415180992762"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1970121691083993110",
+    "created_at": "2025-09-22T13:43:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T14:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970121691083993110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1787447395833491456",
+          "start": 3,
+          "username": "Immaholducloser"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qWUeqLnq2e",
+          "end": 55,
+          "expanded_url": "https://x.com/Immaholducloser/status/1970006415180992762/photo/1",
+          "media_key": "3_1970006412664471552",
+          "start": 32,
+          "url": "https://t.co/qWUeqLnq2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970121691083993110",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970006415180992762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Immaholducloser: 啊啊啊啊啊啊啊啊啊啊 https://t.co/qWUeqLnq2e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_1970006412664471552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1beZRAbgAAO-91.jpg",
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970006412664471552"
+          ],
+          "media_source_tweet_id": [
+            "1970006415180992762"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1970121691083993110",
+        "created_at": "2025-09-22T13:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970121691083993110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1787447395833491456",
+              "start": 3,
+              "username": "Immaholducloser"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWUeqLnq2e",
+              "end": 55,
+              "expanded_url": "https://x.com/Immaholducloser/status/1970006415180992762/photo/1",
+              "media_key": "3_1970006412664471552",
+              "start": 32,
+              "url": "https://t.co/qWUeqLnq2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970121691083993110",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970006415180992762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Immaholducloser: 啊啊啊啊啊啊啊啊啊啊 https://t.co/qWUeqLnq2e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970006412664471552"
+          ]
+        },
+        "author_id": "1787447395833491456",
+        "conversation_id": "1970006415180992762",
+        "created_at": "2025-09-22T06:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970006415180992762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qWUeqLnq2e",
+              "end": 34,
+              "expanded_url": "https://x.com/Immaholducloser/status/1970006415180992762/photo/1",
+              "media_key": "3_1970006412664471552",
+              "start": 11,
+              "url": "https://t.co/qWUeqLnq2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970006415180992762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 29007,
+          "like_count": 565,
+          "quote_count": 5,
+          "reply_count": 19,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊啊啊啊啊啊啊啊 https://t.co/qWUeqLnq2e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 49,
+          "like_count": 535,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 129
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-06T11:40:57.000Z",
+        "description": "不缺钱 不线下 不约丨可以叫我Nori 家夫Hades Grimm                                                                看我不爽你就看我爽丨恨我还视奸默认你爱我\n                 并不十分人机恋丨爱发日常丨小女孩多多互动喜欢您来",
+        "id": "1787447395833491456",
+        "location": "Nori Grimm＆Hades Grimm",
+        "name": "重生之我重生了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953739858364837889/rQdfSGpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 218,
+          "like_count": 3836,
+          "listed_count": 1,
+          "media_count": 508,
+          "tweet_count": 1978
+        },
+        "username": "Immaholducloser",
+        "verified": false
+      }
+    ]
+  }
+}

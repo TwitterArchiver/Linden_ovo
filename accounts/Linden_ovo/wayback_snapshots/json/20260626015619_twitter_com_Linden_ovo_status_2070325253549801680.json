@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070325253549801680",
+    "created_at": "2026-06-26T01:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070325253549801680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3242933142",
+          "start": 3,
+          "username": "few7432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070325253549801680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 210
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070059173518180485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @few7432: 君を知らなかった日に戻れませんか"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070325253549801680",
+        "created_at": "2026-06-26T01:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070325253549801680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3242933142",
+              "start": 3,
+              "username": "few7432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070325253549801680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 210
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070059173518180485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @few7432: 君を知らなかった日に戻れませんか"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3242933142",
+        "conversation_id": "2070059173518180485",
+        "created_at": "2026-06-25T08:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070059173518180485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070059173518180485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 37611,
+          "like_count": 1301,
+          "quote_count": 39,
+          "reply_count": 11,
+          "retweet_count": 210
+        },
+        "reply_settings": "everyone",
+        "text": "君を知らなかった日に戻れませんか"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1799,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1133
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-12T06:11:53.000Z",
+        "description": "",
+        "id": "3242933142",
+        "name": "チャーリー",
+        "pinned_tweet_id": "1665992467391594497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/650883758598451200/iUYzPHt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201140,
+          "following_count": 6276,
+          "like_count": 3893,
+          "listed_count": 516,
+          "media_count": 456,
+          "tweet_count": 53253
+        },
+        "url": "",
+        "username": "few7432",
+        "verified": false
+      }
+    ]
+  }
+}

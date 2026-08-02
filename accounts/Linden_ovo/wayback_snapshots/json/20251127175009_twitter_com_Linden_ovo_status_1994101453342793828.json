@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994058778531315712"
+      ],
+      "media_source_tweet_id": [
+        "1994058783920935111"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1994101453342793828",
+    "created_at": "2025-11-27T17:50:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T18:50:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994101453342793828"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 83,
+          "tag": "博衣こより4周年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433667543806267393",
+          "start": 3,
+          "username": "hakuikoyori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2Q1hCNSJf3",
+          "end": 116,
+          "expanded_url": "https://x.com/hakuikoyori/status/1994058783920935111/photo/1",
+          "media_key": "3_1994058778531315712",
+          "start": 93,
+          "url": "https://t.co/2Q1hCNSJf3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994101453342793828",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1522
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994058783920935111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakuikoyori: 今日で活動4周年だぁ～～～っ！！！🧪✨\n\nいつも応援ありがとう！🎉\n5年目も一緒に歩いてくれるかなっ？(ᐡ⸝⸝• ̫ •⸝⸝ᐡ)\n\n#博衣こより4周年 https://t.co/2Q1hCNSJf3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1994058778531315712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6xR5OObwAApM5g.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994058778531315712"
+          ],
+          "media_source_tweet_id": [
+            "1994058783920935111"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994101453342793828",
+        "created_at": "2025-11-27T17:50:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T18:50:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994101453342793828"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 83,
+              "tag": "博衣こより4周年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433667543806267393",
+              "start": 3,
+              "username": "hakuikoyori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q1hCNSJf3",
+              "end": 116,
+              "expanded_url": "https://x.com/hakuikoyori/status/1994058783920935111/photo/1",
+              "media_key": "3_1994058778531315712",
+              "start": 93,
+              "url": "https://t.co/2Q1hCNSJf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994101453342793828",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1522
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994058783920935111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakuikoyori: 今日で活動4周年だぁ～～～っ！！！🧪✨\n\nいつも応援ありがとう！🎉\n5年目も一緒に歩いてくれるかなっ？(ᐡ⸝⸝• ̫ •⸝⸝ᐡ)\n\n#博衣こより4周年 https://t.co/2Q1hCNSJf3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994058778531315712"
+          ]
+        },
+        "author_id": "1433667543806267393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994058783920935111",
+        "created_at": "2025-11-27T15:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994058783920935111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "博衣こより4周年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2Q1hCNSJf3",
+              "end": 99,
+              "expanded_url": "https://x.com/hakuikoyori/status/1994058783920935111/photo/1",
+              "media_key": "3_1994058778531315712",
+              "start": 76,
+              "url": "https://t.co/2Q1hCNSJf3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994058783920935111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 69440,
+          "like_count": 6927,
+          "quote_count": 29,
+          "reply_count": 578,
+          "retweet_count": 1522
+        },
+        "reply_settings": "everyone",
+        "text": "今日で活動4周年だぁ～～～っ！！！🧪✨\n\nいつも応援ありがとう！🎉\n5年目も一緒に歩いてくれるかなっ？(ᐡ⸝⸝• ̫ •⸝⸝ᐡ)\n\n#博衣こより4周年 https://t.co/2Q1hCNSJf3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 774,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 305
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T05:46:28.000Z",
+        "description": "ホロライブ6期生🧪holoXの頭脳🧠博衣こよりだよ🎀初見古参関係なく楽しめるがモットー！夢を全部叶えるのが夢！(ᐡ •͈ ·̫ •͈ ᐡ)ﾉ💞／🎨 #こよりすけっち／📺 #こより実験中／ファンネーム：助手くん❤️ももこママ(@momoco_haru) いいねやリプは気まぐれ！特別扱いではないから安心してねっ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "こよりすけっち"
+              },
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "こより実験中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "momoco_haru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6eWC…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+                "start": 0,
+                "url": "https://t.co/U4G9NUjWs5"
+              }
+            ]
+          }
+        },
+        "id": "1433667543806267393",
+        "location": "助手くんの心の中(ᐡ •͈ ·̫ •͈ ᐡ)",
+        "name": "博衣こより🧪1stアルバム発売中!!新曲MVも見てね🎉",
+        "pinned_tweet_id": "1994060136298721673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907071586194411520/mH_qxVy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971594,
+          "following_count": 566,
+          "like_count": 51217,
+          "listed_count": 9538,
+          "media_count": 7635,
+          "tweet_count": 34736
+        },
+        "url": "https://t.co/U4G9NUjWs5",
+        "username": "hakuikoyori",
+        "verified": true
+      }
+    ]
+  }
+}

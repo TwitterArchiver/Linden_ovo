@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964226244633120772"
+      ],
+      "media_source_tweet_id": [
+        "1964226252128342090"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1964797699137638730",
+    "created_at": "2025-09-07T21:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T22:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964797699137638730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1914573883430330368",
+          "start": 3,
+          "username": "beccakiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3wLr0dunTs",
+          "end": 61,
+          "expanded_url": "https://x.com/beccakiko/status/1964226252128342090/photo/1",
+          "media_key": "3_1964226244633120772",
+          "start": 38,
+          "url": "https://t.co/3wLr0dunTs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964797699137638730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964226252128342090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @beccakiko: 这位哥还是太xyy了 把我搞得不知道回什么🫠 https://t.co/3wLr0dunTs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1964226244633120772",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0JVXNHbUAQ_Krr.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964226244633120772"
+          ],
+          "media_source_tweet_id": [
+            "1964226252128342090"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1964797699137638730",
+        "created_at": "2025-09-07T21:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T22:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964797699137638730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1914573883430330368",
+              "start": 3,
+              "username": "beccakiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wLr0dunTs",
+              "end": 61,
+              "expanded_url": "https://x.com/beccakiko/status/1964226252128342090/photo/1",
+              "media_key": "3_1964226244633120772",
+              "start": 38,
+              "url": "https://t.co/3wLr0dunTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964797699137638730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964226252128342090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @beccakiko: 这位哥还是太xyy了 把我搞得不知道回什么🫠 https://t.co/3wLr0dunTs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964226244633120772"
+          ]
+        },
+        "author_id": "1914573883430330368",
+        "conversation_id": "1964226252128342090",
+        "created_at": "2025-09-06T07:16:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T08:16:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964226252128342090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wLr0dunTs",
+              "end": 46,
+              "expanded_url": "https://x.com/beccakiko/status/1964226252128342090/photo/1",
+              "media_key": "3_1964226244633120772",
+              "start": 23,
+              "url": "https://t.co/3wLr0dunTs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964226252128342090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 696653,
+          "like_count": 1986,
+          "quote_count": 1,
+          "reply_count": 69,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这位哥还是太xyy了 把我搞得不知道回什么🫠 https://t.co/3wLr0dunTs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958051018467323904/Lqx8miui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 43,
+          "like_count": 482,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T06:56:10.000Z",
+        "description": "关闭评论区是推广真假自辨 🚪52 我是女生不是男娘 不要再私信问我性别了 我只有这一个号 其他号都是假的 私信问问题前最好先付门槛 不然应该不会回嘟 扩列先给门槛 美女可以找我互关i’m Becca from China, 5’2’’, 94 lb. I can read and write in English.",
+        "id": "1914573883430330368",
+        "location": "Deep in your mind",
+        "name": "朝花希拾",
+        "pinned_tweet_id": "1953398498788810995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959847018530258944/uGhLwqSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42338,
+          "following_count": 110,
+          "like_count": 1493,
+          "listed_count": 120,
+          "media_count": 117,
+          "tweet_count": 971
+        },
+        "username": "beccakiko",
+        "verified": true
+      }
+    ]
+  }
+}

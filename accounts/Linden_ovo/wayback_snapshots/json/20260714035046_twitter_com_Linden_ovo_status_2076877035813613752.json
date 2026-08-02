@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076877035813613752",
+    "created_at": "2026-07-14T03:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076877035813613752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "114382613",
+          "start": 3,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076877035813613752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076595062751064481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PrettiestBitch: 虽然我不讨厌春野樱但我感觉她的粉丝和那群极其魔怔的乙母狗bg婆有着很大重叠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076877035813613752",
+        "created_at": "2026-07-14T03:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076877035813613752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "114382613",
+              "start": 3,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076877035813613752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076595062751064481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PrettiestBitch: 虽然我不讨厌春野樱但我感觉她的粉丝和那群极其魔怔的乙母狗bg婆有着很大重叠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114382613",
+        "conversation_id": "2076595062751064481",
+        "created_at": "2026-07-13T09:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T10:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076595062751064481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076595062751064481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1446,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我不讨厌春野樱但我感觉她的粉丝和那群极其魔怔的乙母狗bg婆有着很大重叠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 134,
+          "like_count": 2410,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "在读研究生，外形优秀不缺得吃，已经对正常性生活感到腻味，追08年混血女高未果，反而自我洗脑成为她和对象的贡畜锁奴，在这里记录我的沦陷过程",
+        "id": "114382613",
+        "name": "好了大家尊重女性",
+        "pinned_tweet_id": "2076785868350873730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076195405902249985/U6OHHhdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 160,
+          "like_count": 506,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1354
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      }
+    ]
+  }
+}

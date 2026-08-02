@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073796853703778488",
+    "created_at": "2026-07-05T15:51:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T16:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073796853703778488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939338058199191553",
+          "start": 3,
+          "username": "konakonalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073796853703778488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073431110852227458",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @konakonalo: 我这辈子都不会和一个非中文母语的人恋爱。因为母语就是人的根。根不同的人思维方式绝对是不同的。我不能理解不用中文思考的人脑子里有什么。我们之间的隔阂太大了！我不能明白你是如何看待世界的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073796853703778488",
+        "created_at": "2026-07-05T15:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T16:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073796853703778488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939338058199191553",
+              "start": 3,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073796853703778488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073431110852227458",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @konakonalo: 我这辈子都不会和一个非中文母语的人恋爱。因为母语就是人的根。根不同的人思维方式绝对是不同的。我不能理解不用中文思考的人脑子里有什么。我们之间的隔阂太大了！我不能明白你是如何看待世界的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2073431110852227458",
+        "created_at": "2026-07-04T15:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073431110852227458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073431110852227458",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 281,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我这辈子都不会和一个非中文母语的人恋爱。因为母语就是人的根。根不同的人思维方式绝对是不同的。我不能理解不用中文思考的人脑子里有什么。我们之间的隔阂太大了！我不能明白你是如何看待世界的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 130,
+          "like_count": 2169,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1390
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "@NoQ__NoQ\n98岁游生梦死今日也在沉睡。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛开书本上街去。如果你也喜欢龇牙咧嘴的人类，那我们一定能做好朋友！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "NoQ__NoQ"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "location": "98岁游生梦死",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2061810607188484137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 137,
+          "like_count": 5304,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 604
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false
+      }
+    ]
+  }
+}

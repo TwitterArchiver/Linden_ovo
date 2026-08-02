@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074058663912755432",
+    "created_at": "2026-07-07T07:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T08:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074392033301495864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2040694589275738112",
+          "start": 0,
+          "username": "RajPushpa87283"
+        },
+        {
+          "end": 32,
+          "id": "1839564503211708416",
+          "start": 16,
+          "username": "ww9961720769469"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074392033301495864",
+    "in_reply_to_user_id": "2040694589275738112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074334518304194874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RajPushpa87283 @ww9961720769469 本来就是给对象撒娇看的关你鸟事😔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074058663912755432",
+        "created_at": "2026-07-07T07:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T08:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074392033301495864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2040694589275738112",
+              "start": 0,
+              "username": "RajPushpa87283"
+            },
+            {
+              "end": 32,
+              "id": "1839564503211708416",
+              "start": 16,
+              "username": "ww9961720769469"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074392033301495864",
+        "in_reply_to_user_id": "2040694589275738112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074334518304194874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RajPushpa87283 @ww9961720769469 本来就是给对象撒娇看的关你鸟事😔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040694589275738112",
+        "conversation_id": "2074058663912755432",
+        "created_at": "2026-07-07T03:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T04:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074334518304194874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1839564503211708416",
+              "start": 0,
+              "username": "ww9961720769469"
+            },
+            {
+              "end": 28,
+              "id": "1842490676543627264",
+              "start": 17,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074334518304194874",
+        "in_reply_to_user_id": "1839564503211708416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074326331798724845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ww9961720769469 @Linden_ovo 这种是真抽象，有对象还在网上发这种话😓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 132,
+          "like_count": 2250,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1445
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T07:34:58.000Z",
+        "description": "生活磨平了我的棱角\n让我从一个形形色色的人\n变成了一个色色的人\nfk u Mercedes\nGod bless ANT🤙🏻🤙🏻🤙🏻",
+        "id": "2040694589275738112",
+        "name": "那年夏末未至",
+        "pinned_tweet_id": "2073816852678295706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071105608929906688/tET-OQHu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 20,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 450
+        },
+        "url": "",
+        "username": "RajPushpa87283",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-27T07:15:58.000Z",
+        "description": "如果我说了什么不好的话，我向你道歉，抱歉。",
+        "id": "1839564503211708416",
+        "location": "地府",
+        "name": "微微发疯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899886171024502784/oXXtjqRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 647
+        },
+        "url": "",
+        "username": "ww9961720769469",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074086645691740657",
+    "created_at": "2026-07-06T11:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074086645691740657"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1645154173707755520",
+          "start": 3,
+          "username": "lx101067"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074086645691740657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074085937353802225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lx101067: 我觉得目前唯一无法戒掉的就是性瘾  我一天不炉管我就难受😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074086645691740657",
+        "created_at": "2026-07-06T11:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074086645691740657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1645154173707755520",
+              "start": 3,
+              "username": "lx101067"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074086645691740657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074085937353802225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lx101067: 我觉得目前唯一无法戒掉的就是性瘾  我一天不炉管我就难受😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1645154173707755520",
+        "conversation_id": "2074085937353802225",
+        "created_at": "2026-07-06T10:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074085937353802225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074085937353802225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得目前唯一无法戒掉的就是性瘾  我一天不炉管我就难受😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 131,
+          "like_count": 2209,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1424
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T19:58:23.000Z",
+        "description": "此地只是本人的阅读即焚垃圾桶谢谢你的路过/提问箱https://t.co/u0tJqGI0nW",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/night63788",
+                "end": 47,
+                "expanded_url": "https://ngl.link/night63788",
+                "start": 24,
+                "url": "https://t.co/u0tJqGI0nW"
+              }
+            ]
+          }
+        },
+        "id": "1645154173707755520",
+        "location": "我的坟墓在此地",
+        "name": "Night",
+        "pinned_tweet_id": "1865760014247555294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015686881741291520/AbBxgcMu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3391,
+          "following_count": 669,
+          "like_count": 12652,
+          "listed_count": 8,
+          "media_count": 1428,
+          "tweet_count": 10977
+        },
+        "url": "",
+        "username": "lx101067",
+        "verified": false
+      }
+    ]
+  }
+}

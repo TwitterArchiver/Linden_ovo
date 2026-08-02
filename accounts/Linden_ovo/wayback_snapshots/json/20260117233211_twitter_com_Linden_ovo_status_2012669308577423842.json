@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2012669308577423842",
+    "created_at": "2026-01-17T23:32:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T00:32:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012669308577423842"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012669308577423842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我爱每一个无论我怎样都爱我的人，我真心实意的希望你能过得好，就像你也希望我过得好一样。虽然这份心意很难传达给你了，希望此刻我们一样的月亮比照亮这个世界更想照亮你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2012669308577423842",
+        "created_at": "2026-01-17T23:32:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:32:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012669308577423842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012669308577423842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我爱每一个无论我怎样都爱我的人，我真心实意的希望你能过得好，就像你也希望我过得好一样。虽然这份心意很难传达给你了，希望此刻我们一样的月亮比照亮这个世界更想照亮你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了滚",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 74,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 468
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

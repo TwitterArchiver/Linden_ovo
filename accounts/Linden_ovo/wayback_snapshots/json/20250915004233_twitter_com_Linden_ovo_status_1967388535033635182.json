@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1967387802989134193",
+    "created_at": "2025-09-15T00:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T01:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967388535033635182"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1967388535033635182",
+    "in_reply_to_user_id": "1842490676543627264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967387802989134193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可不可以不要在我身上找價值感，你喜歡的是我嗎，還是只是喜歡的是需要某個人來體現的你的人生體驗，或者是自己無處釋放又恰好可以在我身上體現的情感投射，真的好噁心噁心的要死，我操你媽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1967387802989134193",
+        "created_at": "2025-09-15T00:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967388535033635182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967388535033635182",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967387802989134193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可不可以不要在我身上找價值感，你喜歡的是我嗎，還是只是喜歡的是需要某個人來體現的你的人生體驗，或者是自己無處釋放又恰好可以在我身上體現的情感投射，真的好噁心噁心的要死，我操你媽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1967387802989134193",
+        "created_at": "2025-09-15T00:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967387802989134193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967387802989134193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好痛苦啊操你媽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 48,
+          "like_count": 520,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 114
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

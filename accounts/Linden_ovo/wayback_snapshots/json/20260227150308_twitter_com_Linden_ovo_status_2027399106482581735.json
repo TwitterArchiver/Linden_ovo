@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026688657617498112"
+      ],
+      "media_source_tweet_id": [
+        "2026796348763250869"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027399106482581735",
+    "created_at": "2026-02-27T15:03:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027399106482581735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062499145267605504",
+          "start": 3,
+          "username": "AZKi_VDiVA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/U979KbbYgQ",
+          "end": 82,
+          "expanded_url": "https://x.com/AZKi_VDiVA/status/2026796348763250869/photo/1",
+          "media_key": "3_2026688657617498112",
+          "start": 59,
+          "url": "https://t.co/U979KbbYgQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027399106482581735",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 819
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026796348763250869",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AZKi_VDiVA: おはあずき☀️昨日公開された学園ボイスPVに📺️\nあずばんちょー並んでるｼﾞｬﾝ✌️ https://t.co/U979KbbYgQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2026688657617498112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCA-mKOasAAocqM.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026688657617498112"
+          ],
+          "media_source_tweet_id": [
+            "2026796348763250869"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027399106482581735",
+        "created_at": "2026-02-27T15:03:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027399106482581735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062499145267605504",
+              "start": 3,
+              "username": "AZKi_VDiVA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/U979KbbYgQ",
+              "end": 82,
+              "expanded_url": "https://x.com/AZKi_VDiVA/status/2026796348763250869/photo/1",
+              "media_key": "3_2026688657617498112",
+              "start": 59,
+              "url": "https://t.co/U979KbbYgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027399106482581735",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 819
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026796348763250869",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AZKi_VDiVA: おはあずき☀️昨日公開された学園ボイスPVに📺️\nあずばんちょー並んでるｼﾞｬﾝ✌️ https://t.co/U979KbbYgQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026688657617498112"
+          ]
+        },
+        "author_id": "1062499145267605504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026796348763250869",
+        "created_at": "2026-02-25T23:08:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T00:08:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026796348763250869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U979KbbYgQ",
+              "end": 66,
+              "expanded_url": "https://x.com/AZKi_VDiVA/status/2026796348763250869/photo/1",
+              "media_key": "3_2026688657617498112",
+              "start": 43,
+              "url": "https://t.co/U979KbbYgQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026796348763250869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 134235,
+          "like_count": 6994,
+          "quote_count": 6,
+          "reply_count": 513,
+          "retweet_count": 819
+        },
+        "reply_settings": "everyone",
+        "text": "おはあずき☀️昨日公開された学園ボイスPVに📺️\nあずばんちょー並んでるｼﾞｬﾝ✌️ https://t.co/U979KbbYgQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1228,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 638
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T00:15:11.000Z",
+        "description": "ホロライブ(@hololivetv)所属のAZKiです。歌うことが大好き。タグ #AZKi ファンアートは #AZKiART 私と一緒に世界を創ってくれる ファンのみんなは #開拓者 ⚒️ パパは@ksk_st",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "AZKi"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "AZKiART"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "開拓者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "hololivetv"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "ksk_st"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC0TXe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+                "start": 0,
+                "url": "https://t.co/yd3bOc0Tqo"
+              }
+            ]
+          }
+        },
+        "id": "1062499145267605504",
+        "name": "AZKi",
+        "pinned_tweet_id": "2022672173429928121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991852837131960320/6Nb-9SzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904440,
+          "following_count": 965,
+          "like_count": 29625,
+          "listed_count": 10266,
+          "media_count": 4172,
+          "tweet_count": 22511
+        },
+        "url": "https://t.co/yd3bOc0Tqo",
+        "username": "AZKi_VDiVA",
+        "verified": true
+      }
+    ]
+  }
+}

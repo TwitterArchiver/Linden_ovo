@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      }
+    ],
+    "conversation_id": "2072274072965194142",
+    "created_at": "2026-07-01T11:00:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T12:00:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072274072965194142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1153192638645821440",
+          "start": 3,
+          "username": "houshoumarine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072274072965194142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071613211837653140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @houshoumarine: もっと話したいし酔って狂いたい🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "2072274072965194142",
+        "created_at": "2026-07-01T11:00:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T12:00:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072274072965194142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1153192638645821440",
+              "start": 3,
+              "username": "houshoumarine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072274072965194142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071613211837653140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @houshoumarine: もっと話したいし酔って狂いたい🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153192638645821440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "2071613211837653140",
+        "created_at": "2026-06-29T15:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071613211837653140"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071613211837653140",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 301344,
+          "like_count": 11073,
+          "quote_count": 9,
+          "reply_count": 495,
+          "retweet_count": 756
+        },
+        "reply_settings": "everyone",
+        "text": "もっと話したいし酔って狂いたい🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 115,
+          "like_count": 1901,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T06:38:45.000Z",
+        "description": "hololive houshou marine/【ファンネーム】宝鐘の一味/【生放送タグ】#マリン航海記/【切り抜き動画タグ】#わかるマリン/【ファンアート】#マリンのお宝/おかあさん💘 @AkasaAi /【TikTok】https://t.co/nK67k0iVCM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "マリン航海記"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "わかるマリン"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "tag": "マリンのお宝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "AkasaAi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onl.tw/77s8tJX",
+                "end": 135,
+                "expanded_url": "https://onl.tw/77s8tJX",
+                "start": 112,
+                "url": "https://t.co/nK67k0iVCM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCCzUf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/fGejv72tSS"
+              }
+            ]
+          }
+        },
+        "id": "1153192638645821440",
+        "location": "ホロライブファンタジー",
+        "name": "宝鐘マリン🏴‍☠️＠ホロライブ3期生",
+        "pinned_tweet_id": "2027734280181272626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835492753289220096/rpWSQdrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989823,
+          "following_count": 1354,
+          "like_count": 91553,
+          "listed_count": 16352,
+          "media_count": 3117,
+          "tweet_count": 27365
+        },
+        "url": "https://t.co/fGejv72tSS",
+        "username": "houshoumarine",
+        "verified": true
+      }
+    ]
+  }
+}

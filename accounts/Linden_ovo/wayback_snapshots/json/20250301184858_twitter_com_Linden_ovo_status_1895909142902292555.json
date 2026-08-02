@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1895363395601489949",
+    "created_at": "2025-03-01T18:48:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T19:48:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895909142902292555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1373918653846941698",
+          "start": 0,
+          "username": "Ructeddy950905"
+        },
+        {
+          "end": 25,
+          "id": "1663112063009574912",
+          "start": 16,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895909142902292555",
+    "in_reply_to_user_id": "1373918653846941698",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895761688580014296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ructeddy950905 @Lanyinwu 他们打猫的原因99%不出于教育，出于想调教了。这跟父母打人和对象调情一样，他们属于对着猫发情了，用猫来展示自己的性魅力。实际上很恶臭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1895363395601489949",
+        "created_at": "2025-03-01T18:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T19:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895909142902292555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1373918653846941698",
+              "start": 0,
+              "username": "Ructeddy950905"
+            },
+            {
+              "end": 25,
+              "id": "1663112063009574912",
+              "start": 16,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895909142902292555",
+        "in_reply_to_user_id": "1373918653846941698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895761688580014296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ructeddy950905 @Lanyinwu 他们打猫的原因99%不出于教育，出于想调教了。这跟父母打人和对象调情一样，他们属于对着猫发情了，用猫来展示自己的性魅力。实际上很恶臭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373918653846941698",
+        "conversation_id": "1895363395601489949",
+        "created_at": "2025-03-01T09:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895761688580014296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663112063009574912",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895761688580014296",
+        "in_reply_to_user_id": "1663112063009574912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1708,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895363395601489949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 虽然但是，养猫也可以动手叭…\n我养三只了…\n第一只养的时候，非常宠，甚至让我宠坏了，后面也是逐渐敢动手了…\n有些坏习惯的确得教育，并且打猫屁股也没啥用。猫咪是能感受到自己做错事了的…动手教育是肯定有效果的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 325,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 121
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T08:45:19.000Z",
+        "description": "Rucer/没有180+和18+的普通人/聊天热爱者",
+        "id": "1373918653846941698",
+        "location": "Beijing",
+        "name": "孙小花",
+        "pinned_tweet_id": "1505491075732889600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1426047112916049922/bvEV2tCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 75,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 283
+        },
+        "username": "Ructeddy950905",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T09:16:36.000Z",
+        "description": "个人日常推丨小号 @kiraxiaoyao丨只有这两个号，私信不开，其余推特账号和墙内社交软件都是盗图诈骗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "kiraxiaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1663112063009574912",
+        "name": "盛予",
+        "pinned_tweet_id": "1887139555901378927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892205029412458496/cwczjqDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67279,
+          "following_count": 9,
+          "like_count": 6447,
+          "listed_count": 104,
+          "media_count": 161,
+          "tweet_count": 2829
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

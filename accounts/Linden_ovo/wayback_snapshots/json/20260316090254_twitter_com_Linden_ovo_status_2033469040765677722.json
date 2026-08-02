@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032988226198409216"
+      ],
+      "media_source_tweet_id": [
+        "2032988233525768616"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033469040765677722",
+    "created_at": "2026-03-16T09:02:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033469040765677722"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 13,
+          "tag": "推しのパネルの展示を1枚無言で貼る"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1698507506954166272",
+          "start": 3,
+          "username": "_mopico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mJnDOz8DYK",
+          "end": 55,
+          "expanded_url": "https://x.com/_mopico/status/2032988233525768616/photo/1",
+          "media_key": "3_2032988226198409216",
+          "start": 32,
+          "url": "https://t.co/mJnDOz8DYK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033469040765677722",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032988233525768616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mopico: #推しのパネルの展示を1枚無言で貼る https://t.co/mJnDOz8DYK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032988226198409216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDagBT8bkAAsUko.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032988226198409216"
+          ],
+          "media_source_tweet_id": [
+            "2032988233525768616"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033469040765677722",
+        "created_at": "2026-03-16T09:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033469040765677722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 13,
+              "tag": "推しのパネルの展示を1枚無言で貼る"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1698507506954166272",
+              "start": 3,
+              "username": "_mopico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJnDOz8DYK",
+              "end": 55,
+              "expanded_url": "https://x.com/_mopico/status/2032988233525768616/photo/1",
+              "media_key": "3_2032988226198409216",
+              "start": 32,
+              "url": "https://t.co/mJnDOz8DYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033469040765677722",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032988233525768616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mopico: #推しのパネルの展示を1枚無言で貼る https://t.co/mJnDOz8DYK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032988226198409216"
+          ]
+        },
+        "author_id": "1698507506954166272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032988233525768616",
+        "created_at": "2026-03-15T01:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T02:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032988233525768616"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "推しのパネルの展示を1枚無言で貼る"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mJnDOz8DYK",
+              "end": 42,
+              "expanded_url": "https://x.com/_mopico/status/2032988233525768616/photo/1",
+              "media_key": "3_2032988226198409216",
+              "start": 19,
+              "url": "https://t.co/mJnDOz8DYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032988233525768616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1289,
+          "like_count": 138,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "#推しのパネルの展示を1枚無言で貼る https://t.co/mJnDOz8DYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 81,
+          "like_count": 1348,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 732
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T01:25:28.000Z",
+        "description": "世界で1番キミが好き！ @kosekibijou のファン🗿#毎日もあびぶ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "毎日もあびぶ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kosekibijou"
+              }
+            ]
+          }
+        },
+        "id": "1698507506954166272",
+        "location": "hBP04-064",
+        "name": "M0Aᒼᑋªⁿ🗿",
+        "pinned_tweet_id": "1998415769261220241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998419147924144128/0IeYaHC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2427,
+          "following_count": 1301,
+          "like_count": 28280,
+          "listed_count": 46,
+          "media_count": 2585,
+          "tweet_count": 20673
+        },
+        "username": "_mopico",
+        "verified": false
+      }
+    ]
+  }
+}

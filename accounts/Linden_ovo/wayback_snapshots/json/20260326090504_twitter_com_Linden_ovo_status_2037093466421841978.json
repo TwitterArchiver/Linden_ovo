@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2037093466421841978",
+    "created_at": "2026-03-26T09:05:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T10:05:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037093466421841978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1235807095888285698",
+          "start": 3,
+          "username": "udngame"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037093466421841978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037038700333588993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @udngame: 【小編查了 小後悔】\n​\n近期有 holo 粉絲為了執行「YAGOOエロ化計畫」，紀錄了所有成員在 Pixiv 上成人向二創的比例\n​\nYagoo 的二創作品總數為 359 件，成人向插圖為 6 件，佔比約 1.671%，比例上是 hololive 社…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2037038690372046848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEUD5W1aUAAjhm5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2037093466421841978",
+        "created_at": "2026-03-26T09:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037093466421841978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1235807095888285698",
+              "start": 3,
+              "username": "udngame"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037093466421841978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037038700333588993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @udngame: 【小編查了 小後悔】\n​\n近期有 holo 粉絲為了執行「YAGOOエロ化計畫」，紀錄了所有成員在 Pixiv 上成人向二創的比例\n​\nYagoo 的二創作品總數為 359 件，成人向插圖為 6 件，佔比約 1.671%，比例上是 hololive 社…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037038690372046848"
+          ]
+        },
+        "author_id": "1235807095888285698",
+        "conversation_id": "2037038700333588993",
+        "created_at": "2026-03-26T05:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037038700333588993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NqMlu1WzVV",
+              "end": 173,
+              "expanded_url": "https://x.com/udngame/status/2037038700333588993/photo/1",
+              "media_key": "3_2037038690372046848",
+              "start": 150,
+              "url": "https://t.co/NqMlu1WzVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037038700333588993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 37081,
+          "like_count": 738,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "【小編查了 小後悔】\n​\n近期有 holo 粉絲為了執行「YAGOOエロ化計畫」，紀錄了所有成員在 Pixiv 上成人向二創的比例\n​\nYagoo 的二創作品總數為 359 件，成人向插圖為 6 件，佔比約 1.671%，比例上是 hololive 社內最低（廢話）\n​\n...但那 6 張是？？？ https://t.co/NqMlu1WzVV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 82,
+          "like_count": 1419,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 794
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-06T05:59:14.000Z",
+        "description": "最夯的ACG新聞，最廣的深度評析，偶爾吸點迷因或替自己加點「油」(？)，快來udn遊戲角落，找尋自己的角落吧！ 投稿或合作洽詢： udngame@udngroup.com.tw YouTube 頻道： https://t.co/79EOaloavm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@udngame",
+                "end": 124,
+                "expanded_url": "https://www.youtube.com/@udngame",
+                "start": 101,
+                "url": "https://t.co/79EOaloavm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "game.udn.com/game/",
+                "end": 23,
+                "expanded_url": "https://game.udn.com/game/",
+                "start": 0,
+                "url": "https://t.co/xpo5BOYPcd"
+              }
+            ]
+          }
+        },
+        "id": "1235807095888285698",
+        "location": "新北市汐止區",
+        "name": "遊戲角落",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996266424315367424/Qj5qDiT3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7180,
+          "following_count": 253,
+          "like_count": 1123,
+          "listed_count": 11,
+          "media_count": 408,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/xpo5BOYPcd",
+        "username": "udngame",
+        "verified": true
+      }
+    ]
+  }
+}

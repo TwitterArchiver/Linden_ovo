@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2071190764915458201",
+    "created_at": "2026-06-28T22:36:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T23:36:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071362102950838464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749364804664594432",
+          "start": 0,
+          "username": "Angel7x_X"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071362102950838464",
+    "in_reply_to_user_id": "1749364804664594432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071190764915458201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Angel7x_X 我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071190755285319680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL5ZBK7awAAK6nO.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071190764915458201",
+        "created_at": "2026-06-28T22:36:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T23:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071362102950838464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749364804664594432",
+              "start": 0,
+              "username": "Angel7x_X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071362102950838464",
+        "in_reply_to_user_id": "1749364804664594432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071190764915458201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Angel7x_X 我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071190755285319680"
+          ]
+        },
+        "author_id": "1749364804664594432",
+        "conversation_id": "2071190764915458201",
+        "created_at": "2026-06-28T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071190764915458201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H94TX45lpt",
+              "end": 37,
+              "expanded_url": "https://x.com/Angel7x_X/status/2071190764915458201/photo/1",
+              "media_key": "3_2071190755285319680",
+              "start": 14,
+              "url": "https://t.co/H94TX45lpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071190764915458201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 38403,
+          "like_count": 324,
+          "quote_count": 13,
+          "reply_count": 57,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这种会每天写日记的狗在哪领 https://t.co/H94TX45lpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 111,
+          "like_count": 1847,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-22T09:34:23.000Z",
+        "description": "4i不1i｜S&dom｜碎碎念日常",
+        "id": "1749364804664594432",
+        "location": "盗我图的替我挡灾｜置顶自辨",
+        "name": "Angel",
+        "pinned_tweet_id": "2046435543131811877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055352148108668928/R6pBRVBR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11658,
+          "following_count": 98,
+          "like_count": 3615,
+          "listed_count": 19,
+          "media_count": 110,
+          "tweet_count": 841
+        },
+        "url": "",
+        "username": "Angel7x_X",
+        "verified": false
+      }
+    ]
+  }
+}

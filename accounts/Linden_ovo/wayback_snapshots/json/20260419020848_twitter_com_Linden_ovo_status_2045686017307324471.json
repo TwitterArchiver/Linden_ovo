@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2045366296095727625",
+    "created_at": "2026-04-19T02:08:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:08:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045686017307324471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "765807474964258816",
+          "start": 0,
+          "username": "xixi_epicene"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045686017307324471",
+    "in_reply_to_user_id": "765807474964258816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045366296095727625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xixi_epicene 受众不一样流量不一样是很正常的，除非是神颜，哪里都能横吃着走，b站推流很奇怪的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045366293071896576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKZzoYboAA1l70.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045366293998829568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKZzr1bgAAhnTI.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2045366292895399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGKZznuWgAAolGC.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2045366296095727625",
+        "created_at": "2026-04-19T02:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045686017307324471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "765807474964258816",
+              "start": 0,
+              "username": "xixi_epicene"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045686017307324471",
+        "in_reply_to_user_id": "765807474964258816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045366296095727625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xixi_epicene 受众不一样流量不一样是很正常的，除非是神颜，哪里都能横吃着走，b站推流很奇怪的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045366293071896576",
+            "3_2045366293998829568",
+            "3_2045366292895399936"
+          ]
+        },
+        "author_id": "765807474964258816",
+        "conversation_id": "2045366296095727625",
+        "created_at": "2026-04-18T04:58:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T05:58:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045366296095727625"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqvGPXzn7Y",
+              "end": 173,
+              "expanded_url": "https://x.com/xixi_epicene/status/2045366296095727625/photo/1",
+              "media_key": "3_2045366293071896576",
+              "start": 150,
+              "url": "https://t.co/pqvGPXzn7Y"
+            },
+            {
+              "display_url": "pic.x.com/pqvGPXzn7Y",
+              "end": 173,
+              "expanded_url": "https://x.com/xixi_epicene/status/2045366296095727625/photo/1",
+              "media_key": "3_2045366293998829568",
+              "start": 150,
+              "url": "https://t.co/pqvGPXzn7Y"
+            },
+            {
+              "display_url": "pic.x.com/pqvGPXzn7Y",
+              "end": 173,
+              "expanded_url": "https://x.com/xixi_epicene/status/2045366296095727625/photo/1",
+              "media_key": "3_2045366292895399936",
+              "start": 150,
+              "url": "https://t.co/pqvGPXzn7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045366296095727625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 29875,
+          "like_count": 171,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "就给所有想自媒体coser博主恰饭的泼盆冷水\n\n同一张图 相差十几分钟\n\n推特浏览量和点赞转发都是对b站压倒性的\n\nb站你不开上百次推广（50块一次给你涨十几个机器人粉）基本上发出去两小时就没有人看了，就算是买价格最高的300一次，在涨粉到一万以上之前也是几乎没什么人会看你直播的——更别提收礼物了 https://t.co/pqvGPXzn7Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 95,
+          "like_count": 1565,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 903
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-08-17T07:08:24.000Z",
+        "description": "man！♂/ 我老婆 @cosplay_riji /贞操锁讨论群组：https://t.co/2Vyp1e2bQa  / 支持创作及加入discord群组：https://t.co/W97Ha4pBXr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "cosplay_riji"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+ZK2MPOZDlbBiM…",
+                "end": 57,
+                "expanded_url": "https://t.me/+ZK2MPOZDlbBiMGE0",
+                "start": 34,
+                "url": "https://t.co/2Vyp1e2bQa"
+              },
+              {
+                "display_url": "buymeacoffee.com/xixiepicene",
+                "end": 101,
+                "expanded_url": "https://buymeacoffee.com/xixiepicene",
+                "start": 78,
+                "url": "https://t.co/W97Ha4pBXr"
+              }
+            ]
+          }
+        },
+        "id": "765807474964258816",
+        "location": "Queensferry, Scotland",
+        "name": "汐矽",
+        "pinned_tweet_id": "2044929928638910575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044224750973485056/n64LKjvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38232,
+          "following_count": 1934,
+          "like_count": 18808,
+          "listed_count": 126,
+          "media_count": 1629,
+          "tweet_count": 8586
+        },
+        "username": "xixi_epicene",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072668702923976704"
+      ],
+      "media_source_tweet_id": [
+        "2072668711216124015"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072750845813277134",
+    "created_at": "2026-07-02T18:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072750845813277134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766669368396574720",
+          "start": 3,
+          "username": "kanono167"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YaexmUvbg6",
+          "end": 38,
+          "expanded_url": "https://x.com/kanono167/status/2072668711216124015/photo/1",
+          "media_key": "3_2072668702923976704",
+          "start": 15,
+          "url": "https://t.co/YaexmUvbg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072750845813277134",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072668711216124015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kanono167: https://t.co/YaexmUvbg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072668702923976704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOZNC7acAAAkqY.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072668702923976704"
+          ],
+          "media_source_tweet_id": [
+            "2072668711216124015"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072750845813277134",
+        "created_at": "2026-07-02T18:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072750845813277134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766669368396574720",
+              "start": 3,
+              "username": "kanono167"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaexmUvbg6",
+              "end": 38,
+              "expanded_url": "https://x.com/kanono167/status/2072668711216124015/photo/1",
+              "media_key": "3_2072668702923976704",
+              "start": 15,
+              "url": "https://t.co/YaexmUvbg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072750845813277134",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072668711216124015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kanono167: https://t.co/YaexmUvbg6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072668702923976704"
+          ]
+        },
+        "author_id": "1766669368396574720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072668711216124015",
+        "created_at": "2026-07-02T13:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072668711216124015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaexmUvbg6",
+              "end": 23,
+              "expanded_url": "https://x.com/kanono167/status/2072668711216124015/photo/1",
+              "media_key": "3_2072668702923976704",
+              "start": 0,
+              "url": "https://t.co/YaexmUvbg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072668711216124015",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YaexmUvbg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 116,
+          "like_count": 2021,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1261
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T03:36:31.000Z",
+        "description": "絶対一生推し@JURI_MAGMAZ/前世@KISSnoyume",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "JURI_MAGMAZ"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "KISSnoyume"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kano620",
+                "end": 23,
+                "expanded_url": "https://lit.link/kano620",
+                "start": 0,
+                "url": "https://t.co/fX756BuBuB"
+              }
+            ]
+          }
+        },
+        "id": "1766669368396574720",
+        "location": "外星🛜",
+        "name": "可丽饼",
+        "pinned_tweet_id": "2011668924811678206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064091713782849536/5MPSeq0r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 521,
+          "like_count": 4204,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/fX756BuBuB",
+        "username": "kanono167",
+        "verified": false
+      }
+    ]
+  }
+}

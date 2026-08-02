@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070331194047422603",
+    "created_at": "2026-06-26T02:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070331194047422603"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729436345913995265",
+          "start": 3,
+          "username": "p1NRed1_A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070331194047422603",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069974777054593355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @p1NRed1_A: 夏天最适合抽电子烟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070331194047422603",
+        "created_at": "2026-06-26T02:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070331194047422603"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729436345913995265",
+              "start": 3,
+              "username": "p1NRed1_A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070331194047422603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069974777054593355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @p1NRed1_A: 夏天最适合抽电子烟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729436345913995265",
+        "conversation_id": "2069974777054593355",
+        "created_at": "2026-06-25T02:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T03:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069974777054593355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069974777054593355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5548,
+          "like_count": 67,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "夏天最适合抽电子烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1807,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1141
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T09:45:45.000Z",
+        "description": "死全家星人",
+        "id": "1729436345913995265",
+        "location": "天国",
+        "name": "咕咚",
+        "pinned_tweet_id": "1909930064051134531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036750324674048000/QVQcKLvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 566,
+          "like_count": 1667,
+          "listed_count": 3,
+          "media_count": 378,
+          "tweet_count": 6383
+        },
+        "url": "",
+        "username": "p1NRed1_A",
+        "verified": false
+      }
+    ]
+  }
+}

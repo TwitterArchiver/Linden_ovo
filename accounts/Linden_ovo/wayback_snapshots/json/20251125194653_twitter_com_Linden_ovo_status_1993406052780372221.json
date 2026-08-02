@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1993406052780372221",
+    "created_at": "2025-11-25T19:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993406052780372221"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1993406052780372221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有的说飞叶能加重淫欲的，脑子真抽了吧 药效上来了往天花板上眨眨眼都能看到二奶在爬，眼睛都无力聚焦，再fuckboy都得对不准洞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1993406052780372221",
+        "created_at": "2025-11-25T19:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993406052780372221"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1993406052780372221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有的说飞叶能加重淫欲的，脑子真抽了吧 药效上来了往天花板上眨眨眼都能看到二奶在爬，眼睛都无力聚焦，再fuckboy都得对不准洞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 289
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060170219168186368"
+      ],
+      "media_source_tweet_id": [
+        "2062187550714867949"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062218294099382530",
+    "created_at": "2026-06-03T17:02:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062218294099382530"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 63,
+          "tag": "Kanon"
+        },
+        {
+          "end": 74,
+          "start": 70,
+          "tag": "Key"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "141127520",
+          "start": 3,
+          "username": "visualantena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mhpfWtOFa6",
+          "end": 98,
+          "expanded_url": "https://x.com/visualantena/status/2062187550714867949/photo/1",
+          "media_key": "3_2060170219168186368",
+          "start": 75,
+          "url": "https://t.co/mhpfWtOFa6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062218294099382530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1065
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062187550714867949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @visualantena: 【Kanon 27周年】\n \n1999年6月4日に『Kanon』が発売いたしました。\n \n#Kanon\n#Key https://t.co/mhpfWtOFa6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2060170219168186368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJcx5ipbwAA3_aZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060170219168186368"
+          ],
+          "media_source_tweet_id": [
+            "2062187550714867949"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062218294099382530",
+        "created_at": "2026-06-03T17:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062218294099382530"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 63,
+              "tag": "Kanon"
+            },
+            {
+              "end": 74,
+              "start": 70,
+              "tag": "Key"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "141127520",
+              "start": 3,
+              "username": "visualantena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhpfWtOFa6",
+              "end": 98,
+              "expanded_url": "https://x.com/visualantena/status/2062187550714867949/photo/1",
+              "media_key": "3_2060170219168186368",
+              "start": 75,
+              "url": "https://t.co/mhpfWtOFa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062218294099382530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1065
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062187550714867949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @visualantena: 【Kanon 27周年】\n \n1999年6月4日に『Kanon』が発売いたしました。\n \n#Kanon\n#Key https://t.co/mhpfWtOFa6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060170219168186368"
+          ]
+        },
+        "author_id": "141127520",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062187550714867949",
+        "created_at": "2026-06-03T15:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T16:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062187550714867949"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 45,
+              "tag": "Kanon"
+            },
+            {
+              "end": 56,
+              "start": 52,
+              "tag": "Key"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mhpfWtOFa6",
+              "end": 80,
+              "expanded_url": "https://x.com/visualantena/status/2062187550714867949/photo/1",
+              "media_key": "3_2060170219168186368",
+              "start": 57,
+              "url": "https://t.co/mhpfWtOFa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062187550714867949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 59025,
+          "like_count": 2433,
+          "quote_count": 74,
+          "reply_count": 9,
+          "retweet_count": 1065
+        },
+        "reply_settings": "everyone",
+        "text": "【Kanon 27周年】\n \n1999年6月4日に『Kanon』が発売いたしました。\n \n#Kanon\n#Key https://t.co/mhpfWtOFa6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1796,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1109
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-07T07:26:56.000Z",
+        "description": "コンテンツブランド・ Keyやキネティックノベルスなどを擁する株式会社ビジュアルアーツの営業本部公式アカウントです。企業の公式情報や、作品のセール情報、公式通販「VA STORE」の最新情報などをアナウンスしています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "visual-arts.jp",
+                "end": 23,
+                "expanded_url": "http://visual-arts.jp",
+                "start": 0,
+                "url": "https://t.co/A6gjgn1Jtt"
+              }
+            ]
+          }
+        },
+        "id": "141127520",
+        "location": "ビジュアルアーツは君の隣に！",
+        "name": "ビジュアルアーツ（営業本部）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1076101752393326594/Mgv_GrHe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59724,
+          "following_count": 24,
+          "like_count": 92,
+          "listed_count": 409,
+          "media_count": 2580,
+          "tweet_count": 11070
+        },
+        "url": "https://t.co/A6gjgn1Jtt",
+        "username": "visualantena",
+        "verified": false
+      }
+    ]
+  }
+}

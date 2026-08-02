@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1966235816596042169",
+    "created_at": "2025-09-12T07:11:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-12T08:11:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966399126204985501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1631563059385991168",
+          "start": 0,
+          "username": "xiaoduanzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966399126204985501",
+    "in_reply_to_user_id": "1631563059385991168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966368361912373639",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoduanzz 不咋样！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1966235816596042169",
+        "created_at": "2025-09-12T07:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T08:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966399126204985501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1631563059385991168",
+              "start": 0,
+              "username": "xiaoduanzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966399126204985501",
+        "in_reply_to_user_id": "1631563059385991168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966368361912373639",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoduanzz 不咋样！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631563059385991168",
+        "conversation_id": "1966235816596042169",
+        "created_at": "2025-09-12T05:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T06:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966368361912373639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966368361912373639",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966235816596042169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 你好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 46,
+          "like_count": 511,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 105
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T07:52:09.000Z",
+        "description": "我是小学生！喜欢galgame、fps，类银河恶魔城、魂类、休闲游戏，最喜欢的角色是二阶堂真红和夏目蓝❤️❤️，希望你能开心",
+        "id": "1631563059385991168",
+        "name": "小段",
+        "pinned_tweet_id": "1793176039608508597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955761944721547268/S07m5_D7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 695,
+          "like_count": 2604,
+          "listed_count": 0,
+          "media_count": 654,
+          "tweet_count": 2015
+        },
+        "username": "xiaoduanzz",
+        "verified": false
+      }
+    ]
+  }
+}

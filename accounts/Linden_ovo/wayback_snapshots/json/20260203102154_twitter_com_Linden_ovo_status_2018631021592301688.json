@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018394049947033600"
+      ],
+      "media_source_tweet_id": [
+        "2018394054661435831"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1404838450520465412",
+          "name": "Danganronpa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1404838450520465412",
+          "name": "Danganronpa"
+        }
+      }
+    ],
+    "conversation_id": "2018631021592301688",
+    "created_at": "2026-02-03T10:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T11:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018631021592301688"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "蜜柑ちゃん",
+          "probability": 0.4172,
+          "start": 27,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 34,
+          "tag": "ダンガンロンパ"
+        },
+        {
+          "end": 55,
+          "start": 43,
+          "tag": "danganronpa"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "4718608327",
+          "start": 3,
+          "username": "2016sanhime"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bXncjxkP0J",
+          "end": 79,
+          "expanded_url": "https://x.com/2016sanhime/status/2018394054661435831/photo/1",
+          "media_key": "3_2018394049947033600",
+          "start": 56,
+          "url": "https://t.co/bXncjxkP0J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018631021592301688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 929
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018394054661435831",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @2016sanhime: 起きたら隣にいた罪木蜜柑ちゃん\n\n#ダンガンロンパ\n#danganronpa https://t.co/bXncjxkP0J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 915,
+        "media_key": "3_2018394049947033600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HALGscva4AAkIEC.jpg",
+        "width": 1515
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018394049947033600"
+          ],
+          "media_source_tweet_id": [
+            "2018394054661435831"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          }
+        ],
+        "conversation_id": "2018631021592301688",
+        "created_at": "2026-02-03T10:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T11:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018631021592301688"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "蜜柑ちゃん",
+              "probability": 0.4172,
+              "start": 27,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 34,
+              "tag": "ダンガンロンパ"
+            },
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "danganronpa"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4718608327",
+              "start": 3,
+              "username": "2016sanhime"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXncjxkP0J",
+              "end": 79,
+              "expanded_url": "https://x.com/2016sanhime/status/2018394054661435831/photo/1",
+              "media_key": "3_2018394049947033600",
+              "start": 56,
+              "url": "https://t.co/bXncjxkP0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018631021592301688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 929
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018394054661435831",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @2016sanhime: 起きたら隣にいた罪木蜜柑ちゃん\n\n#ダンガンロンパ\n#danganronpa https://t.co/bXncjxkP0J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018394049947033600"
+          ]
+        },
+        "author_id": "4718608327",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404838450520465412",
+              "name": "Danganronpa"
+            }
+          }
+        ],
+        "conversation_id": "2018394054661435831",
+        "created_at": "2026-02-02T18:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T19:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018394054661435831"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "蜜柑ちゃん",
+              "probability": 0.3779,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 17,
+              "tag": "ダンガンロンパ"
+            },
+            {
+              "end": 38,
+              "start": 26,
+              "tag": "danganronpa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXncjxkP0J",
+              "end": 62,
+              "expanded_url": "https://x.com/2016sanhime/status/2018394054661435831/photo/1",
+              "media_key": "3_2018394049947033600",
+              "start": 39,
+              "url": "https://t.co/bXncjxkP0J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018394054661435831",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1736,
+          "impression_count": 177865,
+          "like_count": 11965,
+          "quote_count": 54,
+          "reply_count": 9,
+          "retweet_count": 929
+        },
+        "reply_settings": "everyone",
+        "text": "起きたら隣にいた罪木蜜柑ちゃん\n\n#ダンガンロンパ\n#danganronpa https://t.co/bXncjxkP0J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 1093,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 533
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-06T12:56:01.000Z",
+        "description": "好みを描いていきたいです。(無断AI編集・転載禁止)",
+        "id": "4718608327",
+        "location": "絵",
+        "name": "しとん",
+        "pinned_tweet_id": "1928770458272379342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863124495600672768/96vjxOzQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2273,
+          "following_count": 26,
+          "like_count": 2428,
+          "listed_count": 10,
+          "media_count": 192,
+          "tweet_count": 435
+        },
+        "username": "2016sanhime",
+        "verified": false
+      }
+    ]
+  }
+}

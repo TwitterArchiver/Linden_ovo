@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1897009547094712749",
+    "created_at": "2025-03-04T19:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-04T20:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897009547094712749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1585204501149110274",
+          "start": 3,
+          "username": "jiajia1216ovo"
+        },
+        {
+          "end": 28,
+          "id": "1529112019013861376",
+          "start": 19,
+          "username": "skura_ku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897009547094712749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896875532618469642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiajia1216ovo: @skura_ku 给药娘一个逼他们第一时间想到的是怎么让男人爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1897009547094712749",
+        "created_at": "2025-03-04T19:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T20:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897009547094712749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1585204501149110274",
+              "start": 3,
+              "username": "jiajia1216ovo"
+            },
+            {
+              "end": 28,
+              "id": "1529112019013861376",
+              "start": 19,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897009547094712749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896875532618469642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiajia1216ovo: @skura_ku 给药娘一个逼他们第一时间想到的是怎么让男人爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585204501149110274",
+        "conversation_id": "1896842408954130918",
+        "created_at": "2025-03-04T10:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T11:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896875532618469642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1529112019013861376",
+              "start": 0,
+              "username": "skura_ku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896875532618469642",
+        "in_reply_to_user_id": "1529112019013861376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4056,
+          "like_count": 156,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896874868379205965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@skura_ku 给药娘一个逼他们第一时间想到的是怎么让男人爽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896231829465694208/p4kIRcGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 79,
+          "like_count": 329,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 126
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T09:39:52.000Z",
+        "description": "死于2005",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sophiasssophia1",
+                "end": 23,
+                "expanded_url": "https://t.me/sophiasssophia1",
+                "start": 0,
+                "url": "https://t.co/mGexvdIi1b"
+              }
+            ]
+          }
+        },
+        "id": "1585204501149110274",
+        "location": "转帖一条52（24h",
+        "name": "Sophia",
+        "pinned_tweet_id": "1896299505982849031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895916029802684416/pSBoj1zk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13166,
+          "following_count": 394,
+          "like_count": 9344,
+          "listed_count": 13,
+          "media_count": 514,
+          "tweet_count": 2914
+        },
+        "url": "https://t.co/mGexvdIi1b",
+        "username": "jiajia1216ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-24T14:48:21.000Z",
+        "description": "電脳少女マレーシア人 (っ- ‸ - ς) 𓉸ྀི ݁ᛪ༙ 🐹🍮🐾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/sakura4448",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/sakura4448",
+                "start": 0,
+                "url": "https://t.co/W9ebuocjas"
+              }
+            ]
+          }
+        },
+        "id": "1529112019013861376",
+        "location": "^david^",
+        "name": "アヤナྀིྀི 𓉸ྀི",
+        "pinned_tweet_id": "1895710658962096259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890574977054937088/9tBZrrHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17769,
+          "following_count": 367,
+          "like_count": 14389,
+          "listed_count": 47,
+          "media_count": 540,
+          "tweet_count": 5259
+        },
+        "url": "https://t.co/W9ebuocjas",
+        "username": "skura_ku",
+        "verified": false
+      }
+    ]
+  }
+}

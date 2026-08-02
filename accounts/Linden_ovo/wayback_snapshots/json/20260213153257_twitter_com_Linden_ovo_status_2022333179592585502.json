@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022138864635121665"
+      ],
+      "media_source_tweet_id": [
+        "2022138926321086511"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2022333179592585502",
+    "created_at": "2026-02-13T15:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022333179592585502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1977151677636521984",
+          "start": 3,
+          "username": "astonmachanuma1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bIqkxWSTng",
+          "end": 44,
+          "expanded_url": "https://x.com/astonmachanuma1/status/2022138926321086511/photo/1",
+          "media_key": "3_2022138864635121665",
+          "start": 21,
+          "url": "https://t.co/bIqkxWSTng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022333179592585502",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 354
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022138926321086511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astonmachanuma1: https://t.co/bIqkxWSTng"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1058,
+        "media_key": "3_2022138864635121665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAUlWkWkAEk0VW.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022138864635121665"
+          ],
+          "media_source_tweet_id": [
+            "2022138926321086511"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2022333179592585502",
+        "created_at": "2026-02-13T15:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022333179592585502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1977151677636521984",
+              "start": 3,
+              "username": "astonmachanuma1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIqkxWSTng",
+              "end": 44,
+              "expanded_url": "https://x.com/astonmachanuma1/status/2022138926321086511/photo/1",
+              "media_key": "3_2022138864635121665",
+              "start": 21,
+              "url": "https://t.co/bIqkxWSTng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022333179592585502",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 354
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022138926321086511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astonmachanuma1: https://t.co/bIqkxWSTng"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022138864635121665"
+          ]
+        },
+        "author_id": "1977151677636521984",
+        "conversation_id": "2022138926321086511",
+        "created_at": "2026-02-13T02:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022138926321086511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bIqkxWSTng",
+              "end": 23,
+              "expanded_url": "https://x.com/astonmachanuma1/status/2022138926321086511/photo/1",
+              "media_key": "3_2022138864635121665",
+              "start": 0,
+              "url": "https://t.co/bIqkxWSTng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022138926321086511",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 346,
+          "impression_count": 23179,
+          "like_count": 3148,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 354
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bIqkxWSTng"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 1150,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 569
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T23:18:40.000Z",
+        "description": "Soy Machan. Aston Machan. Algún día seré la mascota del mundo. Por favor, no me pierdas de vista.\n\nCuenta Homenaje y parodia de Aston Machan\n#アストンマーチャン",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 151,
+                "start": 141,
+                "tag": "アストンマーチャン"
+              }
+            ]
+          }
+        },
+        "id": "1977151677636521984",
+        "location": "Tracen Academy",
+        "name": "Aston Machan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022139857405980672/6NhXizuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 108,
+          "like_count": 1940,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 1396
+        },
+        "username": "astonmachanuma1",
+        "verified": false
+      }
+    ]
+  }
+}

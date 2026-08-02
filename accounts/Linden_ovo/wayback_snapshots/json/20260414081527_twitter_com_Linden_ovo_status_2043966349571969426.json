@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043453948523118593"
+      ],
+      "media_source_tweet_id": [
+        "2043453952235024515"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2043966349571969426",
+    "created_at": "2026-04-14T08:15:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043966349571969426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1592611530285240321",
+          "start": 3,
+          "username": "ItsJaviGD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kSHMjM5yzG",
+          "end": 69,
+          "expanded_url": "https://x.com/ItsJaviGD/status/2043453952235024515/photo/1",
+          "media_key": "3_2043453948523118593",
+          "start": 46,
+          "url": "https://t.co/kSHMjM5yzG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043966349571969426",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 171
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043453952235024515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ItsJaviGD: Do you ever feel like you just https://t.co/kSHMjM5yzG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 938,
+        "media_key": "3_2043453948523118593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvOihyXAAEP26P.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043453948523118593"
+          ],
+          "media_source_tweet_id": [
+            "2043453952235024515"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2043966349571969426",
+        "created_at": "2026-04-14T08:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043966349571969426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1592611530285240321",
+              "start": 3,
+              "username": "ItsJaviGD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSHMjM5yzG",
+              "end": 69,
+              "expanded_url": "https://x.com/ItsJaviGD/status/2043453952235024515/photo/1",
+              "media_key": "3_2043453948523118593",
+              "start": 46,
+              "url": "https://t.co/kSHMjM5yzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043966349571969426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 171
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043453952235024515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ItsJaviGD: Do you ever feel like you just https://t.co/kSHMjM5yzG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043453948523118593"
+          ]
+        },
+        "author_id": "1592611530285240321",
+        "conversation_id": "2043453952235024515",
+        "created_at": "2026-04-12T22:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T23:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043453952235024515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kSHMjM5yzG",
+              "end": 54,
+              "expanded_url": "https://x.com/ItsJaviGD/status/2043453952235024515/photo/1",
+              "media_key": "3_2043453948523118593",
+              "start": 31,
+              "url": "https://t.co/kSHMjM5yzG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043453952235024515",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 17550,
+          "like_count": 2042,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 171
+        },
+        "reply_settings": "everyone",
+        "text": "Do you ever feel like you just https://t.co/kSHMjM5yzG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 87,
+          "like_count": 1519,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 859
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T20:12:42.000Z",
+        "description": "I like collecting nendoroids I guess; I said with a posed look. Monogatari, Girls Band Cry, and Inabakumori fan. I talk about random stuff!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "javigd.straw.page",
+                "end": 23,
+                "expanded_url": "https://javigd.straw.page/",
+                "start": 0,
+                "url": "https://t.co/uTGGghi25P"
+              }
+            ]
+          }
+        },
+        "id": "1592611530285240321",
+        "location": "20",
+        "name": "Javi",
+        "pinned_tweet_id": "1996726528684462466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040981319057072128/wER2hrSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 842,
+          "following_count": 1112,
+          "like_count": 87487,
+          "listed_count": 1,
+          "media_count": 1967,
+          "tweet_count": 7335
+        },
+        "url": "https://t.co/uTGGghi25P",
+        "username": "ItsJaviGD",
+        "verified": false
+      }
+    ]
+  }
+}

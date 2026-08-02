@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1996293372705648815",
+    "created_at": "2025-12-03T19:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T20:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996293372705648815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1709490813775097856",
+          "start": 3,
+          "username": "TieQiu92955"
+        },
+        {
+          "end": 33,
+          "id": "1682912923851841536",
+          "start": 17,
+          "username": "chan19890604t04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996293372705648815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995951853302153345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TieQiu92955: @chan19890604t04 Shit jumping如何呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1996293372705648815",
+        "created_at": "2025-12-03T19:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T20:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996293372705648815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1709490813775097856",
+              "start": 3,
+              "username": "TieQiu92955"
+            },
+            {
+              "end": 33,
+              "id": "1682912923851841536",
+              "start": 17,
+              "username": "chan19890604t04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996293372705648815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995951853302153345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TieQiu92955: @chan19890604t04 Shit jumping如何呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1709490813775097856",
+        "conversation_id": "1995796637999137162",
+        "created_at": "2025-12-02T20:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T21:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995951853302153345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682912923851841536",
+              "start": 0,
+              "username": "chan19890604t04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995951853302153345",
+        "in_reply_to_user_id": "1682912923851841536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14562,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995796637999137162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chan19890604t04 Shit jumping如何呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 62,
+          "like_count": 814,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 325
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-04T08:49:17.000Z",
+        "description": "欲说还休",
+        "id": "1709490813775097856",
+        "location": "杜王町",
+        "name": "网友吉顺吉影",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983257945979703297/X3IR_fiS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 59,
+          "like_count": 1262,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 408
+        },
+        "username": "TieQiu92955",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 1644,
+          "like_count": 65222,
+          "listed_count": 18,
+          "media_count": 12725,
+          "tweet_count": 31657
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

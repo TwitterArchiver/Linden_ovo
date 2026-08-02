@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2026217908427256171",
+    "created_at": "2026-02-24T08:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T09:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026217908427256171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026217908427256171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026188242324746371",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: 想当小众逼发现所有穿搭都很大众"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2026217908427256171",
+        "created_at": "2026-02-24T08:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026217908427256171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026217908427256171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026188242324746371",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: 想当小众逼发现所有穿搭都很大众"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2026188242324746371",
+        "created_at": "2026-02-24T06:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026188242324746371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026188242324746371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想当小众逼发现所有穿搭都很大众"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 613
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。骚逼小号@Shitan2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Shitan2778"
+              }
+            ]
+          }
+        },
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 35,
+          "like_count": 701,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1097
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076576151447785537",
+    "created_at": "2026-07-13T07:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076576151447785537"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/paopao152025/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/paopao152025/status/2076301552080617935",
+          "start": 5,
+          "url": "https://t.co/rbITIALq8G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076576151447785537",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076301552080617935",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "串的可以 https://t.co/rbITIALq8G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076301544237170688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNCBQPbaAAA_HKQ.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076576151447785537",
+        "created_at": "2026-07-13T07:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076576151447785537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paopao152025/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/paopao152025/status/2076301552080617935",
+              "start": 5,
+              "url": "https://t.co/rbITIALq8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076576151447785537",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076301552080617935",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "串的可以 https://t.co/rbITIALq8G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076301544237170688"
+          ]
+        },
+        "author_id": "1910008101371273225",
+        "conversation_id": "2076301552080617935",
+        "created_at": "2026-07-12T13:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076301552080617935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5fYZsZQ6s",
+              "end": 37,
+              "expanded_url": "https://x.com/paopao152025/status/2076301552080617935/photo/1",
+              "media_key": "3_2076301544237170688",
+              "start": 14,
+              "url": "https://t.co/X5fYZsZQ6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076301552080617935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 14583,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牛逼。唯一的关注还是无机酱 https://t.co/X5fYZsZQ6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 135,
+          "like_count": 2398,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T16:33:28.000Z",
+        "description": "@haoxiangsiaaaa \n我说的都是胡话瞎发的很多都是上句不接下句纯自己唠叨自言自语🙏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "haoxiangsiaaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B3%A1%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B3%A1%E6%B3%A133527",
+                "start": 0,
+                "url": "https://t.co/J2oUGc5Ac0"
+              }
+            ]
+          }
+        },
+        "id": "1910008101371273225",
+        "location": "互关可加v",
+        "name": "泡泡",
+        "pinned_tweet_id": "2076278190130217409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025885586859667456/5jfteWE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6525,
+          "following_count": 215,
+          "like_count": 9420,
+          "listed_count": 4,
+          "media_count": 16,
+          "tweet_count": 321
+        },
+        "url": "https://t.co/J2oUGc5Ac0",
+        "username": "paopao152025",
+        "verified": false
+      }
+    ]
+  }
+}

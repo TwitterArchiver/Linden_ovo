@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1975989582278902152",
+    "created_at": "2025-10-08T18:20:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T19:20:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975989582278902152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1975989582278902152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我扩列那个日本性压抑真的是个错误的决定，从我去年出马娘到现在小红书换了三个号，每个号都在我评论底下叫过老婆，一点开他私聊就是群发的想谈恋爱，点开空间就是他妈抨击女拳😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1975989582278902152",
+        "created_at": "2025-10-08T18:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T19:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975989582278902152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975989582278902152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我扩列那个日本性压抑真的是个错误的决定，从我去年出马娘到现在小红书换了三个号，每个号都在我评论底下叫过老婆，一点开他私聊就是群发的想谈恋爱，点开空间就是他妈抨击女拳😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 582,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 171
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

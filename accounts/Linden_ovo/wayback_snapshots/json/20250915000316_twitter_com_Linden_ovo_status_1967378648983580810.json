@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967221864771584000"
+      ],
+      "media_source_tweet_id": [
+        "1967221884300542335"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1967378648983580810",
+    "created_at": "2025-09-15T00:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T01:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967378648983580810"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "ビジューちゃん",
+          "probability": 0.6523,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 25,
+          "tag": "毎日もあびぶ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1698507506954166272",
+          "start": 3,
+          "username": "_mopico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/P5rPjoYYHH",
+          "end": 56,
+          "expanded_url": "https://x.com/_mopico/status/1967221884300542335/photo/1",
+          "media_key": "3_1967221864771584000",
+          "start": 33,
+          "url": "https://t.co/P5rPjoYYHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967378648983580810",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967221884300542335",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mopico: ビジューちゃん大喜び\n\n#毎日もあびぶ https://t.co/P5rPjoYYHH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967221864771584000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0z53PwXgAAlQTN.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967221864771584000"
+          ],
+          "media_source_tweet_id": [
+            "1967221884300542335"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1967378648983580810",
+        "created_at": "2025-09-15T00:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967378648983580810"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "ビジューちゃん",
+              "probability": 0.6523,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 25,
+              "tag": "毎日もあびぶ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1698507506954166272",
+              "start": 3,
+              "username": "_mopico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P5rPjoYYHH",
+              "end": 56,
+              "expanded_url": "https://x.com/_mopico/status/1967221884300542335/photo/1",
+              "media_key": "3_1967221864771584000",
+              "start": 33,
+              "url": "https://t.co/P5rPjoYYHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967378648983580810",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967221884300542335",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mopico: ビジューちゃん大喜び\n\n#毎日もあびぶ https://t.co/P5rPjoYYHH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967221864771584000"
+          ]
+        },
+        "author_id": "1698507506954166272",
+        "conversation_id": "1967221884300542335",
+        "created_at": "2025-09-14T13:40:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967221884300542335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "ビジューちゃん",
+              "probability": 0.6168,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "毎日もあびぶ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P5rPjoYYHH",
+              "end": 43,
+              "expanded_url": "https://x.com/_mopico/status/1967221884300542335/photo/1",
+              "media_key": "3_1967221864771584000",
+              "start": 20,
+              "url": "https://t.co/P5rPjoYYHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967221884300542335",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 478,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "ビジューちゃん大喜び\n\n#毎日もあびぶ https://t.co/P5rPjoYYHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 48,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 111
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T01:25:28.000Z",
+        "description": "世界で1番キミが好き！ @kosekibijou のファン🗿#毎日もあびぶ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "毎日もあびぶ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kosekibijou"
+              }
+            ]
+          }
+        },
+        "id": "1698507506954166272",
+        "location": "hBP04-064",
+        "name": "M0Aᒼᑋªⁿ🗿",
+        "pinned_tweet_id": "1888422765054882004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924483090103369728/qbR9JwC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 1058,
+          "like_count": 23139,
+          "listed_count": 42,
+          "media_count": 1908,
+          "tweet_count": 16378
+        },
+        "username": "_mopico",
+        "verified": false
+      }
+    ]
+  }
+}

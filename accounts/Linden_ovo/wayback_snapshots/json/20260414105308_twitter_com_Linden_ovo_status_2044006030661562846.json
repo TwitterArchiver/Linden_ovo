@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043740150103191555"
+      ],
+      "media_source_tweet_id": [
+        "2043740321436315872"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+          "id": "1557696420500541440",
+          "name": "Automotive, Aircraft & Boat Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1405254112745201668",
+          "name": "Ferrari"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Car culture",
+          "id": "847528391163092993",
+          "name": "Automotive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Luxury",
+          "id": "847528646185070592",
+          "name": "Luxury Cars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Performance vehicles",
+          "id": "847529034674085888",
+          "name": "Performance vehicles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196845866138533888",
+          "name": "Automobile Brands"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405254112745201668",
+          "name": "Ferrari"
+        }
+      }
+    ],
+    "conversation_id": "2044006030661562846",
+    "created_at": "2026-04-14T10:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T11:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044006030661562846"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "重音テト"
+        },
+        {
+          "end": 31,
+          "start": 23,
+          "tag": "Ferrari"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1873674365453336576",
+          "start": 3,
+          "username": "Freed0m_0v0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qc8XzIjSgo",
+          "end": 55,
+          "expanded_url": "https://x.com/Freed0m_0v0/status/2043740321436315872/photo/1",
+          "media_key": "3_2043740150103191555",
+          "start": 32,
+          "url": "https://t.co/Qc8XzIjSgo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044006030661562846",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1995
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043740321436315872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Freed0m_0v0: #重音テト #Ferrari https://t.co/Qc8XzIjSgo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2043740150103191555",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzS1pwasAMnX8I.jpg",
+        "width": 2492
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043740150103191555"
+          ],
+          "media_source_tweet_id": [
+            "2043740321436315872"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1405254112745201668",
+              "name": "Ferrari"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Performance vehicles",
+              "id": "847529034674085888",
+              "name": "Performance vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405254112745201668",
+              "name": "Ferrari"
+            }
+          }
+        ],
+        "conversation_id": "2044006030661562846",
+        "created_at": "2026-04-14T10:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T11:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044006030661562846"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "重音テト"
+            },
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "Ferrari"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1873674365453336576",
+              "start": 3,
+              "username": "Freed0m_0v0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qc8XzIjSgo",
+              "end": 55,
+              "expanded_url": "https://x.com/Freed0m_0v0/status/2043740321436315872/photo/1",
+              "media_key": "3_2043740150103191555",
+              "start": 32,
+              "url": "https://t.co/Qc8XzIjSgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044006030661562846",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1995
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043740321436315872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Freed0m_0v0: #重音テト #Ferrari https://t.co/Qc8XzIjSgo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043740150103191555"
+          ]
+        },
+        "author_id": "1873674365453336576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1405254112745201668",
+              "name": "Ferrari"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Car culture",
+              "id": "847528391163092993",
+              "name": "Automotive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Luxury",
+              "id": "847528646185070592",
+              "name": "Luxury Cars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Performance vehicles",
+              "id": "847529034674085888",
+              "name": "Performance vehicles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196845866138533888",
+              "name": "Automobile Brands"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405254112745201668",
+              "name": "Ferrari"
+            }
+          }
+        ],
+        "conversation_id": "2043740321436315872",
+        "created_at": "2026-04-13T17:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T18:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043740321436315872"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "Ferrari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qc8XzIjSgo",
+              "end": 38,
+              "expanded_url": "https://x.com/Freed0m_0v0/status/2043740321436315872/photo/1",
+              "media_key": "3_2043740150103191555",
+              "start": 15,
+              "url": "https://t.co/Qc8XzIjSgo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043740321436315872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2190,
+          "impression_count": 127413,
+          "like_count": 18157,
+          "quote_count": 18,
+          "reply_count": 18,
+          "retweet_count": 1995
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト #Ferrari https://t.co/Qc8XzIjSgo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 87,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 862
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T10:16:04.000Z",
+        "description": "pixiv→https://t.co/18uoMKdiCS\nPainting steps Streaming  作画步骤录屏 \n→https://t.co/tLLBwsOa4R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/16824251",
+                "end": 29,
+                "expanded_url": "http://pixiv.net/users/16824251",
+                "start": 6,
+                "url": "https://t.co/18uoMKdiCS"
+              },
+              {
+                "display_url": "space.bilibili.com/2011185978",
+                "end": 88,
+                "expanded_url": "http://space.bilibili.com/2011185978",
+                "start": 65,
+                "url": "https://t.co/tLLBwsOa4R"
+              }
+            ]
+          }
+        },
+        "id": "1873674365453336576",
+        "name": "Freed0m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947649054235889668/r04YAYTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 95,
+          "like_count": 3,
+          "listed_count": 8,
+          "media_count": 28,
+          "tweet_count": 30
+        },
+        "username": "Freed0m_0v0",
+        "verified": false
+      }
+    ]
+  }
+}

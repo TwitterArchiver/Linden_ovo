@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982309541262827520"
+      ],
+      "media_source_tweet_id": [
+        "1982309557738078669"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1982581019707572360",
+    "created_at": "2025-10-26T22:52:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T23:52:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982581019707572360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821431905071570944",
+          "start": 3,
+          "username": "tuitenvwang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zOIHOXPpH4",
+          "end": 44,
+          "expanded_url": "https://x.com/tuitenvwang/status/1982309557738078669/photo/1",
+          "media_key": "3_1982309541262827520",
+          "start": 21,
+          "url": "https://t.co/zOIHOXPpH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982581019707572360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982309557738078669",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitenvwang: 我情商 https://t.co/zOIHOXPpH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 888,
+        "media_key": "3_1982309541262827520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4KUBmnWoAAGOnr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982309541262827520"
+          ],
+          "media_source_tweet_id": [
+            "1982309557738078669"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1982581019707572360",
+        "created_at": "2025-10-26T22:52:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T23:52:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982581019707572360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821431905071570944",
+              "start": 3,
+              "username": "tuitenvwang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOIHOXPpH4",
+              "end": 44,
+              "expanded_url": "https://x.com/tuitenvwang/status/1982309557738078669/photo/1",
+              "media_key": "3_1982309541262827520",
+              "start": 21,
+              "url": "https://t.co/zOIHOXPpH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982581019707572360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982309557738078669",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitenvwang: 我情商 https://t.co/zOIHOXPpH4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982309541262827520"
+          ]
+        },
+        "author_id": "1821431905071570944",
+        "conversation_id": "1982309557738078669",
+        "created_at": "2025-10-26T04:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982309557738078669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zOIHOXPpH4",
+              "end": 27,
+              "expanded_url": "https://x.com/tuitenvwang/status/1982309557738078669/photo/1",
+              "media_key": "3_1982309541262827520",
+              "start": 4,
+              "url": "https://t.co/zOIHOXPpH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982309557738078669",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 414490,
+          "like_count": 3358,
+          "quote_count": 8,
+          "reply_count": 35,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "我情商 https://t.co/zOIHOXPpH4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 673,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我",
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1885391885889573340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11861,
+          "following_count": 299,
+          "like_count": 3750,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 2098
+        },
+        "username": "tuitenvwang",
+        "verified": false
+      }
+    ]
+  }
+}

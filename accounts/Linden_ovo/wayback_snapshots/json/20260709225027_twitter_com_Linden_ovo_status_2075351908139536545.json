@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2075351908139536545",
+    "created_at": "2026-07-09T22:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T23:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075351908139536545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1595110651621318656",
+          "start": 3,
+          "username": "ProcyonCoke731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075351908139536545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075179597608403411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ProcyonCoke731: 请大家关注一下广西的眼镜蛇，这批眼镜蛇有可能会陷入食物中毒的风险🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2075351908139536545",
+        "created_at": "2026-07-09T22:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075351908139536545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1595110651621318656",
+              "start": 3,
+              "username": "ProcyonCoke731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075351908139536545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075179597608403411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ProcyonCoke731: 请大家关注一下广西的眼镜蛇，这批眼镜蛇有可能会陷入食物中毒的风险🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595110651621318656",
+        "conversation_id": "2075179597608403411",
+        "created_at": "2026-07-09T11:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075179597608403411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075179597608403411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 8185,
+          "like_count": 210,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "请大家关注一下广西的眼镜蛇，这批眼镜蛇有可能会陷入食物中毒的风险🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 133,
+          "like_count": 2326,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1502
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-22T17:43:19.000Z",
+        "description": "直升機駕駛員\n异世界转生号https://t.co/2usdJjOgLk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/chaosc…",
+                "end": 36,
+                "expanded_url": "https://bsky.app/profile/chaoscoke731.bsky.social",
+                "start": 13,
+                "url": "https://t.co/2usdJjOgLk"
+              }
+            ]
+          }
+        },
+        "id": "1595110651621318656",
+        "name": "桜桃可乐🇯🇵🌌🌸🍸✝️",
+        "pinned_tweet_id": "1981997572719014169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023258759754080256/8WJDUScr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5616,
+          "following_count": 1186,
+          "like_count": 34365,
+          "listed_count": 62,
+          "media_count": 4132,
+          "tweet_count": 17994
+        },
+        "url": "",
+        "username": "ProcyonCoke731",
+        "verified": true
+      }
+    ]
+  }
+}

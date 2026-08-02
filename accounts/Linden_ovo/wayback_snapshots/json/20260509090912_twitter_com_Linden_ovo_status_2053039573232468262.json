@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052777578507759621"
+      ],
+      "media_source_tweet_id": [
+        "2052777583704461677"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2053039573232468262",
+    "created_at": "2026-05-09T09:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053039573232468262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496969170604417024",
+          "start": 3,
+          "username": "Its_Kiyoomi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QXx6aGVk9t",
+          "end": 40,
+          "expanded_url": "https://x.com/Its_Kiyoomi/status/2052777583704461677/photo/1",
+          "media_key": "3_2052777578507759621",
+          "start": 17,
+          "url": "https://t.co/QXx6aGVk9t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053039573232468262",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 224
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052777583704461677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Its_Kiyoomi: https://t.co/QXx6aGVk9t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 455,
+        "media_key": "3_2052777578507759621",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzuVOHXcAUI4jj.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052777578507759621"
+          ],
+          "media_source_tweet_id": [
+            "2052777583704461677"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2053039573232468262",
+        "created_at": "2026-05-09T09:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053039573232468262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496969170604417024",
+              "start": 3,
+              "username": "Its_Kiyoomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXx6aGVk9t",
+              "end": 40,
+              "expanded_url": "https://x.com/Its_Kiyoomi/status/2052777583704461677/photo/1",
+              "media_key": "3_2052777578507759621",
+              "start": 17,
+              "url": "https://t.co/QXx6aGVk9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053039573232468262",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 224
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052777583704461677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Its_Kiyoomi: https://t.co/QXx6aGVk9t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052777578507759621"
+          ]
+        },
+        "author_id": "1496969170604417024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2052777583704461677",
+        "created_at": "2026-05-08T15:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052777583704461677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QXx6aGVk9t",
+              "end": 23,
+              "expanded_url": "https://x.com/Its_Kiyoomi/status/2052777583704461677/photo/1",
+              "media_key": "3_2052777578507759621",
+              "start": 0,
+              "url": "https://t.co/QXx6aGVk9t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052777583704461677",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 32886,
+          "like_count": 2752,
+          "quote_count": 9,
+          "reply_count": 67,
+          "retweet_count": 224
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QXx6aGVk9t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 99,
+          "like_count": 1675,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1007
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-24T22:04:19.000Z",
+        "description": "The Strongest Ruffian. Hasta El Final.",
+        "id": "1496969170604417024",
+        "name": "Kiyoomi 🩵🐾🩷",
+        "pinned_tweet_id": "1901742290181177789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976448009874386944/0Evcgv0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8907,
+          "following_count": 920,
+          "like_count": 356425,
+          "listed_count": 15,
+          "media_count": 2788,
+          "tweet_count": 17020
+        },
+        "username": "Its_Kiyoomi",
+        "verified": false
+      }
+    ]
+  }
+}

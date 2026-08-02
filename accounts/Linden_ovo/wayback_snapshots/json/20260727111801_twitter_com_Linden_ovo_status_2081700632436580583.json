@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081687470157287620",
+    "created_at": "2026-07-27T11:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081700632436580583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1921995331975462912",
+          "start": 0,
+          "username": "quans0611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081700632436580583",
+    "in_reply_to_user_id": "1921995331975462912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081687470157287620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quans0611 对"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 892,
+        "media_key": "3_2081687288313270272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOOjjzlb0AATwK5.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081687470157287620",
+        "created_at": "2026-07-27T11:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081700632436580583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1921995331975462912",
+              "start": 0,
+              "username": "quans0611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081700632436580583",
+        "in_reply_to_user_id": "1921995331975462912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081687470157287620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quans0611 对"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081687288313270272"
+          ]
+        },
+        "author_id": "1921995331975462912",
+        "conversation_id": "2081687470157287620",
+        "created_at": "2026-07-27T10:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T11:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081687470157287620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qnXUfdLwVd",
+              "end": 57,
+              "expanded_url": "https://x.com/quans0611/status/2081687470157287620/photo/1",
+              "media_key": "3_2081687288313270272",
+              "start": 34,
+              "url": "https://t.co/qnXUfdLwVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081687470157287620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还是找了代刷，感觉自己已经懒得不行了感觉脚本搞的都麻烦，没救了已经 https://t.co/qnXUfdLwVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2819,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1845
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T18:26:20.000Z",
+        "description": "想象一下，一天睡20个小时是什么样的",
+        "id": "1921995331975462912",
+        "name": "西圈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078084938281414656/y2vqOzNx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 231,
+          "like_count": 5592,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "quans0611",
+        "verified": false
+      }
+    ]
+  }
+}

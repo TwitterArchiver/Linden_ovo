@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1966110889334976889",
+    "created_at": "2025-09-11T12:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T13:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966110889334976889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433667543806267393",
+          "start": 3,
+          "username": "hakuikoyori"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「もふもふなコヨーテ \"もふこよ\"」シリーズ第9弾💗もふこよって伸びるんだ・・・今後もシリーズあげていきます!!チャンネル登録よろしくお願いしますっ🌟イラスト：月野 @tsuki_nonono この動画が少しでもいいなと思ってくださったかたは、是非チャンネル登録・高評価・コメントいただけるととっても励みになり...",
+          "display_url": "youtube.com/shorts/3V41RF4…",
+          "end": 131,
+          "expanded_url": "https://youtube.com/shorts/3V41RF4iMaY",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1966064602715926530/19cjMccr?format=jpg&name=orig",
+              "width": 405
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1966064602715926530/19cjMccr?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "かわいいもふもふなコヨーテ「もふこよ」が伸びた結果 #shorts #anime #ホロライブ #hololive #博衣こより #もふこよ",
+          "unwound_url": "https://www.youtube.com/shorts/3V41RF4iMaY",
+          "url": "https://t.co/RsgY7o7uXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966110889334976889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 450
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966064597628235979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakuikoyori: ━━＼Shorts公開❣／━━\n     もふもふなコヨーテが\n             伸びた結果🦴\n━━━━━━━━━━━━\n「もふこよ」って‥伸びるの！？\n▼Youtube▼\nhttps://t.co/RsgY7o7uXP\n▼Tiktok…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_1966064593467486210",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0jdVMMaMAIZc6X.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1966110889334976889",
+        "created_at": "2025-09-11T12:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966110889334976889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433667543806267393",
+              "start": 3,
+              "username": "hakuikoyori"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「もふもふなコヨーテ \"もふこよ\"」シリーズ第9弾💗もふこよって伸びるんだ・・・今後もシリーズあげていきます!!チャンネル登録よろしくお願いしますっ🌟イラスト：月野 @tsuki_nonono この動画が少しでもいいなと思ってくださったかたは、是非チャンネル登録・高評価・コメントいただけるととっても励みになり...",
+              "display_url": "youtube.com/shorts/3V41RF4…",
+              "end": 131,
+              "expanded_url": "https://youtube.com/shorts/3V41RF4iMaY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1966064602715926530/19cjMccr?format=jpg&name=orig",
+                  "width": 405
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966064602715926530/19cjMccr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "かわいいもふもふなコヨーテ「もふこよ」が伸びた結果 #shorts #anime #ホロライブ #hololive #博衣こより #もふこよ",
+              "unwound_url": "https://www.youtube.com/shorts/3V41RF4iMaY",
+              "url": "https://t.co/RsgY7o7uXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966110889334976889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 450
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966064597628235979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakuikoyori: ━━＼Shorts公開❣／━━\n     もふもふなコヨーテが\n             伸びた結果🦴\n━━━━━━━━━━━━\n「もふこよ」って‥伸びるの！？\n▼Youtube▼\nhttps://t.co/RsgY7o7uXP\n▼Tiktok…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966064593467486210"
+          ]
+        },
+        "author_id": "1433667543806267393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1966064597628235979",
+        "created_at": "2025-09-11T09:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966064597628235979"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 155,
+              "start": 149,
+              "tag": "博衣こより"
+            },
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "もふこよ"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「もふもふなコヨーテ \"もふこよ\"」シリーズ第9弾💗もふこよって伸びるんだ・・・今後もシリーズあげていきます!!チャンネル登録よろしくお願いしますっ🌟イラスト：月野 @tsuki_nonono この動画が少しでもいいなと思ってくださったかたは、是非チャンネル登録・高評価・コメントいただけるととっても励みになり...",
+              "display_url": "youtube.com/shorts/3V41RF4…",
+              "end": 114,
+              "expanded_url": "https://youtube.com/shorts/3V41RF4iMaY",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1966064602715926530/19cjMccr?format=jpg&name=orig",
+                  "width": 405
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1966064602715926530/19cjMccr?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "かわいいもふもふなコヨーテ「もふこよ」が伸びた結果 #shorts #anime #ホロライブ #hololive #博衣こより #もふこよ",
+              "unwound_url": "https://www.youtube.com/shorts/3V41RF4iMaY",
+              "url": "https://t.co/RsgY7o7uXP"
+            },
+            {
+              "description": "博衣こより🧪ホロライブの動画をチェックしよう。",
+              "display_url": "vt.tiktok.com/ZSD8MFEcQ/",
+              "end": 147,
+              "expanded_url": "https://vt.tiktok.com/ZSD8MFEcQ/",
+              "start": 124,
+              "status": 200,
+              "title": "TikTok · 博衣こより🧪ホロライブ",
+              "unwound_url": "https://www.tiktok.com/@hakuikoyori_hololive/video/7548753879802858759?_t=ZS-8zdNBNB4PRq&_r=1",
+              "url": "https://t.co/rQsAOY3PWb"
+            },
+            {
+              "display_url": "pic.x.com/ljZkwJntTx",
+              "end": 185,
+              "expanded_url": "https://x.com/hakuikoyori/status/1966064597628235979/photo/1",
+              "media_key": "3_1966064593467486210",
+              "start": 162,
+              "url": "https://t.co/ljZkwJntTx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966064597628235979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 60597,
+          "like_count": 2086,
+          "quote_count": 4,
+          "reply_count": 82,
+          "retweet_count": 450
+        },
+        "reply_settings": "everyone",
+        "text": "━━＼Shorts公開❣／━━\n     もふもふなコヨーテが\n             伸びた結果🦴\n━━━━━━━━━━━━\n「もふこよ」って‥伸びるの！？\n▼Youtube▼\nhttps://t.co/RsgY7o7uXP\n▼Tiktok▼\nhttps://t.co/rQsAOY3PWb\n\n#博衣こより #もふこよ https://t.co/ljZkwJntTx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 502,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T05:46:28.000Z",
+        "description": "ホロライブ6期生🧪holoXの頭脳🧠博衣こよりだよ🎀初見古参関係なく楽しめるがモットー！夢を全部叶えるのが夢！(ᐡ •͈ ·̫ •͈ ᐡ)ﾉ💞／🎨 #こよりすけっち／📺 #こより実験中／ファンネーム：助手くん❤️ももこママ(@momoco_haru) いいねやリプは気まぐれ！特別扱いではないから安心してねっ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "こよりすけっち"
+              },
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "こより実験中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "momoco_haru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6eWC…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+                "start": 0,
+                "url": "https://t.co/U4G9NUjWs5"
+              }
+            ]
+          }
+        },
+        "id": "1433667543806267393",
+        "location": "助手くんの心の中(ᐡ •͈ ·̫ •͈ ᐡ)",
+        "name": "博衣こより🧪1stアルバム発売中!!新曲MVも見てね🎉",
+        "pinned_tweet_id": "1961036050941575327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907071586194411520/mH_qxVy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965403,
+          "following_count": 546,
+          "like_count": 47506,
+          "listed_count": 9515,
+          "media_count": 7236,
+          "tweet_count": 33335
+        },
+        "url": "https://t.co/U4G9NUjWs5",
+        "username": "hakuikoyori",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2057590829821169960",
+    "created_at": "2026-05-22T08:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057739888271720748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1265910411364192257",
+          "start": 0,
+          "username": "Lr55686466"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057739888271720748",
+    "in_reply_to_user_id": "1265910411364192257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057713381277388879",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lr55686466 心之壁变厚了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2057590829821169960",
+        "created_at": "2026-05-22T08:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057739888271720748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1265910411364192257",
+              "start": 0,
+              "username": "Lr55686466"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057739888271720748",
+        "in_reply_to_user_id": "1265910411364192257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057713381277388879",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lr55686466 心之壁变厚了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1265910411364192257",
+        "conversation_id": "2057590829821169960",
+        "created_at": "2026-05-22T06:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057713381277388879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057713381277388879",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057590829821169960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 心之壁变厚了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 104,
+          "like_count": 1720,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1050
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-28T07:39:10.000Z",
+        "description": "发癫，去码头搞点乐子",
+        "id": "1265910411364192257",
+        "location": "Hong Kong",
+        "name": "三倍ice cream",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274705927149682689/kcY6tUyd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 429,
+          "like_count": 820,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1331
+        },
+        "username": "Lr55686466",
+        "verified": false
+      }
+    ]
+  }
+}

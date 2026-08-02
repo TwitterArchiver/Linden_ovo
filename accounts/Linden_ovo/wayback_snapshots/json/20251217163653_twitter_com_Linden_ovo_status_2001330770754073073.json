@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001073184322334725"
+      ],
+      "media_source_tweet_id": [
+        "2001073192232767794"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2001330770754073073",
+    "created_at": "2025-12-17T16:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001330770754073073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1071809441274781698",
+          "start": 3,
+          "username": "vxzwr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IcvOZI85g0",
+          "end": 34,
+          "expanded_url": "https://x.com/vxzwr/status/2001073192232767794/photo/1",
+          "media_key": "3_2001073184322334725",
+          "start": 11,
+          "url": "https://t.co/IcvOZI85g0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001330770754073073",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001073192232767794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vxzwr: https://t.co/IcvOZI85g0"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2001330770754073073].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2001330770754073073",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2001330770754073073"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2001073184322334725",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8U9dYEXsAU6MLC.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001073184322334725"
+          ]
+        },
+        "author_id": "1071809441274781698",
+        "conversation_id": "2001073192232767794",
+        "created_at": "2025-12-16T23:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T00:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001073192232767794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IcvOZI85g0",
+              "end": 23,
+              "expanded_url": "https://x.com/vxzwr/status/2001073192232767794/photo/1",
+              "media_key": "3_2001073184322334725",
+              "start": 0,
+              "url": "https://t.co/IcvOZI85g0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001073192232767794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 635,
+          "impression_count": 602181,
+          "like_count": 12088,
+          "quote_count": 98,
+          "reply_count": 59,
+          "retweet_count": 1692
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IcvOZI85g0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 914,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 396
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-09T16:50:58.000Z",
+        "description": "",
+        "id": "1071809441274781698",
+        "name": "مرام",
+        "pinned_tweet_id": "1254893507241742338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720535339616342016/ijza_r7K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33507,
+          "following_count": 543,
+          "like_count": 17908,
+          "listed_count": 22,
+          "media_count": 4592,
+          "tweet_count": 142568
+        },
+        "username": "vxzwr",
+        "verified": false
+      }
+    ]
+  }
+}

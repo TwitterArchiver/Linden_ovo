@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1979929929429963083",
+    "created_at": "2025-10-19T15:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T16:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979929929429963083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821431905071570944",
+          "start": 3,
+          "username": "tuitenvwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979929929429963083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979541385582690421",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitenvwang: 别人出轨，妈的真贱\n朋友出轨，我草牛逼\n自己出轨，有些事说不清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1979929929429963083",
+        "created_at": "2025-10-19T15:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T16:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979929929429963083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821431905071570944",
+              "start": 3,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979929929429963083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979541385582690421",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitenvwang: 别人出轨，妈的真贱\n朋友出轨，我草牛逼\n自己出轨，有些事说不清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821431905071570944",
+        "conversation_id": "1979541385582690421",
+        "created_at": "2025-10-18T13:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T14:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979541385582690421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979541385582690421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 318570,
+          "like_count": 2222,
+          "quote_count": 23,
+          "reply_count": 70,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "别人出轨，妈的真贱\n朋友出轨，我草牛逼\n自己出轨，有些事说不清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 53,
+          "like_count": 622,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 191
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我",
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1979853092293423425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821432537660772352/3ctFRoG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11738,
+          "following_count": 313,
+          "like_count": 3708,
+          "listed_count": 11,
+          "media_count": 322,
+          "tweet_count": 2085
+        },
+        "username": "tuitenvwang",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082063571828039790",
+    "created_at": "2026-07-28T11:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082063571828039790"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoyokiiy/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yoyokiiy/status/2081710063035744260",
+          "start": 4,
+          "url": "https://t.co/53IzoyTE21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082063571828039790",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081710063035744260",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊救命 https://t.co/53IzoyTE21"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082063571828039790",
+        "created_at": "2026-07-28T11:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082063571828039790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoyokiiy/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yoyokiiy/status/2081710063035744260",
+              "start": 4,
+              "url": "https://t.co/53IzoyTE21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082063571828039790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081710063035744260",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊救命 https://t.co/53IzoyTE21"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897445432365821952",
+        "conversation_id": "2081710063035744260",
+        "created_at": "2026-07-27T11:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081710063035744260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081710063035744260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 14850,
+          "like_count": 359,
+          "quote_count": 14,
+          "reply_count": 43,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "想象一下我是你的回避型女友 不喜欢回信息但是一天在社交平台上发几十条莫名其妙的文字"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2836,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1865
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-06T00:34:02.000Z",
+        "description": "友情出演「筋肉父親與棒球運動員兒子禁斷秘密」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yoyo90486",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yoyo90486",
+                "start": 0,
+                "url": "https://t.co/uQ9D0BqAu4"
+              }
+            ]
+          }
+        },
+        "id": "1897445432365821952",
+        "location": "0.2km",
+        "name": "熟睡的妻子",
+        "pinned_tweet_id": "2071548652808552871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079909173740118016/ahEmuHyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1944,
+          "following_count": 158,
+          "like_count": 3384,
+          "listed_count": 2,
+          "media_count": 67,
+          "tweet_count": 979
+        },
+        "url": "https://t.co/uQ9D0BqAu4",
+        "username": "yoyokiiy",
+        "verified": false
+      }
+    ]
+  }
+}

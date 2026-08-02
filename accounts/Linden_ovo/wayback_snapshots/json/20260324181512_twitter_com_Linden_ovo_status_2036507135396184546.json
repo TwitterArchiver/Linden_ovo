@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2036507135396184546",
+    "created_at": "2026-03-24T18:15:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T19:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036507135396184546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1983486301346381824",
+          "start": 3,
+          "username": "Listensean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036507135396184546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036041339775717719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Listensean: 一群傻逼发你妈的国际小狗日 真狗没看见一条骚狗一大堆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2036507135396184546",
+        "created_at": "2026-03-24T18:15:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T19:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036507135396184546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1983486301346381824",
+              "start": 3,
+              "username": "Listensean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036507135396184546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036041339775717719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Listensean: 一群傻逼发你妈的国际小狗日 真狗没看见一条骚狗一大堆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983486301346381824",
+        "conversation_id": "2036041339775717719",
+        "created_at": "2026-03-23T11:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036041339775717719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036041339775717719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 80748,
+          "like_count": 1212,
+          "quote_count": 14,
+          "reply_count": 56,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "一群傻逼发你妈的国际小狗日 真狗没看见一条骚狗一大堆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 83,
+          "like_count": 1406,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 793
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T10:49:28.000Z",
+        "description": "其实是很纯爱的小女生 只是没有钱爱不起来",
+        "id": "1983486301346381824",
+        "name": "Zero",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000267071532290054/PCBt3-UA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 304,
+          "following_count": 20,
+          "like_count": 132,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 655
+        },
+        "username": "Listensean",
+        "verified": false
+      }
+    ]
+  }
+}

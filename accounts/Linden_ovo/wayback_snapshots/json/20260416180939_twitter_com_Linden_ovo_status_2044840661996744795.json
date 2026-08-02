@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042317505390100480"
+      ],
+      "media_source_tweet_id": [
+        "2044771541821583663"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2044840661996744795",
+    "created_at": "2026-04-16T18:09:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:09:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044840661996744795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1199539454102388736",
+          "start": 3,
+          "username": "R3dFiVe_artist"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hqUoyH9xYF",
+          "end": 52,
+          "expanded_url": "https://x.com/R3dFiVe_artist/status/2044771541821583663/photo/1",
+          "media_key": "3_2042317505390100480",
+          "start": 29,
+          "url": "https://t.co/hqUoyH9xYF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044840661996744795",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 326
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044771541821583663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R3dFiVe_artist: Kissshot https://t.co/hqUoyH9xYF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2042317505390100480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFfE81NWwAAdq0b.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042317505390100480"
+          ],
+          "media_source_tweet_id": [
+            "2044771541821583663"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2044840661996744795",
+        "created_at": "2026-04-16T18:09:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:09:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044840661996744795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1199539454102388736",
+              "start": 3,
+              "username": "R3dFiVe_artist"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqUoyH9xYF",
+              "end": 52,
+              "expanded_url": "https://x.com/R3dFiVe_artist/status/2044771541821583663/photo/1",
+              "media_key": "3_2042317505390100480",
+              "start": 29,
+              "url": "https://t.co/hqUoyH9xYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044840661996744795",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 326
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044771541821583663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R3dFiVe_artist: Kissshot https://t.co/hqUoyH9xYF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042317505390100480"
+          ]
+        },
+        "author_id": "1199539454102388736",
+        "conversation_id": "2044771541821583663",
+        "created_at": "2026-04-16T13:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044771541821583663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hqUoyH9xYF",
+              "end": 32,
+              "expanded_url": "https://x.com/R3dFiVe_artist/status/2044771541821583663/photo/1",
+              "media_key": "3_2042317505390100480",
+              "start": 9,
+              "url": "https://t.co/hqUoyH9xYF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044771541821583663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 13294,
+          "like_count": 1932,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "Kissshot https://t.co/hqUoyH9xYF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 89,
+          "like_count": 1536,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 876
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-27T04:04:45.000Z",
+        "description": "Sharp Lines, Clean Colors\n💫 Illustrator | Art Director\n✨Commissions https://t.co/ABpPHibY2b\n🔔 FREE Discord art gallery https://t.co/MKcMNRAlTh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/r3dfive",
+                "end": 91,
+                "expanded_url": "https://vgen.co/r3dfive",
+                "start": 68,
+                "url": "https://t.co/ABpPHibY2b"
+              },
+              {
+                "display_url": "discord.gg/GyqACMqChX",
+                "end": 142,
+                "expanded_url": "http://discord.gg/GyqACMqChX",
+                "start": 119,
+                "url": "https://t.co/MKcMNRAlTh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/r3dfive",
+                "end": 23,
+                "expanded_url": "http://www.patreon.com/r3dfive",
+                "start": 0,
+                "url": "https://t.co/K5IfW9kLd5"
+              }
+            ]
+          }
+        },
+        "id": "1199539454102388736",
+        "name": "R3dFiVe ✨️レッド5 - Artist - LIMITED COMMISSIONS OPEN",
+        "pinned_tweet_id": "1702727121892942080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1607392247670087681/0a4hz-DP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130336,
+          "following_count": 534,
+          "like_count": 15721,
+          "listed_count": 553,
+          "media_count": 1894,
+          "tweet_count": 7917
+        },
+        "url": "https://t.co/K5IfW9kLd5",
+        "username": "R3dFiVe_artist",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

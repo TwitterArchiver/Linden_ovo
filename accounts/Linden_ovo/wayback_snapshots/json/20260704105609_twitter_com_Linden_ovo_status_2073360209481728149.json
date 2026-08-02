@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064019476698324992"
+      ],
+      "media_source_tweet_id": [
+        "2073094166519881776"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073360209481728149",
+    "created_at": "2026-07-04T10:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T11:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073360209481728149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1732221753852661760",
+          "start": 3,
+          "username": "Pxndejo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kKcXgH3hNN",
+          "end": 101,
+          "expanded_url": "https://x.com/Pxndejo_/status/2073094166519881776/photo/1",
+          "media_key": "3_2064019476698324992",
+          "start": 78,
+          "url": "https://t.co/kKcXgH3hNN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073360209481728149",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6276
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073094166519881776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pxndejo_: SAQUE EL CONDON DORADO, MAÑANA VISITO LA FABRICA DE WILLY WASKA https://t.co/kKcXgH3hNN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2064019476698324992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTex0YXYAARAVY.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064019476698324992"
+          ],
+          "media_source_tweet_id": [
+            "2073094166519881776"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073360209481728149",
+        "created_at": "2026-07-04T10:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T11:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073360209481728149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1732221753852661760",
+              "start": 3,
+              "username": "Pxndejo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKcXgH3hNN",
+              "end": 101,
+              "expanded_url": "https://x.com/Pxndejo_/status/2073094166519881776/photo/1",
+              "media_key": "3_2064019476698324992",
+              "start": 78,
+              "url": "https://t.co/kKcXgH3hNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073360209481728149",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6276
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073094166519881776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pxndejo_: SAQUE EL CONDON DORADO, MAÑANA VISITO LA FABRICA DE WILLY WASKA https://t.co/kKcXgH3hNN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064019476698324992"
+          ]
+        },
+        "author_id": "1732221753852661760",
+        "conversation_id": "2073094166519881776",
+        "created_at": "2026-07-03T17:19:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T18:19:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073094166519881776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kKcXgH3hNN",
+              "end": 87,
+              "expanded_url": "https://x.com/Pxndejo_/status/2073094166519881776/photo/1",
+              "media_key": "3_2064019476698324992",
+              "start": 64,
+              "url": "https://t.co/kKcXgH3hNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073094166519881776",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2801,
+          "impression_count": 899174,
+          "like_count": 67372,
+          "quote_count": 240,
+          "reply_count": 321,
+          "retweet_count": 6276
+        },
+        "reply_settings": "everyone",
+        "text": "SAQUE EL CONDON DORADO, MAÑANA VISITO LA FABRICA DE WILLY WASKA https://t.co/kKcXgH3hNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论上可以和我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 119,
+          "like_count": 2066,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1325
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-06T02:14:06.000Z",
+        "description": "Sigueme sí quieres :b\n\nPapus: @NevaskaPikahu @Amogucity @Cesiiixd @Vierziminii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "NevaskaPikahu"
+              },
+              {
+                "end": 55,
+                "start": 45,
+                "username": "Amogucity"
+              },
+              {
+                "end": 65,
+                "start": 56,
+                "username": "Cesiiixd"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Vierziminii"
+              }
+            ]
+          }
+        },
+        "id": "1732221753852661760",
+        "name": "p×",
+        "pinned_tweet_id": "2024311989724405776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072258559119695872/wfXkALeG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3444,
+          "following_count": 695,
+          "like_count": 109379,
+          "listed_count": 6,
+          "media_count": 6674,
+          "tweet_count": 30362
+        },
+        "url": "",
+        "username": "Pxndejo_",
+        "verified": false
+      }
+    ]
+  }
+}

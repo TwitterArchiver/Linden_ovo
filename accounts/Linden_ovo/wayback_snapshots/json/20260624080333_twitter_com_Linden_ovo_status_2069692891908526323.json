@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2069692891908526323",
+    "created_at": "2026-06-24T08:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T09:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069692891908526323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433667543806267393",
+          "start": 3,
+          "username": "hakuikoyori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069692891908526323",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069674435146321966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakuikoyori: 最高すぎる😭😭😭✨✨✨\n通わなければ✊🔥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2069692891908526323",
+        "created_at": "2026-06-24T08:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T09:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069692891908526323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433667543806267393",
+              "start": 3,
+              "username": "hakuikoyori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069692891908526323",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069674435146321966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakuikoyori: 最高すぎる😭😭😭✨✨✨\n通わなければ✊🔥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433667543806267393",
+        "conversation_id": "2069674435146321966",
+        "created_at": "2026-06-24T06:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069674435146321966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshinoyagyudo…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/yoshinoyagyudon/status/2069662146439594440",
+              "start": 21,
+              "url": "https://t.co/kEfzRmxTS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069674435146321966",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 47640,
+          "like_count": 1104,
+          "quote_count": 3,
+          "reply_count": 50,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069662146439594440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最高すぎる😭😭😭✨✨✨\n通わなければ✊🔥 https://t.co/kEfzRmxTS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 106,
+          "like_count": 1795,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T05:46:28.000Z",
+        "description": "ホロライブ6期生🧪holoXの頭脳🧠博衣こよりだよ🎀初見古参関係なく楽しめるがモットー！夢を全部叶えるのが夢！(ᐡ •͈ ·̫ •͈ ᐡ)ﾉ💞／🎨 #こよりすけっち／📺 #こより実験中／ファンネーム：助手くん❤️ももこママ(@momoco_haru) いいねやリプは気まぐれ！特別扱いではないから安心してねっ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "こよりすけっち"
+              },
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "こより実験中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "momoco_haru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6eWC…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+                "start": 0,
+                "url": "https://t.co/U4G9NUjWs5"
+              }
+            ]
+          }
+        },
+        "id": "1433667543806267393",
+        "location": "助手くんの心の中(ᐡ •͈ ·̫ •͈ ᐡ)",
+        "name": "博衣こより🧪新曲「NaN GAME」(Aiobahn +81さん制作)リリース❣",
+        "pinned_tweet_id": "2051955602373435891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025937861175087104/nuE-TGUl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974013,
+          "following_count": 654,
+          "like_count": 58102,
+          "listed_count": 9486,
+          "media_count": 8613,
+          "tweet_count": 38578
+        },
+        "url": "https://t.co/U4G9NUjWs5",
+        "username": "hakuikoyori",
+        "verified": true
+      }
+    ]
+  }
+}

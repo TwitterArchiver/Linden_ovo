@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071742825889419264"
+      ],
+      "media_source_tweet_id": [
+        "2071742828515152327"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2071969739140653157",
+    "created_at": "2026-06-30T14:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T15:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071969739140653157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FA7PLcRS6h",
+          "end": 43,
+          "expanded_url": "https://x.com/anblk984/status/2071742828515152327/photo/1",
+          "media_key": "3_2071742825889419264",
+          "start": 20,
+          "url": "https://t.co/FA7PLcRS6h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071969739140653157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071742828515152327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 这简直是窝 https://t.co/FA7PLcRS6h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 743,
+        "media_key": "3_2071742825889419264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMBPH6MaUAAilyy.jpg",
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071742825889419264"
+          ],
+          "media_source_tweet_id": [
+            "2071742828515152327"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071969739140653157",
+        "created_at": "2026-06-30T14:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T15:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071969739140653157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA7PLcRS6h",
+              "end": 43,
+              "expanded_url": "https://x.com/anblk984/status/2071742828515152327/photo/1",
+              "media_key": "3_2071742825889419264",
+              "start": 20,
+              "url": "https://t.co/FA7PLcRS6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071969739140653157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071742828515152327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 这简直是窝 https://t.co/FA7PLcRS6h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071742825889419264"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2071742828515152327",
+        "created_at": "2026-06-29T23:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T00:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071742828515152327"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FA7PLcRS6h",
+              "end": 29,
+              "expanded_url": "https://x.com/anblk984/status/2071742828515152327/photo/1",
+              "media_key": "3_2071742825889419264",
+              "start": 6,
+              "url": "https://t.co/FA7PLcRS6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071742828515152327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3054,
+          "like_count": 109,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这简直是窝 https://t.co/FA7PLcRS6h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "想你哦",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 112,
+          "like_count": 1876,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1170
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15509,
+          "following_count": 1034,
+          "like_count": 124502,
+          "listed_count": 74,
+          "media_count": 3145,
+          "tweet_count": 30008
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

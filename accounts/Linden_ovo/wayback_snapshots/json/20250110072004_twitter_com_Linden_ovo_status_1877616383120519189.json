@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1877398272844902402",
+        "3_1877398272849096707"
+      ],
+      "media_source_tweet_id": [
+        "1877398284630741466",
+        "1877398284630741466"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1877616383120519189",
+    "created_at": "2025-01-10T07:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T08:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877616383120519189"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "iiii"
+        },
+        {
+          "end": 40,
+          "start": 35,
+          "tag": "四爱夫妇"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "已婚人夫"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674749873151946756",
+          "start": 3,
+          "username": "TingX2517"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TPWFVll8tx",
+          "end": 71,
+          "expanded_url": "https://x.com/TingX2517/status/1877398284630741466/photo/1",
+          "media_key": "3_1877398272844902402",
+          "start": 48,
+          "url": "https://t.co/TPWFVll8tx"
+        },
+        {
+          "display_url": "pic.x.com/TPWFVll8tx",
+          "end": 71,
+          "expanded_url": "https://x.com/TingX2517/status/1877398284630741466/photo/1",
+          "media_key": "3_1877398272849096707",
+          "start": 48,
+          "url": "https://t.co/TPWFVll8tx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877616383120519189",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877398284630741466",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TingX2517: 老婆，我该怎么惩罚你呢\n#iiii  \n#四爱夫妇 \n#已婚人夫 https://t.co/TPWFVll8tx"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1877616383120519189].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1877616383120519189",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1877616383120519189"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1877398272844902402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg3byELaMAI-Var.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1877398272849096707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gg3byEMaMAM-3pV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877398272844902402",
+            "3_1877398272849096707"
+          ]
+        },
+        "author_id": "1674749873151946756",
+        "conversation_id": "1877398284630741466",
+        "created_at": "2025-01-09T16:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T17:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877398284630741466"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "iiii"
+            },
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "四爱夫妇"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "已婚人夫"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPWFVll8tx",
+              "end": 56,
+              "expanded_url": "https://x.com/TingX2517/status/1877398284630741466/photo/1",
+              "media_key": "3_1877398272844902402",
+              "start": 33,
+              "url": "https://t.co/TPWFVll8tx"
+            },
+            {
+              "display_url": "pic.x.com/TPWFVll8tx",
+              "end": 56,
+              "expanded_url": "https://x.com/TingX2517/status/1877398284630741466/photo/1",
+              "media_key": "3_1877398272849096707",
+              "start": 33,
+              "url": "https://t.co/TPWFVll8tx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877398284630741466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2457,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老婆，我该怎么惩罚你呢\n#iiii  \n#四爱夫妇 \n#已婚人夫 https://t.co/TPWFVll8tx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 70,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 69
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-30T12:01:10.000Z",
+        "description": "有一只合法的猫咪老婆@fishfish6363",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "fishfish6363"
+              }
+            ]
+          }
+        },
+        "id": "1674749873151946756",
+        "location": "New York, NY",
+        "name": "是个人类",
+        "pinned_tweet_id": "1719563494927032801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1674755600952221696/fFNqV80s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9331,
+          "following_count": 85,
+          "like_count": 455,
+          "listed_count": 26,
+          "media_count": 210,
+          "tweet_count": 489
+        },
+        "username": "TingX2517",
+        "verified": false
+      }
+    ]
+  }
+}

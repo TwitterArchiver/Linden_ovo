@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2045641304806207557",
+    "created_at": "2026-04-18T23:11:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T00:11:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045641304806207557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875622919201513472",
+          "start": 3,
+          "username": "Donot_cry0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045641304806207557",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045022266686120430",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donot_cry0v0: 被人认可是最廉价的枷锁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2045641304806207557",
+        "created_at": "2026-04-18T23:11:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T00:11:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045641304806207557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875622919201513472",
+              "start": 3,
+              "username": "Donot_cry0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045641304806207557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045022266686120430",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donot_cry0v0: 被人认可是最廉价的枷锁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875622919201513472",
+        "conversation_id": "2045022266686120430",
+        "created_at": "2026-04-17T06:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T07:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045022266686120430"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045022266686120430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "被人认可是最廉价的枷锁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 95,
+          "like_count": 1563,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 898
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T19:18:54.000Z",
+        "description": "我们只能知道对方一半的事情",
+        "id": "1875622919201513472",
+        "name": "Minato",
+        "pinned_tweet_id": "2037461186262728913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262721979490305/Pcbk_VZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 94,
+          "like_count": 2036,
+          "listed_count": 1,
+          "media_count": 270,
+          "tweet_count": 788
+        },
+        "username": "Donot_cry0v0",
+        "verified": false
+      }
+    ]
+  }
+}

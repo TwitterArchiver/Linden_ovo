@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2041701011169939456"
+      ],
+      "media_source_tweet_id": [
+        "2041701342859641320"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041869566821687509",
+    "created_at": "2026-04-08T13:23:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:23:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041869566821687509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1771319571061841920",
+          "start": 3,
+          "username": "VTuberFeetFan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8NUNdGXjSB",
+          "end": 58,
+          "expanded_url": "https://x.com/VTuberFeetFan/status/2041701342859641320/video/1",
+          "media_key": "13_2041701011169939456",
+          "start": 35,
+          "url": "https://t.co/8NUNdGXjSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041869566821687509",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 656
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041701342859641320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VTuberFeetFan: Me when when me https://t.co/8NUNdGXjSB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11331,
+        "height": 400,
+        "media_key": "13_2041701011169939456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2041701011169939456/img/5XJuvjRpcn1gKKd8.jpg",
+        "public_metrics": {
+          "view_count": 256490
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041701011169939456/vid/avc1/486x270/EHGpZ9PbNCvJHAlx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2041701011169939456/vid/avc1/720x400/H3onoDMAlZoi-3sa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2041701011169939456/pl/w0hGID20KjMDfv1h.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041701011169939456"
+          ],
+          "media_source_tweet_id": [
+            "2041701342859641320"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041869566821687509",
+        "created_at": "2026-04-08T13:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041869566821687509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1771319571061841920",
+              "start": 3,
+              "username": "VTuberFeetFan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NUNdGXjSB",
+              "end": 58,
+              "expanded_url": "https://x.com/VTuberFeetFan/status/2041701342859641320/video/1",
+              "media_key": "13_2041701011169939456",
+              "start": 35,
+              "url": "https://t.co/8NUNdGXjSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041869566821687509",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 656
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041701342859641320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VTuberFeetFan: Me when when me https://t.co/8NUNdGXjSB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2041701011169939456"
+          ]
+        },
+        "author_id": "1771319571061841920",
+        "conversation_id": "2041701342859641320",
+        "created_at": "2026-04-08T02:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041701342859641320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8NUNdGXjSB",
+              "end": 39,
+              "expanded_url": "https://x.com/VTuberFeetFan/status/2041701342859641320/video/1",
+              "media_key": "13_2041701011169939456",
+              "start": 16,
+              "url": "https://t.co/8NUNdGXjSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041701342859641320",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2665,
+          "impression_count": 508209,
+          "like_count": 11456,
+          "quote_count": 17,
+          "reply_count": 28,
+          "retweet_count": 656
+        },
+        "reply_settings": "everyone",
+        "text": "Me when when me https://t.co/8NUNdGXjSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 85,
+          "like_count": 1462,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 825
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T23:34:37.000Z",
+        "description": "\"Liked feet so much, they became one.\" - @/lululewds\n\nTierList in the pinned post\nalts: @VTuberFeetFan2 @VTFeetAnalyser @VTuberFeetQuiz\npfp: @TororoRose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 88,
+                "username": "VTuberFeetFan2"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "VTFeetAnalyser"
+              },
+              {
+                "end": 135,
+                "start": 120,
+                "username": "VTuberFeetQuiz"
+              },
+              {
+                "end": 152,
+                "start": 141,
+                "username": "TororoRose"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/vtuberfeetfan",
+                "end": 23,
+                "expanded_url": "https://throne.com/vtuberfeetfan",
+                "start": 0,
+                "url": "https://t.co/B7swAxtrOj"
+              }
+            ]
+          }
+        },
+        "id": "1771319571061841920",
+        "location": "Your shoe cabinet",
+        "name": "VTuberFeetConnoisseur",
+        "pinned_tweet_id": "1985133572148408783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772112201601490944/ItHGN0Di_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47140,
+          "following_count": 4196,
+          "like_count": 105005,
+          "listed_count": 53,
+          "media_count": 6679,
+          "tweet_count": 44606
+        },
+        "url": "https://t.co/B7swAxtrOj",
+        "username": "VTuberFeetFan",
+        "verified": true
+      }
+    ]
+  }
+}

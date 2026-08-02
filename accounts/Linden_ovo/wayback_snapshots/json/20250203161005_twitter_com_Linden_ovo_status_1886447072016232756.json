@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1886146956923470274",
+    "created_at": "2025-02-03T16:10:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T17:10:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886447072016232756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1563374476774948866",
+          "start": 0,
+          "username": "wudaomingyuan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886447072016232756",
+    "in_reply_to_user_id": "1563374476774948866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886146956923470274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wudaomingyuan 人要学会把自己的标准固定在自己身上就行了，别人的人生还要批判吗，爱干什么干什么，这群人操来操去都是自愿的那就操吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1886146956923470274",
+        "created_at": "2025-02-03T16:10:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T17:10:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886447072016232756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1563374476774948866",
+              "start": 0,
+              "username": "wudaomingyuan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886447072016232756",
+        "in_reply_to_user_id": "1563374476774948866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886146956923470274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wudaomingyuan 人要学会把自己的标准固定在自己身上就行了，别人的人生还要批判吗，爱干什么干什么，这群人操来操去都是自愿的那就操吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563374476774948866",
+        "conversation_id": "1886146956923470274",
+        "created_at": "2025-02-02T20:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T21:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886146956923470274"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886146956923470274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 74809,
+          "like_count": 773,
+          "quote_count": 13,
+          "reply_count": 78,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "为了解决性欲跟陌生人做爱的人恶心爆了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 81,
+          "like_count": 311,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 113
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-27T03:55:06.000Z",
+        "description": "你总是这样对我",
+        "id": "1563374476774948866",
+        "name": "血滴子",
+        "pinned_tweet_id": "1805909557526528063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885712779501604864/hpvuOdxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196,
+          "following_count": 564,
+          "like_count": 17599,
+          "listed_count": 2,
+          "media_count": 974,
+          "tweet_count": 8109
+        },
+        "username": "wudaomingyuan",
+        "verified": false
+      }
+    ]
+  }
+}

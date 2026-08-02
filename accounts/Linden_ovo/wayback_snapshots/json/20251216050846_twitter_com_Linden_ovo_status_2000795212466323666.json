@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2000795212466323666",
+    "created_at": "2025-12-16T05:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000795212466323666"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1849450365462417408",
+          "start": 3,
+          "username": "ji9ish8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000795212466323666",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999356511819301132",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji9ish8964: 我最喜欢做的五件事：\n1.骚扰别人 \n2.视奸别人 \n3.不回消息玩失踪\n4.装逼 \n5.骂人\n我最讨厌别人做的五件事：\n1.骚扰我 \n2.视奸我\n3.不回消息 玩失踪\n4.在我面前装逼 \n5.骂我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2000795212466323666",
+        "created_at": "2025-12-16T05:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000795212466323666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1849450365462417408",
+              "start": 3,
+              "username": "ji9ish8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000795212466323666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999356511819301132",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji9ish8964: 我最喜欢做的五件事：\n1.骚扰别人 \n2.视奸别人 \n3.不回消息玩失踪\n4.装逼 \n5.骂人\n我最讨厌别人做的五件事：\n1.骚扰我 \n2.视奸我\n3.不回消息 玩失踪\n4.在我面前装逼 \n5.骂我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849450365462417408",
+        "conversation_id": "1999356511819301132",
+        "created_at": "2025-12-12T05:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T06:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999356511819301132"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999356511819301132",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 94544,
+          "like_count": 1199,
+          "quote_count": 9,
+          "reply_count": 25,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "我最喜欢做的五件事：\n1.骚扰别人 \n2.视奸别人 \n3.不回消息玩失踪\n4.装逼 \n5.骂人\n我最讨厌别人做的五件事：\n1.骚扰我 \n2.视奸我\n3.不回消息 玩失踪\n4.在我面前装逼 \n5.骂我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 384
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T13:58:31.000Z",
+        "description": "你妈逼的别惹我 ｜ 不发吊 不搞黄 ｜直男 ｜ 提问箱✉️： https://t.co/6E0JQUEHKi",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lose187824",
+                "end": 54,
+                "expanded_url": "https://ngl.link/lose187824",
+                "start": 31,
+                "url": "https://t.co/6E0JQUEHKi"
+              }
+            ]
+          }
+        },
+        "id": "1849450365462417408",
+        "name": "屌丝",
+        "pinned_tweet_id": "1980285823615672691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997521826436784128/N846WeWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 48,
+          "like_count": 2800,
+          "listed_count": 5,
+          "media_count": 62,
+          "tweet_count": 1387
+        },
+        "username": "ji9ish8964",
+        "verified": false
+      }
+    ]
+  }
+}

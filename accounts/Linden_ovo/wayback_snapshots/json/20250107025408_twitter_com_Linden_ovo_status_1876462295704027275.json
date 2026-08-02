@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1876462295704027275",
+    "created_at": "2025-01-07T02:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-07T03:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1876462295704027275"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1876462295704027275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "未来什么时候会变好呢, 为什么都要骗我给我画饼, 看我憧憬的神情给你们找价值吗…\n真的太不公平了, 有人生来就是被宠爱的, 漂亮的有钱人…这样的阶级怎么跨越呢？真的太不公平了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1876462295704027275",
+        "created_at": "2025-01-07T02:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T03:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876462295704027275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1876462295704027275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "未来什么时候会变好呢, 为什么都要骗我给我画饼, 看我憧憬的神情给你们找价值吗…\n真的太不公平了, 有人生来就是被宠爱的, 漂亮的有钱人…这样的阶级怎么跨越呢？真的太不公平了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 64,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 61
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

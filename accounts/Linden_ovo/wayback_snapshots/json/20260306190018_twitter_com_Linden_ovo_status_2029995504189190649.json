@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029751590060707841",
+        "3_2029751590081744896",
+        "3_2029751590115250176"
+      ],
+      "media_source_tweet_id": [
+        "2029751599170736427",
+        "2029751599170736427",
+        "2029751599170736427"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2029995504189190649",
+    "created_at": "2026-03-06T19:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T20:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029995504189190649"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 25,
+          "tag": "hololivefesEXPO26_DAY1"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883127876926779392",
+          "start": 3,
+          "username": "aka_sgr205N"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4cAGPI3Yo2",
+          "end": 72,
+          "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+          "media_key": "3_2029751590060707841",
+          "start": 49,
+          "url": "https://t.co/4cAGPI3Yo2"
+        },
+        {
+          "display_url": "pic.x.com/4cAGPI3Yo2",
+          "end": 72,
+          "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+          "media_key": "3_2029751590081744896",
+          "start": 49,
+          "url": "https://t.co/4cAGPI3Yo2"
+        },
+        {
+          "display_url": "pic.x.com/4cAGPI3Yo2",
+          "end": 72,
+          "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+          "media_key": "3_2029751590115250176",
+          "start": 49,
+          "url": "https://t.co/4cAGPI3Yo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029995504189190649",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029751599170736427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aka_sgr205N: ！？！？！？\n\n#hololivefesEXPO26_DAY1 https://t.co/4cAGPI3Yo2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029751590060707841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsgUSvaUAEn4Jw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029751590081744896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsgUS0bUAA_sSw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2029751590115250176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCsgUS8akAA4w10.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029751590060707841",
+            "3_2029751590081744896",
+            "3_2029751590115250176"
+          ],
+          "media_source_tweet_id": [
+            "2029751599170736427",
+            "2029751599170736427",
+            "2029751599170736427"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2029995504189190649",
+        "created_at": "2026-03-06T19:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029995504189190649"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 25,
+              "tag": "hololivefesEXPO26_DAY1"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883127876926779392",
+              "start": 3,
+              "username": "aka_sgr205N"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cAGPI3Yo2",
+              "end": 72,
+              "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+              "media_key": "3_2029751590060707841",
+              "start": 49,
+              "url": "https://t.co/4cAGPI3Yo2"
+            },
+            {
+              "display_url": "pic.x.com/4cAGPI3Yo2",
+              "end": 72,
+              "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+              "media_key": "3_2029751590081744896",
+              "start": 49,
+              "url": "https://t.co/4cAGPI3Yo2"
+            },
+            {
+              "display_url": "pic.x.com/4cAGPI3Yo2",
+              "end": 72,
+              "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+              "media_key": "3_2029751590115250176",
+              "start": 49,
+              "url": "https://t.co/4cAGPI3Yo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029995504189190649",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029751599170736427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aka_sgr205N: ！？！？！？\n\n#hololivefesEXPO26_DAY1 https://t.co/4cAGPI3Yo2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029751590060707841",
+            "3_2029751590081744896",
+            "3_2029751590115250176"
+          ]
+        },
+        "author_id": "1883127876926779392",
+        "conversation_id": "2029751599170736427",
+        "created_at": "2026-03-06T02:51:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:51:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029751599170736427"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 8,
+              "tag": "hololivefesEXPO26_DAY1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4cAGPI3Yo2",
+              "end": 55,
+              "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+              "media_key": "3_2029751590060707841",
+              "start": 32,
+              "url": "https://t.co/4cAGPI3Yo2"
+            },
+            {
+              "display_url": "pic.x.com/4cAGPI3Yo2",
+              "end": 55,
+              "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+              "media_key": "3_2029751590081744896",
+              "start": 32,
+              "url": "https://t.co/4cAGPI3Yo2"
+            },
+            {
+              "display_url": "pic.x.com/4cAGPI3Yo2",
+              "end": 55,
+              "expanded_url": "https://x.com/aka_sgr205N/status/2029751599170736427/photo/1",
+              "media_key": "3_2029751590115250176",
+              "start": 32,
+              "url": "https://t.co/4cAGPI3Yo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029751599170736427",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 68883,
+          "like_count": 1949,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "！？！？！？\n\n#hololivefesEXPO26_DAY1 https://t.co/4cAGPI3Yo2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 76,
+          "like_count": 1285,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 692
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T12:21:05.000Z",
+        "description": "無言フォロー失礼します 。 一般開拓者&かざま隊おじ。ゆるーく(?)⚒️🍃推していきます。 たまに鉄道・バス・飛行機・船とかも",
+        "id": "1883127876926779392",
+        "location": "九州の端っこ",
+        "name": "akaden⚒️🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979567270159417344/aCCAD0cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 310,
+          "like_count": 3130,
+          "listed_count": 3,
+          "media_count": 1970,
+          "tweet_count": 6869
+        },
+        "username": "aka_sgr205N",
+        "verified": false
+      }
+    ]
+  }
+}

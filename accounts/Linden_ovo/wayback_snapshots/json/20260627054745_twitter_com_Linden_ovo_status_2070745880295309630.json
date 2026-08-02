@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070542445700673536"
+      ],
+      "media_source_tweet_id": [
+        "2070542454106063119"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070745880295309630",
+    "created_at": "2026-06-27T05:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070745880295309630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ThwBl94ozH",
+          "end": 54,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2070542454106063119/photo/1",
+          "media_key": "3_2070542445700673536",
+          "start": 31,
+          "url": "https://t.co/ThwBl94ozH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070745880295309630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070542454106063119",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 真的不忍心看这些... https://t.co/ThwBl94ozH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2070542445700673536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwLYlhbcAAsI-M.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070542445700673536"
+          ],
+          "media_source_tweet_id": [
+            "2070542454106063119"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070745880295309630",
+        "created_at": "2026-06-27T05:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070745880295309630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThwBl94ozH",
+              "end": 54,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2070542454106063119/photo/1",
+              "media_key": "3_2070542445700673536",
+              "start": 31,
+              "url": "https://t.co/ThwBl94ozH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070745880295309630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070542454106063119",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 真的不忍心看这些... https://t.co/ThwBl94ozH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070542445700673536"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "conversation_id": "2070542454106063119",
+        "created_at": "2026-06-26T16:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070542454106063119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThwBl94ozH",
+              "end": 35,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2070542454106063119/photo/1",
+              "media_key": "3_2070542445700673536",
+              "start": 12,
+              "url": "https://t.co/ThwBl94ozH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070542454106063119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 307117,
+          "like_count": 1951,
+          "quote_count": 12,
+          "reply_count": 246,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "真的不忍心看这些... https://t.co/ThwBl94ozH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 110,
+          "like_count": 1824,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1144
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "🌸摆烂博主🍭| 好看的照片都在“亮点”里 | 蓝v互关看到必回",
+        "id": "1573704119516176384",
+        "location": "🚪98 发课表 是男娘",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2057809006421545370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94823,
+          "following_count": 1141,
+          "like_count": 5950,
+          "listed_count": 209,
+          "media_count": 171,
+          "tweet_count": 2197
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

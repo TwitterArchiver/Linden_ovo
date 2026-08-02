@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080559764036288512"
+      ],
+      "media_source_tweet_id": [
+        "2080559772232044571"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080627111379743130",
+    "created_at": "2026-07-24T12:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080627111379743130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1682303195832360960",
+          "start": 3,
+          "username": "ffynya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bb6nT1m5dO",
+          "end": 49,
+          "expanded_url": "https://x.com/ffynya/status/2080559772232044571/photo/1",
+          "media_key": "3_2080559764036288512",
+          "start": 26,
+          "url": "https://t.co/Bb6nT1m5dO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080627111379743130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080559772232044571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ffynya: 这tm是人想出来的标题😅🤯 https://t.co/Bb6nT1m5dO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2080559764036288512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-iFQVagAAsEEc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080559764036288512"
+          ]
+        },
+        "author_id": "1682303195832360960",
+        "conversation_id": "2080559772232044571",
+        "created_at": "2026-07-24T07:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080559772232044571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bb6nT1m5dO",
+              "end": 37,
+              "expanded_url": "https://x.com/ffynya/status/2080559772232044571/photo/1",
+              "media_key": "3_2080559764036288512",
+              "start": 14,
+              "url": "https://t.co/Bb6nT1m5dO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080559772232044571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4284,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这tm是人想出来的标题😅🤯 https://t.co/Bb6nT1m5dO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080559764036288512"
+          ],
+          "media_source_tweet_id": [
+            "2080559772232044571"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080627111379743130",
+        "created_at": "2026-07-24T12:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080627111379743130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1682303195832360960",
+              "start": 3,
+              "username": "ffynya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bb6nT1m5dO",
+              "end": 49,
+              "expanded_url": "https://x.com/ffynya/status/2080559772232044571/photo/1",
+              "media_key": "3_2080559764036288512",
+              "start": 26,
+              "url": "https://t.co/Bb6nT1m5dO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080627111379743130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080559772232044571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ffynya: 这tm是人想出来的标题😅🤯 https://t.co/Bb6nT1m5dO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 146,
+          "like_count": 2758,
+          "listed_count": 2,
+          "media_count": 23,
+          "tweet_count": 1784
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T08:15:33.000Z",
+        "description": "中国人🇨🇳｜游戏｜动画｜友跨🏳️‍⚧️｜人道主义者｜互关｜不od｜不改花刀｜心理正常｜170cm 50kg｜聊天可以推特私信哦～🥰｜🇭🇰🇨🇳🇯🇵🍥",
+        "id": "1682303195832360960",
+        "location": "地球",
+        "name": "🫥ffy喵🫥🇭🇰🇨🇳🇯🇵互fo",
+        "pinned_tweet_id": "2080251790172504204",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079042377906581504/glmoVp84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 214,
+          "like_count": 509,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "ffynya",
+        "verified": true
+      }
+    ]
+  }
+}

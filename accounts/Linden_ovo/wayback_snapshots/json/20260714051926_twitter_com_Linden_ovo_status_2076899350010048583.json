@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076650218624549213",
+    "created_at": "2026-07-14T05:19:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T06:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076899350010048583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2057055984338833408",
+          "start": 0,
+          "username": "Yuramyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076899350010048583",
+    "in_reply_to_user_id": "2057055984338833408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076650218624549213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuramyn 我过了四个门我目前没有主动找人家聊什么天我就是放在我的列表里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076650218624549213",
+        "created_at": "2026-07-14T05:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T06:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076899350010048583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2057055984338833408",
+              "start": 0,
+              "username": "Yuramyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076899350010048583",
+        "in_reply_to_user_id": "2057055984338833408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076650218624549213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuramyn 我过了四个门我目前没有主动找人家聊什么天我就是放在我的列表里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057055984338833408",
+        "conversation_id": "2076650218624549213",
+        "created_at": "2026-07-13T12:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T13:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076650218624549213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076650218624549213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 29601,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有一个门哥，自从我对他发完脾气以后再也没找我聊天，我退他门钱他都不要，我不知道他留在我的微信里干嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 134,
+          "like_count": 2420,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-20T11:11:44.000Z",
+        "description": "一条忧郁鱼，没门，@yangyangg358 小号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "yangyangg358"
+              }
+            ]
+          }
+        },
+        "id": "2057055984338833408",
+        "name": "鱼鱼",
+        "pinned_tweet_id": "2070905905236090907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058189035542372352/6mVkFU1W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 8,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "Yuramyn",
+        "verified": true
+      }
+    ]
+  }
+}

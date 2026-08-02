@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2027721043473785032",
+    "created_at": "2026-02-28T12:22:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T13:22:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027721043473785032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027721043473785032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027716461649670155",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: 好想全世界都死了，我真心实意的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2027721043473785032",
+        "created_at": "2026-02-28T12:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027721043473785032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027721043473785032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027716461649670155",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: 好想全世界都死了，我真心实意的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2027716461649670155",
+        "created_at": "2026-02-28T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027716461649670155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027716461649670155",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好想全世界都死了，我真心实意的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 81,
+          "like_count": 1236,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 646
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "一个转世七级恶灵胎儿的碎碎咒怨，我会一直盯着你哟…👁️👁️ 没网感的土逼不要评论关注我我是说永远",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2026636031663980992",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 34,
+          "like_count": 968,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 1517
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

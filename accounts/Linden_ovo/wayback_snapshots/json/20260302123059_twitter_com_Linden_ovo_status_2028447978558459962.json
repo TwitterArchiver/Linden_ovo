@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2028447978558459962",
+    "created_at": "2026-03-02T12:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028447978558459962"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1818530191116738560",
+          "start": 3,
+          "username": "qnmdgun8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028447978558459962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027769668757512611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qnmdgun8: 男生喝酒配头孢很帅有人懂吗。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2028447978558459962",
+        "created_at": "2026-03-02T12:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028447978558459962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1818530191116738560",
+              "start": 3,
+              "username": "qnmdgun8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028447978558459962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027769668757512611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qnmdgun8: 男生喝酒配头孢很帅有人懂吗。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818530191116738560",
+        "conversation_id": "2027769668757512611",
+        "created_at": "2026-02-28T15:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027769668757512611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027769668757512611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 124657,
+          "like_count": 2195,
+          "quote_count": 9,
+          "reply_count": 153,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "男生喝酒配头孢很帅有人懂吗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 80,
+          "like_count": 1256,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 666
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T06:12:52.000Z",
+        "description": "纯良的entj/水瓶 一般只会回问🚪宝吖 随机回复一些有礼貌的宝宝  绿🚪125 非绿🚪288 ٩(๑`^´๑)۶上来就对我开h腔。我不喜欢会直接删掉的 不线下。此女不下海\npyq开放520（天蝎不准🚫",
+        "id": "1818530191116738560",
+        "location": "你在就好了",
+        "name": "极品爱兔比",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009520351550562304/kfBDxDCf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5670,
+          "following_count": 5,
+          "like_count": 779,
+          "listed_count": 9,
+          "media_count": 108,
+          "tweet_count": 1318
+        },
+        "username": "qnmdgun8",
+        "verified": false
+      }
+    ]
+  }
+}

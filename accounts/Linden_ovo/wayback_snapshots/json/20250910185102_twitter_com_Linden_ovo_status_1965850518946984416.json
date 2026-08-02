@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965708464052944896"
+      ],
+      "media_source_tweet_id": [
+        "1965708476413583535"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1965850518946984416",
+    "created_at": "2025-09-10T18:51:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T19:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965850518946984416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673483271299301376",
+          "start": 3,
+          "username": "cocoyoutoo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zlrrja3PGS",
+          "end": 55,
+          "expanded_url": "https://x.com/cocoyoutoo/status/1965708476413583535/photo/1",
+          "media_key": "3_1965708464052944896",
+          "start": 32,
+          "url": "https://t.co/zlrrja3PGS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965850518946984416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965708476413583535",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cocoyoutoo: 你的眼睛，要沉迷于这双腿了吗？ https://t.co/zlrrja3PGS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1965850518946984416].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1965850518946984416",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1965850518946984416"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1965708464052944896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0eZbuvawAAUMQE.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965708464052944896"
+          ]
+        },
+        "author_id": "1673483271299301376",
+        "conversation_id": "1965708476413583535",
+        "created_at": "2025-09-10T09:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T10:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965708476413583535"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlrrja3PGS",
+              "end": 39,
+              "expanded_url": "https://x.com/cocoyoutoo/status/1965708476413583535/photo/1",
+              "media_key": "3_1965708464052944896",
+              "start": 16,
+              "url": "https://t.co/zlrrja3PGS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965708476413583535",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 7217,
+          "like_count": 624,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "你的眼睛，要沉迷于这双腿了吗？ https://t.co/zlrrja3PGS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 497,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 94
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-27T00:08:12.000Z",
+        "description": "フォローしてくれてありがと 🎀 @qiqichidanta",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 16,
+                "username": "qiqichidanta"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/kekexinsuiban",
+                "end": 23,
+                "expanded_url": "http://patreon.com/kekexinsuiban",
+                "start": 0,
+                "url": "https://t.co/gutLuiZLkV"
+              }
+            ]
+          }
+        },
+        "id": "1673483271299301376",
+        "name": "coco",
+        "pinned_tweet_id": "1782442832789451217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907554524094672897/r3mx2934_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28305,
+          "following_count": 51,
+          "like_count": 8631,
+          "listed_count": 98,
+          "media_count": 115,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/gutLuiZLkV",
+        "username": "cocoyoutoo",
+        "verified": true
+      }
+    ]
+  }
+}

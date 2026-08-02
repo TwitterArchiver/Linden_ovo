@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1987936984241774923",
+    "created_at": "2025-11-10T17:34:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T18:34:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987936984241774923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1617162636415598593",
+          "start": 3,
+          "username": "DebbieS23013354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987936984241774923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987909234953212049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DebbieS23013354: 我这周又要不开心了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1987936984241774923",
+        "created_at": "2025-11-10T17:34:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T18:34:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987936984241774923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1617162636415598593",
+              "start": 3,
+              "username": "DebbieS23013354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987936984241774923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987909234953212049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DebbieS23013354: 我这周又要不开心了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617162636415598593",
+        "conversation_id": "1987909234953212049",
+        "created_at": "2025-11-10T15:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987909234953212049"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987909234953212049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我这周又要不开心了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 61,
+          "like_count": 725,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 254
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "😈💩🫶🤡🙀👹🤲🫥😪🤥🤮🫲👋🫷🫀👄🫁🫂🫦👯👩‍🦼👯‍♀️🫶😋🫁🏝️🍊💰😂💩🏝️🥺🧦🚪",
+        "id": "1617162636415598593",
+        "location": "贾巴沃克岛🏝️",
+        "name": "3r EUSho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 357,
+          "like_count": 11516,
+          "listed_count": 1,
+          "media_count": 174,
+          "tweet_count": 2988
+        },
+        "username": "DebbieS23013354",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2053511107424505955",
+    "created_at": "2026-05-11T22:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053959508146200670"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721288623654658048",
+          "start": 0,
+          "username": "cv41___midway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053959508146200670",
+    "in_reply_to_user_id": "1721288623654658048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053511107424505955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cv41___midway 送13号楼也可以啊，打个送13找骂？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053511098759045120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Jdt_a4AAanMr.jpg",
+        "width": 1232
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053511098759065600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH-Jdt_bMAAERf8.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2053511107424505955",
+        "created_at": "2026-05-11T22:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053959508146200670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721288623654658048",
+              "start": 0,
+              "username": "cv41___midway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053959508146200670",
+        "in_reply_to_user_id": "1721288623654658048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053511107424505955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cv41___midway 送13号楼也可以啊，打个送13找骂？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053511098759045120",
+            "3_2053511098759065600"
+          ]
+        },
+        "author_id": "1721288623654658048",
+        "conversation_id": "2053511107424505955",
+        "created_at": "2026-05-10T16:22:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T17:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053511107424505955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3CnO3evBqd",
+              "end": 131,
+              "expanded_url": "https://x.com/cv41___midway/status/2053511107424505955/photo/1",
+              "media_key": "3_2053511098759045120",
+              "start": 108,
+              "url": "https://t.co/3CnO3evBqd"
+            },
+            {
+              "display_url": "pic.x.com/3CnO3evBqd",
+              "end": 131,
+              "expanded_url": "https://x.com/cv41___midway/status/2053511107424505955/photo/1",
+              "media_key": "3_2053511098759065600",
+              "start": 108,
+              "url": "https://t.co/3CnO3evBqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053511107424505955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 131303,
+          "like_count": 361,
+          "quote_count": 3,
+          "reply_count": 79,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "你校学生真是神了，太压抑了\n13是指学校的13公寓，这神人看成逼了\n\n“一见短袖子，立刻想到白臂膊，立刻想到全裸体，立刻想到生殖器，立刻想到性交，立刻想到杂交，立刻想到私生子。中国人的想像惟在这一层能够如此跃进。” https://t.co/3CnO3evBqd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 99,
+          "like_count": 1678,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1014
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T22:09:35.000Z",
+        "description": "Midway-class No. 1 ship |want to be cute~|Computational fluid dynamics|Please feel free to use personal pronouns QAQ|亲姐姐 @Abs0lutHydra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Abs0lutHydra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/midway_channel",
+                "end": 23,
+                "expanded_url": "https://t.me/midway_channel",
+                "start": 0,
+                "url": "https://t.co/FF1lx06EJS"
+              }
+            ]
+          }
+        },
+        "id": "1721288623654658048",
+        "location": "Amsterdam, The Netherlands",
+        "name": "米德伟",
+        "pinned_tweet_id": "1973759746042904806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777195227951820800/Ye9qu7qF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3968,
+          "following_count": 1390,
+          "like_count": 14486,
+          "listed_count": 10,
+          "media_count": 680,
+          "tweet_count": 6514
+        },
+        "url": "https://t.co/FF1lx06EJS",
+        "username": "cv41___midway",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1977284211259457845",
+    "created_at": "2025-10-12T08:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T09:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977284211259457845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1760944011475652611",
+          "start": 3,
+          "username": "itto_1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977284211259457845",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977166244710432906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itto_1120: 昨天是段历史，明天是个谜团，而今天是天赐的礼物，像珍惜礼物那样珍惜今天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1977284211259457845",
+        "created_at": "2025-10-12T08:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T09:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977284211259457845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1760944011475652611",
+              "start": 3,
+              "username": "itto_1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977284211259457845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977166244710432906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itto_1120: 昨天是段历史，明天是个谜团，而今天是天赐的礼物，像珍惜礼物那样珍惜今天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760944011475652611",
+        "conversation_id": "1977166244710432906",
+        "created_at": "2025-10-12T00:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T01:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977166244710432906"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977166244710432906",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天是段历史，明天是个谜团，而今天是天赐的礼物，像珍惜礼物那样珍惜今天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 592,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 179
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T08:25:52.000Z",
+        "description": "许多伤害本都是一次性的，可是我们来回拉扯。于是爱就变成了一把锯子，他让不舍得人更痛苦，让舍得的人更尖锐",
+        "id": "1760944011475652611",
+        "location": "日本",
+        "name": "Gluttony bear",
+        "pinned_tweet_id": "1828780756086460568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972072515406331904/W9Mma-4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 3
+        },
+        "username": "itto_1120",
+        "verified": false
+      }
+    ]
+  }
+}

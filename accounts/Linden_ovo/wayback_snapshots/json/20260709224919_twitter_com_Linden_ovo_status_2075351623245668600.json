@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2075351623245668600",
+    "created_at": "2026-07-09T22:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T23:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075351623245668600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1651273923114455041",
+          "start": 3,
+          "username": "X1anx1anZong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075351623245668600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075130997260365944",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X1anx1anZong: 这么热的天我喊你来酒店吹空调是害你吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2075351623245668600",
+        "created_at": "2026-07-09T22:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T23:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075351623245668600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1651273923114455041",
+              "start": 3,
+              "username": "X1anx1anZong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075351623245668600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075130997260365944",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X1anx1anZong: 这么热的天我喊你来酒店吹空调是害你吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1651273923114455041",
+        "conversation_id": "2075130997260365944",
+        "created_at": "2026-07-09T08:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T09:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075130997260365944"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075130997260365944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9846,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这么热的天我喊你来酒店吹空调是害你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 133,
+          "like_count": 2323,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1500
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-26T17:16:06.000Z",
+        "description": "奥特之父人间体/荣誉霓虹人/理性蒸发EX  1000円ちょーだい😋🤲\n\n来世に期待",
+        "id": "1651273923114455041",
+        "location": "魔女裁判",
+        "name": "我智力有问题",
+        "pinned_tweet_id": "1758893566326415693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039711550400057345/hBevM-k0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2573,
+          "following_count": 54,
+          "like_count": 20510,
+          "listed_count": 5,
+          "media_count": 324,
+          "tweet_count": 11916
+        },
+        "url": "",
+        "username": "X1anx1anZong",
+        "verified": false
+      }
+    ]
+  }
+}

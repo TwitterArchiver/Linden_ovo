@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2071927540378149282",
+    "created_at": "2026-06-30T12:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071927540378149282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1729831830214344704",
+          "start": 3,
+          "username": "qiqi61595220678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071927540378149282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071658104790663485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qiqi61595220678: 对不起，不能做到和刚认识那样可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071927540378149282",
+        "created_at": "2026-06-30T12:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071927540378149282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1729831830214344704",
+              "start": 3,
+              "username": "qiqi61595220678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071927540378149282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071658104790663485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qiqi61595220678: 对不起，不能做到和刚认识那样可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1729831830214344704",
+        "conversation_id": "2071658104790663485",
+        "created_at": "2026-06-29T18:12:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T19:12:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071658104790663485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071658104790663485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 14200,
+          "like_count": 431,
+          "quote_count": 8,
+          "reply_count": 48,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "对不起，不能做到和刚认识那样可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 112,
+          "like_count": 1867,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1165
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-29T11:57:10.000Z",
+        "description": "",
+        "id": "1729831830214344704",
+        "name": "Qiiquq",
+        "pinned_tweet_id": "2022006402068488489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862102195555995648/BAiZzT5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 76,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "qiqi61595220678",
+        "verified": false
+      }
+    ]
+  }
+}

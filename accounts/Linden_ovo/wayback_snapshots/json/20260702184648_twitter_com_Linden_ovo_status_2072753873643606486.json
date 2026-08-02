@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072500599904481280"
+      ],
+      "media_source_tweet_id": [
+        "2072500602173600074"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072753873643606486",
+    "created_at": "2026-07-02T18:46:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T19:46:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072753873643606486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882464536948596738",
+          "start": 3,
+          "username": "sky6044"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HsPi3LW4Sh",
+          "end": 104,
+          "expanded_url": "https://x.com/sky6044/status/2072500602173600074/photo/1",
+          "media_key": "3_2072500599904481280",
+          "start": 81,
+          "url": "https://t.co/HsPi3LW4Sh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072753873643606486",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 184
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072500602173600074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sky6044: how it feels to see a bazillion games on sale but you have 0 moneys https://t.co/HsPi3LW4Sh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 463,
+        "media_key": "3_2072500599904481280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMAUKYXMAALsTg.jpg",
+        "width": 782
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072500599904481280"
+          ],
+          "media_source_tweet_id": [
+            "2072500602173600074"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072753873643606486",
+        "created_at": "2026-07-02T18:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T19:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072753873643606486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882464536948596738",
+              "start": 3,
+              "username": "sky6044"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsPi3LW4Sh",
+              "end": 104,
+              "expanded_url": "https://x.com/sky6044/status/2072500602173600074/photo/1",
+              "media_key": "3_2072500599904481280",
+              "start": 81,
+              "url": "https://t.co/HsPi3LW4Sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072753873643606486",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 184
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072500602173600074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sky6044: how it feels to see a bazillion games on sale but you have 0 moneys https://t.co/HsPi3LW4Sh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072500599904481280"
+          ]
+        },
+        "author_id": "1882464536948596738",
+        "conversation_id": "2072500602173600074",
+        "created_at": "2026-07-02T02:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072500602173600074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsPi3LW4Sh",
+              "end": 91,
+              "expanded_url": "https://x.com/sky6044/status/2072500602173600074/photo/1",
+              "media_key": "3_2072500599904481280",
+              "start": 68,
+              "url": "https://t.co/HsPi3LW4Sh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072500602173600074",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 8404,
+          "like_count": 894,
+          "quote_count": 6,
+          "reply_count": 7,
+          "retweet_count": 184
+        },
+        "reply_settings": "everyone",
+        "text": "how it feels to see a bazillion games on sale but you have 0 moneys https://t.co/HsPi3LW4Sh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 118,
+          "like_count": 2026,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1266
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T16:25:21.000Z",
+        "description": "she/her \nim aoi mukou wife and only me \n20\nsteam: 1207029064 \ndiscord: .devglitch",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/leafy13",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/leafy13",
+                "start": 0,
+                "url": "https://t.co/sj3OgMrP6b"
+              }
+            ]
+          }
+        },
+        "id": "1882464536948596738",
+        "name": "sky",
+        "pinned_tweet_id": "1921232655984550219",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892214172588404736/G1sIXOgk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 4173,
+          "like_count": 82543,
+          "listed_count": 4,
+          "media_count": 1077,
+          "tweet_count": 9917
+        },
+        "url": "https://t.co/sj3OgMrP6b",
+        "username": "sky6044",
+        "verified": false
+      }
+    ]
+  }
+}

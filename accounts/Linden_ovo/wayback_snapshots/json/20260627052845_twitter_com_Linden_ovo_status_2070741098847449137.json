@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070741098847449137",
+    "created_at": "2026-06-27T05:28:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:28:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070741098847449137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2026521630449741824",
+          "start": 3,
+          "username": "kazekita382593"
+        },
+        {
+          "end": 34,
+          "id": "2016028559228469252",
+          "start": 20,
+          "username": "Alvvaysioffy1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070741098847449137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070452884291150110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kazekita382593: @Alvvaysioffy1 谁，哪个婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070741098847449137",
+        "created_at": "2026-06-27T05:28:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741098847449137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2026521630449741824",
+              "start": 3,
+              "username": "kazekita382593"
+            },
+            {
+              "end": 34,
+              "id": "2016028559228469252",
+              "start": 20,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741098847449137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070452884291150110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kazekita382593: @Alvvaysioffy1 谁，哪个婊子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026521630449741824",
+        "conversation_id": "2070428275235860712",
+        "created_at": "2026-06-26T10:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070452884291150110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070452884291150110",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070428275235860712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 谁，哪个婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 108,
+          "like_count": 1821,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 1146
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T04:56:37.000Z",
+        "description": "自由 民主 科学",
+        "id": "2026521630449741824",
+        "location": "油尖旺, 香港",
+        "name": "kitakaze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068796988888580096/5eLJXuAg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 37,
+          "like_count": 3652,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "kazekita382593",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "在世界尽头呼唤爱的野兽",
+        "id": "2016028559228469252",
+        "name": "彩華",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058087989570678785/k1dk8u7__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 218,
+          "like_count": 1265,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 826
+        },
+        "url": "",
+        "username": "Alvvaysioffy1",
+        "verified": false
+      }
+    ]
+  }
+}

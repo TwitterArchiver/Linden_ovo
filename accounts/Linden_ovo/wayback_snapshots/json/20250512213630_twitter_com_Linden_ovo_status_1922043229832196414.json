@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1922043225193189376",
+        "3_1922043225168039937"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1922043229832196414",
+    "created_at": "2025-05-12T21:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T22:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1922043229832196414"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGl4yboLbO",
+          "end": 25,
+          "expanded_url": "https://x.com/Linden_ovo/status/1922043229832196414/photo/1",
+          "media_key": "3_1922043225193189376",
+          "start": 2,
+          "url": "https://t.co/JGl4yboLbO"
+        },
+        {
+          "display_url": "pic.x.com/JGl4yboLbO",
+          "end": 25,
+          "expanded_url": "https://x.com/Linden_ovo/status/1922043229832196414/photo/1",
+          "media_key": "3_1922043225168039937",
+          "start": 2,
+          "url": "https://t.co/JGl4yboLbO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1922043229832196414",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中 https://t.co/JGl4yboLbO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1922043229832196414].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1922043229832196414",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1922043229832196414"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1753,
+        "media_key": "3_1922043225193189376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqx4IUCWEAAqlp6.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1922043225168039937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gqx4IT8WUAEN1Mk.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921183838115373056/kjJnBUER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 61,
+          "like_count": 344,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 142
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070751982059737088"
+      ],
+      "media_source_tweet_id": [
+        "2070751989802447334"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071266662192402811",
+    "created_at": "2026-06-28T16:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071266662192402811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "848443388856750080",
+          "start": 3,
+          "username": "ma_zhenyuan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IQHUuPuffA",
+          "end": 46,
+          "expanded_url": "https://x.com/ma_zhenyuan/status/2070751989802447334/photo/1",
+          "media_key": "3_2070751982059737088",
+          "start": 23,
+          "url": "https://t.co/IQHUuPuffA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071266662192402811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070751989802447334",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ma_zhenyuan: 防备心极强 https://t.co/IQHUuPuffA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1235,
+        "media_key": "3_2070751982059737088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzJ9NSbUAA1-eW.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070751982059737088"
+          ],
+          "media_source_tweet_id": [
+            "2070751989802447334"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071266662192402811",
+        "created_at": "2026-06-28T16:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071266662192402811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "848443388856750080",
+              "start": 3,
+              "username": "ma_zhenyuan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQHUuPuffA",
+              "end": 46,
+              "expanded_url": "https://x.com/ma_zhenyuan/status/2070751989802447334/photo/1",
+              "media_key": "3_2070751982059737088",
+              "start": 23,
+              "url": "https://t.co/IQHUuPuffA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071266662192402811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070751989802447334",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ma_zhenyuan: 防备心极强 https://t.co/IQHUuPuffA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070751982059737088"
+          ]
+        },
+        "author_id": "848443388856750080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070751989802447334",
+        "created_at": "2026-06-27T06:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070751989802447334"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IQHUuPuffA",
+              "end": 29,
+              "expanded_url": "https://x.com/ma_zhenyuan/status/2070751989802447334/photo/1",
+              "media_key": "3_2070751982059737088",
+              "start": 6,
+              "url": "https://t.co/IQHUuPuffA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070751989802447334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 461933,
+          "like_count": 2555,
+          "quote_count": 3,
+          "reply_count": 449,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "防备心极强 https://t.co/IQHUuPuffA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 110,
+          "like_count": 1841,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1153
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-02T07:54:02.000Z",
+        "description": "💰 哈工大本硕，大厂裸辞创业，赚得第一个100万 \n🚀 2026 ALL IN AI，用AI赚钱\n📖 公开分享：做的方法、踩的坑、获得的成果\n📨 闲聊、咨询，请私信",
+        "id": "848443388856750080",
+        "name": "Miles.Ma",
+        "pinned_tweet_id": "2067788631318909026",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031276304373620736/J73hCcnR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8866,
+          "following_count": 502,
+          "like_count": 6598,
+          "listed_count": 54,
+          "media_count": 919,
+          "tweet_count": 6997
+        },
+        "url": "",
+        "username": "ma_zhenyuan",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2041867659772391829",
+    "created_at": "2026-04-08T13:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041867659772391829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1775407762673168384",
+          "start": 3,
+          "username": "raorapanthera"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041867659772391829",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 691
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041803246671364174",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @raorapanthera: RAOOO?!?! 😺🍒\n\nWho turned me into a drink!!?? \nBIG CAT ENERGY now in cherry sparkle form!!!\n\nDrink responsibly or you may…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2041750646567923714",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFXBZTia8AIwJ5L.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2041867659772391829",
+        "created_at": "2026-04-08T13:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041867659772391829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1775407762673168384",
+              "start": 3,
+              "username": "raorapanthera"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041867659772391829",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 691
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041803246671364174",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @raorapanthera: RAOOO?!?! 😺🍒\n\nWho turned me into a drink!!?? \nBIG CAT ENERGY now in cherry sparkle form!!!\n\nDrink responsibly or you may…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041750646567923714"
+          ]
+        },
+        "author_id": "1775407762673168384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041803246671364174",
+        "created_at": "2026-04-08T09:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T10:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041803246671364174"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 231,
+              "start": 215,
+              "tag": "UWUwithHololive"
+            },
+            {
+              "end": 241,
+              "start": 232,
+              "tag": "uwudrink"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 211,
+              "id": "1711778963666747392",
+              "start": 202,
+              "username": "uwudrink"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Probiere jetzt die neuen natürlichen Original Drinks in unseren Premium Dosen und tauche ein ins UWU Universum!",
+              "display_url": "drinkuwu.com",
+              "end": 190,
+              "expanded_url": "https://drinkuwu.com/",
+              "start": 167,
+              "status": 200,
+              "title": "UWU® - The Next Gen Anime Drink",
+              "unwound_url": "https://drinkuwu.com/",
+              "url": "https://t.co/KSQUma5Br1"
+            },
+            {
+              "display_url": "pic.x.com/2qHOEoHq0H",
+              "end": 265,
+              "expanded_url": "https://x.com/raorapanthera/status/2041803246671364174/photo/1",
+              "media_key": "3_2041750646567923714",
+              "start": 242,
+              "url": "https://t.co/2qHOEoHq0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041803246671364174",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 214,
+          "impression_count": 51873,
+          "like_count": 5482,
+          "quote_count": 12,
+          "reply_count": 69,
+          "retweet_count": 691
+        },
+        "reply_settings": "everyone",
+        "text": "RAOOO?!?! 😺🍒\n\nWho turned me into a drink!!?? \nBIG CAT ENERGY now in cherry sparkle form!!!\n\nDrink responsibly or you may start saying RAOOOOO!!! \n\nPRE ORDER IS HERE ✨\nhttps://t.co/KSQUma5Br1\n\nTHANK YOU @uwudrink 💗\n\n#UWUwithHololive #uwudrink https://t.co/2qHOEoHq0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 85,
+          "like_count": 1460,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 822
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-03T06:19:45.000Z",
+        "description": "The Artist with the God Eyes of hololive English -Justice- | Here to capture (you)r hearts! ~ | mama: @Nekojira | papa: @keffiy | 🎨 #RaorArt |🔴 #CiaoRaora",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 132,
+                "tag": "RaorArt"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "tag": "CiaoRaora"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "Nekojira"
+              },
+              {
+                "end": 127,
+                "start": 120,
+                "username": "keffiy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@holoen_raorap…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@holoen_raorapanthera",
+                "start": 0,
+                "url": "https://t.co/fK43fDOU6R"
+              }
+            ]
+          }
+        },
+        "id": "1775407762673168384",
+        "name": "Raora Panthera🐱holoEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874865990393110528/6u8DRYW5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347164,
+          "following_count": 168,
+          "like_count": 15777,
+          "listed_count": 2002,
+          "media_count": 836,
+          "tweet_count": 9281
+        },
+        "url": "https://t.co/fK43fDOU6R",
+        "username": "raorapanthera",
+        "verified": true
+      }
+    ]
+  }
+}

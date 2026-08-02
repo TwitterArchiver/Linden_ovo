@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1341520686771175424",
+          "name": "Uma Musume"
+        }
+      }
+    ],
+    "conversation_id": "2083044970680700933",
+    "created_at": "2026-07-31T04:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083044970680700933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 122,
+          "start": 118,
+          "tag": "ウマ娘"
+        },
+        {
+          "end": 134,
+          "start": 123,
+          "tag": "デフォルメフィギュア"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292351939",
+          "start": 3,
+          "username": "figsoku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "■予約開始「グッドスマイルカンパニー」で見るウマ娘 シンデレラグレイ Mini Memory ナーバスタマちゃん価格3,900円（税込）2027年2月発売予定メーカーグッドスマイルカンパニーJANコード4570232589957TVアニメ「ウマ娘 シンデレラグレイ」より、「タマモ…",
+          "display_url": "figsoku.net/blog-entry-515…",
+          "end": 116,
+          "expanded_url": "https://figsoku.net/blog-entry-515075.html",
+          "images": [
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083025553892970496/Jpo32yVX?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2083025553892970496/Jpo32yVX?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 93,
+          "status": 200,
+          "title": "【ウマ娘 シンデレラグレイ】Mini Memory「ナーバスタマちゃん」デフォルメフィギュア【予約開始】",
+          "unwound_url": "https://figsoku.net/blog-entry-515075.html",
+          "url": "https://t.co/kpYPRUDmiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083044970680700933",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 474
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083025553653969126",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @figsoku: 【ウマ娘 シンデレラグレイ】Mini Memory「ナーバスタマちゃん」デフォルメフィギュア\n\n【予約開始】\n価格3,900円（税込）\n2027年2月発売予定\nhttps://t.co/kpYPRUDmiw\n #ウマ娘 #デフォルメフィギュア http…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 850,
+        "media_key": "3_2083025521244536833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhkrNvagAEVUvX.jpg",
+        "width": 750
+      },
+      {
+        "height": 850,
+        "media_key": "3_2083025537006804992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhksIdboAAQxQ4.jpg",
+        "width": 750
+      },
+      {
+        "height": 750,
+        "media_key": "3_2083025542857826304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhkseQbIAA-6wS.jpg",
+        "width": 1124
+      },
+      {
+        "height": 750,
+        "media_key": "3_2083025549098938368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhks1ga8AAIdFF.jpg",
+        "width": 1124
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2083044970680700933",
+        "created_at": "2026-07-31T04:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083044970680700933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 122,
+              "start": 118,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 134,
+              "start": 123,
+              "tag": "デフォルメフィギュア"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292351939",
+              "start": 3,
+              "username": "figsoku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■予約開始「グッドスマイルカンパニー」で見るウマ娘 シンデレラグレイ Mini Memory ナーバスタマちゃん価格3,900円（税込）2027年2月発売予定メーカーグッドスマイルカンパニーJANコード4570232589957TVアニメ「ウマ娘 シンデレラグレイ」より、「タマモ…",
+              "display_url": "figsoku.net/blog-entry-515…",
+              "end": 116,
+              "expanded_url": "https://figsoku.net/blog-entry-515075.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083025553892970496/Jpo32yVX?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083025553892970496/Jpo32yVX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 93,
+              "status": 200,
+              "title": "【ウマ娘 シンデレラグレイ】Mini Memory「ナーバスタマちゃん」デフォルメフィギュア【予約開始】",
+              "unwound_url": "https://figsoku.net/blog-entry-515075.html",
+              "url": "https://t.co/kpYPRUDmiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083044970680700933",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 474
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083025553653969126",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @figsoku: 【ウマ娘 シンデレラグレイ】Mini Memory「ナーバスタマちゃん」デフォルメフィギュア\n\n【予約開始】\n価格3,900円（税込）\n2027年2月発売予定\nhttps://t.co/kpYPRUDmiw\n #ウマ娘 #デフォルメフィギュア http…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083025521244536833",
+            "3_2083025537006804992",
+            "3_2083025542857826304",
+            "3_2083025549098938368"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2083025553653969126",
+        "created_at": "2026-07-31T03:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T04:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083025553653969126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 121,
+              "start": 110,
+              "tag": "デフォルメフィギュア"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■予約開始「グッドスマイルカンパニー」で見るウマ娘 シンデレラグレイ Mini Memory ナーバスタマちゃん価格3,900円（税込）2027年2月発売予定メーカーグッドスマイルカンパニーJANコード4570232589957TVアニメ「ウマ娘 シンデレラグレイ」より、「タマモ…",
+              "display_url": "figsoku.net/blog-entry-515…",
+              "end": 103,
+              "expanded_url": "https://figsoku.net/blog-entry-515075.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083025553892970496/Jpo32yVX?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2083025553892970496/Jpo32yVX?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 80,
+              "status": 200,
+              "title": "【ウマ娘 シンデレラグレイ】Mini Memory「ナーバスタマちゃん」デフォルメフィギュア【予約開始】",
+              "unwound_url": "https://figsoku.net/blog-entry-515075.html",
+              "url": "https://t.co/kpYPRUDmiw"
+            },
+            {
+              "display_url": "pic.x.com/b5NQagyXS0",
+              "end": 145,
+              "expanded_url": "https://x.com/figsoku/status/2083025553653969126/photo/1",
+              "media_key": "3_2083025521244536833",
+              "start": 122,
+              "url": "https://t.co/b5NQagyXS0"
+            },
+            {
+              "display_url": "pic.x.com/b5NQagyXS0",
+              "end": 145,
+              "expanded_url": "https://x.com/figsoku/status/2083025553653969126/photo/1",
+              "media_key": "3_2083025537006804992",
+              "start": 122,
+              "url": "https://t.co/b5NQagyXS0"
+            },
+            {
+              "display_url": "pic.x.com/b5NQagyXS0",
+              "end": 145,
+              "expanded_url": "https://x.com/figsoku/status/2083025553653969126/photo/1",
+              "media_key": "3_2083025542857826304",
+              "start": 122,
+              "url": "https://t.co/b5NQagyXS0"
+            },
+            {
+              "display_url": "pic.x.com/b5NQagyXS0",
+              "end": 145,
+              "expanded_url": "https://x.com/figsoku/status/2083025553653969126/photo/1",
+              "media_key": "3_2083025549098938368",
+              "start": 122,
+              "url": "https://t.co/b5NQagyXS0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083025553653969126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 48467,
+          "like_count": 1326,
+          "quote_count": 22,
+          "reply_count": 1,
+          "retweet_count": 474
+        },
+        "reply_settings": "everyone",
+        "text": "【ウマ娘 シンデレラグレイ】Mini Memory「ナーバスタマちゃん」デフォルメフィギュア\n\n【予約開始】\n価格3,900円（税込）\n2027年2月発売予定\nhttps://t.co/kpYPRUDmiw\n #ウマ娘 #デフォルメフィギュア https://t.co/b5NQagyXS0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 148,
+          "like_count": 2879,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1902
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196923,
+          "following_count": 2032,
+          "like_count": 58,
+          "listed_count": 2393,
+          "media_count": 68518,
+          "tweet_count": 128465
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

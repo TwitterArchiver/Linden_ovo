@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1930161042912428525",
+    "created_at": "2025-06-04T07:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-04T08:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930161042912428525"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 127,
+          "start": 123,
+          "tag": "女菩萨"
+        },
+        {
+          "end": 131,
+          "start": 128,
+          "tag": "包养"
+        },
+        {
+          "end": 135,
+          "start": 132,
+          "tag": "线下"
+        },
+        {
+          "end": 139,
+          "start": 136,
+          "tag": "约炮"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1929879892868714498",
+          "start": 3,
+          "username": "ju_dang24879"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930161042912428525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929882825668583488",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ju_dang24879: 我是蛋奶烧\n定位价格10/验证15\n外地接包路费都能来\n88好友位/250约线下\n200聊骚游戏陪玩➕周更图包\n388视频年会含上所有➕每周打视频一次\n520线上线下八折\n1500含上所有加送一小时不限次非绿\n#女菩萨 #包养 #线下 #约炮…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1930161042912428525].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1930161042912428525",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1930161042912428525"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1929882810577567744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshSMPabwAAGPOS.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1929882810590130176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshSMPdbcAAUqKk.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1707,
+        "media_key": "3_1929882810573340672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshSMPZbQAAw8VL.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1389,
+        "media_key": "3_1929882810585923584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GshSMPcbQAAT0Yl.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1929882810577567744",
+            "3_1929882810590130176",
+            "3_1929882810573340672",
+            "3_1929882810585923584"
+          ]
+        },
+        "author_id": "1929879892868714498",
+        "conversation_id": "1929882825668583488",
+        "created_at": "2025-06-03T12:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-03T13:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929882825668583488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 105,
+              "tag": "女菩萨"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "包养"
+            },
+            {
+              "end": 117,
+              "start": 114,
+              "tag": "线下"
+            },
+            {
+              "end": 121,
+              "start": 118,
+              "tag": "约炮"
+            },
+            {
+              "end": 125,
+              "start": 122,
+              "tag": "sm"
+            },
+            {
+              "end": 129,
+              "start": 126,
+              "tag": "母狗"
+            },
+            {
+              "end": 134,
+              "start": 130,
+              "tag": "福利姬"
+            },
+            {
+              "end": 138,
+              "start": 135,
+              "tag": "非绿"
+            },
+            {
+              "end": 142,
+              "start": 139,
+              "tag": "图包"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2owVH9s0S9",
+              "end": 166,
+              "expanded_url": "https://x.com/ju_dang24879/status/1929882825668583488/photo/1",
+              "media_key": "3_1929882810577567744",
+              "start": 143,
+              "url": "https://t.co/2owVH9s0S9"
+            },
+            {
+              "display_url": "pic.x.com/2owVH9s0S9",
+              "end": 166,
+              "expanded_url": "https://x.com/ju_dang24879/status/1929882825668583488/photo/1",
+              "media_key": "3_1929882810590130176",
+              "start": 143,
+              "url": "https://t.co/2owVH9s0S9"
+            },
+            {
+              "display_url": "pic.x.com/2owVH9s0S9",
+              "end": 166,
+              "expanded_url": "https://x.com/ju_dang24879/status/1929882825668583488/photo/1",
+              "media_key": "3_1929882810573340672",
+              "start": 143,
+              "url": "https://t.co/2owVH9s0S9"
+            },
+            {
+              "display_url": "pic.x.com/2owVH9s0S9",
+              "end": 166,
+              "expanded_url": "https://x.com/ju_dang24879/status/1929882825668583488/photo/1",
+              "media_key": "3_1929882810585923584",
+              "start": 143,
+              "url": "https://t.co/2owVH9s0S9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929882825668583488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1144,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "我是蛋奶烧\n定位价格10/验证15\n外地接包路费都能来\n88好友位/250约线下\n200聊骚游戏陪玩➕周更图包\n388视频年会含上所有➕每周打视频一次\n520线上线下八折\n1500含上所有加送一小时不限次非绿\n#女菩萨 #包养 #线下 #约炮 #sm #母狗 #福利姬 #非绿 #图包 https://t.co/2owVH9s0S9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927724443654119424/p0JIUkhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 359,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 156
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T12:36:45.000Z",
+        "description": "88/200/388/520详情置顶",
+        "id": "1929879892868714498",
+        "location": "验证15 价格和位置10",
+        "name": "举报替我挡灾财运转我头上",
+        "pinned_tweet_id": "1929882825668583488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929880559083487232/UKMwVGZS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 31,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "ju_dang24879",
+        "verified": false
+      }
+    ]
+  }
+}

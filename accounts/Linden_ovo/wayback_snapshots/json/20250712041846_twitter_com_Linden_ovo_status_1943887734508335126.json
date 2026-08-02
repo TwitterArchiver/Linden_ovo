@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1943699826287214592"
+      ],
+      "media_source_tweet_id": [
+        "1943699927365791939"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1943887734508335126",
+    "created_at": "2025-07-12T04:18:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-12T05:18:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1943887734508335126"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 89,
+          "tag": "こより実験中"
+        },
+        {
+          "end": 107,
+          "start": 97,
+          "tag": "holoIndie"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1433667543806267393",
+          "start": 3,
+          "username": "hakuikoyori"
+        }
+      ],
+      "urls": [
+        {
+          "description": "なつかしい香りがする・・・・・・・・・・・・ラスボスクリアできたんだっけ・・・こより・・・💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶　https://cover.lnk.to/SdOKbq🎶こよのSpotifyフォローしてね！▼🎶https://open.spotif...",
+          "display_url": "youtube.com/watch?v=otMF0H…",
+          "end": 88,
+          "expanded_url": "https://www.youtube.com/watch?v=otMF0HyoMAs",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1943595622575280128/wmM4SOJ5?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1943595622575280128/wmM4SOJ5?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 65,
+          "status": 200,
+          "title": "【ころさんのホームWAN!ダービー】本日発売！ころネキのホームWANダービーだああああああ⚾✨✨✨【博衣こより/ホロライブ】",
+          "unwound_url": "https://www.youtube.com/watch?v=otMF0HyoMAs",
+          "url": "https://t.co/ZAYFfE3Cry"
+        },
+        {
+          "display_url": "pic.x.com/FXpYDAMvAI",
+          "end": 131,
+          "expanded_url": "https://x.com/hakuikoyori/status/1943699927365791939/photo/1",
+          "media_key": "3_1943699826287214592",
+          "start": 108,
+          "url": "https://t.co/FXpYDAMvAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1943887734508335126",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943699927365791939",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hakuikoyori: ころさんのホームWAN!ダービー真クリア！！！！！✨\n\nこより、このゲームの才能、あります。\n\nhttps://t.co/ZAYFfE3Cry\n#こより実験中 #holoIndie https://t.co/FXpYDAMvAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 699,
+        "media_key": "3_1943699826287214592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvlosZ_WgAAgSqY.jpg",
+        "width": 1248
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943699826287214592"
+          ],
+          "media_source_tweet_id": [
+            "1943699927365791939"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943887734508335126",
+        "created_at": "2025-07-12T04:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-12T05:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1943887734508335126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 89,
+              "tag": "こより実験中"
+            },
+            {
+              "end": 107,
+              "start": 97,
+              "tag": "holoIndie"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1433667543806267393",
+              "start": 3,
+              "username": "hakuikoyori"
+            }
+          ],
+          "urls": [
+            {
+              "description": "なつかしい香りがする・・・・・・・・・・・・ラスボスクリアできたんだっけ・・・こより・・・💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶　https://cover.lnk.to/SdOKbq🎶こよのSpotifyフォローしてね！▼🎶https://open.spotif...",
+              "display_url": "youtube.com/watch?v=otMF0H…",
+              "end": 88,
+              "expanded_url": "https://www.youtube.com/watch?v=otMF0HyoMAs",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1943595622575280128/wmM4SOJ5?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1943595622575280128/wmM4SOJ5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 65,
+              "status": 200,
+              "title": "【ころさんのホームWAN!ダービー】本日発売！ころネキのホームWANダービーだああああああ⚾✨✨✨【博衣こより/ホロライブ】",
+              "unwound_url": "https://www.youtube.com/watch?v=otMF0HyoMAs",
+              "url": "https://t.co/ZAYFfE3Cry"
+            },
+            {
+              "display_url": "pic.x.com/FXpYDAMvAI",
+              "end": 131,
+              "expanded_url": "https://x.com/hakuikoyori/status/1943699927365791939/photo/1",
+              "media_key": "3_1943699826287214592",
+              "start": 108,
+              "url": "https://t.co/FXpYDAMvAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943887734508335126",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943699927365791939",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hakuikoyori: ころさんのホームWAN!ダービー真クリア！！！！！✨\n\nこより、このゲームの才能、あります。\n\nhttps://t.co/ZAYFfE3Cry\n#こより実験中 #holoIndie https://t.co/FXpYDAMvAI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943699826287214592"
+          ]
+        },
+        "author_id": "1433667543806267393",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1943699927365791939",
+        "created_at": "2025-07-11T15:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-11T16:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1943699927365791939"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "こより実験中"
+            },
+            {
+              "end": 90,
+              "start": 80,
+              "tag": "holoIndie"
+            }
+          ],
+          "urls": [
+            {
+              "description": "なつかしい香りがする・・・・・・・・・・・・ラスボスクリアできたんだっけ・・・こより・・・💿1stアルバム「FIRST STEP」発売中！全曲新録！成長した歌を聴いてね🎶　https://cover.lnk.to/SdOKbq🎶こよのSpotifyフォローしてね！▼🎶https://open.spotif...",
+              "display_url": "youtube.com/watch?v=otMF0H…",
+              "end": 71,
+              "expanded_url": "https://www.youtube.com/watch?v=otMF0HyoMAs",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1943595622575280128/wmM4SOJ5?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1943595622575280128/wmM4SOJ5?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "【ころさんのホームWAN!ダービー】本日発売！ころネキのホームWANダービーだああああああ⚾✨✨✨【博衣こより/ホロライブ】",
+              "unwound_url": "https://www.youtube.com/watch?v=otMF0HyoMAs",
+              "url": "https://t.co/ZAYFfE3Cry"
+            },
+            {
+              "display_url": "pic.x.com/FXpYDAMvAI",
+              "end": 114,
+              "expanded_url": "https://x.com/hakuikoyori/status/1943699927365791939/photo/1",
+              "media_key": "3_1943699826287214592",
+              "start": 91,
+              "url": "https://t.co/FXpYDAMvAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1943699927365791939",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 69057,
+          "like_count": 3009,
+          "quote_count": 3,
+          "reply_count": 117,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "ころさんのホームWAN!ダービー真クリア！！！！！✨\n\nこより、このゲームの才能、あります。\n\nhttps://t.co/ZAYFfE3Cry\n#こより実験中 #holoIndie https://t.co/FXpYDAMvAI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 31,
+          "like_count": 411,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 115
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T05:46:28.000Z",
+        "description": "ホロライブ6期生🧪holoXの頭脳🧠博衣こよりだよ🎀初見古参関係なく楽しめるがモットー！夢を全部叶えるのが夢！(ᐡ •͈ ·̫ •͈ ᐡ)ﾉ💞／🎨 #こよりすけっち／📺 #こより実験中／ファンネーム：助手くん❤️ももこママ(@momoco_haru) いいねやリプは気まぐれ！特別扱いではないから安心してねっ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "こよりすけっち"
+              },
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "こより実験中"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "momoco_haru"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC6eWC…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+                "start": 0,
+                "url": "https://t.co/U4G9NUjWs5"
+              }
+            ]
+          }
+        },
+        "id": "1433667543806267393",
+        "location": "助手くんの心の中(ᐡ •͈ ·̫ •͈ ᐡ)",
+        "name": "博衣こより🧪1stアルバム発売中!!新曲MVも見てね🎉",
+        "pinned_tweet_id": "1873685808827482191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907071586194411520/mH_qxVy2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957632,
+          "following_count": 535,
+          "like_count": 47125,
+          "listed_count": 9463,
+          "media_count": 6885,
+          "tweet_count": 32197
+        },
+        "url": "https://t.co/U4G9NUjWs5",
+        "username": "hakuikoyori",
+        "verified": true
+      }
+    ]
+  }
+}

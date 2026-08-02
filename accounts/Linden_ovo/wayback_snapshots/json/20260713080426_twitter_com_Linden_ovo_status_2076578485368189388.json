@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076215482039128064"
+      ],
+      "media_source_tweet_id": [
+        "2076215491715277111"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076578485368189388",
+    "created_at": "2026-07-13T08:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076578485368189388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1375288283425435651",
+          "start": 3,
+          "username": "NomadJBL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XY4Ult4cgA",
+          "end": 47,
+          "expanded_url": "https://x.com/NomadJBL/status/2076215491715277111/photo/1",
+          "media_key": "3_2076215482039128064",
+          "start": 24,
+          "url": "https://t.co/XY4Ult4cgA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076578485368189388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076215491715277111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NomadJBL: 我的私信真的很难看 https://t.co/XY4Ult4cgA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076215482039128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNAy-wwb0AAt8BT.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215482039128064"
+          ],
+          "media_source_tweet_id": [
+            "2076215491715277111"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076578485368189388",
+        "created_at": "2026-07-13T08:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076578485368189388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1375288283425435651",
+              "start": 3,
+              "username": "NomadJBL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY4Ult4cgA",
+              "end": 47,
+              "expanded_url": "https://x.com/NomadJBL/status/2076215491715277111/photo/1",
+              "media_key": "3_2076215482039128064",
+              "start": 24,
+              "url": "https://t.co/XY4Ult4cgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076578485368189388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076215491715277111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NomadJBL: 我的私信真的很难看 https://t.co/XY4Ult4cgA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076215482039128064"
+          ]
+        },
+        "author_id": "1375288283425435651",
+        "conversation_id": "2076215491715277111",
+        "created_at": "2026-07-12T08:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T09:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076215491715277111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XY4Ult4cgA",
+              "end": 33,
+              "expanded_url": "https://x.com/NomadJBL/status/2076215491715277111/photo/1",
+              "media_key": "3_2076215482039128064",
+              "start": 10,
+              "url": "https://t.co/XY4Ult4cgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076215491715277111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 361916,
+          "like_count": 749,
+          "quote_count": 10,
+          "reply_count": 591,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我的私信真的很难看 https://t.co/XY4Ult4cgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 135,
+          "like_count": 2401,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1565
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-26T03:27:46.000Z",
+        "description": "计算机PHD在读，当朋友圈玩\n不回没有礼貌没有任何内容的人🙏straight",
+        "id": "1375288283425435651",
+        "name": "Nomad",
+        "pinned_tweet_id": "1738815673021992996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672642351179894784/IpQK3ule_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2627,
+          "following_count": 224,
+          "like_count": 692,
+          "listed_count": 9,
+          "media_count": 73,
+          "tweet_count": 372
+        },
+        "url": "",
+        "username": "NomadJBL",
+        "verified": false
+      }
+    ]
+  }
+}

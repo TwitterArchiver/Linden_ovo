@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076189371133198463",
+    "created_at": "2026-07-12T06:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076189371133198463"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/linden_ovo/status/2076189207437926697",
+          "start": 28,
+          "url": "https://t.co/VmSxRtyiO4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076189371133198463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076189207437926697",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个情况已经持续一周了而且还是六七个人我觉得我被狙击了 https://t.co/VmSxRtyiO4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076189371133198463",
+        "created_at": "2026-07-12T06:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076189371133198463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2076189207437926697",
+              "start": 28,
+              "url": "https://t.co/VmSxRtyiO4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076189371133198463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076189207437926697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个情况已经持续一周了而且还是六七个人我觉得我被狙击了 https://t.co/VmSxRtyiO4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076189207437926697",
+        "created_at": "2026-07-12T06:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076189207437926697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076189207437926697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道这是咋了我抖音很少更新的为啥这一周来有男的莫名其妙关注我啊还是那种关注量很少的社交账号….日系穿孔长发或者穿搭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 136,
+          "like_count": 2382,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1551
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

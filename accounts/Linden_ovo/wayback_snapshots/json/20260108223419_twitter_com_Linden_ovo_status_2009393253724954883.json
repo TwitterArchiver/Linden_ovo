@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2009393253724954883",
+    "created_at": "2026-01-08T22:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T23:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009393253724954883"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2009393253724954883",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不知道是我信息茧房了？dy最近经常推一些生病的老人小孩求募捐视频 也可能是我刷到就经常点赞评论私信这些东西，天呐为什么国内底层这么苦啊…我也不是什么天龙人，自己家就是中产里的路边，我也是河南生的，我真的不明白了，为什么这么苦，一眼望不到底的苦 好苦，我从来不知道原来这么苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2009393253724954883",
+        "created_at": "2026-01-08T22:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009393253724954883"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009393253724954883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道是我信息茧房了？dy最近经常推一些生病的老人小孩求募捐视频 也可能是我刷到就经常点赞评论私信这些东西，天呐为什么国内底层这么苦啊…我也不是什么天龙人，自己家就是中产里的路边，我也是河南生的，我真的不明白了，为什么这么苦，一眼望不到底的苦 好苦，我从来不知道原来这么苦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了 说的就是你 不要打扰我",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 953,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 424
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

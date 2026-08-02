@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2077470915152028144",
+    "created_at": "2026-07-15T19:10:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T20:10:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077470915152028144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776638570276827136",
+          "start": 3,
+          "username": "fuckboi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077470915152028144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077428614472302705",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fuckboi8964: 这是什么感觉，我怎么感觉我有点不对劲？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2077470915152028144",
+        "created_at": "2026-07-15T19:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077470915152028144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776638570276827136",
+              "start": 3,
+              "username": "fuckboi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077470915152028144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077428614472302705",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @fuckboi8964: 这是什么感觉，我怎么感觉我有点不对劲？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776638570276827136",
+        "conversation_id": "2077428614472302705",
+        "created_at": "2026-07-15T16:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T17:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077428614472302705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077428614472302705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "这是什么感觉，我怎么感觉我有点不对劲？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 136,
+          "like_count": 2453,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1592
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:50:33.000Z",
+        "description": "She want me bad",
+        "id": "1776638570276827136",
+        "location": " ",
+        "name": "anon",
+        "pinned_tweet_id": "2076119590497832996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076982344737800193/qxX21Avo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 775,
+          "following_count": 235,
+          "like_count": 6059,
+          "listed_count": 2,
+          "media_count": 27,
+          "tweet_count": 289
+        },
+        "url": "",
+        "username": "fuckboi8964",
+        "verified": false
+      }
+    ]
+  }
+}

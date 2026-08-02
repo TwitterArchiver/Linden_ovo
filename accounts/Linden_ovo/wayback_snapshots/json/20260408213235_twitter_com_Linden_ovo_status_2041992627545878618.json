@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041309237826260992"
+      ],
+      "media_source_tweet_id": [
+        "2041309242796490977"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2041992627545878618",
+    "created_at": "2026-04-08T21:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041992627545878618"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 23,
+          "tag": "サマポケ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1442952796035325952",
+          "start": 3,
+          "username": "precisionrecall"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cxW1EFytXU",
+          "end": 52,
+          "expanded_url": "https://x.com/precisionrecall/status/2041309242796490977/photo/1",
+          "media_key": "3_2041309237826260992",
+          "start": 29,
+          "url": "https://t.co/cxW1EFytXU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041992627545878618",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 403
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041309242796490977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @precisionrecall: …\n#サマポケ https://t.co/cxW1EFytXU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1121,
+        "media_key": "3_2041309237826260992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQv771bkAAkLRy.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041309237826260992"
+          ],
+          "media_source_tweet_id": [
+            "2041309242796490977"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2041992627545878618",
+        "created_at": "2026-04-08T21:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041992627545878618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 23,
+              "tag": "サマポケ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1442952796035325952",
+              "start": 3,
+              "username": "precisionrecall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxW1EFytXU",
+              "end": 52,
+              "expanded_url": "https://x.com/precisionrecall/status/2041309242796490977/photo/1",
+              "media_key": "3_2041309237826260992",
+              "start": 29,
+              "url": "https://t.co/cxW1EFytXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041992627545878618",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041309242796490977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @precisionrecall: …\n#サマポケ https://t.co/cxW1EFytXU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041309237826260992"
+          ]
+        },
+        "author_id": "1442952796035325952",
+        "conversation_id": "2041309242796490977",
+        "created_at": "2026-04-07T00:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T01:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041309242796490977"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 2,
+              "tag": "サマポケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cxW1EFytXU",
+              "end": 31,
+              "expanded_url": "https://x.com/precisionrecall/status/2041309242796490977/photo/1",
+              "media_key": "3_2041309237826260992",
+              "start": 8,
+              "url": "https://t.co/cxW1EFytXU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041309242796490977",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 546,
+          "impression_count": 109564,
+          "like_count": 4085,
+          "quote_count": 38,
+          "reply_count": 9,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "…\n#サマポケ https://t.co/cxW1EFytXU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 85,
+          "like_count": 1477,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 833
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-28T20:42:17.000Z",
+        "description": "ランダムrkgk",
+        "id": "1442952796035325952",
+        "name": "nuji",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1526721412924379138/ZleFymlb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4521,
+          "following_count": 1166,
+          "like_count": 934,
+          "listed_count": 77,
+          "media_count": 82,
+          "tweet_count": 137
+        },
+        "username": "precisionrecall",
+        "verified": false
+      }
+    ]
+  }
+}

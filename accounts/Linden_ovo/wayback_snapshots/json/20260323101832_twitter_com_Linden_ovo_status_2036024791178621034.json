@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2036024791178621034",
+    "created_at": "2026-03-23T10:18:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036024791178621034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "OVOTVTOVO_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036024791178621034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036005857620869285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVOTVTOVO_3: 蔡徐坤我们交换人生吧，你在农村当个玩鸡你太美梗的土逼，我住在豪宅里被大奶女仆叫鸡爷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2036024791178621034",
+        "created_at": "2026-03-23T10:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036024791178621034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "OVOTVTOVO_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036024791178621034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036005857620869285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVOTVTOVO_3: 蔡徐坤我们交换人生吧，你在农村当个玩鸡你太美梗的土逼，我住在豪宅里被大奶女仆叫鸡爷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2036005857620869285",
+        "created_at": "2026-03-23T09:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T10:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036005857620869285"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036005857620869285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "蔡徐坤我们交换人生吧，你在农村当个玩鸡你太美梗的土逼，我住在豪宅里被大奶女仆叫鸡爷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 83,
+          "like_count": 1391,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 777
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "id": "1829229897195368455",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 66,
+          "like_count": 2850,
+          "listed_count": 1,
+          "media_count": 222,
+          "tweet_count": 3898
+        },
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

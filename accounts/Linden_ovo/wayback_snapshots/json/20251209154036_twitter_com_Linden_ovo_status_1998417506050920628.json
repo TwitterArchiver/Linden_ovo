@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1998417506050920628",
+    "created_at": "2025-12-09T15:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T16:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998417506050920628"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 76,
+          "normalized_text": "Doko Koko",
+          "probability": 0.7111,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1843508632476123136",
+          "start": 3,
+          "username": "DokoKoko_dkkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998417506050920628",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 132
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998332809287532575",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DokoKoko_dkkk: The Cell has opened... and Advent has arrived at Doko Koko. 📷\n\nStep into a world beyond the ordinary with our hololive E…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1998332645554663424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7uA9BlaMAADrQe.jpg",
+        "width": 3277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1998417506050920628",
+        "created_at": "2025-12-09T15:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T16:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998417506050920628"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 76,
+              "normalized_text": "Doko Koko",
+              "probability": 0.7111,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1843508632476123136",
+              "start": 3,
+              "username": "DokoKoko_dkkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998417506050920628",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 132
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998332809287532575",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DokoKoko_dkkk: The Cell has opened... and Advent has arrived at Doko Koko. 📷\n\nStep into a world beyond the ordinary with our hololive E…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998332645554663424"
+          ]
+        },
+        "author_id": "1843508632476123136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "1998332809287532575",
+        "created_at": "2025-12-09T10:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T11:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998332809287532575"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "Doko Koko",
+              "probability": 0.8015,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 257,
+              "normalized_text": "DokoKoko",
+              "probability": 0.6851,
+              "start": 250,
+              "type": "Other"
+            },
+            {
+              "end": 263,
+              "normalized_text": "DKKK",
+              "probability": 0.627,
+              "start": 260,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 226,
+              "start": 219,
+              "tag": "holoEN"
+            },
+            {
+              "end": 238,
+              "start": 227,
+              "tag": "holoAdvent"
+            },
+            {
+              "end": 248,
+              "start": 239,
+              "tag": "hololive"
+            },
+            {
+              "end": 258,
+              "start": 249,
+              "tag": "DokoKoko"
+            },
+            {
+              "end": 264,
+              "start": 259,
+              "tag": "DKKK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9pXCqFY5yX",
+              "end": 288,
+              "expanded_url": "https://x.com/DokoKoko_dkkk/status/1998332809287532575/photo/1",
+              "media_key": "3_1998332645554663424",
+              "start": 265,
+              "url": "https://t.co/9pXCqFY5yX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998332809287532575",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 12209,
+          "like_count": 701,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 132
+        },
+        "reply_settings": "everyone",
+        "text": "The Cell has opened... and Advent has arrived at Doko Koko. 📷\n\nStep into a world beyond the ordinary with our hololive English -Advent- Collaboration Café, featuring an exclusive themed menu and limited-edition merch!\n\n#holoEN #holoAdvent #hololive #DokoKoko #DKKK https://t.co/9pXCqFY5yX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 66,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 356
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T04:28:16.000Z",
+        "description": "⁉️ Doko Koko\n✨ Anime-Themed Café in Malaysia\n🍰 Delicious Themed Snacks & Drinks\n🌟 Bringing Anime to Life!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dokokoko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dokokoko",
+                "start": 0,
+                "url": "https://t.co/RkJ7WqCP7v"
+              }
+            ]
+          }
+        },
+        "id": "1843508632476123136",
+        "location": "Lalaport BBCC",
+        "name": "Doko Koko Cafe",
+        "pinned_tweet_id": "1984198667322954036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843548887174537216/Ez634T7V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2873,
+          "following_count": 10,
+          "like_count": 345,
+          "listed_count": 3,
+          "media_count": 152,
+          "tweet_count": 470
+        },
+        "url": "https://t.co/RkJ7WqCP7v",
+        "username": "DokoKoko_dkkk",
+        "verified": false
+      }
+    ]
+  }
+}

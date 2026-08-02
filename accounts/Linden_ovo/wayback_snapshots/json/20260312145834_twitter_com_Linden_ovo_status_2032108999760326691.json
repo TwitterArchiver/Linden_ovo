@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2031968152993874327",
+    "created_at": "2026-03-12T14:58:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:58:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032108999760326691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1825860031855865856",
+          "start": 0,
+          "username": "assdent3258"
+        },
+        {
+          "end": 28,
+          "id": "938027704842043392",
+          "start": 13,
+          "username": "PremierHimmler"
+        },
+        {
+          "end": 44,
+          "id": "1303335410609790976",
+          "start": 29,
+          "username": "Rococo90933671"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032108999760326691",
+    "in_reply_to_user_id": "1825860031855865856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032105819593199900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@assdent3258 @PremierHimmler @Rococo90933671 盒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2031968152993874327",
+        "created_at": "2026-03-12T14:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032108999760326691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1825860031855865856",
+              "start": 0,
+              "username": "assdent3258"
+            },
+            {
+              "end": 28,
+              "id": "938027704842043392",
+              "start": 13,
+              "username": "PremierHimmler"
+            },
+            {
+              "end": 44,
+              "id": "1303335410609790976",
+              "start": 29,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032108999760326691",
+        "in_reply_to_user_id": "1825860031855865856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032105819593199900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@assdent3258 @PremierHimmler @Rococo90933671 盒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825860031855865856",
+        "conversation_id": "2031968152993874327",
+        "created_at": "2026-03-12T14:45:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032105819593199900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "938027704842043392",
+              "start": 0,
+              "username": "PremierHimmler"
+            },
+            {
+              "end": 31,
+              "id": "1303335410609790976",
+              "start": 16,
+              "username": "Rococo90933671"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032105819593199900",
+        "in_reply_to_user_id": "938027704842043392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032064348726898793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PremierHimmler @Rococo90933671 你爹是不是来自内蒙古某公司的张继新"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 78,
+          "like_count": 1317,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 714
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-20T11:38:59.000Z",
+        "description": "",
+        "id": "1825860031855865856",
+        "name": "川和工团CHUD",
+        "pinned_tweet_id": "2023432547171237912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992761020998459392/1BZ4kLVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 523,
+          "like_count": 16461,
+          "listed_count": 3,
+          "media_count": 1702,
+          "tweet_count": 13416
+        },
+        "username": "assdent3258",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-05T12:50:07.000Z",
+        "description": "如果我们选择了最能为人类而工作的职业，那么，重担就不能把我们压倒，因为这是为大家作出的牺牲；那时我们所享受的就不是可怜的、有限的、自私的乐趣，我们的幸福将属于千百万人，我们的事业将悄然无声地存在下去，但是它会永远发挥作用，而面对我们的骨灰，高尚的人们将洒下热泪。",
+        "id": "938027704842043392",
+        "location": "Beijing——新中国从这里走来",
+        "name": "海因里希·希姆莱",
+        "pinned_tweet_id": "2030623958262051151",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997586986006392832/ZtZIr2dZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3872,
+          "following_count": 4215,
+          "like_count": 30406,
+          "listed_count": 24,
+          "media_count": 1663,
+          "tweet_count": 24420
+        },
+        "username": "PremierHimmler",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为不喜欢被屏蔽。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国是初中时代的自创设定，皇帝都是我的初中同学",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrspTJ"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "location": "IP属地：大狐京师文华殿",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "1896091552017236177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9293,
+          "following_count": 2674,
+          "like_count": 31476,
+          "listed_count": 25,
+          "media_count": 3333,
+          "tweet_count": 18703
+        },
+        "url": "https://t.co/FNHXVrspTJ",
+        "username": "Rococo90933671",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2059628565998539171",
+    "created_at": "2026-05-27T13:31:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:31:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059628565998539171"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059628565998539171",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不是装，以我的心智，状态，智力，性生活，为人处世，生活状态，生活经验，独立能力，经济状况，都是值得过一个儿童节的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2059628565998539171",
+        "created_at": "2026-05-27T13:31:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:31:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059628565998539171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059628565998539171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不是装，以我的心智，状态，智力，性生活，为人处世，生活状态，生活经验，独立能力，经济状况，都是值得过一个儿童节的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 106,
+          "like_count": 1749,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1086
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

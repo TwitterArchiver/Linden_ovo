@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073811782079250709",
+    "created_at": "2026-07-06T13:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T14:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074122333711696374"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1989775111801724928",
+          "start": 0,
+          "username": "Q5487421629252"
+        },
+        {
+          "end": 27,
+          "id": "1663217249325547522",
+          "start": 16,
+          "username": "tutumao123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074122333711696374",
+    "in_reply_to_user_id": "1989775111801724928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074103034620072326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Q5487421629252 @tutumao123 我觉得就是他的某个情人发的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073811782079250709",
+        "created_at": "2026-07-06T13:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074122333711696374"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1989775111801724928",
+              "start": 0,
+              "username": "Q5487421629252"
+            },
+            {
+              "end": 27,
+              "id": "1663217249325547522",
+              "start": 16,
+              "username": "tutumao123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074122333711696374",
+        "in_reply_to_user_id": "1989775111801724928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074103034620072326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Q5487421629252 @tutumao123 我觉得就是他的某个情人发的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989775111801724928",
+        "conversation_id": "2073811782079250709",
+        "created_at": "2026-07-06T12:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074103034620072326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663217249325547522",
+              "start": 0,
+              "username": "tutumao123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074103034620072326",
+        "in_reply_to_user_id": "1663217249325547522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074102331118121018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tutumao123 我操 问题是我们的对话也就仅此而已啊。他不给我发这个滚我都不记得他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 131,
+          "like_count": 2218,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1428
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T19:19:00.000Z",
+        "description": "世界想把我嚼烂成屎但我顽强如金针菇 盗我图替我挡灾",
+        "id": "1989775111801724928",
+        "name": "L",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995830294608314368/cvgcPs97_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 2,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "Q5487421629252",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T16:14:37.000Z",
+        "description": "骂我的人你是凑企鹅\n私信我如果看到了都会秒回！谢谢你们找我聊天呀！",
+        "id": "1663217249325547522",
+        "name": "山治梦男",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068381278156845056/pD0mxEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 10,
+          "like_count": 994,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 74
+        },
+        "url": "",
+        "username": "tutumao123",
+        "verified": false
+      }
+    ]
+  }
+}

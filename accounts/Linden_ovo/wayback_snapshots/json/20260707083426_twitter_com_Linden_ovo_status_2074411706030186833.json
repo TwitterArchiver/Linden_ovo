@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074125026262122496"
+      ],
+      "media_source_tweet_id": [
+        "2074125033283494140"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074411706030186833",
+    "created_at": "2026-07-07T08:34:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:34:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074411706030186833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153373316977176576",
+          "start": 3,
+          "username": "kotoro0223"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r30QY1Mvyi",
+          "end": 46,
+          "expanded_url": "https://x.com/kotoro0223/status/2074125033283494140/photo/1",
+          "media_key": "3_2074125026262122496",
+          "start": 23,
+          "url": "https://t.co/r30QY1Mvyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074411706030186833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074125033283494140",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotoro0223: 我他妈不行了 https://t.co/r30QY1Mvyi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_2074125026262122496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMjFuOIaAAA3loc.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074125026262122496"
+          ],
+          "media_source_tweet_id": [
+            "2074125033283494140"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074411706030186833",
+        "created_at": "2026-07-07T08:34:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:34:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074411706030186833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153373316977176576",
+              "start": 3,
+              "username": "kotoro0223"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r30QY1Mvyi",
+              "end": 46,
+              "expanded_url": "https://x.com/kotoro0223/status/2074125033283494140/photo/1",
+              "media_key": "3_2074125026262122496",
+              "start": 23,
+              "url": "https://t.co/r30QY1Mvyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074411706030186833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074125033283494140",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotoro0223: 我他妈不行了 https://t.co/r30QY1Mvyi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074125026262122496"
+          ]
+        },
+        "author_id": "1153373316977176576",
+        "conversation_id": "2074125033283494140",
+        "created_at": "2026-07-06T13:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T14:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074125033283494140"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r30QY1Mvyi",
+              "end": 30,
+              "expanded_url": "https://x.com/kotoro0223/status/2074125033283494140/photo/1",
+              "media_key": "3_2074125026262122496",
+              "start": 7,
+              "url": "https://t.co/r30QY1Mvyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074125033283494140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6718,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈不行了 https://t.co/r30QY1Mvyi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 132,
+          "like_count": 2262,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3921,
+          "following_count": 85,
+          "like_count": 1026,
+          "listed_count": 4,
+          "media_count": 174,
+          "tweet_count": 936
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": true
+      }
+    ]
+  }
+}

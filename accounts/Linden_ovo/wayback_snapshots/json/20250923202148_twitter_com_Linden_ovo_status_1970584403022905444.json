@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1970584403022905444",
+    "created_at": "2025-09-23T20:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T21:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970584403022905444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/linden_ovo/status/1970583754130522275",
+          "start": 117,
+          "url": "https://t.co/zogeEM5y62"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970584403022905444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970583754130522275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你这个人也是非常自我，每次无论我在说什么只要你想说话就会直接打断我然后一口气说完，我也是受着等你说完后我给你反馈你也是完全不在乎完全不听，我就这样受着一年什么也没说过，你都多大了现在还觉得有些事是你道歉了就可以解决的是不是我惯的你？ https://t.co/zogeEM5y62"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1970584403022905444",
+        "created_at": "2025-09-23T20:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T21:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970584403022905444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/linden_ovo/status/1970583754130522275",
+              "start": 117,
+              "url": "https://t.co/zogeEM5y62"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970584403022905444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970583754130522275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你这个人也是非常自我，每次无论我在说什么只要你想说话就会直接打断我然后一口气说完，我也是受着等你说完后我给你反馈你也是完全不在乎完全不听，我就这样受着一年什么也没说过，你都多大了现在还觉得有些事是你道歉了就可以解决的是不是我惯的你？ https://t.co/zogeEM5y62"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1970583754130522275",
+        "created_at": "2025-09-23T20:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T21:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970583754130522275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970583754130522275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的懒得和你掰扯，之前恋爱的时候和你打电话你不讲话就只能我讲，因为我知道但凡我不讲话，挂一会麦你就会以要去健身房要去做饭要去买东西为借口挂掉，我要的也就是想和你呆一会，我也从来没要求过你什么，只是偶尔想你了就想让你陪我一两个小时很难吗哪怕什么也不做。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 49,
+          "like_count": 536,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 131
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

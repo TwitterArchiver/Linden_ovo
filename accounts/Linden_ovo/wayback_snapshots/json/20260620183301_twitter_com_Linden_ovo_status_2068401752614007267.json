@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "2068401752614007267",
+    "created_at": "2026-06-20T18:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T19:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068401752614007267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "748515381577342976",
+          "start": 3,
+          "username": "va_shop_info"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068401752614007267",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 129
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067900184831627520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @va_shop_info: 【お知らせ】\n\n【VA STORE出張所 inアニメイト秋葉原】\n\n🎉『Rewrite』発売15周年記念グッズ各種🎉\n\nこちら会場にて販売が決定いたしました💖\n瑚太郎と小鳥の描きおろしグッズも登場です🎀\n\n6月24日（水）より販売開始予定です…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2067900157174366208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLKoPJtaQAAR7m0.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2068401752614007267",
+        "created_at": "2026-06-20T18:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T19:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068401752614007267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "748515381577342976",
+              "start": 3,
+              "username": "va_shop_info"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068401752614007267",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067900184831627520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @va_shop_info: 【お知らせ】\n\n【VA STORE出張所 inアニメイト秋葉原】\n\n🎉『Rewrite』発売15周年記念グッズ各種🎉\n\nこちら会場にて販売が決定いたしました💖\n瑚太郎と小鳥の描きおろしグッズも登場です🎀\n\n6月24日（水）より販売開始予定です…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067900157174366208"
+          ]
+        },
+        "author_id": "748515381577342976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2067900184831627520",
+        "created_at": "2026-06-19T09:19:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T10:19:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067900184831627520"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 125,
+              "tag": "VASTORE"
+            },
+            {
+              "end": 142,
+              "start": 134,
+              "tag": "Rewrite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhBySAAV4L",
+              "end": 166,
+              "expanded_url": "https://x.com/va_shop_info/status/2067900184831627520/photo/1",
+              "media_key": "3_2067900157174366208",
+              "start": 143,
+              "url": "https://t.co/yhBySAAV4L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067900184831627520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 27311,
+          "like_count": 409,
+          "quote_count": 22,
+          "reply_count": 0,
+          "retweet_count": 129
+        },
+        "reply_settings": "everyone",
+        "text": "【お知らせ】\n\n【VA STORE出張所 inアニメイト秋葉原】\n\n🎉『Rewrite』発売15周年記念グッズ各種🎉\n\nこちら会場にて販売が決定いたしました💖\n瑚太郎と小鳥の描きおろしグッズも登場です🎀\n\n6月24日（水）より販売開始予定です‼️\n\n#VASTORE\n#Rewrite https://t.co/yhBySAAV4L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 106,
+          "like_count": 1804,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1122
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-06-30T13:55:48.000Z",
+        "description": "VISUAL ARTSの様々な商品を取り扱う「VA STORE」の常設店、\n「VA STORE出張所 inアニメイト秋葉原」の公式アカウントです。\n\n新商品やお店に関する最新情報をお届けします⚾️\n\n営業フロア：アニメイト秋葉原ANNEX　5階フロア\n営業時間　平日：10時～21時　　土日祝日：10時～20時",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "toypla.com/event_info/va_…",
+                "end": 23,
+                "expanded_url": "https://www.toypla.com/event_info/va_store/",
+                "start": 0,
+                "url": "https://t.co/Loud9nUy4S"
+              }
+            ]
+          }
+        },
+        "id": "748515381577342976",
+        "location": "日本",
+        "name": "VA STORE出張所 inアニメイト秋葉原",
+        "pinned_tweet_id": "2067900184831627520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968961579204112384/4y4MqKfz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10963,
+          "following_count": 48,
+          "like_count": 30,
+          "listed_count": 75,
+          "media_count": 13017,
+          "tweet_count": 14767
+        },
+        "url": "https://t.co/Loud9nUy4S",
+        "username": "va_shop_info",
+        "verified": false
+      }
+    ]
+  }
+}

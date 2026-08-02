@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073371327877271552"
+      ],
+      "media_source_tweet_id": [
+        "2073371334441419135"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073444597783478463",
+    "created_at": "2026-07-04T16:31:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T17:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073444597783478463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "310239670",
+          "start": 3,
+          "username": "Lice0830"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RNm46XcTfg",
+          "end": 48,
+          "expanded_url": "https://x.com/Lice0830/status/2073371334441419135/photo/1",
+          "media_key": "3_2073371327877271552",
+          "start": 25,
+          "url": "https://t.co/RNm46XcTfg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073444597783478463",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 554
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073371334441419135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lice0830: キミ写真と違くない？ https://t.co/RNm46XcTfg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073371327877271552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMYYPM2a0AAgiXD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073371327877271552"
+          ],
+          "media_source_tweet_id": [
+            "2073371334441419135"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073444597783478463",
+        "created_at": "2026-07-04T16:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T17:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073444597783478463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "310239670",
+              "start": 3,
+              "username": "Lice0830"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNm46XcTfg",
+              "end": 48,
+              "expanded_url": "https://x.com/Lice0830/status/2073371334441419135/photo/1",
+              "media_key": "3_2073371327877271552",
+              "start": 25,
+              "url": "https://t.co/RNm46XcTfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073444597783478463",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073371334441419135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lice0830: キミ写真と違くない？ https://t.co/RNm46XcTfg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073371327877271552"
+          ]
+        },
+        "author_id": "310239670",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073371334441419135",
+        "created_at": "2026-07-04T11:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073371334441419135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RNm46XcTfg",
+              "end": 34,
+              "expanded_url": "https://x.com/Lice0830/status/2073371334441419135/photo/1",
+              "media_key": "3_2073371327877271552",
+              "start": 11,
+              "url": "https://t.co/RNm46XcTfg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073371334441419135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 570442,
+          "like_count": 6663,
+          "quote_count": 32,
+          "reply_count": 68,
+          "retweet_count": 554
+        },
+        "reply_settings": "everyone",
+        "text": "キミ写真と違くない？ https://t.co/RNm46XcTfg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了，我不知道什么是网络纠纷",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 126,
+          "like_count": 2119,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1348
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-03T12:25:02.000Z",
+        "description": "個人から企業まで幅広く見る民/ 推しマ：★/🧸☀/👻💤 /頑張る活動者さんを応援してます‼︎ 永遠の推し:🦋/💔🔌/素敵なヘッダー:ひかり先生(@pedori3),アイコン:チワワ先生(@geraurgos)ご本人様許可済/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 72,
+                "username": "pedori3"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "geraurgos"
+              }
+            ]
+          }
+        },
+        "id": "310239670",
+        "location": "日本",
+        "name": "リス†天国病患者†🌂",
+        "pinned_tweet_id": "2071382568222753274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952536089144737792/3HIcoRij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 3874,
+          "like_count": 227785,
+          "listed_count": 15,
+          "media_count": 4983,
+          "tweet_count": 45417
+        },
+        "url": "",
+        "username": "Lice0830",
+        "verified": false
+      }
+    ]
+  }
+}

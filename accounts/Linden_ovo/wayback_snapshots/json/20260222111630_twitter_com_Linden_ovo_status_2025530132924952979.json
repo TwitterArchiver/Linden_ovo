@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2025530132924952979",
+    "created_at": "2026-02-22T11:16:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T12:16:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025530132924952979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025530132924952979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025416459724222802",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: 姐，姐妹，集美，坤、坤美，我脑子不好呀，你别骂我了，我，我抗压能力挺弱的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2025530132924952979",
+        "created_at": "2026-02-22T11:16:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:16:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025530132924952979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025530132924952979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025416459724222802",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: 姐，姐妹，集美，坤、坤美，我脑子不好呀，你别骂我了，我，我抗压能力挺弱的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2025416459724222802",
+        "created_at": "2026-02-22T03:44:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T04:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025416459724222802"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025416459724222802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1600,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "姐，姐妹，集美，坤、坤美，我脑子不好呀，你别骂我了，我，我抗压能力挺弱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 79,
+          "like_count": 1184,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 594
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 28,
+          "like_count": 478,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 736
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

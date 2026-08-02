@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072651931135205517",
+    "created_at": "2026-07-02T12:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072651931135205517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1891848716023422976",
+          "start": 3,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072651931135205517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072311845864772089",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AORINGO_nemuru: 孩子们，我印象中的女同是两个女生在一起吧，怎么你们一边希望对方是典男的打扮，一边又把对方当男的是何意味。。？我最恶心的就是听说对方是女同后毫无边界感的开始使唤别人，你脑子进屎了吗，什么狗东西也要来蹭，给你屠了就老实了贱婊子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072651931135205517",
+        "created_at": "2026-07-02T12:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072651931135205517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1891848716023422976",
+              "start": 3,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072651931135205517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072311845864772089",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AORINGO_nemuru: 孩子们，我印象中的女同是两个女生在一起吧，怎么你们一边希望对方是典男的打扮，一边又把对方当男的是何意味。。？我最恶心的就是听说对方是女同后毫无边界感的开始使唤别人，你脑子进屎了吗，什么狗东西也要来蹭，给你屠了就老实了贱婊子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891848716023422976",
+        "conversation_id": "2072311845864772089",
+        "created_at": "2026-07-01T13:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072311845864772089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072311845864772089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 258,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们，我印象中的女同是两个女生在一起吧，怎么你们一边希望对方是典男的打扮，一边又把对方当男的是何意味。。？我最恶心的就是听说对方是女同后毫无边界感的开始使唤别人，你脑子进屎了吗，什么狗东西也要来蹭，给你屠了就老实了贱婊子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 113,
+          "like_count": 1978,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1232
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 神堕｜欲望,暴力,自由｜神聖かまってちゃん♡｜*裏垢 @uni_wwwww｜视奸的全家死了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "uni_wwwww"
+              }
+            ]
+          }
+        },
+        "id": "1891848716023422976",
+        "location": "🚪50/88/150",
+        "name": "青林檎",
+        "pinned_tweet_id": "2005650298598289578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 235,
+          "like_count": 13238,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

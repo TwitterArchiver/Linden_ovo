@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993648766189281281"
+      ],
+      "media_source_tweet_id": [
+        "1993648769834062298"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1993954113659523206",
+    "created_at": "2025-11-27T08:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T09:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993954113659523206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1950439792371781633",
+          "start": 3,
+          "username": "usagifull"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5l8usplSb",
+          "end": 38,
+          "expanded_url": "https://x.com/usagifull/status/1993648769834062298/photo/1",
+          "media_key": "3_1993648766189281281",
+          "start": 15,
+          "url": "https://t.co/p5l8usplSb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993954113659523206",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1644
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993648769834062298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagifull: https://t.co/p5l8usplSb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 780,
+        "media_key": "3_1993648766189281281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6rc_XOboAEhMoq.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993648766189281281"
+          ],
+          "media_source_tweet_id": [
+            "1993648769834062298"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1993954113659523206",
+        "created_at": "2025-11-27T08:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993954113659523206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1950439792371781633",
+              "start": 3,
+              "username": "usagifull"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5l8usplSb",
+              "end": 38,
+              "expanded_url": "https://x.com/usagifull/status/1993648769834062298/photo/1",
+              "media_key": "3_1993648766189281281",
+              "start": 15,
+              "url": "https://t.co/p5l8usplSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993954113659523206",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1644
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993648769834062298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagifull: https://t.co/p5l8usplSb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993648766189281281"
+          ]
+        },
+        "author_id": "1950439792371781633",
+        "conversation_id": "1993648769834062298",
+        "created_at": "2025-11-26T11:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T12:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993648769834062298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5l8usplSb",
+              "end": 23,
+              "expanded_url": "https://x.com/usagifull/status/1993648769834062298/photo/1",
+              "media_key": "3_1993648766189281281",
+              "start": 0,
+              "url": "https://t.co/p5l8usplSb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993648769834062298",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 518,
+          "impression_count": 50618,
+          "like_count": 6906,
+          "quote_count": 52,
+          "reply_count": 22,
+          "retweet_count": 1644
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/p5l8usplSb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 303
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-30T06:14:32.000Z",
+        "description": "16!! my digital diary !! ଘ(੭*ˊᵕˋ)੭* ifb blindly !! ask me anonymous questions!!!: https://t.co/5rdVlszLAw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/inpossie",
+                "end": 105,
+                "expanded_url": "https://ngl.link/inpossie",
+                "start": 82,
+                "url": "https://t.co/5rdVlszLAw"
+              }
+            ]
+          }
+        },
+        "id": "1950439792371781633",
+        "location": "she / her",
+        "name": "ִֶ",
+        "pinned_tweet_id": "1990741810298208489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990363039712022528/ks_ulHBr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4339,
+          "following_count": 2950,
+          "like_count": 11312,
+          "listed_count": 38,
+          "media_count": 1657,
+          "tweet_count": 10178
+        },
+        "username": "usagifull",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975125275026345984"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1975125342382923971",
+    "created_at": "2025-10-06T09:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975125342382923971"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uUeYFwDaMQ",
+          "end": 34,
+          "expanded_url": "https://x.com/Linden_ovo/status/1975125342382923971/video/1",
+          "media_key": "13_1975125275026345984",
+          "start": 11,
+          "url": "https://t.co/uUeYFwDaMQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975125342382923971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个不好看吗咋没流量 https://t.co/uUeYFwDaMQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6850,
+        "height": 1280,
+        "media_key": "13_1975125275026345984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975125275026345984/img/G4Czoo4cHq8pXPjS.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975125275026345984/vid/avc1/320x568/IqozS2M4WrYVej7x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975125275026345984/vid/avc1/480x852/h2Eh5zfKBz3lzxKI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975125275026345984/vid/avc1/720x1280/mlHsgFM-lGY72TJL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975125275026345984/pl/fx6PoPwmzzCcGsjZ.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975125275026345984"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1975125342382923971",
+        "created_at": "2025-10-06T09:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975125342382923971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uUeYFwDaMQ",
+              "end": 34,
+              "expanded_url": "https://x.com/Linden_ovo/status/1975125342382923971/video/1",
+              "media_key": "13_1975125275026345984",
+              "start": 11,
+              "url": "https://t.co/uUeYFwDaMQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975125342382923971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个不好看吗咋没流量 https://t.co/uUeYFwDaMQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "ip马德里的体育生点进来视奸我推立刻死妈",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 52,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 157
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

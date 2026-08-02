@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1974047811852255495",
+    "created_at": "2025-10-03T09:44:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:44:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1974047811852255495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hololivetv/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/hololivetv/status/1974006897356296372",
+          "start": 3,
+          "url": "https://t.co/nRI74ChfV5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974047811852255495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974006897356296372",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "卧槽 https://t.co/nRI74ChfV5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1974001192926916608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2UPoFKbMAAcD9m.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1974047811852255495",
+        "created_at": "2025-10-03T09:44:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:44:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974047811852255495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hololivetv/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/hololivetv/status/1974006897356296372",
+              "start": 3,
+              "url": "https://t.co/nRI74ChfV5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974047811852255495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974006897356296372",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "卧槽 https://t.co/nRI74ChfV5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974001192926916608"
+          ]
+        },
+        "author_id": "916156645004029952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1974006897356296372",
+        "created_at": "2025-10-03T07:01:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T08:01:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974006897356296372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jSHsJHbyHH",
+              "end": 39,
+              "expanded_url": "https://x.com/hololivetv/status/1974006897356296372/photo/1",
+              "media_key": "3_1974001192926916608",
+              "start": 16,
+              "url": "https://t.co/jSHsJHbyHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974006897356296372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7364,
+          "impression_count": 8863473,
+          "like_count": 136298,
+          "quote_count": 14880,
+          "reply_count": 2677,
+          "retweet_count": 52598
+        },
+        "reply_settings": "everyone",
+        "text": "【火威青卒業に関するお知らせ】 https://t.co/jSHsJHbyHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 52,
+          "like_count": 554,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 152
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-06T04:22:20.000Z",
+        "description": "「ホロライブ」「ホロスターズ」を運営する「ホロライブプロダクション」の公式アカウント。\n\n■公式サイト　　　 ：https://t.co/gUrm5D6ct3 \n■配信スケジュール ：https://t.co/7ZQv7Vb8Vc\n■公式ショップ　　 ：https://t.co/D1XSPAPjEO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "hololivepro.com",
+                "end": 79,
+                "expanded_url": "http://hololivepro.com",
+                "start": 56,
+                "url": "https://t.co/gUrm5D6ct3"
+              },
+              {
+                "display_url": "schedule.hololive.tv",
+                "end": 115,
+                "expanded_url": "http://schedule.hololive.tv",
+                "start": 92,
+                "url": "https://t.co/7ZQv7Vb8Vc"
+              },
+              {
+                "display_url": "shop.hololivepro.com",
+                "end": 150,
+                "expanded_url": "http://shop.hololivepro.com",
+                "start": 127,
+                "url": "https://t.co/D1XSPAPjEO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCJFZi…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCJFZiqLMntJufDCHc6bQixg",
+                "start": 0,
+                "url": "https://t.co/ajhjUmy3fA"
+              }
+            ]
+          }
+        },
+        "id": "916156645004029952",
+        "name": "ホロライブプロダクション【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855818844025327616/aX5ziYsl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688297,
+          "following_count": 190,
+          "like_count": 237,
+          "listed_count": 12841,
+          "media_count": 349680,
+          "tweet_count": 366081
+        },
+        "url": "https://t.co/ajhjUmy3fA",
+        "username": "hololivetv",
+        "verified": true
+      }
+    ]
+  }
+}

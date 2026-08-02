@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1857111014292201879",
+    "created_at": "2024-11-14T17:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T18:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857111014292201879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1417266792473370624",
+          "start": 3,
+          "username": "Bunnysuang512"
+        },
+        {
+          "end": 32,
+          "id": "1420697578069393410",
+          "start": 19,
+          "username": "lalaland0623"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857111014292201879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856964826272338289",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunnysuang512: @lalaland0623 男双的意思是洞性恋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1857111014292201879",
+        "created_at": "2024-11-14T17:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T18:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857111014292201879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1417266792473370624",
+              "start": 3,
+              "username": "Bunnysuang512"
+            },
+            {
+              "end": 32,
+              "id": "1420697578069393410",
+              "start": 19,
+              "username": "lalaland0623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857111014292201879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856964826272338289",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunnysuang512: @lalaland0623 男双的意思是洞性恋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1417266792473370624",
+        "conversation_id": "1856761779893960880",
+        "created_at": "2024-11-14T07:38:09.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T08:38:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856964826272338289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1420697578069393410",
+              "start": 0,
+              "username": "lalaland0623"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856964826272338289",
+        "in_reply_to_user_id": "1420697578069393410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4021,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856761779893960880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lalaland0623 男双的意思是洞性恋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 54,
+          "like_count": 138,
+          "listed_count": 0,
+          "tweet_count": 30
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-19T23:35:17.000Z",
+        "description": "Christmas 是我们的纪念日。",
+        "id": "1417266792473370624",
+        "location": "Japan",
+        "name": "suang",
+        "pinned_tweet_id": "1742560235334869250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653410585193910273/bXGgbZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 544,
+          "like_count": 12270,
+          "listed_count": 2,
+          "tweet_count": 6072
+        },
+        "username": "Bunnysuang512",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-29T10:47:59.000Z",
+        "description": "个人日记本/私密账号关注会直接屏蔽 /推荐我自己长期使用的🪜 https://t.co/UWj8ndU3NE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 54,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=jMnE0Dr9",
+                "start": 31,
+                "url": "https://t.co/UWj8ndU3NE"
+              }
+            ]
+          }
+        },
+        "id": "1420697578069393410",
+        "location": "钱堆里",
+        "name": "玫瑰花成精了",
+        "pinned_tweet_id": "1848377575523123460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856733436159143936/dzEmyddK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10935,
+          "following_count": 118,
+          "like_count": 39921,
+          "listed_count": 14,
+          "tweet_count": 11401
+        },
+        "username": "lalaland0623",
+        "verified": false
+      }
+    ]
+  }
+}

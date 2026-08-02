@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967413292558663680"
+      ],
+      "media_source_tweet_id": [
+        "1967413309315121606"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1967646794843816215",
+    "created_at": "2025-09-15T17:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T18:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967646794843816215"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "ビジューちゃん",
+          "probability": 0.7507,
+          "start": 41,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 13,
+          "tag": "holoAdvent"
+        },
+        {
+          "end": 33,
+          "start": 25,
+          "tag": "AdVSJus"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1698507506954166272",
+          "start": 3,
+          "username": "_mopico"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ra9w2qKBwJ",
+          "end": 86,
+          "expanded_url": "https://x.com/_mopico/status/1967413309315121606/photo/1",
+          "media_key": "3_1967413292558663680",
+          "start": 63,
+          "url": "https://t.co/Ra9w2qKBwJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967646794843816215",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967413309315121606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mopico: #holoAdvent\n#AdVSJus\n\n色んな表情のビジューちゃん見れて嬉しかったなあ.⋆𝜗𝜚 https://t.co/Ra9w2qKBwJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967413292558663680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02n9z1XQAAxkzn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967413292558663680"
+          ],
+          "media_source_tweet_id": [
+            "1967413309315121606"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1967646794843816215",
+        "created_at": "2025-09-15T17:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T18:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967646794843816215"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "ビジューちゃん",
+              "probability": 0.7507,
+              "start": 41,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 13,
+              "tag": "holoAdvent"
+            },
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "AdVSJus"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1698507506954166272",
+              "start": 3,
+              "username": "_mopico"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ra9w2qKBwJ",
+              "end": 86,
+              "expanded_url": "https://x.com/_mopico/status/1967413309315121606/photo/1",
+              "media_key": "3_1967413292558663680",
+              "start": 63,
+              "url": "https://t.co/Ra9w2qKBwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967646794843816215",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967413309315121606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mopico: #holoAdvent\n#AdVSJus\n\n色んな表情のビジューちゃん見れて嬉しかったなあ.⋆𝜗𝜚 https://t.co/Ra9w2qKBwJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967413292558663680"
+          ]
+        },
+        "author_id": "1698507506954166272",
+        "conversation_id": "1967413309315121606",
+        "created_at": "2025-09-15T02:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967413309315121606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "ビジューちゃん",
+              "probability": 0.6601,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "holoAdvent"
+            },
+            {
+              "end": 20,
+              "start": 12,
+              "tag": "AdVSJus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ra9w2qKBwJ",
+              "end": 73,
+              "expanded_url": "https://x.com/_mopico/status/1967413309315121606/photo/1",
+              "media_key": "3_1967413292558663680",
+              "start": 50,
+              "url": "https://t.co/Ra9w2qKBwJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967413309315121606",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 2706,
+          "like_count": 344,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "#holoAdvent\n#AdVSJus\n\n色んな表情のビジューちゃん見れて嬉しかったなあ.⋆𝜗𝜚 https://t.co/Ra9w2qKBwJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 48,
+          "like_count": 521,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 114
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T01:25:28.000Z",
+        "description": "世界で1番キミが好き！ @kosekibijou のファン🗿#毎日もあびぶ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "毎日もあびぶ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "kosekibijou"
+              }
+            ]
+          }
+        },
+        "id": "1698507506954166272",
+        "location": "hBP04-064",
+        "name": "M0Aᒼᑋªⁿ🗿",
+        "pinned_tweet_id": "1888422765054882004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967415150694236160/SRFZe7JI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2015,
+          "following_count": 1058,
+          "like_count": 23158,
+          "listed_count": 42,
+          "media_count": 1911,
+          "tweet_count": 16394
+        },
+        "username": "_mopico",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049283761439916032"
+      ],
+      "media_source_tweet_id": [
+        "2049283765885927881"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2049773443965432028",
+    "created_at": "2026-04-30T08:50:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T09:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049773443965432028"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 17,
+          "tag": "無印狂品"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "265694938",
+          "start": 3,
+          "username": "RPGuserHIND"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W0IIFl9Ull",
+          "end": 46,
+          "expanded_url": "https://x.com/RPGuserHIND/status/2049283765885927881/photo/1",
+          "media_key": "3_2049283761439916032",
+          "start": 23,
+          "url": "https://t.co/W0IIFl9Ull"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049773443965432028",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15093
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049283765885927881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RPGuserHIND: #無印狂品 https://t.co/W0IIFl9Ull"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1193,
+        "media_key": "3_2049283761439916032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHCEuTSaQAAcdKM.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049283761439916032"
+          ],
+          "media_source_tweet_id": [
+            "2049283765885927881"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2049773443965432028",
+        "created_at": "2026-04-30T08:50:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T09:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049773443965432028"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 17,
+              "tag": "無印狂品"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "265694938",
+              "start": 3,
+              "username": "RPGuserHIND"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0IIFl9Ull",
+              "end": 46,
+              "expanded_url": "https://x.com/RPGuserHIND/status/2049283765885927881/photo/1",
+              "media_key": "3_2049283761439916032",
+              "start": 23,
+              "url": "https://t.co/W0IIFl9Ull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049773443965432028",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15093
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049283765885927881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RPGuserHIND: #無印狂品 https://t.co/W0IIFl9Ull"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049283761439916032"
+          ]
+        },
+        "author_id": "265694938",
+        "conversation_id": "2049283765885927881",
+        "created_at": "2026-04-29T00:24:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T01:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049283765885927881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "無印狂品"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W0IIFl9Ull",
+              "end": 29,
+              "expanded_url": "https://x.com/RPGuserHIND/status/2049283765885927881/photo/1",
+              "media_key": "3_2049283761439916032",
+              "start": 6,
+              "url": "https://t.co/W0IIFl9Ull"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049283765885927881",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9254,
+          "impression_count": 7430340,
+          "like_count": 147534,
+          "quote_count": 2113,
+          "reply_count": 423,
+          "retweet_count": 15093
+        },
+        "reply_settings": "everyone",
+        "text": "#無印狂品 https://t.co/W0IIFl9Ull"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 100,
+          "like_count": 1648,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 982
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-14T00:51:21.000Z",
+        "description": "102期生伟大复兴",
+        "id": "265694938",
+        "name": "ハインド",
+        "pinned_tweet_id": "2041920651129503888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896366401767821312/nl4HZO-x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 854,
+          "following_count": 824,
+          "like_count": 3836,
+          "listed_count": 26,
+          "media_count": 1966,
+          "tweet_count": 11089
+        },
+        "username": "RPGuserHIND",
+        "verified": false
+      }
+    ]
+  }
+}

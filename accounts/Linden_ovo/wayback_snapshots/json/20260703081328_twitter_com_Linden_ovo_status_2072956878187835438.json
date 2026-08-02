@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072311052889698304"
+      ],
+      "media_source_tweet_id": [
+        "2072591106018316415"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072956878187835438",
+    "created_at": "2026-07-03T08:13:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:13:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072956878187835438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685784710285266944",
+          "start": 3,
+          "username": "mhtqwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ehJdYXNFS",
+          "end": 44,
+          "expanded_url": "https://x.com/mhtqwq/status/2072591106018316415/photo/1",
+          "media_key": "3_2072311052889698304",
+          "start": 21,
+          "url": "https://t.co/3ehJdYXNFS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072956878187835438",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072591106018316415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mhtqwq: 还有苦力怕教程啊 https://t.co/3ehJdYXNFS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1162,
+        "media_key": "3_2072311052889698304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJT7EubMAAD6bf.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072311052889698304"
+          ],
+          "media_source_tweet_id": [
+            "2072591106018316415"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072956878187835438",
+        "created_at": "2026-07-03T08:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072956878187835438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685784710285266944",
+              "start": 3,
+              "username": "mhtqwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ehJdYXNFS",
+              "end": 44,
+              "expanded_url": "https://x.com/mhtqwq/status/2072591106018316415/photo/1",
+              "media_key": "3_2072311052889698304",
+              "start": 21,
+              "url": "https://t.co/3ehJdYXNFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072956878187835438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072591106018316415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mhtqwq: 还有苦力怕教程啊 https://t.co/3ehJdYXNFS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072311052889698304"
+          ]
+        },
+        "author_id": "1685784710285266944",
+        "conversation_id": "2072591106018316415",
+        "created_at": "2026-07-02T08:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072591106018316415"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ehJdYXNFS",
+              "end": 32,
+              "expanded_url": "https://x.com/mhtqwq/status/2072591106018316415/photo/1",
+              "media_key": "3_2072311052889698304",
+              "start": 9,
+              "url": "https://t.co/3ehJdYXNFS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072591106018316415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10760,
+          "like_count": 163,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "还有苦力怕教程啊 https://t.co/3ehJdYXNFS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 116,
+          "like_count": 2037,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-30T22:49:53.000Z",
+        "description": "牢东西｜我只想说何意味｜什么都会点什么都做不好的咸鱼｜差点一口气活了，骗你的我没活｜禁止政治话题｜Minecraft｜格雷科寄｜p社战犯｜杂鱼👀@dancingsnow0517｜可爱男娘@Ran_Mitake37",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "dancingsnow0517"
+              },
+              {
+                "end": 106,
+                "start": 93,
+                "username": "Ran_Mitake37"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mhtqwq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mhtqwq",
+                "start": 0,
+                "url": "https://t.co/cLjIhp3Fve"
+              }
+            ]
+          }
+        },
+        "id": "1685784710285266944",
+        "location": "天津四,联合,人类联邦",
+        "name": "🍓草莓棉花糖🍥",
+        "pinned_tweet_id": "2065474027955884045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927601749453307904/biDH0_YY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5883,
+          "following_count": 423,
+          "like_count": 9248,
+          "listed_count": 15,
+          "media_count": 2764,
+          "tweet_count": 10886
+        },
+        "url": "https://t.co/cLjIhp3Fve",
+        "username": "mhtqwq",
+        "verified": true
+      }
+    ]
+  }
+}

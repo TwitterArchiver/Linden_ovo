@@ -1,0 +1,644 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1966112010158092470",
+    "created_at": "2025-09-11T12:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T13:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1966112010158092470"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aviot_jp/statu…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/aviot_jp/status/1965943625549795480",
+          "start": 25,
+          "url": "https://t.co/BqUOM3S5d5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966112010158092470",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965943625549795480",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "古石ビジュー お願いします………🥺🥺🥺💕💕💕💕💕 https://t.co/BqUOM3S5d5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 968,
+        "media_key": "3_1965674662987431936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0d6sP9aAAAdQr-.jpg",
+        "width": 1715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1966112010158092470",
+        "created_at": "2025-09-11T12:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966112010158092470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aviot_jp/statu…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/aviot_jp/status/1965943625549795480",
+              "start": 25,
+              "url": "https://t.co/BqUOM3S5d5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966112010158092470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965943625549795480",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "古石ビジュー お願いします………🥺🥺🥺💕💕💕💕💕 https://t.co/BqUOM3S5d5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965674662987431936"
+          ]
+        },
+        "author_id": "1041957931824996352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1965943625549795480",
+        "created_at": "2025-09-11T01:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T02:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965943625549795480"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "ホロライブ English -Advent",
+              "probability": 0.2165,
+              "start": 10,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 2,
+              "tag": "AVIOT"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 130,
+              "id": "1041957931824996352",
+              "start": 121,
+              "username": "AVIOT_JP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tvmt8ZnHIX",
+              "end": 184,
+              "expanded_url": "https://x.com/AVIOT_JP/status/1965943625549795480/photo/1",
+              "media_key": "3_1965674662987431936",
+              "start": 161,
+              "url": "https://t.co/Tvmt8ZnHIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965943625549795480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 2,
+                "tag": "AVIOT"
+              },
+              {
+                "end": 197,
+                "start": 186,
+                "tag": "hololiveEN"
+              },
+              {
+                "end": 204,
+                "start": 198,
+                "tag": "AVIOT"
+              },
+              {
+                "end": 219,
+                "start": 205,
+                "tag": "hololiveAVIOT"
+              },
+              {
+                "end": 231,
+                "start": 220,
+                "tag": "holoAdvent"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 130,
+                "id": "1041957931824996352",
+                "start": 121,
+                "username": "AVIOT_JP"
+              }
+            ]
+          },
+          "text": "／\n#AVIOT ×ホロライブ English -Advent-\n本コラボの描き下ろしイラストを使用した複製サイン色紙を\n各5名さまにプレゼント🎁\n＼\n\nコラボイヤホンの発売決定を記念して、\nプレゼントキャンペーンを実施🎉\n\n【応募方法】\n➀@AVIOT_JPをフォロー\n➁希望のタレント名を記載して、この投稿を引用RP\n\n応募締切：2025/7/18(金)23:59\n\n#hololiveEN #AVIOT #hololiveAVIOT #holoAdvent"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 148645,
+          "like_count": 1737,
+          "quote_count": 857,
+          "reply_count": 75,
+          "retweet_count": 431
+        },
+        "reply_settings": "everyone",
+        "text": "／\n#AVIOT ×ホロライブ English -Advent-\n本コラボの描き下ろしイラストを使用した複製サイン色紙を\n各5名さまにプレゼント🎁\n＼\n\nコラボイヤホンの発売決定を記念して、\nプレゼントキャンペーンを実施🎉\n\n【応募方法】\n➀@AVIOT_JPをフォロー\n➁希望のタレント名を記載して、この投稿を引用RP https://t.co/Tvmt8ZnHIX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 503,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 102
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-18T07:51:44.000Z",
+        "description": "日本発のエレクトロニクスブランド「AVIOT（アビオット）」の公式アカウントです。 #AVIOT",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "AVIOT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aviot.jp",
+                "end": 23,
+                "expanded_url": "https://aviot.jp/",
+                "start": 0,
+                "url": "https://t.co/CqC1Yzc7z7"
+              }
+            ]
+          }
+        },
+        "id": "1041957931824996352",
+        "location": "Japan",
+        "name": "AVIOT JAPAN",
+        "pinned_tweet_id": "1927892813494243350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1782281721893081088/5PtRNIGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99819,
+          "following_count": 169,
+          "like_count": 3788,
+          "listed_count": 184,
+          "media_count": 1327,
+          "tweet_count": 4399
+        },
+        "url": "https://t.co/CqC1Yzc7z7",
+        "username": "AVIOT_JP",
+        "verified": true
+      }
+    ]
+  }
+}

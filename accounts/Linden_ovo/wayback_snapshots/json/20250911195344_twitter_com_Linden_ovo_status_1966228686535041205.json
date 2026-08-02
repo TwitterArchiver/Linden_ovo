@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1965959826938408968"
+      ],
+      "media_source_tweet_id": [
+        "1965959836593729596"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1966228686535041205",
+    "created_at": "2025-09-11T19:53:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T20:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966228686535041205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "994934170429243394",
+          "start": 3,
+          "username": "Hiya_sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sWNfA73YMV",
+          "end": 38,
+          "expanded_url": "https://x.com/Hiya_sama/status/1965959836593729596/photo/1",
+          "media_key": "3_1965959826938408968",
+          "start": 15,
+          "url": "https://t.co/sWNfA73YMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966228686535041205",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965959836593729596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hiya_sama: https://t.co/sWNfA73YMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2016,
+        "media_key": "3_1965959826938408968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0h-C-daMAgpYsX.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965959826938408968"
+          ],
+          "media_source_tweet_id": [
+            "1965959836593729596"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1966228686535041205",
+        "created_at": "2025-09-11T19:53:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966228686535041205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "994934170429243394",
+              "start": 3,
+              "username": "Hiya_sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWNfA73YMV",
+              "end": 38,
+              "expanded_url": "https://x.com/Hiya_sama/status/1965959836593729596/photo/1",
+              "media_key": "3_1965959826938408968",
+              "start": 15,
+              "url": "https://t.co/sWNfA73YMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966228686535041205",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965959836593729596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hiya_sama: https://t.co/sWNfA73YMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965959826938408968"
+          ]
+        },
+        "author_id": "994934170429243394",
+        "conversation_id": "1965959836593729596",
+        "created_at": "2025-09-11T02:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T03:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965959836593729596"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWNfA73YMV",
+              "end": 23,
+              "expanded_url": "https://x.com/Hiya_sama/status/1965959836593729596/photo/1",
+              "media_key": "3_1965959826938408968",
+              "start": 0,
+              "url": "https://t.co/sWNfA73YMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965959836593729596",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 249,
+          "impression_count": 23429,
+          "like_count": 1391,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sWNfA73YMV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 507,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 105
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-11T13:36:06.000Z",
+        "description": "你好呀，欢迎你点进我的主页 可以叫我雪雪～ ｜偶尔会发点自己跑的AI图，最近染上了cosplay（但是不好看呜呜）｜想扩列可以私信（想认识摩多摩多绳师.jpg）｜常驻020｜\n私の日本語はまだ上手ではありませんが、どうぞよろしくお願いします\n美少女ゲームが好き～\n⚠️私が送信した画像はすべてAIで生成されたものです⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/8fg8Sqe",
+                "end": 23,
+                "expanded_url": "https://b23.tv/8fg8Sqe",
+                "start": 0,
+                "url": "https://t.co/pmchVFvR6v"
+              }
+            ]
+          }
+        },
+        "id": "994934170429243394",
+        "location": "月ヶ咲",
+        "name": "白羽雪々❄️",
+        "pinned_tweet_id": "1923327014921982084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949713590757539840/x8nQYpjh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10662,
+          "following_count": 1005,
+          "like_count": 12480,
+          "listed_count": 38,
+          "media_count": 609,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/pmchVFvR6v",
+        "username": "Hiya_sama",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2079801932210675856",
+    "created_at": "2026-07-22T05:33:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079801932210675856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1616813571433959424",
+          "start": 3,
+          "username": "lv__qx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079801932210675856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079795245529886879",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lv__qx: 昼間から病んでて鬱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2079801932210675856",
+        "created_at": "2026-07-22T05:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079801932210675856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1616813571433959424",
+              "start": 3,
+              "username": "lv__qx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079801932210675856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079795245529886879",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lv__qx: 昼間から病んでて鬱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616813571433959424",
+        "conversation_id": "2079795245529886879",
+        "created_at": "2026-07-22T05:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079795245529886879"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079795245529886879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 184,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昼間から病んでて鬱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 145,
+          "like_count": 2672,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T15:02:57.000Z",
+        "description": "裏裏裏裏裏思考垂れ流し愚痴垢 ^. .^ ♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/nya_anur?s=11",
+                "end": 23,
+                "expanded_url": "https://x.com/nya_anur?s=11",
+                "start": 0,
+                "url": "https://t.co/mbosdf3ytd"
+              }
+            ]
+          }
+        },
+        "id": "1616813571433959424",
+        "location": "日本語しか読めないです＞ᴗ＜♩翻訳して来てね＞ᴗ＜♩",
+        "name": "るな 🎀",
+        "pinned_tweet_id": "1876738846538309985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071613131902926849/sEASNdP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3242,
+          "following_count": 2,
+          "like_count": 1079,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 3211
+        },
+        "url": "https://t.co/mbosdf3ytd",
+        "username": "lv__qx",
+        "verified": true
+      }
+    ]
+  }
+}

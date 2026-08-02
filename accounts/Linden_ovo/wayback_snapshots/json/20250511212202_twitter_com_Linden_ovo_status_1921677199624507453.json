@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1921446982926614529"
+      ],
+      "media_source_tweet_id": [
+        "1921446991696953777"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1921677199624507453",
+    "created_at": "2025-05-11T21:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-11T22:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921677199624507453"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "ビアフェス",
+          "probability": 0.4356,
+          "start": 15,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1377916475692871687",
+          "start": 3,
+          "username": "saerockjp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9ZFcBiGG25",
+          "end": 51,
+          "expanded_url": "https://x.com/saerockjp/status/1921446991696953777/photo/1",
+          "media_key": "3_1921446982926614529",
+          "start": 28,
+          "url": "https://t.co/9ZFcBiGG25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921677199624507453",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921446991696953777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saerockjp: ビアフェスに行くです🫶🍺 https://t.co/9ZFcBiGG25"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1921677199624507453].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1921677199624507453",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1921677199624507453"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1017,
+        "media_key": "3_1921446982926614529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqpZ2cgWQAElwyx.jpg",
+        "width": 1837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1921446982926614529"
+          ]
+        },
+        "author_id": "1377916475692871687",
+        "conversation_id": "1921446991696953777",
+        "created_at": "2025-05-11T06:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-11T07:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921446991696953777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZFcBiGG25",
+              "end": 36,
+              "expanded_url": "https://x.com/saerockjp/status/1921446991696953777/photo/1",
+              "media_key": "3_1921446982926614529",
+              "start": 13,
+              "url": "https://t.co/9ZFcBiGG25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921446991696953777",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 15108,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "ビアフェスに行くです🫶🍺 https://t.co/9ZFcBiGG25"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921183838115373056/kjJnBUER_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 60,
+          "like_count": 344,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 141
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T09:31:39.000Z",
+        "description": "https://t.co/aPLLm2eBN0(full vids/動画販売)💕https://t.co/16w0P4mgVu💕https://t.co/eJir13hNd6💕https://t.co/fHYa8zKuJw(支付宝👍)💕https://t.co/4zJREsSpge(支付宝👍)💕custom vids available💕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://saerock.com",
+                "start": 0,
+                "url": "https://t.co/aPLLm2eBN0"
+              },
+              {
+                "display_url": "onlyfans.com/saerockjp",
+                "end": 63,
+                "expanded_url": "http://onlyfans.com/saerockjp",
+                "start": 40,
+                "url": "https://t.co/16w0P4mgVu"
+              },
+              {
+                "display_url": "candfans.jp/saerockjp",
+                "end": 87,
+                "expanded_url": "http://candfans.jp/saerockjp",
+                "start": 64,
+                "url": "https://t.co/eJir13hNd6"
+              },
+              {
+                "display_url": "umate.me/saerockjp/",
+                "end": 111,
+                "expanded_url": "http://umate.me/saerockjp/",
+                "start": 88,
+                "url": "https://t.co/fHYa8zKuJw"
+              },
+              {
+                "display_url": "fansone.co/saerockjp",
+                "end": 141,
+                "expanded_url": "http://fansone.co/saerockjp",
+                "start": 118,
+                "url": "https://t.co/4zJREsSpge"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://www.saerock.com",
+                "start": 0,
+                "url": "https://t.co/PQWHm0cBEJ"
+              }
+            ]
+          }
+        },
+        "id": "1377916475692871687",
+        "name": "SaeRock",
+        "pinned_tweet_id": "1920313148839768274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713920715437785088/sYJfIOS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65086,
+          "following_count": 178,
+          "like_count": 19479,
+          "listed_count": 191,
+          "media_count": 947,
+          "tweet_count": 7963
+        },
+        "url": "https://t.co/PQWHm0cBEJ",
+        "username": "saerockjp",
+        "verified": true
+      }
+    ]
+  }
+}

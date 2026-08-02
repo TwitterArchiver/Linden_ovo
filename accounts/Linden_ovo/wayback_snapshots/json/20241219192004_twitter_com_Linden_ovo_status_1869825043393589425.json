@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1869825043393589425",
+    "created_at": "2024-12-19T19:20:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T20:20:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869825043393589425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1377916475692871687",
+          "start": 3,
+          "username": "saerockjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869825043393589425",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869627305305555059",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saerockjp: 我和男朋友将于 2 月 14 日至 17 日前往深圳！我们将拍摄视频，享受中国！非常感谢你们提供这次机会！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1869825043393589425",
+        "created_at": "2024-12-19T19:20:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T20:20:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869825043393589425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1377916475692871687",
+              "start": 3,
+              "username": "saerockjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869825043393589425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869627305305555059",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saerockjp: 我和男朋友将于 2 月 14 日至 17 日前往深圳！我们将拍摄视频，享受中国！非常感谢你们提供这次机会！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377916475692871687",
+        "conversation_id": "1869627305305555059",
+        "created_at": "2024-12-19T06:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T07:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869627305305555059"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1869627305305555059",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8501,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我和男朋友将于 2 月 14 日至 17 日前往深圳！我们将拍摄视频，享受中国！非常感谢你们提供这次机会！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 61,
+          "like_count": 174,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 50
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T09:31:39.000Z",
+        "description": "https://t.co/aPLLm2eBN0(full vids/動画販売)💕https://t.co/16w0P4mgVu💕https://t.co/eJir13hNd6💕https://t.co/fHYa8zKuJw(支付宝👍)💕https://t.co/4zJREsSpge(支付宝👍)💕custom vids available💕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://saerock.com",
+                "start": 0,
+                "url": "https://t.co/aPLLm2eBN0"
+              },
+              {
+                "display_url": "onlyfans.com/saerockjp",
+                "end": 63,
+                "expanded_url": "http://onlyfans.com/saerockjp",
+                "start": 40,
+                "url": "https://t.co/16w0P4mgVu"
+              },
+              {
+                "display_url": "candfans.jp/saerockjp",
+                "end": 87,
+                "expanded_url": "http://candfans.jp/saerockjp",
+                "start": 64,
+                "url": "https://t.co/eJir13hNd6"
+              },
+              {
+                "display_url": "umate.me/saerockjp/",
+                "end": 111,
+                "expanded_url": "http://umate.me/saerockjp/",
+                "start": 88,
+                "url": "https://t.co/fHYa8zKuJw"
+              },
+              {
+                "display_url": "fansone.co/saerockjp",
+                "end": 141,
+                "expanded_url": "http://fansone.co/saerockjp",
+                "start": 118,
+                "url": "https://t.co/4zJREsSpge"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://www.saerock.com",
+                "start": 0,
+                "url": "https://t.co/PQWHm0cBEJ"
+              }
+            ]
+          }
+        },
+        "id": "1377916475692871687",
+        "name": "SaeRock",
+        "pinned_tweet_id": "1867882623957336255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713920715437785088/sYJfIOS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56877,
+          "following_count": 178,
+          "like_count": 16155,
+          "listed_count": 202,
+          "media_count": 815,
+          "tweet_count": 6859
+        },
+        "url": "https://t.co/PQWHm0cBEJ",
+        "username": "saerockjp",
+        "verified": true
+      }
+    ]
+  }
+}

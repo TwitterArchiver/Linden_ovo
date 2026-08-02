@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1822354903660204032",
+        "3_1822354903656022016"
+      ],
+      "media_source_tweet_id": [
+        "1822354964976677091",
+        "1822354964976677091"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1975983494884159891",
+    "created_at": "2025-10-08T17:55:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:55:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975983494884159891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1565329133353443328",
+          "start": 3,
+          "username": "zibichnqio21"
+        },
+        {
+          "end": 30,
+          "id": "1817108474767286272",
+          "start": 18,
+          "username": "yigenhuazai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HiJRdWLfQV",
+          "end": 125,
+          "expanded_url": "https://x.com/zibichnqio21/status/1822354964976677091/photo/1",
+          "media_key": "3_1822354903660204032",
+          "start": 102,
+          "url": "https://t.co/HiJRdWLfQV"
+        },
+        {
+          "display_url": "pic.x.com/HiJRdWLfQV",
+          "end": 125,
+          "expanded_url": "https://x.com/zibichnqio21/status/1822354964976677091/photo/1",
+          "media_key": "3_1822354903656022016",
+          "start": 102,
+          "url": "https://t.co/HiJRdWLfQV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975983494884159891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1822354964976677091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zibichnqio21: @yigenhuazai 妈的臭蛆墙内没被骂够是吧滚回抖音发你那死全家视频圈你那烂钱，你还以为墙外还有孝子舔你是吧，赛马娘不缺也不需要你那活全家流量，你几把算个老几？ https://t.co/HiJRdWLfQV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1822354903660204032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUpOIS9bkAA3T9v.jpg",
+        "width": 864
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1822354903656022016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUpOIS8bwAAaNe5.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822354903660204032",
+            "3_1822354903656022016"
+          ],
+          "media_source_tweet_id": [
+            "1822354964976677091",
+            "1822354964976677091"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1975983494884159891",
+        "created_at": "2025-10-08T17:55:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:55:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975983494884159891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1565329133353443328",
+              "start": 3,
+              "username": "zibichnqio21"
+            },
+            {
+              "end": 30,
+              "id": "1817108474767286272",
+              "start": 18,
+              "username": "yigenhuazai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiJRdWLfQV",
+              "end": 125,
+              "expanded_url": "https://x.com/zibichnqio21/status/1822354964976677091/photo/1",
+              "media_key": "3_1822354903660204032",
+              "start": 102,
+              "url": "https://t.co/HiJRdWLfQV"
+            },
+            {
+              "display_url": "pic.x.com/HiJRdWLfQV",
+              "end": 125,
+              "expanded_url": "https://x.com/zibichnqio21/status/1822354964976677091/photo/1",
+              "media_key": "3_1822354903656022016",
+              "start": 102,
+              "url": "https://t.co/HiJRdWLfQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975983494884159891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1822354964976677091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zibichnqio21: @yigenhuazai 妈的臭蛆墙内没被骂够是吧滚回抖音发你那死全家视频圈你那烂钱，你还以为墙外还有孝子舔你是吧，赛马娘不缺也不需要你那活全家流量，你几把算个老几？ https://t.co/HiJRdWLfQV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1822354903660204032",
+            "3_1822354903656022016"
+          ]
+        },
+        "author_id": "1565329133353443328",
+        "conversation_id": "1817535476632568215",
+        "created_at": "2024-08-10T19:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T20:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822354964976677091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817108474767286272",
+              "start": 0,
+              "username": "yigenhuazai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HiJRdWLfQV",
+              "end": 107,
+              "expanded_url": "https://x.com/zibichnqio21/status/1822354964976677091/photo/1",
+              "media_key": "3_1822354903660204032",
+              "start": 84,
+              "url": "https://t.co/HiJRdWLfQV"
+            },
+            {
+              "display_url": "pic.x.com/HiJRdWLfQV",
+              "end": 107,
+              "expanded_url": "https://x.com/zibichnqio21/status/1822354964976677091/photo/1",
+              "media_key": "3_1822354903656022016",
+              "start": 84,
+              "url": "https://t.co/HiJRdWLfQV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822354964976677091",
+        "in_reply_to_user_id": "1817108474767286272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1237,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817535476632568215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigenhuazai 妈的臭蛆墙内没被骂够是吧滚回抖音发你那死全家视频圈你那烂钱，你还以为墙外还有孝子舔你是吧，赛马娘不缺也不需要你那活全家流量，你几把算个老几？ https://t.co/HiJRdWLfQV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 580,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 171
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-01T13:22:21.000Z",
+        "description": "远离派系斗争，享受幸福人生",
+        "id": "1565329133353443328",
+        "location": "福建革命造反委员会",
+        "name": "特雷森学院革命造反委员会",
+        "pinned_tweet_id": "1686385162119270400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786469521483530240/piJUQzVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1464,
+          "following_count": 251,
+          "like_count": 18195,
+          "listed_count": 7,
+          "media_count": 308,
+          "tweet_count": 3104
+        },
+        "username": "zibichnqio21",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:03:27.000Z",
+        "description": "douyin：https://t.co/PQpkoKE67Y   bilibili：https://t.co/aKsTUo6m8I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/iMXupF46/",
+                "end": 30,
+                "expanded_url": "https://v.douyin.com/iMXupF46/",
+                "start": 7,
+                "url": "https://t.co/PQpkoKE67Y"
+              },
+              {
+                "display_url": "space.bilibili.com/431579907",
+                "end": 65,
+                "expanded_url": "https://space.bilibili.com/431579907",
+                "start": 42,
+                "url": "https://t.co/aKsTUo6m8I"
+              }
+            ]
+          }
+        },
+        "id": "1817108474767286272",
+        "name": "一根华仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817108656334471168/MIlPZhyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 10
+        },
+        "username": "yigenhuazai",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2079129131418288198",
+    "created_at": "2026-07-20T09:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T10:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079139116487233544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745160587292610560",
+          "start": 0,
+          "username": "GabrielFor6287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079139116487233544",
+    "in_reply_to_user_id": "1745160587292610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079129131418288198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabrielFor6287 笑死我了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2079129131418288198",
+        "created_at": "2026-07-20T09:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T10:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079139116487233544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745160587292610560",
+              "start": 0,
+              "username": "GabrielFor6287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079139116487233544",
+        "in_reply_to_user_id": "1745160587292610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079129131418288198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabrielFor6287 笑死我了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745160587292610560",
+        "conversation_id": "2079129131418288198",
+        "created_at": "2026-07-20T08:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079129131418288198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079129131418288198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么说呢额团建好几家店的人都在他们组团在玩水我纯自己爬山找虫子。还穿的一身黑听他们议论说我像幽灵一样，某种意义上来说我有点像嘉豪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078903804787924993/eOQFJr9w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 144,
+          "like_count": 2629,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 1704
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了，欢迎互fo",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "pinned_tweet_id": "2077680598806900762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 216,
+          "like_count": 2947,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 606
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

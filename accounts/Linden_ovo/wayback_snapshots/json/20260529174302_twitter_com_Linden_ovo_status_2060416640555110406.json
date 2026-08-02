@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060361802299695104"
+      ],
+      "media_source_tweet_id": [
+        "2060361960961769762"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2060416640555110406",
+    "created_at": "2026-05-29T17:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T18:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060416640555110406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1726808702387449856",
+          "start": 3,
+          "username": "Nargiti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AnMenZYoDv",
+          "end": 39,
+          "expanded_url": "https://x.com/Nargiti/status/2060361960961769762/photo/1",
+          "media_key": "3_2060361802299695104",
+          "start": 16,
+          "url": "https://t.co/AnMenZYoDv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060416640555110406",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060361960961769762",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nargiti: 操！ https://t.co/AnMenZYoDv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 908,
+        "media_key": "3_2060361802299695104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfgJJbbYAAtuj0.jpg",
+        "width": 748
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060361802299695104"
+          ],
+          "media_source_tweet_id": [
+            "2060361960961769762"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2060416640555110406",
+        "created_at": "2026-05-29T17:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T18:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060416640555110406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1726808702387449856",
+              "start": 3,
+              "username": "Nargiti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnMenZYoDv",
+              "end": 39,
+              "expanded_url": "https://x.com/Nargiti/status/2060361960961769762/photo/1",
+              "media_key": "3_2060361802299695104",
+              "start": 16,
+              "url": "https://t.co/AnMenZYoDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060416640555110406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060361960961769762",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nargiti: 操！ https://t.co/AnMenZYoDv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060361802299695104"
+          ]
+        },
+        "author_id": "1726808702387449856",
+        "conversation_id": "2060361960961769762",
+        "created_at": "2026-05-29T14:05:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:05:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060361960961769762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AnMenZYoDv",
+              "end": 26,
+              "expanded_url": "https://x.com/Nargiti/status/2060361960961769762/photo/1",
+              "media_key": "3_2060361802299695104",
+              "start": 3,
+              "url": "https://t.co/AnMenZYoDv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060361960961769762",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3694,
+          "like_count": 216,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "操！ https://t.co/AnMenZYoDv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1764,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1093
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-21T03:44:27.000Z",
+        "description": "万物皆虚，万事皆允，人随身死，精神永存\n\n全名：神之authority东风61珠峰使者\nQPR/友跨/无明显政治倾向\n随便发点段子或杂谈\n不主动回fo，需要互fo私我喵，互fo默认交朋友喵\n🚪塔克夫白边账号＋PVE/蓝边/战雷豹2A6\n听说加了门会有更多人来玩所以试试\n纯绿。（其实大概率不用门，欢迎大家来找我玩）",
+        "id": "1726808702387449856",
+        "location": "都看到这了，点个follow呗(●'◡'●)",
+        "name": "丌乐",
+        "pinned_tweet_id": "2060202922970059238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058239181382664192/7xUoIQT__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 20,
+          "like_count": 10118,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 429
+        },
+        "username": "Nargiti",
+        "verified": false
+      }
+    ]
+  }
+}

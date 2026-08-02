@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982606715636871168"
+      ],
+      "media_source_tweet_id": [
+        "1982751626822816160"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1983221687001677964",
+    "created_at": "2025-10-28T17:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T18:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983221687001677964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1785307927923884032",
+          "start": 3,
+          "username": "bydmian0721"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xEM8acw76n",
+          "end": 43,
+          "expanded_url": "https://x.com/bydmian0721/status/1982751626822816160/photo/1",
+          "media_key": "3_1982606715636871168",
+          "start": 20,
+          "url": "https://t.co/xEM8acw76n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983221687001677964",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982751626822816160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bydmian0721: 早安 https://t.co/xEM8acw76n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1982606715636871168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4OiTbbW8AA8cva.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982606715636871168"
+          ],
+          "media_source_tweet_id": [
+            "1982751626822816160"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1983221687001677964",
+        "created_at": "2025-10-28T17:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T18:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983221687001677964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1785307927923884032",
+              "start": 3,
+              "username": "bydmian0721"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEM8acw76n",
+              "end": 43,
+              "expanded_url": "https://x.com/bydmian0721/status/1982751626822816160/photo/1",
+              "media_key": "3_1982606715636871168",
+              "start": 20,
+              "url": "https://t.co/xEM8acw76n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983221687001677964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982751626822816160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bydmian0721: 早安 https://t.co/xEM8acw76n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982606715636871168"
+          ]
+        },
+        "author_id": "1785307927923884032",
+        "conversation_id": "1982751626822816160",
+        "created_at": "2025-10-27T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982751626822816160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEM8acw76n",
+              "end": 26,
+              "expanded_url": "https://x.com/bydmian0721/status/1982751626822816160/photo/1",
+              "media_key": "3_1982606715636871168",
+              "start": 3,
+              "url": "https://t.co/xEM8acw76n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982751626822816160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 53716,
+          "like_count": 1803,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "早安 https://t.co/xEM8acw76n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 220
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-30T13:59:26.000Z",
+        "description": "紐約市民，保守派，MTA忠誠用戶，唐人街的死嗎東西，是亞裔死宅，\n小號們@bydmianshao2 \n@bydmian16347 @bydmian8964 blue sky：https://t.co/Xpf1oncHO1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "bydmianshao2"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "bydmian16347"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "bydmian8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bydmia…",
+                "end": 110,
+                "expanded_url": "https://bsky.app/profile/bydmian1145.bsky.social",
+                "start": 87,
+                "url": "https://t.co/Xpf1oncHO1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61551934328766&mibextid=LQQJ4d",
+                "start": 0,
+                "url": "https://t.co/j3RjravZk7"
+              }
+            ]
+          }
+        },
+        "id": "1785307927923884032",
+        "location": "New York NY ",
+        "name": "✝️面少byd（推友尋回中）R160碾壓狀態🇺🇸🇯🇵🇹🇼✝️",
+        "pinned_tweet_id": "1789087880020676654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879859462955044864/fKpk74EM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 1236,
+          "like_count": 82505,
+          "listed_count": 10,
+          "media_count": 5414,
+          "tweet_count": 22920
+        },
+        "url": "https://t.co/j3RjravZk7",
+        "username": "bydmian0721",
+        "verified": false
+      }
+    ]
+  }
+}

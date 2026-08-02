@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1881519645683052949",
+    "created_at": "2025-01-21T01:50:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T02:50:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881519645683052949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1680291377228259330",
+          "start": 3,
+          "username": "aya_the_raven"
+        },
+        {
+          "end": 35,
+          "id": "1249525383797456898",
+          "start": 19,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881519645683052949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881162429809483966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aya_the_raven: @jakobsonradical 總結：支女想吃美國屌/國男想操美國大逼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1881519645683052949",
+        "created_at": "2025-01-21T01:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881519645683052949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1680291377228259330",
+              "start": 3,
+              "username": "aya_the_raven"
+            },
+            {
+              "end": 35,
+              "id": "1249525383797456898",
+              "start": 19,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881519645683052949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881162429809483966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aya_the_raven: @jakobsonradical 總結：支女想吃美國屌/國男想操美國大逼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680291377228259330",
+        "conversation_id": "1881126333327229414",
+        "created_at": "2025-01-20T02:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T03:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881162429809483966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881162429809483966",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3678,
+          "like_count": 226,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881126333327229414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 總結：支女想吃美國屌/國男想操美國大逼了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 79,
+          "like_count": 265,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T19:01:10.000Z",
+        "description": "Perché la nostra vita è dominata dalla scontentezza, dall'angoscia, dalla paura della guerra, dalla guerra? (Pier Paolo Pasolini, La Rabbia, 1963)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/z4ymvFTkgF",
+                "end": 23,
+                "expanded_url": "https://discord.gg/z4ymvFTkgF",
+                "start": 0,
+                "url": "https://t.co/L8WugyPd2I"
+              }
+            ]
+          }
+        },
+        "id": "1680291377228259330",
+        "location": "Rhodésie",
+        "name": "Aya",
+        "pinned_tweet_id": "1874592216741724407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834833931092258817/WrSCcOP6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3534,
+          "following_count": 3359,
+          "like_count": 33592,
+          "listed_count": 10,
+          "media_count": 903,
+          "tweet_count": 9185
+        },
+        "url": "https://t.co/L8WugyPd2I",
+        "username": "aya_the_raven",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228831,
+          "following_count": 1488,
+          "like_count": 43392,
+          "listed_count": 946,
+          "media_count": 17202,
+          "tweet_count": 24406
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

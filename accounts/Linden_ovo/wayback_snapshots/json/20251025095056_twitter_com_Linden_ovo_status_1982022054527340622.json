@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1982022054527340622",
+    "created_at": "2025-10-25T09:50:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T10:50:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982022054527340622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1881766065900077056",
+          "start": 3,
+          "username": "Xin369556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982022054527340622",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981327040700961100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xin369556: 缺钱的兄弟们记住了，你们屁股上面不会无缘无故出现一个洞，兄弟我点到为止"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1982022054527340622",
+        "created_at": "2025-10-25T09:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T10:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982022054527340622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1881766065900077056",
+              "start": 3,
+              "username": "Xin369556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982022054527340622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981327040700961100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xin369556: 缺钱的兄弟们记住了，你们屁股上面不会无缘无故出现一个洞，兄弟我点到为止"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881766065900077056",
+        "conversation_id": "1981327040700961100",
+        "created_at": "2025-10-23T11:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T12:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981327040700961100"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981327040700961100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 374952,
+          "like_count": 2468,
+          "quote_count": 18,
+          "reply_count": 139,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "缺钱的兄弟们记住了，你们屁股上面不会无缘无故出现一个洞，兄弟我点到为止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 643,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 205
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T18:09:47.000Z",
+        "description": "嗯。头像是本人。是一只外星公猫。平常爱发莫名其妙的东西。不私联。爱吃棉花糖@Osborn00052403",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "Osborn00052403"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xin3695561",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xin3695561",
+                "start": 0,
+                "url": "https://t.co/9V5XjyxNTZ"
+              }
+            ]
+          }
+        },
+        "id": "1881766065900077056",
+        "location": "广州",
+        "name": "YY",
+        "pinned_tweet_id": "1971261356285612304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961796212992221184/O0U2BXN-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 923,
+          "following_count": 318,
+          "like_count": 41814,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 6811
+        },
+        "url": "https://t.co/9V5XjyxNTZ",
+        "username": "Xin369556",
+        "verified": false
+      }
+    ]
+  }
+}

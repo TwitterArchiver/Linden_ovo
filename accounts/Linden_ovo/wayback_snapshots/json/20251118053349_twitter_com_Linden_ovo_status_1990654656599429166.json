@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990359356014030848"
+      ],
+      "media_source_tweet_id": [
+        "1990359364088087028"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1990654656599429166",
+    "created_at": "2025-11-18T05:33:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T06:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990654656599429166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238520105841168386",
+          "start": 3,
+          "username": "de4dlov2r"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jid1xqo4Vb",
+          "end": 38,
+          "expanded_url": "https://x.com/de4dlov2r/status/1990359364088087028/photo/1",
+          "media_key": "3_1990359356014030848",
+          "start": 15,
+          "url": "https://t.co/Jid1xqo4Vb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990654656599429166",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4731
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990359364088087028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @de4dlov2r: https://t.co/Jid1xqo4Vb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 982,
+        "media_key": "3_1990359356014030848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G58tSfaXcAA089E.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990359356014030848"
+          ],
+          "media_source_tweet_id": [
+            "1990359364088087028"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1990654656599429166",
+        "created_at": "2025-11-18T05:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T06:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990654656599429166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238520105841168386",
+              "start": 3,
+              "username": "de4dlov2r"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jid1xqo4Vb",
+              "end": 38,
+              "expanded_url": "https://x.com/de4dlov2r/status/1990359364088087028/photo/1",
+              "media_key": "3_1990359356014030848",
+              "start": 15,
+              "url": "https://t.co/Jid1xqo4Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990654656599429166",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4731
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990359364088087028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @de4dlov2r: https://t.co/Jid1xqo4Vb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990359356014030848"
+          ]
+        },
+        "author_id": "1238520105841168386",
+        "conversation_id": "1990359364088087028",
+        "created_at": "2025-11-17T10:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T11:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990359364088087028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jid1xqo4Vb",
+              "end": 23,
+              "expanded_url": "https://x.com/de4dlov2r/status/1990359364088087028/photo/1",
+              "media_key": "3_1990359356014030848",
+              "start": 0,
+              "url": "https://t.co/Jid1xqo4Vb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990359364088087028",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1835,
+          "impression_count": 415029,
+          "like_count": 44291,
+          "quote_count": 137,
+          "reply_count": 57,
+          "retweet_count": 4731
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Jid1xqo4Vb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 741,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 274
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T17:40:00.000Z",
+        "description": "music/anime/games/nostalgia",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/de4dlov2r",
+                "end": 23,
+                "expanded_url": "https://instagram.com/de4dlov2r",
+                "start": 0,
+                "url": "https://t.co/Mpo9WthM9B"
+              }
+            ]
+          }
+        },
+        "id": "1238520105841168386",
+        "location": "online 2006",
+        "name": "h e a r t",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976536961700556800/WXjzy07r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16863,
+          "following_count": 2,
+          "like_count": 101,
+          "listed_count": 28,
+          "media_count": 112,
+          "tweet_count": 112
+        },
+        "url": "https://t.co/Mpo9WthM9B",
+        "username": "de4dlov2r",
+        "verified": true
+      }
+    ]
+  }
+}

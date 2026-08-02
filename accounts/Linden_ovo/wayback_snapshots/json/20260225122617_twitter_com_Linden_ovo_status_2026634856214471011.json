@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2026634856214471011",
+    "created_at": "2026-02-25T12:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T13:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026634856214471011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2022232330752925696",
+          "start": 3,
+          "username": "Meltss03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026634856214471011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 209
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026469959191195873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meltss03: 国内美育就是连黄片都拍得特别土"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2026634856214471011",
+        "created_at": "2026-02-25T12:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026634856214471011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2022232330752925696",
+              "start": 3,
+              "username": "Meltss03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026634856214471011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 209
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026469959191195873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meltss03: 国内美育就是连黄片都拍得特别土"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2026469959191195873",
+        "created_at": "2026-02-25T01:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T02:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026469959191195873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026469959191195873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 199415,
+          "like_count": 3258,
+          "quote_count": 37,
+          "reply_count": 97,
+          "retweet_count": 209
+        },
+        "reply_settings": "everyone",
+        "text": "国内美育就是连黄片都拍得特别土"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 83,
+          "like_count": 1209,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 621
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。骚逼小号@Shitan2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 149,
+                "username": "Shitan2778"
+              }
+            ]
+          }
+        },
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 561,
+          "following_count": 35,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 1215
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2009391242615115821",
+    "created_at": "2026-01-08T22:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T23:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009391242615115821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2004707822689550338",
+          "start": 3,
+          "username": "Monkshire"
+        },
+        {
+          "end": 26,
+          "id": "1989526336197754880",
+          "start": 15,
+          "username": "saysomelov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009391242615115821",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009170258129773035",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Monkshire: @saysomelov 王健林水军"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2009391242615115821",
+        "created_at": "2026-01-08T22:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009391242615115821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2004707822689550338",
+              "start": 3,
+              "username": "Monkshire"
+            },
+            {
+              "end": 26,
+              "id": "1989526336197754880",
+              "start": 15,
+              "username": "saysomelov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009391242615115821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009170258129773035",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Monkshire: @saysomelov 王健林水军"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2004707822689550338",
+        "conversation_id": "2009134380870930916",
+        "created_at": "2026-01-08T07:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T08:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009170258129773035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989526336197754880",
+              "start": 0,
+              "username": "saysomelov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009170258129773035",
+        "in_reply_to_user_id": "1989526336197754880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1974,
+          "like_count": 112,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009134380870930916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saysomelov 王健林水军"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了 说的就是你 不要打扰我",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 68,
+          "like_count": 953,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 423
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-27T00:16:16.000Z",
+        "description": "焦虑症/矫情B/ADHD/赌狗/打屁股大师 /阳痿时能熟练使用成人玩具/推特评论区特约评论员https://t.co/1JXCpsh7CI",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/monkshire1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/monkshire1",
+                "start": 46,
+                "url": "https://t.co/1JXCpsh7CI"
+              }
+            ]
+          }
+        },
+        "id": "2004707822689550338",
+        "location": "Utopia",
+        "name": "谁看见我🐮了",
+        "pinned_tweet_id": "2009195297063494000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004714249457668096/vjusk5DA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 18,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 44
+        },
+        "username": "Monkshire",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T02:50:28.000Z",
+        "description": "说点啥显得我比较厉害",
+        "id": "1989526336197754880",
+        "location": "Don't know",
+        "name": "扑扑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999271161021235205/fbO65caK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 778,
+          "following_count": 8,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 50
+        },
+        "username": "saysomelov",
+        "verified": false
+      }
+    ]
+  }
+}

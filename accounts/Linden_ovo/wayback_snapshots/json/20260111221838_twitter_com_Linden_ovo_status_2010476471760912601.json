@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2010476471760912601",
+    "created_at": "2026-01-11T22:18:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T23:18:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010476471760912601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1925219512737247232",
+          "start": 3,
+          "username": "ArisaLocke20215"
+        },
+        {
+          "end": 30,
+          "id": "2888060375",
+          "start": 21,
+          "username": "w3bD4nny"
+        },
+        {
+          "end": 40,
+          "id": "1792088577020690432",
+          "start": 31,
+          "username": "ouyaximi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010476471760912601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010421365602664801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ArisaLocke20215: @w3bD4nny @ouyaximi 我既没智商又想当杠精就这样："
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2010476471760912601",
+        "created_at": "2026-01-11T22:18:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T23:18:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010476471760912601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1925219512737247232",
+              "start": 3,
+              "username": "ArisaLocke20215"
+            },
+            {
+              "end": 30,
+              "id": "2888060375",
+              "start": 21,
+              "username": "w3bD4nny"
+            },
+            {
+              "end": 40,
+              "id": "1792088577020690432",
+              "start": 31,
+              "username": "ouyaximi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010476471760912601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010421365602664801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ArisaLocke20215: @w3bD4nny @ouyaximi 我既没智商又想当杠精就这样："
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925219512737247232",
+        "conversation_id": "2010266127482659107",
+        "created_at": "2026-01-11T18:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T19:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010421365602664801"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2888060375",
+              "start": 0,
+              "username": "w3bD4nny"
+            },
+            {
+              "end": 19,
+              "id": "1792088577020690432",
+              "start": 10,
+              "username": "ouyaximi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010421365602664801",
+        "in_reply_to_user_id": "2888060375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3349,
+          "like_count": 279,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010411330952720559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w3bD4nny @ouyaximi 我既没智商又想当杠精就这样："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了 说的就是你 不要打扰我",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 69,
+          "like_count": 963,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 431
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T15:58:19.000Z",
+        "description": "与世无争冲浪人",
+        "id": "1925219512737247232",
+        "name": "你的容帝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000315304652791808/3nCNyx3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 2818,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "username": "ArisaLocke20215",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-22T17:10:44.000Z",
+        "description": "撸毛为主，链上交互为辅；兼顾土狗与新机会；覆盖一二级+现货合约。",
+        "id": "2888060375",
+        "location": "Austria",
+        "name": "Old Six、",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928731768619753472/UZSoqvID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 4290,
+          "like_count": 8277,
+          "listed_count": 50,
+          "media_count": 498,
+          "tweet_count": 26690
+        },
+        "username": "w3bD4nny",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-19T07:03:23.000Z",
+        "description": "vx666 还要交个朋友不",
+        "id": "1792088577020690432",
+        "name": "nini",
+        "pinned_tweet_id": "1965344630716989872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009190195758022656/0RaO27cW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8604,
+          "following_count": 32,
+          "like_count": 2987,
+          "listed_count": 29,
+          "media_count": 839,
+          "tweet_count": 4019
+        },
+        "username": "ouyaximi",
+        "verified": false
+      }
+    ]
+  }
+}

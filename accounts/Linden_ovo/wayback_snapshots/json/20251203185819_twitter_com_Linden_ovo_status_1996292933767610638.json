@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1996133778998407500",
+    "created_at": "2025-12-03T18:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996292933767610638"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1810886995536957440",
+          "start": 0,
+          "username": "Y0906G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996292933767610638",
+    "in_reply_to_user_id": "1810886995536957440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996133778998407500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Y0906G 爱喜薄荷爆 但这个东西很看概率啊，有十分之一概率抽了之后被香精味呛到恶心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1996133778998407500",
+        "created_at": "2025-12-03T18:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996292933767610638"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1810886995536957440",
+              "start": 0,
+              "username": "Y0906G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996292933767610638",
+        "in_reply_to_user_id": "1810886995536957440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996133778998407500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Y0906G 爱喜薄荷爆 但这个东西很看概率啊，有十分之一概率抽了之后被香精味呛到恶心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810886995536957440",
+        "conversation_id": "1996133778998407500",
+        "created_at": "2025-12-03T08:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T09:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996133778998407500"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996133778998407500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 17133,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 122,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有小宝可以推荐一下细烟吗，香香的那种带爆珠的（不带也行）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 62,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 324
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T04:01:42.000Z",
+        "description": "碎碎念 快来匿名给我发信息https://t.co/ZxzlNq4OPz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0906",
+                "end": 36,
+                "expanded_url": "https://ngl.link/y0906",
+                "start": 13,
+                "url": "https://t.co/ZxzlNq4OPz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/y0906",
+                "end": 23,
+                "expanded_url": "https://ngl.link/y0906",
+                "start": 0,
+                "url": "https://t.co/ZxzlNq4OPz"
+              }
+            ]
+          }
+        },
+        "id": "1810886995536957440",
+        "name": "小羊",
+        "pinned_tweet_id": "1962919345048453411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995834038083616773/5TJpS_r2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 782,
+          "following_count": 13,
+          "like_count": 1743,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/ZxzlNq4OPz",
+        "username": "Y0906G",
+        "verified": false
+      }
+    ]
+  }
+}

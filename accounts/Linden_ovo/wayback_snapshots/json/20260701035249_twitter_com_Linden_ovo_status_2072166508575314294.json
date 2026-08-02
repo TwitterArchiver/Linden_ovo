@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071910214580731904"
+      ],
+      "media_source_tweet_id": [
+        "2071910222499918186"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072166508575314294",
+    "created_at": "2026-07-01T03:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072166508575314294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "876363325998678017",
+          "start": 3,
+          "username": "copymellowclip"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yfaoJ055Pk",
+          "end": 52,
+          "expanded_url": "https://x.com/copymellowclip/status/2071910222499918186/photo/1",
+          "media_key": "3_2071910214580731904",
+          "start": 29,
+          "url": "https://t.co/yfaoJ055Pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072166508575314294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071910222499918186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @copymellowclip: 好可怜好好笑（） https://t.co/yfaoJ055Pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1960,
+        "media_key": "3_2071910214580731904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDnXNqWgAA_bUP.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071910214580731904"
+          ],
+          "media_source_tweet_id": [
+            "2071910222499918186"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072166508575314294",
+        "created_at": "2026-07-01T03:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072166508575314294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "876363325998678017",
+              "start": 3,
+              "username": "copymellowclip"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfaoJ055Pk",
+              "end": 52,
+              "expanded_url": "https://x.com/copymellowclip/status/2071910222499918186/photo/1",
+              "media_key": "3_2071910214580731904",
+              "start": 29,
+              "url": "https://t.co/yfaoJ055Pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072166508575314294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071910222499918186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @copymellowclip: 好可怜好好笑（） https://t.co/yfaoJ055Pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071910214580731904"
+          ]
+        },
+        "author_id": "876363325998678017",
+        "conversation_id": "2071910222499918186",
+        "created_at": "2026-06-30T10:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T11:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071910222499918186"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yfaoJ055Pk",
+              "end": 32,
+              "expanded_url": "https://x.com/copymellowclip/status/2071910222499918186/photo/1",
+              "media_key": "3_2071910214580731904",
+              "start": 9,
+              "url": "https://t.co/yfaoJ055Pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071910222499918186",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 50589,
+          "like_count": 322,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好可怜好好笑（） https://t.co/yfaoJ055Pk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 115,
+          "like_count": 1891,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1178
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T08:57:53.000Z",
+        "description": "English/中文｜生理女 泛性恋｜友跨｜二次浓度高｜\nID是copy，也可以随意起称呼｜私信回fo｜闲聊大欢迎｜请不要问年龄/位置等现实信息！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "copymellowclip.github.io/clipweb/",
+                "end": 23,
+                "expanded_url": "https://copymellowclip.github.io/clipweb/",
+                "start": 0,
+                "url": "https://t.co/nAFYhtZltN"
+              }
+            ]
+          }
+        },
+        "id": "876363325998678017",
+        "location": "↓防走丢个人主页、推荐收藏！→",
+        "name": "コピー",
+        "pinned_tweet_id": "2010216759945797833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007694794781536261/KNNfHO38_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 1776,
+          "like_count": 7319,
+          "listed_count": 3,
+          "media_count": 215,
+          "tweet_count": 3728
+        },
+        "url": "https://t.co/nAFYhtZltN",
+        "username": "copymellowclip",
+        "verified": false
+      }
+    ]
+  }
+}

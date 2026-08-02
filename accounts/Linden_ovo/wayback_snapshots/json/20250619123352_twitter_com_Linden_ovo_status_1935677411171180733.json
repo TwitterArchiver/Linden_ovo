@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1934597929148563456"
+      ],
+      "media_source_tweet_id": [
+        "1934597979413123343"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "1935677411171180733",
+    "created_at": "2025-06-19T12:33:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T13:33:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935677411171180733"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 22,
+          "tag": "cosplay"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1897988970057023490",
+          "start": 3,
+          "username": "_ayunochan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qFvfq6RlCa",
+          "end": 54,
+          "expanded_url": "https://x.com/_ayunochan/status/1934597979413123343/photo/1",
+          "media_key": "3_1934597929148563456",
+          "start": 31,
+          "url": "https://t.co/qFvfq6RlCa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935677411171180733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3442
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934597979413123343",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_ayunochan: ライザ！💛 #cosplay https://t.co/qFvfq6RlCa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1934597929148563456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtkSkQ4bQAAQZRI.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934597929148563456"
+          ],
+          "media_source_tweet_id": [
+            "1934597979413123343"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1935677411171180733",
+        "created_at": "2025-06-19T12:33:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T13:33:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935677411171180733"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 22,
+              "tag": "cosplay"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1897988970057023490",
+              "start": 3,
+              "username": "_ayunochan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFvfq6RlCa",
+              "end": 54,
+              "expanded_url": "https://x.com/_ayunochan/status/1934597979413123343/photo/1",
+              "media_key": "3_1934597929148563456",
+              "start": 31,
+              "url": "https://t.co/qFvfq6RlCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935677411171180733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3442
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934597979413123343",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_ayunochan: ライザ！💛 #cosplay https://t.co/qFvfq6RlCa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934597929148563456"
+          ]
+        },
+        "author_id": "1897988970057023490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "1934597979413123343",
+        "created_at": "2025-06-16T13:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T14:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934597979413123343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 6,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qFvfq6RlCa",
+              "end": 38,
+              "expanded_url": "https://x.com/_ayunochan/status/1934597979413123343/photo/1",
+              "media_key": "3_1934597929148563456",
+              "start": 15,
+              "url": "https://t.co/qFvfq6RlCa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934597979413123343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13383,
+          "impression_count": 1302211,
+          "like_count": 54138,
+          "quote_count": 129,
+          "reply_count": 142,
+          "retweet_count": 3442
+        },
+        "reply_settings": "everyone",
+        "text": "ライザ！💛 #cosplay https://t.co/qFvfq6RlCa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 75,
+          "like_count": 383,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 166
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T12:33:41.000Z",
+        "description": "猫が好きな155cm cosplayer&グラビア🐈‍⬛ 【本垢@ayunochan_】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "ayunochan_"
+              }
+            ]
+          }
+        },
+        "id": "1897988970057023490",
+        "name": "あゆの",
+        "pinned_tweet_id": "1930927403196657864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922530951906918403/L3DGjiEH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120429,
+          "following_count": 35,
+          "like_count": 331,
+          "listed_count": 430,
+          "media_count": 64,
+          "tweet_count": 570
+        },
+        "username": "_ayunochan",
+        "verified": false
+      }
+    ]
+  }
+}

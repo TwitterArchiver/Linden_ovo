@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1944185813270769664"
+      ],
+      "media_source_tweet_id": [
+        "1944186174647505327"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1944665825832759341",
+    "created_at": "2025-07-14T07:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T08:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944665825832759341"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "bijouwled",
+          "probability": 0.4647,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 38,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1710560199646527488",
+          "start": 3,
+          "username": "elis_soratabi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1MCoV7okV8",
+          "end": 72,
+          "expanded_url": "https://x.com/elis_soratabi/status/1944186174647505327/photo/1",
+          "media_key": "3_1944185813270769664",
+          "start": 49,
+          "url": "https://t.co/1MCoV7okV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944665825832759341",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944186174647505327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elis_soratabi: Cute horse Biboo💜\n\n#bijouwled https://t.co/1MCoV7okV8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3347,
+        "media_key": "3_1944185813270769664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvsisklbsAAXksT.jpg",
+        "width": 2589
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944185813270769664"
+          ],
+          "media_source_tweet_id": [
+            "1944186174647505327"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1944665825832759341",
+        "created_at": "2025-07-14T07:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944665825832759341"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "bijouwled",
+              "probability": 0.4647,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 38,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1710560199646527488",
+              "start": 3,
+              "username": "elis_soratabi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MCoV7okV8",
+              "end": 72,
+              "expanded_url": "https://x.com/elis_soratabi/status/1944186174647505327/photo/1",
+              "media_key": "3_1944185813270769664",
+              "start": 49,
+              "url": "https://t.co/1MCoV7okV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944665825832759341",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944186174647505327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elis_soratabi: Cute horse Biboo💜\n\n#bijouwled https://t.co/1MCoV7okV8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944185813270769664"
+          ]
+        },
+        "author_id": "1710560199646527488",
+        "conversation_id": "1944186174647505327",
+        "created_at": "2025-07-13T00:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T01:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944186174647505327"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "bijouwled",
+              "probability": 0.5161,
+              "start": 20,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 19,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1MCoV7okV8",
+              "end": 53,
+              "expanded_url": "https://x.com/elis_soratabi/status/1944186174647505327/photo/1",
+              "media_key": "3_1944185813270769664",
+              "start": 30,
+              "url": "https://t.co/1MCoV7okV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944186174647505327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 4117,
+          "like_count": 717,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "Cute horse Biboo💜\n\n#bijouwled https://t.co/1MCoV7okV8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 32,
+          "like_count": 431,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T07:39:14.000Z",
+        "description": "今日も元気だお絵描き楽しい！ ＊駆け出しのイラストレーター ＊可愛い女の子をメインに描いてます ＊お仕事募集中です！DMまたはメールにて受付ております＊EN/日本語OK ＊リンク集：https://t.co/L8aFwZj3gh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "piku.page/@elis_soratabi",
+                "end": 114,
+                "expanded_url": "https://piku.page/@elis_soratabi",
+                "start": 91,
+                "url": "https://t.co/L8aFwZj3gh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mixi.social/@elis_soratabi",
+                "end": 23,
+                "expanded_url": "https://mixi.social/@elis_soratabi",
+                "start": 0,
+                "url": "https://t.co/EGlrrcyUpD"
+              }
+            ]
+          }
+        },
+        "id": "1710560199646527488",
+        "location": "soratabielis@gmail.com",
+        "name": "空旅エリス@C106 日曜 西ふ13b",
+        "pinned_tweet_id": "1917366779506221137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886075896802811906/ET68Byd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1364,
+          "following_count": 134,
+          "like_count": 1259,
+          "listed_count": 5,
+          "media_count": 121,
+          "tweet_count": 1617
+        },
+        "url": "https://t.co/EGlrrcyUpD",
+        "username": "elis_soratabi",
+        "verified": true
+      }
+    ]
+  }
+}

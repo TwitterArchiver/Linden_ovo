@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074517689037726041",
+    "created_at": "2026-07-08T09:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074785120192479486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984644086524194816",
+          "start": 0,
+          "username": "Mj1448298"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074785120192479486",
+    "in_reply_to_user_id": "1984644086524194816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074517689037726041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mj1448298 这种人欠图了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2074517679038427136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoq1ntacAA1z9D.jpg",
+        "width": 1046
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074517689037726041",
+        "created_at": "2026-07-08T09:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074785120192479486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984644086524194816",
+              "start": 0,
+              "username": "Mj1448298"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074785120192479486",
+        "in_reply_to_user_id": "1984644086524194816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074517689037726041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mj1448298 这种人欠图了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074517679038427136"
+          ]
+        },
+        "author_id": "1984644086524194816",
+        "conversation_id": "2074517689037726041",
+        "created_at": "2026-07-07T15:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074517689037726041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZKZaip5gQz",
+              "end": 43,
+              "expanded_url": "https://x.com/Mj1448298/status/2074517689037726041/photo/1",
+              "media_key": "3_2074517679038427136",
+              "start": 20,
+              "url": "https://t.co/ZKZaip5gQz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074517689037726041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 62554,
+          "like_count": 355,
+          "quote_count": 0,
+          "reply_count": 123,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你偷我照片给你自己打这几个标签啥意思？ https://t.co/ZKZaip5gQz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 134,
+          "like_count": 2275,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1471
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-01T15:30:07.000Z",
+        "description": "=丢丢/番茄\n我是中国人。时常发发照片在这里\n私信请礼貌一点…不礼貌的私信不回\n不喜欢的评论我会删…",
+        "id": "1984644086524194816",
+        "location": "Osaka-fu, Japan",
+        "name": "🍅 チーズ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063601849366900736/iqZ7somL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 139,
+          "like_count": 1008,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "Mj1448298",
+        "verified": false
+      }
+    ]
+  }
+}

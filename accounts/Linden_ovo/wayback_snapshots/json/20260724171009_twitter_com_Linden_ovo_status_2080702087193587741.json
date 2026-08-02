@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080624464891384098",
+    "created_at": "2026-07-24T17:10:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T18:10:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080702087193587741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066518887638921216",
+          "start": 0,
+          "username": "Smith36yno"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080702087193587741",
+    "in_reply_to_user_id": "2066518887638921216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080679405819744612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smith36yno 那咋喝酒啊）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080624464891384098",
+        "created_at": "2026-07-24T17:10:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T18:10:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080702087193587741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066518887638921216",
+              "start": 0,
+              "username": "Smith36yno"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080702087193587741",
+        "in_reply_to_user_id": "2066518887638921216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080679405819744612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smith36yno 那咋喝酒啊）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066518887638921216",
+        "conversation_id": "2080624464891384098",
+        "created_at": "2026-07-24T15:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080679405819744612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080679405819744612",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080624464891384098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 打完吃个一周抗炎药呗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 148,
+          "like_count": 2765,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1793
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T13:52:17.000Z",
+        "description": "",
+        "id": "2066518887638921216",
+        "name": "Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080680310598250496/VH0wHJDR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 9
+        },
+        "url": "",
+        "username": "Smith36yno",
+        "verified": false
+      }
+    ]
+  }
+}

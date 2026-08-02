@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073674110547394574",
+    "created_at": "2026-07-05T07:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073675799488508386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312081858859991041",
+          "start": 0,
+          "username": "Fulukawa_na"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073675799488508386",
+    "in_reply_to_user_id": "1312081858859991041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073674110547394574",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fulukawa_na 遥远的距离都是因为太过聪明"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073674110547394574",
+        "created_at": "2026-07-05T07:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073675799488508386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312081858859991041",
+              "start": 0,
+              "username": "Fulukawa_na"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073675799488508386",
+        "in_reply_to_user_id": "1312081858859991041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073674110547394574",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fulukawa_na 遥远的距离都是因为太过聪明"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312081858859991041",
+        "conversation_id": "2073674110547394574",
+        "created_at": "2026-07-05T07:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073674110547394574"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073674110547394574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我猜着你的心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 129,
+          "like_count": 2139,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1364
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T17:28:06.000Z",
+        "description": "請不要找我女朋友聊天",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@akamiomo?_r=1…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@akamiomo?_r=1&_t=ZS-91U2e55O9rT",
+                "start": 0,
+                "url": "https://t.co/XgD7RU9nW2"
+              }
+            ]
+          }
+        },
+        "id": "1312081858859991041",
+        "name": "AKami_o3o",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678627416502140928/t1bIjsTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 118,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 27
+        },
+        "url": "https://t.co/XgD7RU9nW2",
+        "username": "Fulukawa_na",
+        "verified": false
+      }
+    ]
+  }
+}

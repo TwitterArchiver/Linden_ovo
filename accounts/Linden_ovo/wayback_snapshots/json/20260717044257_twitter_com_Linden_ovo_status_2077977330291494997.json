@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2077977330291494997",
+    "created_at": "2026-07-17T04:42:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:42:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077977330291494997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1484868736410537984",
+          "start": 3,
+          "username": "Cas1eL666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077977330291494997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077871429639704854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cas1eL666: 我只有喝多了讲话和正常人一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2077977330291494997",
+        "created_at": "2026-07-17T04:42:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:42:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077977330291494997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1484868736410537984",
+              "start": 3,
+              "username": "Cas1eL666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077977330291494997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077871429639704854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cas1eL666: 我只有喝多了讲话和正常人一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484868736410537984",
+        "conversation_id": "2077871429639704854",
+        "created_at": "2026-07-16T21:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T22:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077871429639704854"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077871429639704854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我只有喝多了讲话和正常人一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 137,
+          "like_count": 2488,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1614
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-22T12:41:26.000Z",
+        "description": "🕯️",
+        "id": "1484868736410537984",
+        "name": "まつ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045885950425985025/3knYEtb0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 18,
+          "like_count": 1166,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "Cas1eL666",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072583860119093248"
+      ],
+      "media_source_tweet_id": [
+        "2072583871439499380"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072695181250310322",
+    "created_at": "2026-07-02T14:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072695181250310322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1447499448649601025",
+          "start": 3,
+          "username": "LVTGW666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jwRYuAclVx",
+          "end": 74,
+          "expanded_url": "https://x.com/LVTGW666/status/2072583871439499380/photo/1",
+          "media_key": "3_2072583860119093248",
+          "start": 51,
+          "url": "https://t.co/jwRYuAclVx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072695181250310322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072583871439499380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LVTGW666: 防沉迷三个字出来的时候我就已经有点难绷了，看见关二爷的时候我直接绷不住了 https://t.co/jwRYuAclVx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 889,
+        "media_key": "3_2072583860119093248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNMCi2bQAACtQt.jpg",
+        "width": 911
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072583860119093248"
+          ],
+          "media_source_tweet_id": [
+            "2072583871439499380"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072695181250310322",
+        "created_at": "2026-07-02T14:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072695181250310322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1447499448649601025",
+              "start": 3,
+              "username": "LVTGW666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwRYuAclVx",
+              "end": 74,
+              "expanded_url": "https://x.com/LVTGW666/status/2072583871439499380/photo/1",
+              "media_key": "3_2072583860119093248",
+              "start": 51,
+              "url": "https://t.co/jwRYuAclVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072695181250310322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072583871439499380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LVTGW666: 防沉迷三个字出来的时候我就已经有点难绷了，看见关二爷的时候我直接绷不住了 https://t.co/jwRYuAclVx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072583860119093248"
+          ]
+        },
+        "author_id": "1447499448649601025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072583871439499380",
+        "created_at": "2026-07-02T07:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T08:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072583871439499380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jwRYuAclVx",
+              "end": 60,
+              "expanded_url": "https://x.com/LVTGW666/status/2072583871439499380/photo/1",
+              "media_key": "3_2072583860119093248",
+              "start": 37,
+              "url": "https://t.co/jwRYuAclVx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072583871439499380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 13690,
+          "like_count": 296,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "防沉迷三个字出来的时候我就已经有点难绷了，看见关二爷的时候我直接绷不住了 https://t.co/jwRYuAclVx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 114,
+          "like_count": 1993,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1240
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-11T09:49:03.000Z",
+        "description": "我是一直都是啥b啊 分析哲学倒数第6324人 重铸正统施特劳斯荣光，我辈义不容辞 备用小号@lvtgw8964 YouTube：https://t.co/wPvV77mrq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "lvtgw8964"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 87,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 64,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCzPNz…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCzPNzUrZ6mQE_DdUyEzWfVQ?si=9P3osu1z2MSLK9OS",
+                "start": 0,
+                "url": "https://t.co/wPvV77mrq4"
+              }
+            ]
+          }
+        },
+        "id": "1447499448649601025",
+        "location": "Yokohama-shi Kanagawa",
+        "name": "利维坦冲浪里",
+        "pinned_tweet_id": "2008518971486806332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1496193678477787137/gt41UKj__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72535,
+          "following_count": 1000,
+          "like_count": 14990,
+          "listed_count": 307,
+          "media_count": 5655,
+          "tweet_count": 13216
+        },
+        "url": "https://t.co/wPvV77mrq4",
+        "username": "LVTGW666",
+        "verified": true
+      }
+    ]
+  }
+}

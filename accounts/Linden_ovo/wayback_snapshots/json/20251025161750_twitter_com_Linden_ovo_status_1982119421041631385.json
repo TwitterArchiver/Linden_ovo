@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1982119421041631385",
+    "created_at": "2025-10-25T16:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T17:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982119421041631385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1902978487662809090",
+          "start": 3,
+          "username": "justin405332629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982119421041631385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981413167575289918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @justin405332629: 我应该是去3p都会被冷落的那个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1982119421041631385",
+        "created_at": "2025-10-25T16:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T17:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982119421041631385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1902978487662809090",
+              "start": 3,
+              "username": "justin405332629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982119421041631385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981413167575289918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @justin405332629: 我应该是去3p都会被冷落的那个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902978487662809090",
+        "conversation_id": "1981413167575289918",
+        "created_at": "2025-10-23T17:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981413167575289918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981413167575289918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 284032,
+          "like_count": 1715,
+          "quote_count": 34,
+          "reply_count": 133,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "我应该是去3p都会被冷落的那个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 644,
+          "listed_count": 2,
+          "media_count": 6,
+          "tweet_count": 206
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T07:00:11.000Z",
+        "description": "ENFP ｜仅支持1i｜回关有趣的或喜欢的｜置顶推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/justin405332629",
+                "end": 23,
+                "expanded_url": "https://ngl.link/justin405332629",
+                "start": 0,
+                "url": "https://t.co/AEMLOdLMeG"
+              }
+            ]
+          }
+        },
+        "id": "1902978487662809090",
+        "location": " 链接是匿名",
+        "name": "广式双马尾",
+        "pinned_tweet_id": "1982076281765474450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950632626752200704/-M7ipJKQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4005,
+          "following_count": 1253,
+          "like_count": 25323,
+          "listed_count": 2,
+          "media_count": 363,
+          "tweet_count": 10379
+        },
+        "url": "https://t.co/AEMLOdLMeG",
+        "username": "justin405332629",
+        "verified": false
+      }
+    ]
+  }
+}

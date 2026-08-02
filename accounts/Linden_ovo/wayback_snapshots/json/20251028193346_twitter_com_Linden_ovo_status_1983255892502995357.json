@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1983255892502995357",
+    "created_at": "2025-10-28T19:33:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T20:33:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983255892502995357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1103830967163117568",
+          "start": 3,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983255892502995357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983036927487160808",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anblk984: 炒币狗，处男，男同死后见到了上帝，上帝表示你们必须穿过前面那条路通过考验才能进天堂，于是三个人往前走，前面地上有一枚印着二维码的金属币，炒币狗立马扑上去扫码，瞬间被拉到地狱了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1983255892502995357",
+        "created_at": "2025-10-28T19:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T20:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983255892502995357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1103830967163117568",
+              "start": 3,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983255892502995357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983036927487160808",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anblk984: 炒币狗，处男，男同死后见到了上帝，上帝表示你们必须穿过前面那条路通过考验才能进天堂，于是三个人往前走，前面地上有一枚印着二维码的金属币，炒币狗立马扑上去扫码，瞬间被拉到地狱了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "1983036927487160808",
+        "created_at": "2025-10-28T05:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T06:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983036927487160808"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983036927487160808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "炒币狗，处男，男同死后见到了上帝，上帝表示你们必须穿过前面那条路通过考验才能进天堂，于是三个人往前走，前面地上有一枚印着二维码的金属币，炒币狗立马扑上去扫码，瞬间被拉到地狱了\n剩下两个人吓坏了，又接着战战兢兢往前走，前面出现了个二次元美少女手办，处男弯腰去捡，就要碰到的瞬间想到刚才币狗的惨状，于是站起来独自往前走去"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 111589,
+          "like_count": 347,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "炒币狗，处男，男同死后见到了上帝，上帝表示你们必须穿过前面那条路通过考验才能进天堂，于是三个人往前走，前面地上有一枚印着二维码的金属币，炒币狗立马扑上去扫码，瞬间被拉到地狱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 55,
+          "like_count": 677,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 222
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人   劳保爱习楠                                                                   \n狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真   最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/lbrp9vzziV"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "纳克萨玛斯          下面是匿名问题",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1939171158244647254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806502873544671232/5QMKRtxU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8327,
+          "following_count": 906,
+          "like_count": 95781,
+          "listed_count": 50,
+          "media_count": 1573,
+          "tweet_count": 22239
+        },
+        "url": "https://t.co/lbrp9vzziV",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

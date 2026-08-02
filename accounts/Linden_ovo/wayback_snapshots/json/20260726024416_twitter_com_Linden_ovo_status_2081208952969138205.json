@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081208952969138205",
+    "created_at": "2026-07-26T02:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081208952969138205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1981638054688501760",
+          "start": 3,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081208952969138205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080669280677613678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ashasw114514: 感觉用这些当头像的都是毒蛆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081208952969138205",
+        "created_at": "2026-07-26T02:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081208952969138205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1981638054688501760",
+              "start": 3,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081208952969138205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080669280677613678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ashasw114514: 感觉用这些当头像的都是毒蛆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981638054688501760",
+        "conversation_id": "2080669280677613678",
+        "created_at": "2026-07-24T14:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080669280677613678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Miwut_ouo/stat…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/Miwut_ouo/status/2080433712341070299",
+              "start": 14,
+              "url": "https://t.co/U0CWCQsr55"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080669280677613678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7163,
+          "like_count": 153,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080433712341070299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉用这些当头像的都是毒蛆 https://t.co/U0CWCQsr55"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 149,
+          "like_count": 2787,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1818
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "县城穷蛆  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52\n@dual_runplex",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 65,
+                "username": "dual_runplex"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5380,
+          "following_count": 3800,
+          "like_count": 9354,
+          "listed_count": 14,
+          "media_count": 774,
+          "tweet_count": 6727
+        },
+        "url": "",
+        "username": "ashasw114514",
+        "verified": false
+      }
+    ]
+  }
+}

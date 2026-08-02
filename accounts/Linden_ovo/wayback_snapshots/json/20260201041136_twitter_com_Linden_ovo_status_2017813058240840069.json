@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2017813058240840069",
+    "created_at": "2026-02-01T04:11:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T05:11:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017813058240840069"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017813058240840069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看着你们的照片我好羡慕 我们在一起的时候没有任何合照 我也没有见过你的任何朋友 你朋友圈置顶还是一个月可见的范畴都塞满了你们俩 和你在一起的时候你很别扭 你现在好多了 你现在也有钱了 家里终于好起来了 不用我在月末你没钱吃饭的时候给你转我省下来的钱了 出去玩的机酒你也可以给对象包了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2017813058240840069",
+        "created_at": "2026-02-01T04:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T05:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017813058240840069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017813058240840069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看着你们的照片我好羡慕 我们在一起的时候没有任何合照 我也没有见过你的任何朋友 你朋友圈置顶还是一个月可见的范畴都塞满了你们俩 和你在一起的时候你很别扭 你现在好多了 你现在也有钱了 家里终于好起来了 不用我在月末你没钱吃饭的时候给你转我省下来的钱了 出去玩的机酒你也可以给对象包了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 1087,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 533
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

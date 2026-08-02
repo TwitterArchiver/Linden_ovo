@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1869827703303745903",
+    "created_at": "2024-12-19T19:30:38.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T20:30:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869827703303745903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1784797942211330048",
+          "start": 3,
+          "username": "IamNOT_Tibetora"
+        },
+        {
+          "end": 31,
+          "id": "1226850561057624064",
+          "start": 21,
+          "username": "hatadanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869827703303745903",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869580137764888586",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IamNOT_Tibetora: @hatadanna 124\n2用来复活毛主席\n4用来让毛主席成为我的魅魔\n1用来在毛主席图支时方便我安全地近距离欣赏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1869827703303745903",
+        "created_at": "2024-12-19T19:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T20:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869827703303745903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1784797942211330048",
+              "start": 3,
+              "username": "IamNOT_Tibetora"
+            },
+            {
+              "end": 31,
+              "id": "1226850561057624064",
+              "start": 21,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869827703303745903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869580137764888586",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IamNOT_Tibetora: @hatadanna 124\n2用来复活毛主席\n4用来让毛主席成为我的魅魔\n1用来在毛主席图支时方便我安全地近距离欣赏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784797942211330048",
+        "conversation_id": "1869509773009555468",
+        "created_at": "2024-12-19T03:06:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T04:06:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869580137764888586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1226850561057624064",
+              "start": 0,
+              "username": "hatadanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869580137764888586",
+        "in_reply_to_user_id": "1226850561057624064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3459,
+          "like_count": 312,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869509773009555468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatadanna 124\n2用来复活毛主席\n4用来让毛主席成为我的魅魔\n1用来在毛主席图支时方便我安全地近距离欣赏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 61,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T04:12:52.000Z",
+        "description": "頭冷やしたほうがいいよねシナの人は",
+        "id": "1784797942211330048",
+        "location": "東トルキスタン",
+        "name": "拉萨の虎🇯🇵🇹🇷🇨🇦",
+        "pinned_tweet_id": "1864617102281461967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784799024421478400/lIhdT3g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5151,
+          "following_count": 2389,
+          "like_count": 50317,
+          "listed_count": 26,
+          "media_count": 1360,
+          "tweet_count": 6879
+        },
+        "username": "IamNOT_Tibetora",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-10T12:49:13.000Z",
+        "description": "且听浮光慢叙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/hatadanna",
+                "end": 23,
+                "expanded_url": "http://bento.me/hatadanna",
+                "start": 0,
+                "url": "https://t.co/y4ubULnlbw"
+              }
+            ]
+          }
+        },
+        "id": "1226850561057624064",
+        "location": "梦里",
+        "name": "旗田安奈🍵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1691374845140082688/f2RPoY8q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26679,
+          "following_count": 3232,
+          "like_count": 11463,
+          "listed_count": 98,
+          "media_count": 3930,
+          "tweet_count": 7274
+        },
+        "url": "https://t.co/y4ubULnlbw",
+        "username": "hatadanna",
+        "verified": true
+      }
+    ]
+  }
+}

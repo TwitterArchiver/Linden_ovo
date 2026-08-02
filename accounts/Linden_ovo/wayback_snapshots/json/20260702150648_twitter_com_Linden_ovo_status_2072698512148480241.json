@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072698512148480241",
+    "created_at": "2026-07-02T15:06:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T16:06:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072698512148480241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2040496801401425920",
+          "start": 3,
+          "username": "Xxkg3g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072698512148480241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072388570451505193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxkg3g: 谢谢你评论我的帖子，为了报答你，我决定娶你为妻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072698512148480241",
+        "created_at": "2026-07-02T15:06:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072698512148480241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2040496801401425920",
+              "start": 3,
+              "username": "Xxkg3g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072698512148480241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072388570451505193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxkg3g: 谢谢你评论我的帖子，为了报答你，我决定娶你为妻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040496801401425920",
+        "conversation_id": "2072388570451505193",
+        "created_at": "2026-07-01T18:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T19:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072388570451505193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072388570451505193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5727,
+          "like_count": 76,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你评论我的帖子，为了报答你，我决定娶你为妻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 115,
+          "like_count": 1996,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-04T18:31:02.000Z",
+        "description": "碎碎念|欢迎互fo \n我每天就发一些说了就会挨打的话 但我还是要发 发了删 删了发 你们根本拿我一点办法都没有 我等一下还要发 这就是我的生存之道 这就是我的命 我要是不发我就死了你们知道吗",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%81%B8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%81%B8",
+                "start": 0,
+                "url": "https://t.co/xlzIlkHqqF"
+              }
+            ]
+          }
+        },
+        "id": "2040496801401425920",
+        "location": "匿名箱➡️",
+        "name": "灸",
+        "pinned_tweet_id": "2071260525430706374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070907075761491968/eBSTRrZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 709,
+          "following_count": 296,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 900
+        },
+        "url": "https://t.co/xlzIlkHqqF",
+        "username": "Xxkg3g",
+        "verified": false
+      }
+    ]
+  }
+}

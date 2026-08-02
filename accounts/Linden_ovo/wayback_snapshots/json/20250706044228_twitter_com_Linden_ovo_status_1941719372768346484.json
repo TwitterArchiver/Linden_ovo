@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941407101533945857"
+      ],
+      "media_source_tweet_id": [
+        "1941407298125259231"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1941719372768346484",
+    "created_at": "2025-07-06T04:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941719372768346484"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 17,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331132845146836993",
+          "start": 3,
+          "username": "PhdPigeon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sc4ZXHaRFW",
+          "end": 51,
+          "expanded_url": "https://x.com/PhdPigeon/status/1941407298125259231/photo/1",
+          "media_key": "3_1941407101533945857",
+          "start": 28,
+          "url": "https://t.co/Sc4ZXHaRFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941719372768346484",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 316
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941407298125259231",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PhdPigeon: 🐎 #bijouwled https://t.co/Sc4ZXHaRFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1941407101533945857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFDeQtaAAEPxAL.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941407101533945857"
+          ],
+          "media_source_tweet_id": [
+            "1941407298125259231"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1941719372768346484",
+        "created_at": "2025-07-06T04:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941719372768346484"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 17,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331132845146836993",
+              "start": 3,
+              "username": "PhdPigeon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sc4ZXHaRFW",
+              "end": 51,
+              "expanded_url": "https://x.com/PhdPigeon/status/1941407298125259231/photo/1",
+              "media_key": "3_1941407101533945857",
+              "start": 28,
+              "url": "https://t.co/Sc4ZXHaRFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941719372768346484",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 316
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941407298125259231",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PhdPigeon: 🐎 #bijouwled https://t.co/Sc4ZXHaRFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941407101533945857"
+          ]
+        },
+        "author_id": "1331132845146836993",
+        "conversation_id": "1941407298125259231",
+        "created_at": "2025-07-05T08:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941407298125259231"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sc4ZXHaRFW",
+              "end": 36,
+              "expanded_url": "https://x.com/PhdPigeon/status/1941407298125259231/photo/1",
+              "media_key": "3_1941407101533945857",
+              "start": 13,
+              "url": "https://t.co/Sc4ZXHaRFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941407298125259231",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 18437,
+          "like_count": 2926,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 316
+        },
+        "reply_settings": "everyone",
+        "text": "🐎 #bijouwled https://t.co/Sc4ZXHaRFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 108
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T07:09:50.000Z",
+        "description": "i'm a pigeon, i like vtubers, fun things are fun, PhD (Party hard Daily), learning to draw ... again",
+        "id": "1331132845146836993",
+        "name": "Dr.Pigeon PhD",
+        "pinned_tweet_id": "1922856970203062724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334310804288507905/Y9Uxxd6t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19942,
+          "following_count": 347,
+          "like_count": 89949,
+          "listed_count": 74,
+          "media_count": 2364,
+          "tweet_count": 2478
+        },
+        "username": "PhdPigeon",
+        "verified": false
+      }
+    ]
+  }
+}

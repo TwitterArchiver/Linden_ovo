@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1855990883927097344"
+      ],
+      "media_source_tweet_id": [
+        "1855992643626434716"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1856271212277891143",
+    "created_at": "2024-11-12T09:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T10:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856271212277891143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1527472904543272963",
+          "start": 3,
+          "username": "bz678345"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BQreRERuxd",
+          "end": 66,
+          "expanded_url": "https://x.com/bz678345/status/1855992643626434716/video/1",
+          "media_key": "7_1855990883927097344",
+          "start": 43,
+          "url": "https://t.co/BQreRERuxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856271212277891143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 144
+    },
+    "referenced_tweets": [
+      {
+        "id": "1855992643626434716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bz678345: 鄧小平：一旦中共變了顏色，全世界就應當一起打倒 共產黨！ https://t.co/BQreRERuxd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57840,
+        "height": 336,
+        "media_key": "7_1855990883927097344",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1855990883927097344/pu/img/QUCUm11lFRvKOiz5.jpg",
+        "public_metrics": {
+          "view_count": 48716
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855990883927097344/pu/vid/avc1/372x270/mE0PcDJzFmlFCtL_.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1855990883927097344/pu/vid/avc1/464x336/UyMQmu6oFC9yk36u.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1855990883927097344/pu/pl/z1LkEMDIFM6xnRiy.m3u8?tag=12&v=982"
+          }
+        ],
+        "width": 464
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855990883927097344"
+          ],
+          "media_source_tweet_id": [
+            "1855992643626434716"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1856271212277891143",
+        "created_at": "2024-11-12T09:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T10:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856271212277891143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1527472904543272963",
+              "start": 3,
+              "username": "bz678345"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQreRERuxd",
+              "end": 66,
+              "expanded_url": "https://x.com/bz678345/status/1855992643626434716/video/1",
+              "media_key": "7_1855990883927097344",
+              "start": 43,
+              "url": "https://t.co/BQreRERuxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856271212277891143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 144
+        },
+        "referenced_tweets": [
+          {
+            "id": "1855992643626434716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bz678345: 鄧小平：一旦中共變了顏色，全世界就應當一起打倒 共產黨！ https://t.co/BQreRERuxd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1855990883927097344"
+          ]
+        },
+        "author_id": "1527472904543272963",
+        "conversation_id": "1855992643626434716",
+        "created_at": "2024-11-11T15:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-11T16:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1855992643626434716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BQreRERuxd",
+              "end": 52,
+              "expanded_url": "https://x.com/bz678345/status/1855992643626434716/video/1",
+              "media_key": "7_1855990883927097344",
+              "start": 29,
+              "url": "https://t.co/BQreRERuxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855992643626434716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 96202,
+          "like_count": 577,
+          "quote_count": 13,
+          "reply_count": 68,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "鄧小平：一旦中共變了顏色，全世界就應當一起打倒 共產黨！ https://t.co/BQreRERuxd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 51,
+          "like_count": 126,
+          "listed_count": 0,
+          "tweet_count": 22
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T02:16:11.000Z",
+        "description": "传播真相，匡扶正义良知。\n解体中共,   回归中华传统。\n中共不等于中国，爱国不等于爱党。\n支持罗斯福提出的四大自由：言论自由、信仰自由、免于匮乏的自由、免于恐惧的自由。\n今天你不为自由发声，明天又有谁为你发声？",
+        "id": "1527472904543272963",
+        "name": "班昭姐姐",
+        "pinned_tweet_id": "1570065543096303617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535978417006465026/UX8Ng5Hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82548,
+          "following_count": 2042,
+          "like_count": 55431,
+          "listed_count": 220,
+          "tweet_count": 15354
+        },
+        "username": "bz678345",
+        "verified": false
+      }
+    ]
+  }
+}

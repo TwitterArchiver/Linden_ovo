@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076183450998943811",
+    "created_at": "2026-07-12T05:54:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T06:54:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076183450998943811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1685974668770217984",
+          "start": 3,
+          "username": "superginseng19"
+        },
+        {
+          "end": 31,
+          "id": "1842490676543627264",
+          "start": 20,
+          "username": "Linden_ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076183450998943811",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076009752052859326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @superginseng19: @Linden_ovo 吸你咪咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076183450998943811",
+        "created_at": "2026-07-12T05:54:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:54:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076183450998943811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1685974668770217984",
+              "start": 3,
+              "username": "superginseng19"
+            },
+            {
+              "end": 31,
+              "id": "1842490676543627264",
+              "start": 20,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076183450998943811",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076009752052859326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @superginseng19: @Linden_ovo 吸你咪咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685974668770217984",
+        "conversation_id": "2075770396205277428",
+        "created_at": "2026-07-11T18:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T19:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076009752052859326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076009752052859326",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075770396205277428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 吸你咪咪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 136,
+          "like_count": 2379,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1548
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T11:24:31.000Z",
+        "description": "我已游离三界开外 求你们对我都好一点",
+        "id": "1685974668770217984",
+        "name": "你摔屁股墩应该屁股疼不是肚子疼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685982539058651136/T_HK4m89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 93,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "superginseng19",
+        "verified": false
+      }
+    ]
+  }
+}

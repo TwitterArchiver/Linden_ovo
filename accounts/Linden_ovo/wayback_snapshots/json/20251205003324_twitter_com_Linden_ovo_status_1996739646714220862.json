@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996526415475585024"
+      ],
+      "media_source_tweet_id": [
+        "1996526422761054340"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1996739646714220862",
+    "created_at": "2025-12-05T00:33:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T01:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996739646714220862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1602663153623388161",
+          "start": 3,
+          "username": "knd_8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yzfAExYkjx",
+          "end": 47,
+          "expanded_url": "https://x.com/knd_8964/status/1996526422761054340/photo/1",
+          "media_key": "3_1996526415475585024",
+          "start": 24,
+          "url": "https://t.co/yzfAExYkjx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996739646714220862",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996526422761054340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @knd_8964: 今日国服更新总结： https://t.co/yzfAExYkjx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 862,
+        "media_key": "3_1996526415475585024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UWMmMbMAAdMtX.jpg",
+        "width": 894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996526415475585024"
+          ],
+          "media_source_tweet_id": [
+            "1996526422761054340"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996739646714220862",
+        "created_at": "2025-12-05T00:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T01:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996739646714220862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1602663153623388161",
+              "start": 3,
+              "username": "knd_8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzfAExYkjx",
+              "end": 47,
+              "expanded_url": "https://x.com/knd_8964/status/1996526422761054340/photo/1",
+              "media_key": "3_1996526415475585024",
+              "start": 24,
+              "url": "https://t.co/yzfAExYkjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996739646714220862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996526422761054340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @knd_8964: 今日国服更新总结： https://t.co/yzfAExYkjx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996526415475585024"
+          ]
+        },
+        "author_id": "1602663153623388161",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1996526422761054340",
+        "created_at": "2025-12-04T10:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T11:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996526422761054340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yzfAExYkjx",
+              "end": 33,
+              "expanded_url": "https://x.com/knd_8964/status/1996526422761054340/photo/1",
+              "media_key": "3_1996526415475585024",
+              "start": 10,
+              "url": "https://t.co/yzfAExYkjx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996526422761054340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6702,
+          "like_count": 306,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "今日国服更新总结： https://t.co/yzfAExYkjx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 62,
+          "like_count": 825,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 330
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-13T13:54:21.000Z",
+        "description": "周而复始，即为历史",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kanade…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/kanade-8964.bsky.social",
+                "start": 0,
+                "url": "https://t.co/Czvo6RndGT"
+              }
+            ]
+          }
+        },
+        "id": "1602663153623388161",
+        "location": "导流槽雅座",
+        "name": "超级泡面高手小气走",
+        "pinned_tweet_id": "1741502377004576895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907138834435096576/jxo8AWHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4306,
+          "following_count": 4448,
+          "like_count": 93642,
+          "listed_count": 16,
+          "media_count": 4376,
+          "tweet_count": 12790
+        },
+        "url": "https://t.co/Czvo6RndGT",
+        "username": "knd_8964",
+        "verified": false
+      }
+    ]
+  }
+}

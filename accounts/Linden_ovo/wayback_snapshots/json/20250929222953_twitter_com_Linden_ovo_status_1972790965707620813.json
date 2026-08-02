@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1972790965707620813",
+    "created_at": "2025-09-29T22:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T23:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972790965707620813"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1960515541204131844",
+          "start": 3,
+          "username": "SJWSAMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972790965707620813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972755511213986239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SJWSAMA: 我依然注视着被围绕的你，但人群中的我还能否被你留意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1972790965707620813",
+        "created_at": "2025-09-29T22:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T23:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972790965707620813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1960515541204131844",
+              "start": 3,
+              "username": "SJWSAMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972790965707620813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972755511213986239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SJWSAMA: 我依然注视着被围绕的你，但人群中的我还能否被你留意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960515541204131844",
+        "conversation_id": "1972755511213986239",
+        "created_at": "2025-09-29T20:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T21:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972755511213986239"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1972755511213986239",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我依然注视着被围绕的你，但人群中的我还能否被你留意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 50,
+          "like_count": 548,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 147
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-27T01:32:14.000Z",
+        "description": "",
+        "id": "1960515541204131844",
+        "name": "修pro",
+        "pinned_tweet_id": "1970884372191658345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965114047608795136/owPEldwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 168,
+          "like_count": 100,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "username": "SJWSAMA",
+        "verified": false
+      }
+    ]
+  }
+}

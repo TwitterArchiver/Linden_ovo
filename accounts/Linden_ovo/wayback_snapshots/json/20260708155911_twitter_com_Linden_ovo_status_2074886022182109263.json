@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074886022182109263",
+    "created_at": "2026-07-08T15:59:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:59:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074886022182109263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1587696726022017027",
+          "start": 3,
+          "username": "Ephraim_deca"
+        },
+        {
+          "end": 27,
+          "id": "1103830967163117568",
+          "start": 18,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074886022182109263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074500478113591612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ephraim_deca: @anblk984 表示惊讶：卧槽咕噜眼镜蛇咕噜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074886022182109263",
+        "created_at": "2026-07-08T15:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074886022182109263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1587696726022017027",
+              "start": 3,
+              "username": "Ephraim_deca"
+            },
+            {
+              "end": 27,
+              "id": "1103830967163117568",
+              "start": 18,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074886022182109263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074500478113591612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ephraim_deca: @anblk984 表示惊讶：卧槽咕噜眼镜蛇咕噜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "2074460161683648833",
+        "created_at": "2026-07-07T14:27:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:27:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074500478113591612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074500478113591612",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4461,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074460161683648833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 表示惊讶：卧槽咕噜眼镜蛇咕噜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 134,
+          "like_count": 2300,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n圣神请降临，充信尔众心，以厥仁爱火，燃灼诸黎民🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 136,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 113,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.xyz",
+                "end": 23,
+                "expanded_url": "https://clemensdsh.xyz/",
+                "start": 0,
+                "url": "https://t.co/7H8hmco3uJ"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2074555569181003791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 4002,
+          "like_count": 89764,
+          "listed_count": 4,
+          "media_count": 586,
+          "tweet_count": 4667
+        },
+        "url": "https://t.co/7H8hmco3uJ",
+        "username": "Ephraim_deca",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15607,
+          "following_count": 1047,
+          "like_count": 125177,
+          "listed_count": 75,
+          "media_count": 3203,
+          "tweet_count": 30214
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

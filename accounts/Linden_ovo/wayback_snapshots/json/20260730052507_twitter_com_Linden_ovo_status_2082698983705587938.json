@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082122101423812608"
+      ],
+      "media_source_tweet_id": [
+        "2082122112442269724"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082698983705587938",
+    "created_at": "2026-07-30T05:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082698983705587938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1612280433064185859",
+          "start": 3,
+          "username": "c2F4F4F"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aQN9CXebBN",
+          "end": 43,
+          "expanded_url": "https://x.com/c2F4F4F/status/2082122112442269724/photo/1",
+          "media_key": "3_2082122101423812608",
+          "start": 20,
+          "url": "https://t.co/aQN9CXebBN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082698983705587938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082122112442269724",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @c2F4F4F: 读私信第二弹 https://t.co/aQN9CXebBN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1768,
+        "media_key": "3_2082122101423812608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUvBQpbMAARFL4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082122101423812608"
+          ]
+        },
+        "author_id": "1612280433064185859",
+        "conversation_id": "2082122112442269724",
+        "created_at": "2026-07-28T15:12:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:12:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082122112442269724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQN9CXebBN",
+              "end": 30,
+              "expanded_url": "https://x.com/c2F4F4F/status/2082122112442269724/photo/1",
+              "media_key": "3_2082122101423812608",
+              "start": 7,
+              "url": "https://t.co/aQN9CXebBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082122112442269724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 93,
+          "impression_count": 219256,
+          "like_count": 2444,
+          "quote_count": 8,
+          "reply_count": 314,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "读私信第二弹 https://t.co/aQN9CXebBN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082122101423812608"
+          ],
+          "media_source_tweet_id": [
+            "2082122112442269724"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082698983705587938",
+        "created_at": "2026-07-30T05:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082698983705587938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1612280433064185859",
+              "start": 3,
+              "username": "c2F4F4F"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aQN9CXebBN",
+              "end": 43,
+              "expanded_url": "https://x.com/c2F4F4F/status/2082122112442269724/photo/1",
+              "media_key": "3_2082122101423812608",
+              "start": 20,
+              "url": "https://t.co/aQN9CXebBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082698983705587938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082122112442269724",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @c2F4F4F: 读私信第二弹 https://t.co/aQN9CXebBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 148,
+          "like_count": 2839,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1880
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-09T02:49:54.000Z",
+        "description": "OD | 是个傻卵二次元 | 画师 | 自残 | 同好互fo | 二游只玩舟 | 精神状态不稳定 | 感官失调中 | 🍥 | 重抑中焦吃药中 |望厨",
+        "id": "1612280433064185859",
+        "location": "Kanagawa-ken, Japan",
+        "name": "孙笑川",
+        "pinned_tweet_id": "2081508605111763013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080135043838816256/H8Ebl5jE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 568,
+          "like_count": 10455,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1051
+        },
+        "url": "",
+        "username": "c2F4F4F",
+        "verified": false
+      }
+    ]
+  }
+}

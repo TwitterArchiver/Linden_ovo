@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1975124504331313153"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1975124582433738924",
+    "created_at": "2025-10-06T09:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T10:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975124582433738924"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1U4UKD89jy",
+          "end": 46,
+          "expanded_url": "https://x.com/Linden_ovo/status/1975124582433738924/video/1",
+          "media_key": "13_1975124504331313153",
+          "start": 23,
+          "url": "https://t.co/1U4UKD89jy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975124582433738924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我真的觉得这个挺好看的呀为什么没流量我吐血了 https://t.co/1U4UKD89jy"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19366,
+        "height": 1280,
+        "media_key": "13_1975124504331313153",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1975124504331313153/img/CNxvIOFSPgzFF-fU.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975124504331313153/vid/avc1/320x568/vOMAkt2Z2zGQeixi.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975124504331313153/vid/avc1/480x852/RcN3hFJ45pl3pDqc.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1975124504331313153/vid/avc1/720x1280/_OIA7Dzwn9plN70z.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1975124504331313153/pl/ue6zhu--0_2iP0ec.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1975124504331313153"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1975124582433738924",
+        "created_at": "2025-10-06T09:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T10:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975124582433738924"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1U4UKD89jy",
+              "end": 46,
+              "expanded_url": "https://x.com/Linden_ovo/status/1975124582433738924/video/1",
+              "media_key": "13_1975124504331313153",
+              "start": 23,
+              "url": "https://t.co/1U4UKD89jy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975124582433738924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得这个挺好看的呀为什么没流量我吐血了 https://t.co/1U4UKD89jy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "ip马德里的体育生点进来视奸我推立刻死妈",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 52,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 156
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

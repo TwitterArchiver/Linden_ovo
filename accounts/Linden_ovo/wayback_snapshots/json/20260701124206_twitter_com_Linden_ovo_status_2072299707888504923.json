@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072299707888504923",
+    "created_at": "2026-07-01T12:42:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072299707888504923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1286241253621817344",
+          "start": 3,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072299707888504923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072123521053106291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CldGeo: 卧槽我现在才发现眼镜原来是眼睛的DLC。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072299707888504923",
+        "created_at": "2026-07-01T12:42:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072299707888504923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1286241253621817344",
+              "start": 3,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072299707888504923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072123521053106291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CldGeo: 卧槽我现在才发现眼镜原来是眼睛的DLC。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286241253621817344",
+        "conversation_id": "2072123521053106291",
+        "created_at": "2026-07-01T01:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072123521053106291"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072123521053106291",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2817,
+          "like_count": 95,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽我现在才发现眼镜原来是眼睛的DLC。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 115,
+          "like_count": 1912,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1194
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "見つめていた世界を 横で見たいって思う\n@Cldeop / @YunJiu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "Cldeop"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "username": "YunJiu"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "「絶え間ない光」が降り注ぐ",
+        "name": "九鸟",
+        "pinned_tweet_id": "2056625881905561986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4688,
+          "following_count": 367,
+          "like_count": 5124,
+          "listed_count": 7,
+          "media_count": 525,
+          "tweet_count": 2064
+        },
+        "url": "",
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

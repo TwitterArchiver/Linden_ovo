@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995385079980339200"
+      ],
+      "media_source_tweet_id": [
+        "1995385082736234943"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1995612634021069159",
+    "created_at": "2025-12-01T21:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T22:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995612634021069159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1723339475382652928",
+          "start": 3,
+          "username": "sts5207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LlqunXwc7t",
+          "end": 36,
+          "expanded_url": "https://x.com/sts5207/status/1995385082736234943/photo/1",
+          "media_key": "3_1995385079980339200",
+          "start": 13,
+          "url": "https://t.co/LlqunXwc7t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995612634021069159",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3008
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995385082736234943",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sts5207: https://t.co/LlqunXwc7t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1995385079980339200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EIKIJXsAAg3cg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995385079980339200"
+          ],
+          "media_source_tweet_id": [
+            "1995385082736234943"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1995612634021069159",
+        "created_at": "2025-12-01T21:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T22:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995612634021069159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1723339475382652928",
+              "start": 3,
+              "username": "sts5207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlqunXwc7t",
+              "end": 36,
+              "expanded_url": "https://x.com/sts5207/status/1995385082736234943/photo/1",
+              "media_key": "3_1995385079980339200",
+              "start": 13,
+              "url": "https://t.co/LlqunXwc7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995612634021069159",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3008
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995385082736234943",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sts5207: https://t.co/LlqunXwc7t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995385079980339200"
+          ]
+        },
+        "author_id": "1723339475382652928",
+        "conversation_id": "1995385082736234943",
+        "created_at": "2025-12-01T06:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T07:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995385082736234943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LlqunXwc7t",
+              "end": 23,
+              "expanded_url": "https://x.com/sts5207/status/1995385082736234943/photo/1",
+              "media_key": "3_1995385079980339200",
+              "start": 0,
+              "url": "https://t.co/LlqunXwc7t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995385082736234943",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2812,
+          "impression_count": 236036,
+          "like_count": 17253,
+          "quote_count": 269,
+          "reply_count": 67,
+          "retweet_count": 3008
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LlqunXwc7t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 316
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-11T13:58:59.000Z",
+        "description": "＝听听  CN/EN/little JP  タメロok！翻訳機を使います = = \nstudy in Canada",
+        "id": "1723339475382652928",
+        "name": "vespera",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991489908154699776/aGx8t12U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 191,
+          "like_count": 316,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 74
+        },
+        "username": "sts5207",
+        "verified": false
+      }
+    ]
+  }
+}

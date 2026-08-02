@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080646285879660614",
+    "created_at": "2026-07-25T05:52:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080893943667904852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065242891795169280",
+          "start": 0,
+          "username": "cnaltgirls"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080893943667904852",
+    "in_reply_to_user_id": "2065242891795169280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080888739489046892",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cnaltgirls 我回fo咧老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080646285879660614",
+        "created_at": "2026-07-25T05:52:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080893943667904852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065242891795169280",
+              "start": 0,
+              "username": "cnaltgirls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080893943667904852",
+        "in_reply_to_user_id": "2065242891795169280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080888739489046892",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cnaltgirls 我回fo咧老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065242891795169280",
+        "conversation_id": "2080646285879660614",
+        "created_at": "2026-07-25T05:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080888739489046892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080888739489046892",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080646285879660614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 宝宝我想私信你但是你没有开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 149,
+          "like_count": 2768,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1795
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-12T01:22:49.000Z",
+        "description": "✖️ 地雷妹 (Jirai Kei) ✖️ 量产型 ✖️ 病弱系 (Menhera) ✖️ 邪道可爱✖️ 亚逼 (altgirl) ✖️ 精神小妹 ✖️ Galu (辣妹) ✖️ 餐券妹 ✖️ 废土幸存者 ✖️ 天使界隈 ✖️ 水色界隈 ✖️ Y2K千禧✖️ 哥特 (Goth) ✖️ 视觉系 (VK) ✖️ 清楚系",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/asianaltgirls",
+                "end": 23,
+                "expanded_url": "https://t.me/asianaltgirls",
+                "start": 0,
+                "url": "https://t.co/PwvxXI4MRe"
+              }
+            ]
+          }
+        },
+        "id": "2065242891795169280",
+        "location": "Unknown ",
+        "name": "亚逼收容altgirlxx",
+        "pinned_tweet_id": "2070607988239552521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065264465751494656/w0GcaVWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 724,
+          "following_count": 457,
+          "like_count": 672,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 171
+        },
+        "url": "https://t.co/PwvxXI4MRe",
+        "username": "cnaltgirls",
+        "verified": true
+      }
+    ]
+  }
+}

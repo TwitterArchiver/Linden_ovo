@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2053959624743637044",
+    "created_at": "2026-05-11T22:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T23:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053959624743637044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900706496121602048",
+          "start": 3,
+          "username": "JIAN89648964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053959624743637044",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 109
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053667831917732122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JIAN89648964: 我觉得蔡徐坤真的能载入史册了 因为他能把两个毫无关系的字都指向一个意思 请问现代还有谁能做到？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2053959624743637044",
+        "created_at": "2026-05-11T22:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T23:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053959624743637044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900706496121602048",
+              "start": 3,
+              "username": "JIAN89648964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053959624743637044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 109
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053667831917732122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JIAN89648964: 我觉得蔡徐坤真的能载入史册了 因为他能把两个毫无关系的字都指向一个意思 请问现代还有谁能做到？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900706496121602048",
+        "conversation_id": "2053667831917732122",
+        "created_at": "2026-05-11T02:45:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T03:45:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053667831917732122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053667831917732122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 805162,
+          "like_count": 3008,
+          "quote_count": 20,
+          "reply_count": 468,
+          "retweet_count": 109
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得蔡徐坤真的能载入史册了 因为他能把两个毫无关系的字都指向一个意思 请问现代还有谁能做到？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 99,
+          "like_count": 1679,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1015
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T00:32:09.000Z",
+        "description": "看我笑话就好\n文案来源网络侵权私信必删🙏\n不主动私信聊骚骚扰女生 皮下男\n@JIAN222100（过熟人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "JIAN222100"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jian100222",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jian100222",
+                "start": 0,
+                "url": "https://t.co/N6daRRoFIx"
+              }
+            ]
+          }
+        },
+        "id": "1900706496121602048",
+        "name": "龙丽",
+        "pinned_tweet_id": "2053157132783296585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049059699233017856/xxGUB1hS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 88,
+          "like_count": 10940,
+          "listed_count": 0,
+          "media_count": 201,
+          "tweet_count": 3913
+        },
+        "url": "https://t.co/N6daRRoFIx",
+        "username": "JIAN89648964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072306880622240203",
+    "created_at": "2026-07-01T13:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072306880622240203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2047321889597698048",
+          "start": 3,
+          "username": "JDongfang92813"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072306880622240203",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072158020931600409",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JDongfang92813: 昔々、正教の信者は異教徒を十字架にかけていたことがあり、とても悪かった\nもっと悪いのは、サタニストは同じ方法で復讐できないことだ。だって彼らの十字架は逆さまだし、人体工学的にも全く合わなくて、腕も足も縛る場所がないんだ\nある日、賢い人がこ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2072156874741547008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHHsuXagAAkJLZ.jpg",
+        "width": 867
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2072156962079588352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHHxzubQAAbLHA.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072306880622240203",
+        "created_at": "2026-07-01T13:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072306880622240203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2047321889597698048",
+              "start": 3,
+              "username": "JDongfang92813"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072306880622240203",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072158020931600409",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JDongfang92813: 昔々、正教の信者は異教徒を十字架にかけていたことがあり、とても悪かった\nもっと悪いのは、サタニストは同じ方法で復讐できないことだ。だって彼らの十字架は逆さまだし、人体工学的にも全く合わなくて、腕も足も縛る場所がないんだ\nある日、賢い人がこ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072156874741547008",
+            "3_2072156962079588352"
+          ]
+        },
+        "author_id": "2047321889597698048",
+        "conversation_id": "2072158020931600409",
+        "created_at": "2026-07-01T03:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072158020931600409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lmqz9oD8W2",
+              "end": 163,
+              "expanded_url": "https://x.com/JDongfang92813/status/2072158020931600409/photo/1",
+              "media_key": "3_2072156874741547008",
+              "start": 140,
+              "url": "https://t.co/Lmqz9oD8W2"
+            },
+            {
+              "display_url": "pic.x.com/Lmqz9oD8W2",
+              "end": 163,
+              "expanded_url": "https://x.com/JDongfang92813/status/2072158020931600409/photo/1",
+              "media_key": "3_2072156962079588352",
+              "start": 140,
+              "url": "https://t.co/Lmqz9oD8W2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072158020931600409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 549,
+          "impression_count": 39457,
+          "like_count": 1465,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "昔々、正教の信者は異教徒を十字架にかけていたことがあり、とても悪かった\nもっと悪いのは、サタニストは同じ方法で復讐できないことだ。だって彼らの十字架は逆さまだし、人体工学的にも全く合わなくて、腕も足も縛る場所がないんだ\nある日、賢い人がこの問題を解決する方法を思いついた\n天才！ https://t.co/Lmqz9oD8W2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 116,
+          "like_count": 1919,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T14:29:29.000Z",
+        "description": "爱看番，爱打游戏，喜欢交朋友，请主动私信我。",
+        "id": "2047321889597698048",
+        "name": "jianmu dongfang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047326307995045888/tBjHWlnE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 1984,
+          "like_count": 3661,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 688
+        },
+        "url": "",
+        "username": "JDongfang92813",
+        "verified": false
+      }
+    ]
+  }
+}

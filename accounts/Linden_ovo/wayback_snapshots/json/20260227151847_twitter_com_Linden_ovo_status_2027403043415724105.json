@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2027403043415724105",
+    "created_at": "2026-02-27T15:18:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T16:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027403043415724105"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "東方Project",
+          "probability": 0.4901,
+          "start": 22,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "コトブキヤ秋葉原館",
+          "probability": 0.6067,
+          "start": 115,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3239569429",
+          "start": 3,
+          "username": "medicos_et_02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/hdRM",
+          "end": 139,
+          "start": 122,
+          "url": "https://t.co/hdRM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027403043415724105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 747
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027217124054450647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @medicos_et_02: ／\n「東方Project」POP UP SHOP in コトブキヤ\n開催決定🎊\n＼\n\n 【メイド服】がテーマの描き下ろしを初公開✨\n \n📅2026年3月28日(土)～4月5日(日)\n 📍コトブキヤ秋葉原館\nhttps://t.co/hdRM…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2027216379653640192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCIejoAb0AApzOI.jpg",
+        "width": 2896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2027403043415724105",
+        "created_at": "2026-02-27T15:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T16:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027403043415724105"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "東方Project",
+              "probability": 0.4901,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "コトブキヤ秋葉原館",
+              "probability": 0.6067,
+              "start": 115,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3239569429",
+              "start": 3,
+              "username": "medicos_et_02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/hdRM",
+              "end": 139,
+              "start": 122,
+              "url": "https://t.co/hdRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027403043415724105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 747
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027217124054450647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @medicos_et_02: ／\n「東方Project」POP UP SHOP in コトブキヤ\n開催決定🎊\n＼\n\n 【メイド服】がテーマの描き下ろしを初公開✨\n \n📅2026年3月28日(土)～4月5日(日)\n 📍コトブキヤ秋葉原館\nhttps://t.co/hdRM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027216379653640192"
+          ]
+        },
+        "author_id": "3239569429",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1390782787301494785",
+              "name": "Touhou Project"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          }
+        ],
+        "conversation_id": "2027217124054450647",
+        "created_at": "2026-02-27T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027217124054450647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "東方Project",
+              "probability": 0.6126,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "コトブキヤ秋葉原館",
+              "probability": 0.4998,
+              "start": 96,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 130,
+              "tag": "東方Project"
+            }
+          ],
+          "urls": [
+            {
+              "description": "メディコス・エンタテインメントの公式サイトです。キャラクターフィギュアや雑貨、ホビーを多数取扱っております。",
+              "display_url": "medicos-e.net/newsdetail/tou…",
+              "end": 126,
+              "expanded_url": "https://www.medicos-e.net/newsdetail/touhou/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2027217863245983744/yY_G-a6g?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2027217863245983744/yY_G-a6g?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 103,
+              "status": 200,
+              "title": "2026年3月28日(土)より「東方Project」POP UP SHOP in コトブキヤ 開催決定！｜メディコス・エンタテインメント　公式サイト",
+              "unwound_url": "https://www.medicos-e.net/newsdetail/touhou/",
+              "url": "https://t.co/hdRMm7ipQf"
+            },
+            {
+              "display_url": "pic.x.com/rdynbmUxin",
+              "end": 170,
+              "expanded_url": "https://x.com/medicos_et_02/status/2027217124054450647/photo/1",
+              "media_key": "3_2027216379653640192",
+              "start": 147,
+              "url": "https://t.co/rdynbmUxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027217124054450647",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 602,
+          "impression_count": 132086,
+          "like_count": 2994,
+          "quote_count": 209,
+          "reply_count": 4,
+          "retweet_count": 747
+        },
+        "reply_settings": "everyone",
+        "text": "／\n「東方Project」POP UP SHOP in コトブキヤ\n開催決定🎊\n＼\n\n 【メイド服】がテーマの描き下ろしを初公開✨\n \n📅2026年3月28日(土)～4月5日(日)\n 📍コトブキヤ秋葉原館\nhttps://t.co/hdRMm7ipQf \n \n#東方Project\n(1/2) https://t.co/rdynbmUxin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 1232,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 641
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-08T05:32:43.000Z",
+        "description": "キャラクターフィギュアや関連商品の企画・製作・販売を 行っている、メディコス・エンタテインメント、並びに ディ・モールト ベネの公式アカウントです。※Twitter上でのお問い合わせに対して個別でのご対応は行っておりませんのでご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "medicos-e-shop.net",
+                "end": 23,
+                "expanded_url": "https://medicos-e-shop.net",
+                "start": 0,
+                "url": "https://t.co/whZAU6sPMI"
+              }
+            ]
+          }
+        },
+        "id": "3239569429",
+        "name": "メディコス・エンタテインメント_総合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983042559300845568/TSZSKZ41_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101248,
+          "following_count": 145,
+          "like_count": 2014,
+          "listed_count": 581,
+          "media_count": 34207,
+          "tweet_count": 39765
+        },
+        "url": "https://t.co/whZAU6sPMI",
+        "username": "medicos_et_02",
+        "verified": true
+      }
+    ]
+  }
+}

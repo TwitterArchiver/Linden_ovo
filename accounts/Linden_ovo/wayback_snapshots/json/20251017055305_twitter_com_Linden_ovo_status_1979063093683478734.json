@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1978680643706871949",
+    "created_at": "2025-10-17T05:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-17T06:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979063093683478734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1410403215992975361",
+          "start": 0,
+          "username": "TGkyUkKmJfSK6OS"
+        },
+        {
+          "end": 32,
+          "id": "1495386210977517568",
+          "start": 17,
+          "username": "CapelaLoveLove"
+        },
+        {
+          "end": 49,
+          "id": "1795072631169044480",
+          "start": 33,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979063093683478734",
+    "in_reply_to_user_id": "1410403215992975361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979026330038554950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TGkyUkKmJfSK6OS @CapelaLoveLove @TokiyukiSAMAAAA 我能问出这样的话就可以毫无压力的跳了，因为明显不是人类了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1978680643706871949",
+        "created_at": "2025-10-17T05:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T06:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979063093683478734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1410403215992975361",
+              "start": 0,
+              "username": "TGkyUkKmJfSK6OS"
+            },
+            {
+              "end": 32,
+              "id": "1495386210977517568",
+              "start": 17,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 49,
+              "id": "1795072631169044480",
+              "start": 33,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979063093683478734",
+        "in_reply_to_user_id": "1410403215992975361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979026330038554950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TGkyUkKmJfSK6OS @CapelaLoveLove @TokiyukiSAMAAAA 我能问出这样的话就可以毫无压力的跳了，因为明显不是人类了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1410403215992975361",
+        "conversation_id": "1978680643706871949",
+        "created_at": "2025-10-17T03:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-17T04:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979026330038554950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1495386210977517568",
+              "start": 0,
+              "username": "CapelaLoveLove"
+            },
+            {
+              "end": 32,
+              "id": "1795072631169044480",
+              "start": 16,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979026330038554950",
+        "in_reply_to_user_id": "1495386210977517568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978862845044342805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CapelaLoveLove @TokiyukiSAMAAAA 这是嫉妒吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 52,
+          "like_count": 604,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 186
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-01T01:01:58.000Z",
+        "description": "",
+        "id": "1410403215992975361",
+        "name": "疾风怒涛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1668820574997712896/iMRDitmA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 74
+        },
+        "username": "TGkyUkKmJfSK6OS",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-20T13:14:08.000Z",
+        "description": "爱我",
+        "id": "1495386210977517568",
+        "location": "露格尼卡王国",
+        "name": "色欲大罪司教: 卡佩拉.艾梅拉妲.露格尼卡✝",
+        "pinned_tweet_id": "1951895889322357112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953798828446093312/JpEjmatP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 465,
+          "like_count": 17394,
+          "listed_count": 1,
+          "media_count": 1482,
+          "tweet_count": 6868
+        },
+        "username": "CapelaLoveLove",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "I won't let you go!!!!!!!!!!!!!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977402359366959104/nJH-Mae5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6560,
+          "following_count": 246,
+          "like_count": 30213,
+          "listed_count": 16,
+          "media_count": 167,
+          "tweet_count": 844
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

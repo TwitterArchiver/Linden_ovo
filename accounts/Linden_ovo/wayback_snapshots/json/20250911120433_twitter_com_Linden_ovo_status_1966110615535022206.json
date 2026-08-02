@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1966110615535022206",
+    "created_at": "2025-09-11T12:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T13:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966110615535022206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1942480632279617536",
+          "start": 3,
+          "username": "whiterat_cang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966110615535022206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964386702799360306",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whiterat_cang: 童话故事：\n我父母对我说“想gap就gap呗，gap也花不了多少钱，没事啊。我相信你。反正你爹妈还是能给你兜底的。你那么厉害还怕找不到能干的事？”\n\n渴望父母的不可能的认同，我好可悲。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1966110615535022206",
+        "created_at": "2025-09-11T12:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T13:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966110615535022206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1942480632279617536",
+              "start": 3,
+              "username": "whiterat_cang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966110615535022206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964386702799360306",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whiterat_cang: 童话故事：\n我父母对我说“想gap就gap呗，gap也花不了多少钱，没事啊。我相信你。反正你爹妈还是能给你兜底的。你那么厉害还怕找不到能干的事？”\n\n渴望父母的不可能的认同，我好可悲。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942480632279617536",
+        "conversation_id": "1964386702799360306",
+        "created_at": "2025-09-06T17:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T18:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964386702799360306"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964386702799360306",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7684,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "童话故事：\n我父母对我说“想gap就gap呗，gap也花不了多少钱，没事啊。我相信你。反正你爹妈还是能给你兜底的。你那么厉害还怕找不到能干的事？”\n\n渴望父母的不可能的认同，我好可悲。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 501,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 97
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-08T07:07:38.000Z",
+        "description": "02｜无主｜ENTP狮子🇯🇵🇨🇳 ｜Brat little girl 😈｜喜欢吃米线！🍜｜脆皮嘴炮｜😋 喜欢那种被发现zw后，打屁股惩罚的play！(⁎⁍̴̛ᴗ⁍̴̛⁎) 欢迎自愿打赏哦( ̀⌄ ́)",
+        "id": "1942480632279617536",
+        "location": "被窝窝里🛌",
+        "name": "鼠小仓",
+        "pinned_tweet_id": "1965925954238530001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942562658953441280/EGxeNJ8o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 25,
+          "like_count": 66,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 123
+        },
+        "username": "whiterat_cang",
+        "verified": false
+      }
+    ]
+  }
+}

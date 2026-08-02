@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1882375656891351546",
+    "created_at": "2025-01-24T07:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T08:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882693924978065867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1372927932784467976",
+          "start": 0,
+          "username": "reversedraeb"
+        },
+        {
+          "end": 25,
+          "id": "1757616332240224256",
+          "start": 14,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882693924978065867",
+    "in_reply_to_user_id": "1372927932784467976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882553159920591182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@reversedraeb @B_cat38324 纯前世积德"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1882375656891351546",
+        "created_at": "2025-01-24T07:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882693924978065867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1372927932784467976",
+              "start": 0,
+              "username": "reversedraeb"
+            },
+            {
+              "end": 25,
+              "id": "1757616332240224256",
+              "start": 14,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882693924978065867",
+        "in_reply_to_user_id": "1372927932784467976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882553159920591182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@reversedraeb @B_cat38324 纯前世积德"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372927932784467976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "1882375656891351546",
+        "created_at": "2025-01-23T22:17:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T23:17:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882553159920591182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1757616332240224256",
+              "start": 0,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882553159920591182",
+        "in_reply_to_user_id": "1757616332240224256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1087,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882375656891351546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B_cat38324 怎么感觉越上推越感觉自己家庭优越，我到初中的时候我爹都对我缺乏管教，直到初三的时候打了一次架我爹把我接回去跟我谈了一晚上心，跟我说他小时候被我爷爷也吊起来抽，但是他吸取教训会跟我先礼后兵，学业上面他帮不到我忙但是会帮我请老师，不用我成什么事业但是要健康"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 285,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 93
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-19T15:08:30.000Z",
+        "description": "nothing dude",
+        "id": "1372927932784467976",
+        "location": "Columbus, OH",
+        "name": "TangSindrome",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853107005650882560/607G72Ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 1045,
+          "like_count": 3248,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 536
+        },
+        "username": "reversedraeb",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "一支黑猫",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13189,
+          "following_count": 183,
+          "like_count": 422,
+          "listed_count": 42,
+          "media_count": 76,
+          "tweet_count": 13186
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

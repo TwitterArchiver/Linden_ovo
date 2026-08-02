@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074836130634092877",
+    "created_at": "2026-07-08T12:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074836130634092877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1921995331975462912",
+          "start": 3,
+          "username": "quans0611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074836130634092877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074710154529185980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @quans0611: 你怎么不回我消息，是不是卡了，能不能修一下，我真的很想跟你聊天，我都刷新了好多遍了，一直没有消息，怎么办，我们会不会聊不了天了，我求求你快点修好好不好，我求求你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074836130634092877",
+        "created_at": "2026-07-08T12:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074836130634092877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1921995331975462912",
+              "start": 3,
+              "username": "quans0611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074836130634092877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074710154529185980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @quans0611: 你怎么不回我消息，是不是卡了，能不能修一下，我真的很想跟你聊天，我都刷新了好多遍了，一直没有消息，怎么办，我们会不会聊不了天了，我求求你快点修好好不好，我求求你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921995331975462912",
+        "conversation_id": "2074710154529185980",
+        "created_at": "2026-07-08T04:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074710154529185980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074710154529185980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么不回我消息，是不是卡了，能不能修一下，我真的很想跟你聊天，我都刷新了好多遍了，一直没有消息，怎么办，我们会不会聊不了天了，我求求你快点修好好不好，我求求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 134,
+          "like_count": 2289,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1481
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T18:26:20.000Z",
+        "description": "睡觉好舒服啊",
+        "id": "1921995331975462912",
+        "name": "xiquan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921995427697852420/JVp1orC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 292,
+          "like_count": 3106,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "quans0611",
+        "verified": false
+      }
+    ]
+  }
+}

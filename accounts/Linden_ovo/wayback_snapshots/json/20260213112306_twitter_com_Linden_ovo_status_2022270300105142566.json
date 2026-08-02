@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2019924772315164672"
+      ],
+      "media_source_tweet_id": [
+        "2019924784847679531"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2022270300105142566",
+    "created_at": "2026-02-13T11:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022270300105142566"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 49,
+          "tag": "AZKiART"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "14710127",
+          "start": 3,
+          "username": "torokko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YrKo5cN8fX",
+          "end": 116,
+          "expanded_url": "https://x.com/torokko/status/2019924784847679531/photo/1",
+          "media_key": "3_2019924772315164672",
+          "start": 93,
+          "url": "https://t.co/YrKo5cN8fX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022270300105142566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 982
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019924784847679531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @torokko: 【だいたい毎日イラスト】91日目\n席替えしたら、隣の席があずきちだった\n#AZKiART\n\nDaily Illustration, Day 91 – AZKi https://t.co/YrKo5cN8fX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2318,
+        "media_key": "3_2019924772315164672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAg24N7bcAAsW3j.jpg",
+        "width": 1041
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019924772315164672"
+          ],
+          "media_source_tweet_id": [
+            "2019924784847679531"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2022270300105142566",
+        "created_at": "2026-02-13T11:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022270300105142566"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 49,
+              "tag": "AZKiART"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "14710127",
+              "start": 3,
+              "username": "torokko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrKo5cN8fX",
+              "end": 116,
+              "expanded_url": "https://x.com/torokko/status/2019924784847679531/photo/1",
+              "media_key": "3_2019924772315164672",
+              "start": 93,
+              "url": "https://t.co/YrKo5cN8fX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022270300105142566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 982
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019924784847679531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @torokko: 【だいたい毎日イラスト】91日目\n席替えしたら、隣の席があずきちだった\n#AZKiART\n\nDaily Illustration, Day 91 – AZKi https://t.co/YrKo5cN8fX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019924772315164672"
+          ]
+        },
+        "author_id": "14710127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2019924784847679531",
+        "created_at": "2026-02-07T00:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T01:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019924784847679531"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "AZKiART"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YrKo5cN8fX",
+              "end": 103,
+              "expanded_url": "https://x.com/torokko/status/2019924784847679531/photo/1",
+              "media_key": "3_2019924772315164672",
+              "start": 80,
+              "url": "https://t.co/YrKo5cN8fX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019924784847679531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 859,
+          "impression_count": 122418,
+          "like_count": 9361,
+          "quote_count": 6,
+          "reply_count": 16,
+          "retweet_count": 982
+        },
+        "reply_settings": "everyone",
+        "text": "【だいたい毎日イラスト】91日目\n席替えしたら、隣の席があずきちだった\n#AZKiART\n\nDaily Illustration, Day 91 – AZKi https://t.co/YrKo5cN8fX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 79,
+          "like_count": 1147,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 565
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-09T05:22:12.000Z",
+        "description": "イラスト / アニメ制作 ｜ 大神ミオ様「overdose」MV ｜hoyoverse様 PRショートアニメ制作 ｜ FANBOX → https://t.co/8F3kogLxQb｜ ご依頼 → nishiyama.torokko@gmail.com ｜ 夫妻制作ユニット「とろきのこ」 妻@ucchi_1991",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "ucchi_1991"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "torokko.fanbox.cc",
+                "end": 91,
+                "expanded_url": "https://torokko.fanbox.cc/",
+                "start": 68,
+                "url": "https://t.co/8F3kogLxQb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nishiyama",
+                "end": 23,
+                "expanded_url": "https://lit.link/nishiyama",
+                "start": 0,
+                "url": "https://t.co/4lcTxLn935"
+              }
+            ]
+          }
+        },
+        "id": "14710127",
+        "location": "お仕事募集中",
+        "name": "にしやま",
+        "pinned_tweet_id": "1985311744051532190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942046836476493824/i-yxlHFk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32786,
+          "following_count": 300,
+          "like_count": 5318,
+          "listed_count": 251,
+          "media_count": 581,
+          "tweet_count": 3745
+        },
+        "url": "https://t.co/4lcTxLn935",
+        "username": "torokko",
+        "verified": true
+      }
+    ]
+  }
+}

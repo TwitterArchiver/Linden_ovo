@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072252118266978450",
+    "created_at": "2026-07-01T15:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072348615654117619"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1863473278247141376",
+          "start": 0,
+          "username": "qaq5777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072348615654117619",
+    "in_reply_to_user_id": "1863473278247141376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072252118266978450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qaq5777 situationship比炮友更亲密呗，炮友完全不进入生活见面提裤子就跑路，situationship就是朋友的身份兼容性关系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072252118266978450",
+        "created_at": "2026-07-01T15:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072348615654117619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1863473278247141376",
+              "start": 0,
+              "username": "qaq5777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072348615654117619",
+        "in_reply_to_user_id": "1863473278247141376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072252118266978450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qaq5777 situationship比炮友更亲密呗，炮友完全不进入生活见面提裤子就跑路，situationship就是朋友的身份兼容性关系"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863473278247141376",
+        "conversation_id": "2072252118266978450",
+        "created_at": "2026-07-01T09:33:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T10:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072252118266978450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072252118266978450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7943,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真诚发问\n\nsituationship和炮友的区别是什么？ 还是说没有区别？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 109,
+          "like_count": 1923,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T06:40:37.000Z",
+        "description": "如果你骂我 我就关机 然后去睡觉",
+        "id": "1863473278247141376",
+        "name": "不加冰",
+        "pinned_tweet_id": "2067902295594144087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005925336308146176/Hk0tumbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42820,
+          "following_count": 265,
+          "like_count": 13129,
+          "listed_count": 79,
+          "media_count": 247,
+          "tweet_count": 5715
+        },
+        "url": "",
+        "username": "qaq5777",
+        "verified": false
+      }
+    ]
+  }
+}

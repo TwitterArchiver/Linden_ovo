@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044545874965962752"
+      ],
+      "media_source_tweet_id": [
+        "2044545877696540753"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2044765925153415574",
+    "created_at": "2026-04-16T13:12:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T14:12:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044765925153415574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1725411908130373632",
+          "start": 3,
+          "username": "OguristaX100pre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m4dcY0nkxq",
+          "end": 44,
+          "expanded_url": "https://x.com/OguristaX100pre/status/2044545877696540753/photo/1",
+          "media_key": "3_2044545874965962752",
+          "start": 21,
+          "url": "https://t.co/m4dcY0nkxq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044765925153415574",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 336
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044545877696540753",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OguristaX100pre: https://t.co/m4dcY0nkxq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 693,
+        "media_key": "3_2044545874965962752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-vpAxWIAAuC5L.jpg",
+        "width": 556
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044545874965962752"
+          ],
+          "media_source_tweet_id": [
+            "2044545877696540753"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2044765925153415574",
+        "created_at": "2026-04-16T13:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T14:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044765925153415574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1725411908130373632",
+              "start": 3,
+              "username": "OguristaX100pre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4dcY0nkxq",
+              "end": 44,
+              "expanded_url": "https://x.com/OguristaX100pre/status/2044545877696540753/photo/1",
+              "media_key": "3_2044545874965962752",
+              "start": 21,
+              "url": "https://t.co/m4dcY0nkxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044765925153415574",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044545877696540753",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OguristaX100pre: https://t.co/m4dcY0nkxq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044545874965962752"
+          ]
+        },
+        "author_id": "1725411908130373632",
+        "conversation_id": "2044545877696540753",
+        "created_at": "2026-04-15T22:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T23:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044545877696540753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m4dcY0nkxq",
+              "end": 23,
+              "expanded_url": "https://x.com/OguristaX100pre/status/2044545877696540753/photo/1",
+              "media_key": "3_2044545874965962752",
+              "start": 0,
+              "url": "https://t.co/m4dcY0nkxq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044545877696540753",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 19643,
+          "like_count": 2947,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 336
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/m4dcY0nkxq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 89,
+          "like_count": 1533,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 875
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-17T07:14:29.000Z",
+        "description": "Shingeki, Chi, Uma Musume y Evangelion🗿🚬, OGURI CAP THE GOAT🐎.",
+        "id": "1725411908130373632",
+        "name": "Rafal (Oguri Fan)",
+        "pinned_tweet_id": "2026651194312040499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041728055635537921/lsR_CTyC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 971,
+          "like_count": 16027,
+          "listed_count": 0,
+          "media_count": 3316,
+          "tweet_count": 6763
+        },
+        "username": "OguristaX100pre",
+        "verified": false
+      }
+    ]
+  }
+}

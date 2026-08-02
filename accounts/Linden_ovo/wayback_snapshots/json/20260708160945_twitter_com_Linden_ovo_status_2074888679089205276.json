@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074888679089205276",
+    "created_at": "2026-07-08T16:09:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:09:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074888679089205276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ohiostadium/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ohiostadium/status/2074660856617730548",
+          "start": 12,
+          "url": "https://t.co/IBs0OyNcfT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074888679089205276",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074660856617730548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个世界我真的遭不住了 https://t.co/IBs0OyNcfT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_2074660845167239168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqtC_Ga4AAgPKb.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1475,
+        "media_key": "3_2074660844949172224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMqtC-SbcAAXmFL.jpg",
+        "width": 1315
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074888679089205276",
+        "created_at": "2026-07-08T16:09:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:09:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074888679089205276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ohiostadium/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ohiostadium/status/2074660856617730548",
+              "start": 12,
+              "url": "https://t.co/IBs0OyNcfT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074888679089205276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074660856617730548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个世界我真的遭不住了 https://t.co/IBs0OyNcfT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074660845167239168",
+            "3_2074660844949172224"
+          ]
+        },
+        "author_id": "370366182",
+        "conversation_id": "2074660856617730548",
+        "created_at": "2026-07-08T01:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074660856617730548"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 45,
+              "tag": "女权"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "百合破坏"
+            },
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "调教"
+            },
+            {
+              "end": 62,
+              "start": 59,
+              "tag": "羞辱"
+            },
+            {
+              "end": 66,
+              "start": 63,
+              "tag": "反差"
+            },
+            {
+              "end": 70,
+              "start": 67,
+              "tag": "丧志"
+            },
+            {
+              "end": 76,
+              "start": 71,
+              "tag": "男尊女卑"
+            },
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "女德"
+            },
+            {
+              "end": 84,
+              "start": 81,
+              "tag": "雌竞"
+            },
+            {
+              "end": 88,
+              "start": 85,
+              "tag": "女绿"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMXAbRI6q4",
+              "end": 112,
+              "expanded_url": "https://x.com/OhioStadium/status/2074660856617730548/photo/1",
+              "media_key": "3_2074660845167239168",
+              "start": 89,
+              "url": "https://t.co/ZMXAbRI6q4"
+            },
+            {
+              "display_url": "pic.x.com/ZMXAbRI6q4",
+              "end": 112,
+              "expanded_url": "https://x.com/OhioStadium/status/2074660856617730548/photo/1",
+              "media_key": "3_2074660844949172224",
+              "start": 89,
+              "url": "https://t.co/ZMXAbRI6q4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074660856617730548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1161,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "骂几句就败北自愿沦为母畜了，这届女权也不行啊，还有没有抗性高能和我多对线一会的女权了？\n #女权 #百合破坏 #调教 #羞辱 #反差 #丧志 #男尊女卑 #女德 #雌竞 #女绿 https://t.co/ZMXAbRI6q4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 134,
+          "like_count": 2304,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1482
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-08T22:18:47.000Z",
+        "description": "喜欢让所谓的女神女权变成无脑丧志的傻逼婊子",
+        "id": "370366182",
+        "location": "Columbus, Ohio",
+        "name": "北秋",
+        "pinned_tweet_id": "2022352693491306649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1837911944168460288/pZUezm7Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1490,
+          "like_count": 24,
+          "listed_count": 19,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "OhioStadium",
+        "verified": false
+      }
+    ]
+  }
+}

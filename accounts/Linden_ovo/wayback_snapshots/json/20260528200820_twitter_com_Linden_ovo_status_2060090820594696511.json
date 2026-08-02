@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2059686883530285056"
+      ],
+      "media_source_tweet_id": [
+        "2059687001591631978"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2060090820594696511",
+    "created_at": "2026-05-28T20:08:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:08:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060090820594696511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1308163957094453249",
+          "start": 3,
+          "username": "meisei_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o8YPiP4CRi",
+          "end": 61,
+          "expanded_url": "https://x.com/meisei_0/status/2059687001591631978/photo/1",
+          "media_key": "16_2059686883530285056",
+          "start": 38,
+          "url": "https://t.co/o8YPiP4CRi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060090820594696511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1146
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059687001591631978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meisei_0: DAY 14\nカフェ新衣装、めちゃくちゃいい！ https://t.co/o8YPiP4CRi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1054,
+        "media_key": "16_2059686883530285056",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HJV6TtFaoAAjAhw.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HJV6TtFaoAAjAhw.mp4"
+          }
+        ],
+        "width": 878
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059686883530285056"
+          ],
+          "media_source_tweet_id": [
+            "2059687001591631978"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060090820594696511",
+        "created_at": "2026-05-28T20:08:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:08:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060090820594696511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1308163957094453249",
+              "start": 3,
+              "username": "meisei_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8YPiP4CRi",
+              "end": 61,
+              "expanded_url": "https://x.com/meisei_0/status/2059687001591631978/photo/1",
+              "media_key": "16_2059686883530285056",
+              "start": 38,
+              "url": "https://t.co/o8YPiP4CRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060090820594696511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1146
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059687001591631978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meisei_0: DAY 14\nカフェ新衣装、めちゃくちゃいい！ https://t.co/o8YPiP4CRi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2059686883530285056"
+          ]
+        },
+        "author_id": "1308163957094453249",
+        "conversation_id": "2059687001591631978",
+        "created_at": "2026-05-27T17:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059687001591631978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o8YPiP4CRi",
+              "end": 47,
+              "expanded_url": "https://x.com/meisei_0/status/2059687001591631978/photo/1",
+              "media_key": "16_2059686883530285056",
+              "start": 24,
+              "url": "https://t.co/o8YPiP4CRi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059687001591631978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1275,
+          "impression_count": 69068,
+          "like_count": 10176,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 1146
+        },
+        "reply_settings": "everyone",
+        "text": "DAY 14\nカフェ新衣装、めちゃくちゃいい！ https://t.co/o8YPiP4CRi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 107,
+          "like_count": 1759,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1089
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-21T21:59:41.000Z",
+        "description": "Spine2Dアニメーター。\n2Dパーツ制作からアニメーションまで全て自作しています。\n東府中でワーホリ中 ｜ 🏇 競馬・ウマ娘・学マスㅤ\n\n📩 お仕事のご依頼 ▶ woszmfh77tk@gmail.com ｜ ᴊᴘ / ᴋʀ ᴏᴋ",
+        "id": "1308163957094453249",
+        "location": "東京",
+        "name": "明正",
+        "pinned_tweet_id": "2052956380567609395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049264460691595264/gQPfwtVL_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14305,
+          "following_count": 594,
+          "like_count": 14584,
+          "listed_count": 58,
+          "media_count": 38,
+          "tweet_count": 2111
+        },
+        "username": "meisei_0",
+        "verified": true
+      }
+    ]
+  }
+}

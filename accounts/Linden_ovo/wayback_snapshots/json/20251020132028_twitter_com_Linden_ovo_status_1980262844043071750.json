@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1979925450265690112"
+      ],
+      "media_source_tweet_id": [
+        "1979925453927231644"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1980262844043071750",
+    "created_at": "2025-10-20T13:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T14:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980262844043071750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SBpfo3q6w4",
+          "end": 43,
+          "expanded_url": "https://x.com/ggdxfulan/status/1979925453927231644/photo/1",
+          "media_key": "3_1979925450265690112",
+          "start": 20,
+          "url": "https://t.co/SBpfo3q6w4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980262844043071750",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979925453927231644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 别骂了😭 https://t.co/SBpfo3q6w4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 644,
+        "media_key": "3_1979925450265690112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3obtPjXgAAIyFU.jpg",
+        "width": 563
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979925450265690112"
+          ],
+          "media_source_tweet_id": [
+            "1979925453927231644"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1980262844043071750",
+        "created_at": "2025-10-20T13:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T14:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980262844043071750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBpfo3q6w4",
+              "end": 43,
+              "expanded_url": "https://x.com/ggdxfulan/status/1979925453927231644/photo/1",
+              "media_key": "3_1979925450265690112",
+              "start": 20,
+              "url": "https://t.co/SBpfo3q6w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980262844043071750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979925453927231644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 别骂了😭 https://t.co/SBpfo3q6w4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1979925450265690112"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "1979925453927231644",
+        "created_at": "2025-10-19T14:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979925453927231644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBpfo3q6w4",
+              "end": 28,
+              "expanded_url": "https://x.com/ggdxfulan/status/1979925453927231644/photo/1",
+              "media_key": "3_1979925450265690112",
+              "start": 5,
+              "url": "https://t.co/SBpfo3q6w4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979925453927231644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 29083,
+          "like_count": 401,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "别骂了😭 https://t.co/SBpfo3q6w4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 635,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 198
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "我有乳头悲伤综合症，不要80我😭",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977384975751335936/hdJMHO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11953,
+          "following_count": 459,
+          "like_count": 28558,
+          "listed_count": 21,
+          "media_count": 3005,
+          "tweet_count": 10309
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

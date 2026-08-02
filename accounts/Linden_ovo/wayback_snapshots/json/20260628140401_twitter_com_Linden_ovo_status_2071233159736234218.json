@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070804870282756096"
+      ],
+      "media_source_tweet_id": [
+        "2070815149867319636"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2071233159736234218",
+    "created_at": "2026-06-28T14:04:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:04:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071233159736234218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1918274202580467713",
+          "start": 3,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yhi9V20kix",
+          "end": 56,
+          "expanded_url": "https://x.com/CyberKanjousen/status/2070815149867319636/photo/1",
+          "media_key": "3_2070804870282756096",
+          "start": 33,
+          "url": "https://t.co/yhi9V20kix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071233159736234218",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070815149867319636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CyberKanjousen: 環状線半夜时分就这样：😭 https://t.co/yhi9V20kix"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2070804870282756096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLz6DtRaQAAUx7z.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070804870282756096"
+          ],
+          "media_source_tweet_id": [
+            "2070815149867319636"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071233159736234218",
+        "created_at": "2026-06-28T14:04:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071233159736234218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1918274202580467713",
+              "start": 3,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhi9V20kix",
+              "end": 56,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2070815149867319636/photo/1",
+              "media_key": "3_2070804870282756096",
+              "start": 33,
+              "url": "https://t.co/yhi9V20kix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071233159736234218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070815149867319636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CyberKanjousen: 環状線半夜时分就这样：😭 https://t.co/yhi9V20kix"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070804870282756096"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2070815149867319636",
+        "created_at": "2026-06-27T10:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070815149867319636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yhi9V20kix",
+              "end": 36,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2070815149867319636/photo/1",
+              "media_key": "3_2070804870282756096",
+              "start": 13,
+              "url": "https://t.co/yhi9V20kix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070815149867319636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 21229,
+          "like_count": 1033,
+          "quote_count": 2,
+          "reply_count": 26,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "環状線半夜时分就这样：😭 https://t.co/yhi9V20kix"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 110,
+          "like_count": 1834,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1149
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8301,
+          "following_count": 876,
+          "like_count": 28501,
+          "listed_count": 13,
+          "media_count": 1751,
+          "tweet_count": 9107
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

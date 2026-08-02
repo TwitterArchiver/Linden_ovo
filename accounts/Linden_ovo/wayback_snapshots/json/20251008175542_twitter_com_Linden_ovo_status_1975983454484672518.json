@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1975983454484672518",
+    "created_at": "2025-10-08T17:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T18:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975983454484672518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1820552299607171072",
+          "start": 3,
+          "username": "H_G_Diamond"
+        },
+        {
+          "end": 29,
+          "id": "1817108474767286272",
+          "start": 17,
+          "username": "yigenhuazai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975983454484672518",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821270143944814993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @H_G_Diamond: @yigenhuazai 何をしたの？あなたのこのビデオは全くわかりません。TikTokに戻ってください。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1975983454484672518",
+        "created_at": "2025-10-08T17:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T18:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975983454484672518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1820552299607171072",
+              "start": 3,
+              "username": "H_G_Diamond"
+            },
+            {
+              "end": 29,
+              "id": "1817108474767286272",
+              "start": 17,
+              "username": "yigenhuazai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975983454484672518",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821270143944814993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @H_G_Diamond: @yigenhuazai 何をしたの？あなたのこのビデオは全くわかりません。TikTokに戻ってください。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820552299607171072",
+        "conversation_id": "1817535476632568215",
+        "created_at": "2024-08-07T19:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-07T20:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821270143944814993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1817108474767286272",
+              "start": 0,
+              "username": "yigenhuazai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821270143944814993",
+        "in_reply_to_user_id": "1817108474767286272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1525,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817535476632568215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yigenhuazai 何をしたの？あなたのこのビデオは全くわかりません。TikTokに戻ってください。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 170
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-05T20:08:04.000Z",
+        "description": "私は何も知らないことを知っている……💔",
+        "id": "1820552299607171072",
+        "location": "太陽系",
+        "name": "H.G.Diamond",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820552372550254592/jepEzN7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 80,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 6
+        },
+        "username": "H_G_Diamond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-27T08:03:27.000Z",
+        "description": "douyin：https://t.co/PQpkoKE67Y   bilibili：https://t.co/aKsTUo6m8I",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "v.douyin.com/iMXupF46/",
+                "end": 30,
+                "expanded_url": "https://v.douyin.com/iMXupF46/",
+                "start": 7,
+                "url": "https://t.co/PQpkoKE67Y"
+              },
+              {
+                "display_url": "space.bilibili.com/431579907",
+                "end": 65,
+                "expanded_url": "https://space.bilibili.com/431579907",
+                "start": 42,
+                "url": "https://t.co/aKsTUo6m8I"
+              }
+            ]
+          }
+        },
+        "id": "1817108474767286272",
+        "name": "一根华仔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817108656334471168/MIlPZhyT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 5,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 10
+        },
+        "username": "yigenhuazai",
+        "verified": false
+      }
+    ]
+  }
+}

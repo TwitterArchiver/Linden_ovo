@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2049125045188899317",
+    "created_at": "2026-04-28T13:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T14:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049125045188899317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753338156378898432",
+          "start": 3,
+          "username": "gkmas_official"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2 likes. \"藤田ことね 生誕ミニライブ2026【#藤田ことね生誕祭2026】\"",
+          "display_url": "youtu.be/2Nj9mKhi1UA",
+          "end": 138,
+          "expanded_url": "https://youtu.be/2Nj9mKhi1UA",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2049079189459058688/U9EFjgb4?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2049079189459058688/U9EFjgb4?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 115,
+          "status": 200,
+          "title": "アイドルマスターチャンネル",
+          "unwound_url": "https://www.youtube.com/watch?v=2Nj9mKhi1UA&feature=youtu.be",
+          "url": "https://t.co/RllyTc7OkD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049125045188899317",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 971
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049111388912509067",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gkmas_official: ━💸━━━━━━━━💛 ━\n　　　    藤田ことね\n　  生誕ミニライブ2026\n　  　　あと２時間！\n━💛 ━━━━━━━━💸━\n\n📅公開：4/29(水) 0:00～（予定）\n📺会場：https://t.co/RllyTc7OkD…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2048935131667406848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG9HpYLaoAA5uiH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2049125045188899317",
+        "created_at": "2026-04-28T13:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049125045188899317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753338156378898432",
+              "start": 3,
+              "username": "gkmas_official"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2 likes. \"藤田ことね 生誕ミニライブ2026【#藤田ことね生誕祭2026】\"",
+              "display_url": "youtu.be/2Nj9mKhi1UA",
+              "end": 138,
+              "expanded_url": "https://youtu.be/2Nj9mKhi1UA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2049079189459058688/U9EFjgb4?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049079189459058688/U9EFjgb4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 115,
+              "status": 200,
+              "title": "アイドルマスターチャンネル",
+              "unwound_url": "https://www.youtube.com/watch?v=2Nj9mKhi1UA&feature=youtu.be",
+              "url": "https://t.co/RllyTc7OkD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049125045188899317",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 971
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049111388912509067",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gkmas_official: ━💸━━━━━━━━💛 ━\n　　　    藤田ことね\n　  生誕ミニライブ2026\n　  　　あと２時間！\n━💛 ━━━━━━━━💸━\n\n📅公開：4/29(水) 0:00～（予定）\n📺会場：https://t.co/RllyTc7OkD…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048935131667406848"
+          ]
+        },
+        "author_id": "1753338156378898432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049111388912509067",
+        "created_at": "2026-04-28T13:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T14:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049111388912509067"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 120,
+              "tag": "学マス"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2 likes. \"藤田ことね 生誕ミニライブ2026【#藤田ことね生誕祭2026】\"",
+              "display_url": "youtu.be/2Nj9mKhi1UA",
+              "end": 118,
+              "expanded_url": "https://youtu.be/2Nj9mKhi1UA",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2049079189459058688/U9EFjgb4?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049079189459058688/U9EFjgb4?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "アイドルマスターチャンネル",
+              "unwound_url": "https://www.youtube.com/watch?v=2Nj9mKhi1UA&feature=youtu.be",
+              "url": "https://t.co/RllyTc7OkD"
+            },
+            {
+              "display_url": "pic.x.com/Ak9UBukile",
+              "end": 148,
+              "expanded_url": "https://x.com/gkmas_official/status/2049111388912509067/photo/1",
+              "media_key": "3_2048935131667406848",
+              "start": 125,
+              "url": "https://t.co/Ak9UBukile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049111388912509067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 95,
+          "impression_count": 96299,
+          "like_count": 3079,
+          "quote_count": 74,
+          "reply_count": 29,
+          "retweet_count": 971
+        },
+        "reply_settings": "everyone",
+        "text": "━💸━━━━━━━━💛 ━\n　　　    藤田ことね\n　  生誕ミニライブ2026\n　  　　あと２時間！\n━💛 ━━━━━━━━💸━\n\n📅公開：4/29(水) 0:00～（予定）\n📺会場：https://t.co/RllyTc7OkD\n\n#学マス https://t.co/Ak9UBukile"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 1633,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 968
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T08:43:11.000Z",
+        "description": "「学園アイドルマスター」の公式アカウントです！\n#学マス の最新情報をお届けします🏫\n📌好評配信中！ → https://t.co/zw8OPRsYQf\n📌公式WEB SHOP → https://t.co/ufUZ0xmAHJ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "学マス"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "app.adjust.com/1ai6ouao",
+                "end": 76,
+                "expanded_url": "http://app.adjust.com/1ai6ouao",
+                "start": 53,
+                "url": "https://t.co/zw8OPRsYQf"
+              },
+              {
+                "display_url": "webstore.game-gakuen-idolmaster.jp",
+                "end": 114,
+                "expanded_url": "https://webstore.game-gakuen-idolmaster.jp/",
+                "start": 91,
+                "url": "https://t.co/ufUZ0xmAHJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gakuen.idolmaster-official.jp",
+                "end": 23,
+                "expanded_url": "https://gakuen.idolmaster-official.jp/",
+                "start": 0,
+                "url": "https://t.co/STyN8cP2nA"
+              }
+            ]
+          }
+        },
+        "id": "1753338156378898432",
+        "location": "Japan",
+        "name": "学園アイドルマスター【公式】",
+        "pinned_tweet_id": "2049070197806362909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764954401532489728/Q8N0-tcd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 788440,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 3381,
+          "media_count": 5712,
+          "tweet_count": 7650
+        },
+        "url": "https://t.co/STyN8cP2nA",
+        "username": "gkmas_official",
+        "verified": true
+      }
+    ]
+  }
+}

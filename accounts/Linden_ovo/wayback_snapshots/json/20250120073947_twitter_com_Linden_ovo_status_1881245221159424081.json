@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1881245221159424081",
+    "created_at": "2025-01-20T07:39:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T08:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881245221159424081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1599750149227544576",
+          "start": 3,
+          "username": "AmyElli87865778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881245221159424081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880807975692206083",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmyElli87865778: 孩子们 真的有四爱男s这种生物吗 那该怎么粗口呢？\n“操你妈的疯狗 主人要把你的假阳坐烂掉….？ 夹死你的骚几把..？把你这个射不出精的废物玩坏掉..？”\n这也太奇怪了吧🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1881245221159424081",
+        "created_at": "2025-01-20T07:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T08:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881245221159424081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1599750149227544576",
+              "start": 3,
+              "username": "AmyElli87865778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881245221159424081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880807975692206083",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmyElli87865778: 孩子们 真的有四爱男s这种生物吗 那该怎么粗口呢？\n“操你妈的疯狗 主人要把你的假阳坐烂掉….？ 夹死你的骚几把..？把你这个射不出精的废物玩坏掉..？”\n这也太奇怪了吧🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599750149227544576",
+        "conversation_id": "1880807975692206083",
+        "created_at": "2025-01-19T02:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T03:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1880807975692206083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880807975692206083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 133667,
+          "like_count": 612,
+          "quote_count": 6,
+          "reply_count": 64,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 真的有四爱男s这种生物吗 那该怎么粗口呢？\n“操你妈的疯狗 主人要把你的假阳坐烂掉….？ 夹死你的骚几把..？把你这个射不出精的废物玩坏掉..？”\n这也太奇怪了吧🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 79,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-05T12:59:17.000Z",
+        "description": "4i s｜我的狗很凶…大家不要惹他… 🚪188纯绿 关评为广",
+        "id": "1599750149227544576",
+        "location": "🔋",
+        "name": "电子鱼鲨u",
+        "pinned_tweet_id": "1831332255404605903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872637918730498049/wQ9ToDG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9834,
+          "following_count": 268,
+          "like_count": 1379,
+          "listed_count": 14,
+          "media_count": 88,
+          "tweet_count": 2476
+        },
+        "username": "AmyElli87865778",
+        "verified": false
+      }
+    ]
+  }
+}

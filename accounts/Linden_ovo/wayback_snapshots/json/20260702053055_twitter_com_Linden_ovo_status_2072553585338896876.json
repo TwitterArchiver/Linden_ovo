@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072242544440909824"
+      ],
+      "media_source_tweet_id": [
+        "2072242549381841216"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072553585338896876",
+    "created_at": "2026-07-02T05:30:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T06:30:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072553585338896876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1613563244110811140",
+          "start": 3,
+          "username": "hlwasab_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oAJJv4SKYg",
+          "end": 49,
+          "expanded_url": "https://x.com/hlwasab_/status/2072242549381841216/photo/1",
+          "media_key": "3_2072242544440909824",
+          "start": 26,
+          "url": "https://t.co/oAJJv4SKYg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072553585338896876",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 561
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072242549381841216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hlwasab_: なんだこのサムネwww https://t.co/oAJJv4SKYg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1015,
+        "media_key": "3_2072242544440909824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMIVnW3aIAAQUQ1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072242544440909824"
+          ],
+          "media_source_tweet_id": [
+            "2072242549381841216"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072553585338896876",
+        "created_at": "2026-07-02T05:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T06:30:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072553585338896876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1613563244110811140",
+              "start": 3,
+              "username": "hlwasab_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAJJv4SKYg",
+              "end": 49,
+              "expanded_url": "https://x.com/hlwasab_/status/2072242549381841216/photo/1",
+              "media_key": "3_2072242544440909824",
+              "start": 26,
+              "url": "https://t.co/oAJJv4SKYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072553585338896876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 561
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072242549381841216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hlwasab_: なんだこのサムネwww https://t.co/oAJJv4SKYg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072242544440909824"
+          ]
+        },
+        "author_id": "1613563244110811140",
+        "conversation_id": "2072242549381841216",
+        "created_at": "2026-07-01T08:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072242549381841216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oAJJv4SKYg",
+              "end": 35,
+              "expanded_url": "https://x.com/hlwasab_/status/2072242549381841216/photo/1",
+              "media_key": "3_2072242544440909824",
+              "start": 12,
+              "url": "https://t.co/oAJJv4SKYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072242549381841216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 608,
+          "impression_count": 305324,
+          "like_count": 10489,
+          "quote_count": 25,
+          "reply_count": 50,
+          "retweet_count": 561
+        },
+        "reply_settings": "everyone",
+        "text": "なんだこのサムネwww https://t.co/oAJJv4SKYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 111,
+          "like_count": 1951,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 1215
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-12T15:47:19.000Z",
+        "description": "🐶戌神ころねに指を捧げし者🥐 🌸☄️🍙💫✒️",
+        "id": "1613563244110811140",
+        "location": "ガチ恋手前ころねすきー💛ころさんの太もも🥐",
+        "name": "わさび🥐",
+        "pinned_tweet_id": "2032486059830116568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068988590714224641/HHrsoUv3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 810,
+          "like_count": 21476,
+          "listed_count": 8,
+          "media_count": 3905,
+          "tweet_count": 12973
+        },
+        "url": "",
+        "username": "hlwasab_",
+        "verified": true
+      }
+    ]
+  }
+}

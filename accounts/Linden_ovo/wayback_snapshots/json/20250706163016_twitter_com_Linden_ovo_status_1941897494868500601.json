@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1941897494868500601",
+    "created_at": "2025-07-06T16:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T17:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941897494868500601"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 32,
+          "tag": "ddlg"
+        },
+        {
+          "end": 41,
+          "start": 38,
+          "tag": "mf"
+        },
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "brat"
+        },
+        {
+          "end": 51,
+          "start": 48,
+          "tag": "小圈"
+        },
+        {
+          "end": 57,
+          "start": 52,
+          "tag": "小圈sp"
+        },
+        {
+          "end": 61,
+          "start": 58,
+          "tag": "sp"
+        },
+        {
+          "end": 71,
+          "start": 62,
+          "tag": "spanking"
+        },
+        {
+          "end": 78,
+          "start": 72,
+          "tag": "spank"
+        },
+        {
+          "end": 88,
+          "start": 79,
+          "tag": "straddle"
+        },
+        {
+          "end": 96,
+          "start": 89,
+          "tag": "スパンキング"
+        },
+        {
+          "end": 102,
+          "start": 97,
+          "tag": "찰싹때리"
+        },
+        {
+          "end": 106,
+          "start": 103,
+          "tag": "训诫"
+        },
+        {
+          "end": 110,
+          "start": 107,
+          "tag": "管教"
+        },
+        {
+          "end": 114,
+          "start": 111,
+          "tag": "实践"
+        },
+        {
+          "end": 120,
+          "start": 115,
+          "tag": "男主女贝"
+        },
+        {
+          "end": 124,
+          "start": 121,
+          "tag": "强制"
+        },
+        {
+          "end": 128,
+          "start": 125,
+          "tag": "羞耻"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1767952094051344391",
+          "start": 3,
+          "username": "likemeeeee_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941897494868500601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941499551103562037",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @likemeeeee_: 痛+无法逃=最爱的强制感🥵\n\n#ddlg #mf #brat #小圈 #小圈sp #sp #spanking #spank #straddle #スパンキング #찰싹때리 #训诫 #管教 #实践 #男主女贝 #强制 #羞耻 https://t.…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941897494868500601].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941897494868500601",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941897494868500601"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38866,
+        "height": 720,
+        "media_key": "7_1941499476210008064",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1941499476210008064/pu/img/KHGd7vrmJEJFg5cn.jpg",
+        "public_metrics": {
+          "view_count": 9836
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941499476210008064/pu/vid/avc1/480x270/VgXOE-3df9m-w7Lc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941499476210008064/pu/vid/avc1/640x360/L9zSCyTMiCnK_-Pu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1941499476210008064/pu/vid/avc1/1280x720/etS5R6kq2PU5gAUf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1941499476210008064/pu/pl/qcfA8yKPgyHTdH7Z.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1941499476210008064"
+          ]
+        },
+        "author_id": "1767952094051344391",
+        "conversation_id": "1941499551103562037",
+        "created_at": "2025-07-05T14:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T15:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941499551103562037"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 15,
+              "tag": "ddlg"
+            },
+            {
+              "end": 24,
+              "start": 21,
+              "tag": "mf"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "brat"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "小圈"
+            },
+            {
+              "end": 40,
+              "start": 35,
+              "tag": "小圈sp"
+            },
+            {
+              "end": 44,
+              "start": 41,
+              "tag": "sp"
+            },
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "spanking"
+            },
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "spank"
+            },
+            {
+              "end": 71,
+              "start": 62,
+              "tag": "straddle"
+            },
+            {
+              "end": 79,
+              "start": 72,
+              "tag": "スパンキング"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "찰싹때리"
+            },
+            {
+              "end": 89,
+              "start": 86,
+              "tag": "训诫"
+            },
+            {
+              "end": 93,
+              "start": 90,
+              "tag": "管教"
+            },
+            {
+              "end": 97,
+              "start": 94,
+              "tag": "实践"
+            },
+            {
+              "end": 103,
+              "start": 98,
+              "tag": "男主女贝"
+            },
+            {
+              "end": 107,
+              "start": 104,
+              "tag": "强制"
+            },
+            {
+              "end": 111,
+              "start": 108,
+              "tag": "羞耻"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XBEqrUvHOT",
+              "end": 135,
+              "expanded_url": "https://x.com/likemeeeee_/status/1941499551103562037/video/1",
+              "media_key": "7_1941499476210008064",
+              "start": 112,
+              "url": "https://t.co/XBEqrUvHOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941499551103562037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 25849,
+          "like_count": 673,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "痛+无法逃=最爱的强制感🥵\n\n#ddlg #mf #brat #小圈 #小圈sp #sp #spanking #spank #straddle #スパンキング #찰싹때리 #训诫 #管教 #实践 #男主女贝 #强制 #羞耻 https://t.co/XBEqrUvHOT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 403,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 110
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-13T16:33:41.000Z",
+        "description": "分享美照🧚🏻‍♀️&挨揍饭饭🍚｜雪的分身：@breakfreeeee_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "breakfreeeee_"
+              }
+            ]
+          }
+        },
+        "id": "1767952094051344391",
+        "location": "苏",
+        "name": "sHerry_❄️",
+        "pinned_tweet_id": "1939970841699094750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857384106637795328/UKHoyMO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15620,
+          "following_count": 121,
+          "like_count": 1027,
+          "listed_count": 43,
+          "media_count": 33,
+          "tweet_count": 271
+        },
+        "username": "likemeeeee_",
+        "verified": false
+      }
+    ]
+  }
+}

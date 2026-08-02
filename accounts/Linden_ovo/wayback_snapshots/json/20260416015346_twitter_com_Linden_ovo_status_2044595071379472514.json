@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2044594684501074210",
+    "created_at": "2026-04-16T01:53:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:53:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044595071379472514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859583818098712576",
+          "start": 0,
+          "username": "llxbb777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044595071379472514",
+    "in_reply_to_user_id": "1859583818098712576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044594997870354618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llxbb777 玩模仿者上瘾"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2044594997870354618].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2044594997870354618",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2044594997870354618"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2044594684501074210",
+        "created_at": "2026-04-16T01:53:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:53:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044595071379472514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859583818098712576",
+              "start": 0,
+              "username": "llxbb777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044595071379472514",
+        "in_reply_to_user_id": "1859583818098712576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044594997870354618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llxbb777 玩模仿者上瘾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 87,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 865
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T13:05:15.000Z",
+        "description": "蜷缩",
+        "id": "1859583818098712576",
+        "name": "いちにち",
+        "pinned_tweet_id": "2005787479790719222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027346875142283265/udnCDppb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "llxbb777",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T13:05:15.000Z",
+        "description": "蜷缩",
+        "id": "1859583818098712576",
+        "name": "いちにち",
+        "pinned_tweet_id": "2005787479790719222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027346875142283265/udnCDppb_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 2,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "username": "llxbb777",
+        "verified": false
+      }
+    ]
+  }
+}

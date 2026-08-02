@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1935591054230888955",
+    "created_at": "2025-06-19T06:50:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-19T07:50:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1935591054230888955"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656531547279982593",
+          "start": 3,
+          "username": "kosekibijou"
+        },
+        {
+          "end": 31,
+          "id": "94373100",
+          "start": 17,
+          "username": "Chegi_Channel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1935591054230888955",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 261
+    },
+    "referenced_tweets": [
+      {
+        "id": "1935527319109853504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kosekibijou: @Chegi_Channel GET A JOBBBBBBB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1935591054230888955",
+        "created_at": "2025-06-19T06:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T07:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935591054230888955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656531547279982593",
+              "start": 3,
+              "username": "kosekibijou"
+            },
+            {
+              "end": 31,
+              "id": "94373100",
+              "start": 17,
+              "username": "Chegi_Channel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935591054230888955",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "1935527319109853504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kosekibijou: @Chegi_Channel GET A JOBBBBBBB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656531547279982593",
+        "conversation_id": "1934173521456079025",
+        "created_at": "2025-06-19T02:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-19T03:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1935527319109853504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "94373100",
+              "start": 0,
+              "username": "Chegi_Channel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1935527319109853504",
+        "in_reply_to_user_id": "94373100",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 42570,
+          "like_count": 6308,
+          "quote_count": 6,
+          "reply_count": 102,
+          "retweet_count": 261
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934173521456079025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chegi_Channel GET A JOBBBBBBB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 73,
+          "like_count": 380,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 164
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T05:28:03.000Z",
+        "description": "Sparkling Gem of hololive English -Advent- |✨ Kira Kira~ Koseki! | Mama: @428clv | Papa: @otsukue | 🎨: #bijouwled | #LIVEseki | #LMOAI | #pebblesona",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "bijouwled"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "LIVEseki"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "LMOAI"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "tag": "pebblesona"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "428clv"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "otsukue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KosekiBijou",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KosekiBijou",
+                "start": 0,
+                "url": "https://t.co/BPFanQd0yb"
+              }
+            ]
+          }
+        },
+        "id": "1656531547279982593",
+        "name": "Koseki Bijou🗿holoEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776452971662049280/V_D-4vKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371972,
+          "following_count": 182,
+          "like_count": 20065,
+          "listed_count": 2619,
+          "media_count": 1076,
+          "tweet_count": 7328
+        },
+        "url": "https://t.co/BPFanQd0yb",
+        "username": "kosekibijou",
+        "verified": true
+      },
+      {
+        "created_at": "2009-12-03T17:27:08.000Z",
+        "description": "3D Animator/Modeller and VFX creator at night\nCreating animations for @takanashikiara, @moricalliope, @moonahoshinova, @nerissa_en , and .....",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 70,
+                "username": "takanashikiara"
+              },
+              {
+                "end": 100,
+                "start": 87,
+                "username": "moricalliope"
+              },
+              {
+                "end": 117,
+                "start": 102,
+                "username": "moonahoshinova"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "nerissa_en"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCmEFi…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCmEFio66yyzQE43B-vS2R6A",
+                "start": 0,
+                "url": "https://t.co/E3tOOcIRmQ"
+              }
+            ]
+          }
+        },
+        "id": "94373100",
+        "name": "ChegiCH",
+        "pinned_tweet_id": "1890753620510929390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882105707484286976/ehf9KhDX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25743,
+          "following_count": 706,
+          "like_count": 19000,
+          "listed_count": 82,
+          "media_count": 2268,
+          "tweet_count": 10289
+        },
+        "url": "https://t.co/E3tOOcIRmQ",
+        "username": "Chegi_Channel",
+        "verified": false
+      }
+    ]
+  }
+}

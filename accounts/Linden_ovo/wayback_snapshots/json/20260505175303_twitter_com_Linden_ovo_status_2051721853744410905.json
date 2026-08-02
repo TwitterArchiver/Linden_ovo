@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051549283749650432"
+      ],
+      "media_source_tweet_id": [
+        "2051549292855521746"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051721853744410905",
+    "created_at": "2026-05-05T17:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051721853744410905"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4925196324",
+          "start": 3,
+          "username": "yumenotobira_A"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5qk1U96CA",
+          "end": 55,
+          "expanded_url": "https://x.com/yumenotobira_A/status/2051549292855521746/photo/1",
+          "media_key": "3_2051549283749650432",
+          "start": 32,
+          "url": "https://t.co/E5qk1U96CA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051721853744410905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1817
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051549292855521746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yumenotobira_A: さすがにアツすぎる…！ https://t.co/E5qk1U96CA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1319,
+        "media_key": "3_2051549283749650432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHiRNDka4AA9ioe.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051549283749650432"
+          ],
+          "media_source_tweet_id": [
+            "2051549292855521746"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051721853744410905",
+        "created_at": "2026-05-05T17:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051721853744410905"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4925196324",
+              "start": 3,
+              "username": "yumenotobira_A"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5qk1U96CA",
+              "end": 55,
+              "expanded_url": "https://x.com/yumenotobira_A/status/2051549292855521746/photo/1",
+              "media_key": "3_2051549283749650432",
+              "start": 32,
+              "url": "https://t.co/E5qk1U96CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051721853744410905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1817
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051549292855521746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yumenotobira_A: さすがにアツすぎる…！ https://t.co/E5qk1U96CA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051549283749650432"
+          ]
+        },
+        "author_id": "4925196324",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051549292855521746",
+        "created_at": "2026-05-05T06:27:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T07:27:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051549292855521746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5qk1U96CA",
+              "end": 35,
+              "expanded_url": "https://x.com/yumenotobira_A/status/2051549292855521746/photo/1",
+              "media_key": "3_2051549283749650432",
+              "start": 12,
+              "url": "https://t.co/E5qk1U96CA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051549292855521746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 943,
+          "impression_count": 380778,
+          "like_count": 11828,
+          "quote_count": 69,
+          "reply_count": 41,
+          "retweet_count": 1817
+        },
+        "reply_settings": "everyone",
+        "text": "さすがにアツすぎる…！ https://t.co/E5qk1U96CA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 100,
+          "like_count": 1664,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1000
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-02-18T11:44:14.000Z",
+        "description": "アニメ、旅行、聖地巡礼、SASUKE等が好き。みんなサマポケやってくれ。いいねしてくれた人で趣味が合いそうな方をごく稀にフォローしてます。スクスタ第2回海未イベ1位。別垢(@toarutoa)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "toarutoa"
+              }
+            ]
+          }
+        },
+        "id": "4925196324",
+        "location": "案件やツイートリクエスト受け付けていません✖️",
+        "name": "とるあん",
+        "pinned_tweet_id": "2044583857811595630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040439923745153024/1Nlzd_hD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55668,
+          "following_count": 40102,
+          "like_count": 61109,
+          "listed_count": 119,
+          "media_count": 4804,
+          "tweet_count": 71079
+        },
+        "username": "yumenotobira_A",
+        "verified": false
+      }
+    ]
+  }
+}

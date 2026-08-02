@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1857879629559902356",
+    "created_at": "2024-11-16T20:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T21:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857879629559902356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1757616332240224256",
+          "start": 3,
+          "username": "B_cat38324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857879629559902356",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857652526386131024",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @B_cat38324: 长发男被老白男操之前：女人只是性工具罢了，女人就得打。\n长发男被老白男操之后：😭老白男怎么不理我了，😭是不是觉得我不好看啊，😭老白男是不是有其他男娘了，😭老白男理我了，管他要点钱买新丝袜好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1857879629559902356",
+        "created_at": "2024-11-16T20:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T21:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857879629559902356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1757616332240224256",
+              "start": 3,
+              "username": "B_cat38324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857879629559902356",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857652526386131024",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @B_cat38324: 长发男被老白男操之前：女人只是性工具罢了，女人就得打。\n长发男被老白男操之后：😭老白男怎么不理我了，😭是不是觉得我不好看啊，😭老白男是不是有其他男娘了，😭老白男理我了，管他要点钱买新丝袜好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757616332240224256",
+        "conversation_id": "1857652526386131024",
+        "created_at": "2024-11-16T05:10:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T06:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857652526386131024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1857652526386131024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 16204,
+          "like_count": 183,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "长发男被老白男操之前：女人只是性工具罢了，女人就得打。\n长发男被老白男操之后：😭老白男怎么不理我了，😭是不是觉得我不好看啊，😭老白男是不是有其他男娘了，😭老白男理我了，管他要点钱买新丝袜好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 59,
+          "like_count": 153,
+          "listed_count": 0,
+          "tweet_count": 38
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-14T04:03:09.000Z",
+        "description": "👾",
+        "id": "1757616332240224256",
+        "name": "坏蛋猫咪😎",
+        "pinned_tweet_id": "1853703602227085704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757617617349857280/_NU9tsNU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12091,
+          "following_count": 179,
+          "like_count": 298,
+          "listed_count": 40,
+          "tweet_count": 11068
+        },
+        "username": "B_cat38324",
+        "verified": false
+      }
+    ]
+  }
+}

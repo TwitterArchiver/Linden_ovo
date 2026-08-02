@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1881879971117035574",
+    "created_at": "2025-01-22T01:42:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-22T02:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881879971117035574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821845186382852098",
+          "start": 3,
+          "username": "pokennnnong"
+        },
+        {
+          "end": 28,
+          "id": "1776692674852249600",
+          "start": 17,
+          "username": "LLLLLsjshs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881879971117035574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881775004645576916",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pokennnnong: @LLLLLsjshs 好爽的蓝色跳蛋0826"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1881879971117035574",
+        "created_at": "2025-01-22T01:42:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T02:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881879971117035574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821845186382852098",
+              "start": 3,
+              "username": "pokennnnong"
+            },
+            {
+              "end": 28,
+              "id": "1776692674852249600",
+              "start": 17,
+              "username": "LLLLLsjshs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881879971117035574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881775004645576916",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pokennnnong: @LLLLLsjshs 好爽的蓝色跳蛋0826"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821845186382852098",
+        "conversation_id": "1881598612439982248",
+        "created_at": "2025-01-21T18:44:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T19:44:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881775004645576916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1776692674852249600",
+              "start": 0,
+              "username": "LLLLLsjshs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881775004645576916",
+        "in_reply_to_user_id": "1776692674852249600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 432,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881598612439982248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LLLLLsjshs 好爽的蓝色跳蛋0826"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 80,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-09T09:45:46.000Z",
+        "description": "",
+        "id": "1821845186382852098",
+        "name": "Utttu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821845481955487744/hRjZKfEu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 65,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "username": "pokennnnong",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T19:25:32.000Z",
+        "description": "intj-t",
+        "id": "1776692674852249600",
+        "name": "遗憾的白色三花",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881598024582856704/F-7lVQr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 46,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "username": "LLLLLsjshs",
+        "verified": false
+      }
+    ]
+  }
+}

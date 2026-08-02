@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1993594752491761757",
+    "created_at": "2025-11-26T08:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T09:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993594752491761757"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nakayamafesuta…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nakayamafesuta1/status/1993536327263072622",
+          "start": 14,
+          "url": "https://t.co/OcV3ewbm5A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993594752491761757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993536327263072622",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "冬娜(&gt;﹏&lt;) https://t.co/OcV3ewbm5A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1993536130722283523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6p2jHabwAMHXMH.jpg",
+        "width": 1340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1993594752491761757",
+        "created_at": "2025-11-26T08:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T09:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993594752491761757"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakayamafesuta…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nakayamafesuta1/status/1993536327263072622",
+              "start": 14,
+              "url": "https://t.co/OcV3ewbm5A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993594752491761757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993536327263072622",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "冬娜(&gt;﹏&lt;) https://t.co/OcV3ewbm5A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993536130722283523"
+          ]
+        },
+        "author_id": "614095221",
+        "conversation_id": "1993536327263072622",
+        "created_at": "2025-11-26T04:24:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T05:24:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993536327263072622"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Gentildonna",
+              "probability": 0.4593,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 162,
+              "normalized_text": "Japan Cup",
+              "probability": 0.5985,
+              "start": 154,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlqHa75goc",
+              "end": 296,
+              "expanded_url": "https://x.com/NakayamaFesuta1/status/1993536327263072622/photo/1",
+              "media_key": "3_1993536130722283523",
+              "start": 273,
+              "url": "https://t.co/jlqHa75goc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993536327263072622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1062,
+          "impression_count": 355422,
+          "like_count": 16487,
+          "quote_count": 783,
+          "reply_count": 246,
+          "retweet_count": 3946
+        },
+        "reply_settings": "everyone",
+        "text": "Gentildonna passed away on November 25, 2025.\n\nAfter leaving behind a brilliant record, she quietly passed away on November 25 the same date as her first Japan Cup victory.\n\nFrom here, her legacy will live on through her active offspring and their descendants.\n\nThank You. https://t.co/jlqHa75goc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 294
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-21T04:23:27.000Z",
+        "description": "Horse Racing enthusiast, Uma Musume follower, Susumu Fujita fan.",
+        "id": "614095221",
+        "name": "Nakayama-San",
+        "pinned_tweet_id": "1993536327263072622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943083129037819907/upW14lCy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9103,
+          "following_count": 911,
+          "like_count": 142687,
+          "listed_count": 18,
+          "media_count": 1419,
+          "tweet_count": 77824
+        },
+        "username": "NakayamaFesuta1",
+        "verified": false
+      }
+    ]
+  }
+}

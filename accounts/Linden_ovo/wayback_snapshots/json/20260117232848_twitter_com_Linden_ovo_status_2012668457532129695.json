@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2012668457532129695",
+    "created_at": "2026-01-17T23:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T00:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012668457532129695"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012668457532129695",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "现在在E1上我想起来一件事 在之前做赛马娘的时候一个粉丝对我很好 经常转我营业找我有偿签to 我出事了也是第一时间转我澄清 当时没人敢站队 澄清帖发出去一天内六千多浏览只有六个人转帖 后来我全平台换号没有了联系 直到25年年中偶然得知他未婚妻在25年出车祸走了 他现在去服五年兵役了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2012668457532129695",
+        "created_at": "2026-01-17T23:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T00:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012668457532129695"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012668457532129695",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在在E1上我想起来一件事 在之前做赛马娘的时候一个粉丝对我很好 经常转我营业找我有偿签to 我出事了也是第一时间转我澄清 当时没人敢站队 澄清帖发出去一天内六千多浏览只有六个人转帖 后来我全平台换号没有了联系 直到25年年中偶然得知他未婚妻在25年出车祸走了 他现在去服五年兵役了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了滚",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 74,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 467
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,743 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044659112269737984",
+        "3_2044659112265605120",
+        "3_2044659112232034304",
+        "3_2044659112244621312"
+      ],
+      "media_source_tweet_id": [
+        "2044659217743933720",
+        "2044659217743933720",
+        "2044659217743933720",
+        "2044659217743933720"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041843402",
+          "name": "化物語"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      }
+    ],
+    "conversation_id": "2044841536458826089",
+    "created_at": "2026-04-16T18:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T19:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044841536458826089"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 78,
+          "tag": "Solarain"
+        },
+        {
+          "end": 94,
+          "start": 88,
+          "tag": "ソラレイン"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "292351939",
+          "start": 3,
+          "username": "figsoku"
+        }
+      ],
+      "urls": [
+        {
+          "description": "■グッスマ出荷情報 2026年4月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6805【・4月24日(金)出荷】グッドスマイルアーツ上海「ねんどろいど シヴィライト・エテルナ」JAN:45…",
+          "display_url": "figsoku.net/blog-entry-501…",
+          "end": 77,
+          "expanded_url": "https://figsoku.net/blog-entry-501062.html",
+          "images": [
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044658336734588928/G0eSJG_d?format=jpg&name=orig",
+              "width": 200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2044658336734588928/G0eSJG_d?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "【グッスマ出荷情報】「生徒会にも穴はある! 陸奥こまろ」「<物語>シリーズ 忍野忍」フィギュアほか【発売日決定】",
+          "unwound_url": "https://figsoku.net/blog-entry-501062.html",
+          "url": "https://t.co/QbZnBxzzCg"
+        },
+        {
+          "display_url": "pic.x.com/vlArSZZ6ch",
+          "end": 118,
+          "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+          "media_key": "3_2044659112269737984",
+          "start": 95,
+          "url": "https://t.co/vlArSZZ6ch"
+        },
+        {
+          "display_url": "pic.x.com/vlArSZZ6ch",
+          "end": 118,
+          "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+          "media_key": "3_2044659112265605120",
+          "start": 95,
+          "url": "https://t.co/vlArSZZ6ch"
+        },
+        {
+          "display_url": "pic.x.com/vlArSZZ6ch",
+          "end": 118,
+          "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+          "media_key": "3_2044659112232034304",
+          "start": 95,
+          "url": "https://t.co/vlArSZZ6ch"
+        },
+        {
+          "display_url": "pic.x.com/vlArSZZ6ch",
+          "end": 118,
+          "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+          "media_key": "3_2044659112244621312",
+          "start": 95,
+          "url": "https://t.co/vlArSZZ6ch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044841536458826089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 387
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044659217743933720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @figsoku: 【物語シリーズ】「忍野忍」フィギュア\n\n【発売日決定】\n・4月24日(金)出荷！\nhttps://t.co/QbZnBxzzCg\n#Solarain #ソラレイン https://t.co/vlArSZZ6ch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2044659112269737984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAWoSmacAAOxE6.jpg",
+        "width": 800
+      },
+      {
+        "height": 800,
+        "media_key": "3_2044659112265605120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAWoSlbYAAbGfV.jpg",
+        "width": 660
+      },
+      {
+        "height": 800,
+        "media_key": "3_2044659112232034304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAWoSdbIAAEfdm.jpg",
+        "width": 660
+      },
+      {
+        "height": 800,
+        "media_key": "3_2044659112244621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGAWoSgbMAAb_e1.jpg",
+        "width": 533
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044659112269737984",
+            "3_2044659112265605120",
+            "3_2044659112232034304",
+            "3_2044659112244621312"
+          ],
+          "media_source_tweet_id": [
+            "2044659217743933720",
+            "2044659217743933720",
+            "2044659217743933720",
+            "2044659217743933720"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2044841536458826089",
+        "created_at": "2026-04-16T18:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T19:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044841536458826089"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 78,
+              "tag": "Solarain"
+            },
+            {
+              "end": 94,
+              "start": 88,
+              "tag": "ソラレイン"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "292351939",
+              "start": 3,
+              "username": "figsoku"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■グッスマ出荷情報 2026年4月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6805【・4月24日(金)出荷】グッドスマイルアーツ上海「ねんどろいど シヴィライト・エテルナ」JAN:45…",
+              "display_url": "figsoku.net/blog-entry-501…",
+              "end": 77,
+              "expanded_url": "https://figsoku.net/blog-entry-501062.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044658336734588928/G0eSJG_d?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044658336734588928/G0eSJG_d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "【グッスマ出荷情報】「生徒会にも穴はある! 陸奥こまろ」「<物語>シリーズ 忍野忍」フィギュアほか【発売日決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-501062.html",
+              "url": "https://t.co/QbZnBxzzCg"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 118,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112269737984",
+              "start": 95,
+              "url": "https://t.co/vlArSZZ6ch"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 118,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112265605120",
+              "start": 95,
+              "url": "https://t.co/vlArSZZ6ch"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 118,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112232034304",
+              "start": 95,
+              "url": "https://t.co/vlArSZZ6ch"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 118,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112244621312",
+              "start": 95,
+              "url": "https://t.co/vlArSZZ6ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044841536458826089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 387
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044659217743933720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @figsoku: 【物語シリーズ】「忍野忍」フィギュア\n\n【発売日決定】\n・4月24日(金)出荷！\nhttps://t.co/QbZnBxzzCg\n#Solarain #ソラレイン https://t.co/vlArSZZ6ch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044659112269737984",
+            "3_2044659112265605120",
+            "3_2044659112232034304",
+            "3_2044659112244621312"
+          ]
+        },
+        "author_id": "292351939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          }
+        ],
+        "conversation_id": "2044659217743933720",
+        "created_at": "2026-04-16T06:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T07:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044659217743933720"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 65,
+              "tag": "Solarain"
+            },
+            {
+              "end": 81,
+              "start": 75,
+              "tag": "ソラレイン"
+            }
+          ],
+          "urls": [
+            {
+              "description": "■グッスマ出荷情報 2026年4月の発売スケジュールが更新※実際の店頭発売日は、出荷日の2~3日後ですhttps://www.goodsmile.com/ja/news/6805【・4月24日(金)出荷】グッドスマイルアーツ上海「ねんどろいど シヴィライト・エテルナ」JAN:45…",
+              "display_url": "figsoku.net/blog-entry-501…",
+              "end": 64,
+              "expanded_url": "https://figsoku.net/blog-entry-501062.html",
+              "images": [
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044658336734588928/G0eSJG_d?format=jpg&name=orig",
+                  "width": 200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044658336734588928/G0eSJG_d?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "【グッスマ出荷情報】「生徒会にも穴はある! 陸奥こまろ」「<物語>シリーズ 忍野忍」フィギュアほか【発売日決定】",
+              "unwound_url": "https://figsoku.net/blog-entry-501062.html",
+              "url": "https://t.co/QbZnBxzzCg"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 105,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112269737984",
+              "start": 82,
+              "url": "https://t.co/vlArSZZ6ch"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 105,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112265605120",
+              "start": 82,
+              "url": "https://t.co/vlArSZZ6ch"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 105,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112232034304",
+              "start": 82,
+              "url": "https://t.co/vlArSZZ6ch"
+            },
+            {
+              "display_url": "pic.x.com/vlArSZZ6ch",
+              "end": 105,
+              "expanded_url": "https://x.com/figsoku/status/2044659217743933720/photo/1",
+              "media_key": "3_2044659112244621312",
+              "start": 82,
+              "url": "https://t.co/vlArSZZ6ch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044659217743933720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 499,
+          "impression_count": 339484,
+          "like_count": 3097,
+          "quote_count": 95,
+          "reply_count": 6,
+          "retweet_count": 387
+        },
+        "reply_settings": "everyone",
+        "text": "【物語シリーズ】「忍野忍」フィギュア\n\n【発売日決定】\n・4月24日(金)出荷！\nhttps://t.co/QbZnBxzzCg\n#Solarain #ソラレイン https://t.co/vlArSZZ6ch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 90,
+          "like_count": 1538,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 877
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-03T14:25:14.000Z",
+        "description": "美少女フィギュアやガンプラ・プラモ・玩具の\n新作情報や予約情報を配信してます！\n\nAmazonアソシエイト・プログラムの参加者です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "figsoku.net",
+                "end": 23,
+                "expanded_url": "http://figsoku.net/",
+                "start": 0,
+                "url": "https://t.co/paQJpi7uX6"
+              }
+            ]
+          }
+        },
+        "id": "292351939",
+        "location": "ポストにはPR・アフィリエイトのリンクを使用しています。",
+        "name": "ホビー速報＠フィギュア＆プラモ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/809605551332081664/CeREvYxX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184165,
+          "following_count": 2020,
+          "like_count": 53,
+          "listed_count": 2312,
+          "media_count": 66067,
+          "tweet_count": 124311
+        },
+        "url": "https://t.co/paQJpi7uX6",
+        "username": "figsoku",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1988532862589730816"
+      ],
+      "media_source_tweet_id": [
+        "1988532950355566639"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1989045061800112516",
+    "created_at": "2025-11-13T18:57:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T19:57:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989045061800112516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1424571429803028489",
+          "start": 3,
+          "username": "kmnm_1403"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bTZDZRnobV",
+          "end": 41,
+          "expanded_url": "https://x.com/kmnm_1403/status/1988532950355566639/photo/1",
+          "media_key": "3_1988532862589730816",
+          "start": 18,
+          "url": "https://t.co/bTZDZRnobV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989045061800112516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988532950355566639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kmnm_1403: パロ https://t.co/bTZDZRnobV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1720,
+        "media_key": "3_1988532862589730816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5iwGlLaAAAjcO1.jpg",
+        "width": 2200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988532862589730816"
+          ],
+          "media_source_tweet_id": [
+            "1988532950355566639"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1989045061800112516",
+        "created_at": "2025-11-13T18:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989045061800112516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1424571429803028489",
+              "start": 3,
+              "username": "kmnm_1403"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTZDZRnobV",
+              "end": 41,
+              "expanded_url": "https://x.com/kmnm_1403/status/1988532950355566639/photo/1",
+              "media_key": "3_1988532862589730816",
+              "start": 18,
+              "url": "https://t.co/bTZDZRnobV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989045061800112516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988532950355566639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kmnm_1403: パロ https://t.co/bTZDZRnobV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1988532862589730816"
+          ]
+        },
+        "author_id": "1424571429803028489",
+        "conversation_id": "1988532950355566639",
+        "created_at": "2025-11-12T09:02:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T10:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988532950355566639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bTZDZRnobV",
+              "end": 26,
+              "expanded_url": "https://x.com/kmnm_1403/status/1988532950355566639/photo/1",
+              "media_key": "3_1988532862589730816",
+              "start": 3,
+              "url": "https://t.co/bTZDZRnobV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988532950355566639",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 689,
+          "impression_count": 86589,
+          "like_count": 6714,
+          "quote_count": 28,
+          "reply_count": 17,
+          "retweet_count": 1188
+        },
+        "reply_settings": "everyone",
+        "text": "パロ https://t.co/bTZDZRnobV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 737,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 262
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-09T03:21:31.000Z",
+        "description": "「👾🎮」| 狛七日 + 雑多垢 |🔕|Repost with permission\nskeb: https://t.co/hzsuptgKSz",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kmnm_1403",
+                "end": 71,
+                "expanded_url": "http://skeb.jp/@kmnm_1403",
+                "start": 48,
+                "url": "https://t.co/hzsuptgKSz"
+              }
+            ]
+          }
+        },
+        "id": "1424571429803028489",
+        "name": "57",
+        "pinned_tweet_id": "1925133014780236198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988874331678760960/mCitFo5q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10051,
+          "following_count": 40,
+          "like_count": 11104,
+          "listed_count": 29,
+          "media_count": 199,
+          "tweet_count": 1353
+        },
+        "username": "kmnm_1403",
+        "verified": false
+      }
+    ]
+  }
+}

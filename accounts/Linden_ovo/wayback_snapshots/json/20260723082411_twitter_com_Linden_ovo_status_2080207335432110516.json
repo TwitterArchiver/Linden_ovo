@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080207335432110516",
+    "created_at": "2026-07-23T08:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T09:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080207335432110516"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/linden_ovo/status/2079783182157664638",
+          "start": 53,
+          "url": "https://t.co/r0LfgKe0Wy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080207335432110516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079783182157664638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真的特别特别清晰好尴尬啊我操…我还记得我在洗澡结果突然打开浴室门问我能不能沙发上女上再来一次…^ ^💦💦 https://t.co/r0LfgKe0Wy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080207335432110516",
+        "created_at": "2026-07-23T08:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080207335432110516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2079783182157664638",
+              "start": 53,
+              "url": "https://t.co/r0LfgKe0Wy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080207335432110516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079783182157664638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真的特别特别清晰好尴尬啊我操…我还记得我在洗澡结果突然打开浴室门问我能不能沙发上女上再来一次…^ ^💦💦 https://t.co/r0LfgKe0Wy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2079783182157664638",
+        "created_at": "2026-07-22T04:18:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:18:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079783182157664638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079783182157664638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1067,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好尴尬做了一个和朋友的春梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 146,
+          "like_count": 2701,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1752
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

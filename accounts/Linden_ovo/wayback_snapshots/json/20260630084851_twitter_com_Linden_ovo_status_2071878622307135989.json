@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071878455747121152",
+        "3_2071878455747096576"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2071878622307135989",
+    "created_at": "2026-06-30T08:48:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T09:48:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071878622307135989"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "百鬼あやめ"
+        },
+        {
+          "end": 12,
+          "start": 7,
+          "tag": "百鬼絵巻"
+        },
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "ホロライブ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wmXGs3LPYR",
+          "end": 43,
+          "expanded_url": "https://x.com/Linden_ovo/status/2071878622307135989/photo/1",
+          "media_key": "3_2071878455747121152",
+          "start": 20,
+          "url": "https://t.co/wmXGs3LPYR"
+        },
+        {
+          "display_url": "pic.x.com/wmXGs3LPYR",
+          "end": 43,
+          "expanded_url": "https://x.com/Linden_ovo/status/2071878622307135989/photo/1",
+          "media_key": "3_2071878455747096576",
+          "start": 20,
+          "url": "https://t.co/wmXGs3LPYR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071878622307135989",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#百鬼あやめ #百鬼絵巻 #ホロライブ https://t.co/wmXGs3LPYR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071878455747121152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDKemyXkAA6Su1.jpg",
+        "width": 1537
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071878455747096576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDKemyXMAA5wvD.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071878455747121152",
+            "3_2071878455747096576"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2071878622307135989",
+        "created_at": "2026-06-30T08:48:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T09:48:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071878622307135989"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "百鬼あやめ"
+            },
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "百鬼絵巻"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "ホロライブ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmXGs3LPYR",
+              "end": 43,
+              "expanded_url": "https://x.com/Linden_ovo/status/2071878622307135989/photo/1",
+              "media_key": "3_2071878455747121152",
+              "start": 20,
+              "url": "https://t.co/wmXGs3LPYR"
+            },
+            {
+              "display_url": "pic.x.com/wmXGs3LPYR",
+              "end": 43,
+              "expanded_url": "https://x.com/Linden_ovo/status/2071878622307135989/photo/1",
+              "media_key": "3_2071878455747096576",
+              "start": 20,
+              "url": "https://t.co/wmXGs3LPYR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071878622307135989",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#百鬼あやめ #百鬼絵巻 #ホロライブ https://t.co/wmXGs3LPYR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 111,
+          "like_count": 1856,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1159
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

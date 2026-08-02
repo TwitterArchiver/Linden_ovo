@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2039016314207871374",
+    "created_at": "2026-04-02T14:42:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T15:42:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039715112647381400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1944454423960489984",
+          "start": 0,
+          "username": "mji1621676"
+        },
+        {
+          "end": 20,
+          "id": "1865395656116129793",
+          "start": 12,
+          "username": "yhm2778"
+        },
+        {
+          "end": 27,
+          "id": "1789363214976991232",
+          "start": 21,
+          "username": "iaakc"
+        },
+        {
+          "end": 36,
+          "id": "1593799138893873152",
+          "start": 28,
+          "username": "Yujiudu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039715112647381400",
+    "in_reply_to_user_id": "1944454423960489984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039495296443629904",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mji1621676 @yhm2778 @iaakc @Yujiudu 梗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2039016314207871374",
+        "created_at": "2026-04-02T14:42:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:42:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039715112647381400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1944454423960489984",
+              "start": 0,
+              "username": "mji1621676"
+            },
+            {
+              "end": 20,
+              "id": "1865395656116129793",
+              "start": 12,
+              "username": "yhm2778"
+            },
+            {
+              "end": 27,
+              "id": "1789363214976991232",
+              "start": 21,
+              "username": "iaakc"
+            },
+            {
+              "end": 36,
+              "id": "1593799138893873152",
+              "start": 28,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039715112647381400",
+        "in_reply_to_user_id": "1944454423960489984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039495296443629904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mji1621676 @yhm2778 @iaakc @Yujiudu 梗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944454423960489984",
+        "conversation_id": "2039016314207871374",
+        "created_at": "2026-04-02T00:09:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039495296443629904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1865395656116129793",
+              "start": 0,
+              "username": "yhm2778"
+            },
+            {
+              "end": 15,
+              "id": "1789363214976991232",
+              "start": 9,
+              "username": "iaakc"
+            },
+            {
+              "end": 24,
+              "id": "1593799138893873152",
+              "start": 16,
+              "username": "Yujiudu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039495296443629904",
+        "in_reply_to_user_id": "1865395656116129793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039327190903627797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yhm2778 @iaakc @Yujiudu 社会信誉分🤣我怎么不知道有这种分数"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 84,
+          "like_count": 1447,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 807
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T17:50:49.000Z",
+        "description": "",
+        "id": "1944454423960489984",
+        "name": "悠悠情愫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990042531477037056/dSp_Xsv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "mji1621676",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T13:59:23.000Z",
+        "description": "",
+        "id": "1865395656116129793",
+        "name": "yhm",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866123795523944448/cdn94rqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 42,
+          "like_count": 213,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 122
+        },
+        "username": "yhm2778",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-11T18:33:39.000Z",
+        "description": "🇯🇵🇰🇷MIX",
+        "id": "1789363214976991232",
+        "location": "strong baseball country",
+        "name": "reiji@快活クラブ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008957395477909505/SULHD8iY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 45,
+          "like_count": 5185,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 2846
+        },
+        "username": "iaakc",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "跨圈混子 窝窝屎五年海猴 摄影圈HiFi圈已退役  欢迎私信找我交朋友\n买🍬可以找找@Minokakay\n推荐我自己长期使用的动兔VPN加速器https://t.co/vWxMasEtB8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 42,
+                "username": "Minokakay"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "dongtu2.sobotx.com/#/register?cod…",
+                "end": 94,
+                "expanded_url": "https://dongtu2.sobotx.com/#/register?code=UX4wscAS",
+                "start": 71,
+                "url": "https://t.co/vWxMasEtB8"
+              }
+            ]
+          }
+        },
+        "id": "1593799138893873152",
+        "name": "風月无边夜未央",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996692268997398532/753I2hJ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4405,
+          "following_count": 1960,
+          "like_count": 47415,
+          "listed_count": 8,
+          "media_count": 1224,
+          "tweet_count": 9299
+        },
+        "username": "Yujiudu",
+        "verified": true
+      }
+    ]
+  }
+}

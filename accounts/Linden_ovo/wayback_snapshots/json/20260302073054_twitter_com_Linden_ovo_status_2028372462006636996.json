@@ -1,0 +1,481 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028372444298313728"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2028275395909628062",
+    "created_at": "2026-03-02T07:30:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:30:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028372462006636996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "350694195",
+          "start": 0,
+          "username": "candytoy_c"
+        },
+        {
+          "end": 23,
+          "id": "1062499145267605504",
+          "start": 12,
+          "username": "AZKi_VDiVA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4UEjLud31o",
+          "end": 52,
+          "expanded_url": "https://x.com/Linden_ovo/status/2028372462006636996/photo/1",
+          "media_key": "3_2028372444298313728",
+          "start": 29,
+          "url": "https://t.co/4UEjLud31o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028372462006636996",
+    "in_reply_to_user_id": "350694195",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028275395909628062",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@candytoy_c @AZKi_VDiVA 好き！！ https://t.co/4UEjLud31o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 920,
+        "media_key": "3_2028372444298313728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY5_caXgAA8Qih.jpg",
+        "width": 861
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2028275376573775873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXhtW9aAAEf6X3.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028372444298313728"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2028275395909628062",
+        "created_at": "2026-03-02T07:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028372462006636996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "350694195",
+              "start": 0,
+              "username": "candytoy_c"
+            },
+            {
+              "end": 23,
+              "id": "1062499145267605504",
+              "start": 12,
+              "username": "AZKi_VDiVA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UEjLud31o",
+              "end": 52,
+              "expanded_url": "https://x.com/Linden_ovo/status/2028372462006636996/photo/1",
+              "media_key": "3_2028372444298313728",
+              "start": 29,
+              "url": "https://t.co/4UEjLud31o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028372462006636996",
+        "in_reply_to_user_id": "350694195",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028275395909628062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candytoy_c @AZKi_VDiVA 好き！！ https://t.co/4UEjLud31o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028275376573775873"
+          ]
+        },
+        "author_id": "350694195",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2028275395909628062",
+        "created_at": "2026-03-02T01:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028275395909628062"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 17,
+              "tag": "ホロライブプロダクション"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バンダイ キャンディ事業部が運営する“食品・おかし”の情報サイト",
+              "display_url": "bandai.co.jp/candy/products…",
+              "end": 143,
+              "expanded_url": "https://www.bandai.co.jp/candy/products/2026/4570117924705000.html",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2028275439077326848/RmWsopVx?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028275439077326848/RmWsopVx?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "ホロライブプロダクション チョコクランチ vol.2｜発売日：2026年3月30日｜バンダイ キャンディ公式サイト",
+              "unwound_url": "https://www.bandai.co.jp/candy/products/2026/4570117924705000.html",
+              "url": "https://t.co/iKRxk8VqkY"
+            },
+            {
+              "display_url": "pic.x.com/tDmr5Q39DR",
+              "end": 167,
+              "expanded_url": "https://x.com/candytoy_c/status/2028275395909628062/photo/1",
+              "media_key": "3_2028275376573775873",
+              "start": 144,
+              "url": "https://t.co/tDmr5Q39DR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028275395909628062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 658,
+          "impression_count": 256871,
+          "like_count": 6247,
+          "quote_count": 339,
+          "reply_count": 38,
+          "retweet_count": 1826
+        },
+        "reply_settings": "everyone",
+        "text": "＼イラスト全種公開＆発売日決定／\n＃ホロライブプロダクション の新規描きおこし\nミニキャライラストステッカー付きチョコクランチ第2弾！\n\nvol.2にラインナップされるイラスト全31種を公開！\n3月30日全国のお菓子売り場で発売です✨\n\n▷https://t.co/iKRxk8VqkY https://t.co/tDmr5Q39DR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 80,
+          "like_count": 1249,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 658
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-08T05:11:20.000Z",
+        "description": "バンダイキャンディ公式アカウントです。食玩・菓子・食品の新商品やキャンペーン情報など、旬な情報をお届けします！ ご質問・お問い合わせにはお答えしておりませんのでご容赦ください。​\nInstagram‣https://t.co/865bwAdfS5​\n電子マネーが当たるアンケート‣https://t.co/JGeTT4sw76",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/ihiGrTm",
+                "end": 123,
+                "expanded_url": "http://onl.la/ihiGrTm",
+                "start": 100,
+                "url": "https://t.co/865bwAdfS5"
+              },
+              {
+                "display_url": "bit.ly/b_c_m",
+                "end": 163,
+                "expanded_url": "http://bit.ly/b_c_m",
+                "start": 140,
+                "url": "https://t.co/JGeTT4sw76"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bandai.co.jp/candy/",
+                "end": 23,
+                "expanded_url": "http://www.bandai.co.jp/candy/",
+                "start": 0,
+                "url": "https://t.co/7WZJNpnHtq"
+              }
+            ]
+          }
+        },
+        "id": "350694195",
+        "location": "日本",
+        "name": "バンダイ キャンディ【公式】",
+        "pinned_tweet_id": "2024680415026696585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/804118361357488128/t0T5s8A6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711714,
+          "following_count": 428,
+          "like_count": 473,
+          "listed_count": 1745,
+          "media_count": 6799,
+          "tweet_count": 11145
+        },
+        "url": "https://t.co/7WZJNpnHtq",
+        "username": "candytoy_c",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-14T00:15:11.000Z",
+        "description": "ホロライブ(@hololivetv)所属のAZKiです。歌うことが大好き。タグ #AZKi ファンアートは #AZKiART 私と一緒に世界を創ってくれる ファンのみんなは #開拓者 ⚒️ パパは@ksk_st",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "AZKi"
+              },
+              {
+                "end": 62,
+                "start": 54,
+                "tag": "AZKiART"
+              },
+              {
+                "end": 91,
+                "start": 87,
+                "tag": "開拓者"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "hololivetv"
+              },
+              {
+                "end": 105,
+                "start": 98,
+                "username": "ksk_st"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UC0TXe…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+                "start": 0,
+                "url": "https://t.co/yd3bOc0Tqo"
+              }
+            ]
+          }
+        },
+        "id": "1062499145267605504",
+        "name": "AZKi",
+        "pinned_tweet_id": "2022672173429928121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991852837131960320/6Nb-9SzB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904467,
+          "following_count": 966,
+          "like_count": 29633,
+          "listed_count": 10263,
+          "media_count": 4175,
+          "tweet_count": 22522
+        },
+        "url": "https://t.co/yd3bOc0Tqo",
+        "username": "AZKi_VDiVA",
+        "verified": true
+      }
+    ]
+  }
+}

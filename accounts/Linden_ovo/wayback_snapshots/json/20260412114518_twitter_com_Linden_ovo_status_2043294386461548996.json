@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042558449935151105"
+      ],
+      "media_source_tweet_id": [
+        "2042558452812427700"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041843402",
+          "name": "化物語"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1114172178935582720",
+          "name": "Monogatari Series"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2043294386461548996",
+    "created_at": "2026-04-12T11:45:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:45:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043294386461548996"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 33,
+          "tag": "物語シリーズ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1523572164036759552",
+          "start": 3,
+          "username": "itoma_mahimahi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMlSOSiDC4",
+          "end": 64,
+          "expanded_url": "https://x.com/itoma_mahimahi/status/2042558452812427700/photo/1",
+          "media_key": "3_2042558449935151105",
+          "start": 41,
+          "url": "https://t.co/PMlSOSiDC4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043294386461548996",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 855
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042558452812427700",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @itoma_mahimahi: 魔法少女つばひたマギカ\n #物語シリーズ https://t.co/PMlSOSiDC4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1341,
+        "media_key": "3_2042558449935151105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFigFplbcAEespS.jpg",
+        "width": 1221
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042558449935151105"
+          ],
+          "media_source_tweet_id": [
+            "2042558452812427700"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2043294386461548996",
+        "created_at": "2026-04-12T11:45:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:45:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043294386461548996"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "物語シリーズ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1523572164036759552",
+              "start": 3,
+              "username": "itoma_mahimahi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMlSOSiDC4",
+              "end": 64,
+              "expanded_url": "https://x.com/itoma_mahimahi/status/2042558452812427700/photo/1",
+              "media_key": "3_2042558449935151105",
+              "start": 41,
+              "url": "https://t.co/PMlSOSiDC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043294386461548996",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 855
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042558452812427700",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @itoma_mahimahi: 魔法少女つばひたマギカ\n #物語シリーズ https://t.co/PMlSOSiDC4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042558449935151105"
+          ]
+        },
+        "author_id": "1523572164036759552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041843402",
+              "name": "化物語"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1114172178935582720",
+              "name": "Monogatari Series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2042558452812427700",
+        "created_at": "2026-04-10T11:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T12:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042558452812427700"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 13,
+              "tag": "物語シリーズ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMlSOSiDC4",
+              "end": 44,
+              "expanded_url": "https://x.com/itoma_mahimahi/status/2042558452812427700/photo/1",
+              "media_key": "3_2042558449935151105",
+              "start": 21,
+              "url": "https://t.co/PMlSOSiDC4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042558452812427700",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 576,
+          "impression_count": 58484,
+          "like_count": 5719,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 855
+        },
+        "reply_settings": "everyone",
+        "text": "魔法少女つばひたマギカ\n #物語シリーズ https://t.co/PMlSOSiDC4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 85,
+          "like_count": 1494,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 843
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T07:55:51.000Z",
+        "description": "ほぼ物語シリーズ二次創作アカウントです☆\nSkeb▶https://t.co/3T6nw1mO9I pixiv▶https://t.co/Wzy3FTNKgJ\nBOOTH▶https://t.co/jE8wteH51O",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@itoma_mahimahi",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@itoma_mahimahi",
+                "start": 26,
+                "url": "https://t.co/3T6nw1mO9I"
+              },
+              {
+                "display_url": "pixiv.net/users/1536736",
+                "end": 79,
+                "expanded_url": "https://www.pixiv.net/users/1536736",
+                "start": 56,
+                "url": "https://t.co/Wzy3FTNKgJ"
+              },
+              {
+                "display_url": "itoma-hima.booth.pm",
+                "end": 109,
+                "expanded_url": "http://itoma-hima.booth.pm",
+                "start": 86,
+                "url": "https://t.co/jE8wteH51O"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/z9m7cbn4w3ry0k…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/z9m7cbn4w3ry0kv?t=LIAp0V&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/smDi67fd9x"
+              }
+            ]
+          }
+        },
+        "id": "1523572164036759552",
+        "name": "暇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1605529137329979392/uvDEqYbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17763,
+          "following_count": 664,
+          "like_count": 34814,
+          "listed_count": 104,
+          "media_count": 554,
+          "tweet_count": 9428
+        },
+        "url": "https://t.co/smDi67fd9x",
+        "username": "itoma_mahimahi",
+        "verified": false
+      }
+    ]
+  }
+}

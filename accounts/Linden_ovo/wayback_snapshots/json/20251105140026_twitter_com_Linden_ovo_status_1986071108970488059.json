@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985928681596874752"
+      ],
+      "media_source_tweet_id": [
+        "1985928684188918096"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1986071108970488059",
+    "created_at": "2025-11-05T14:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T15:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986071108970488059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1460562205406027784",
+          "start": 3,
+          "username": "FemboysGang"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oEsSbvfbEx",
+          "end": 40,
+          "expanded_url": "https://x.com/FemboysGang/status/1985928684188918096/photo/1",
+          "media_key": "3_1985928681596874752",
+          "start": 17,
+          "url": "https://t.co/oEsSbvfbEx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986071108970488059",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 203
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985928684188918096",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FemboysGang: https://t.co/oEsSbvfbEx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1131,
+        "media_key": "3_1985928681596874752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49vnS_XcAALORB.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985928681596874752"
+          ],
+          "media_source_tweet_id": [
+            "1985928684188918096"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1986071108970488059",
+        "created_at": "2025-11-05T14:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T15:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986071108970488059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1460562205406027784",
+              "start": 3,
+              "username": "FemboysGang"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEsSbvfbEx",
+              "end": 40,
+              "expanded_url": "https://x.com/FemboysGang/status/1985928684188918096/photo/1",
+              "media_key": "3_1985928681596874752",
+              "start": 17,
+              "url": "https://t.co/oEsSbvfbEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986071108970488059",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 203
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985928684188918096",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FemboysGang: https://t.co/oEsSbvfbEx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985928681596874752"
+          ]
+        },
+        "author_id": "1460562205406027784",
+        "conversation_id": "1985928684188918096",
+        "created_at": "2025-11-05T04:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T05:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985928684188918096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oEsSbvfbEx",
+              "end": 23,
+              "expanded_url": "https://x.com/FemboysGang/status/1985928684188918096/photo/1",
+              "media_key": "3_1985928681596874752",
+              "start": 0,
+              "url": "https://t.co/oEsSbvfbEx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985928684188918096",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 285,
+          "impression_count": 18753,
+          "like_count": 2416,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 203
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oEsSbvfbEx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 60,
+          "like_count": 707,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 241
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T10:55:54.000Z",
+        "description": "femboy memes",
+        "id": "1460562205406027784",
+        "location": "Code: FEMBOYY in Fortnite ",
+        "name": "Femboy Gang",
+        "pinned_tweet_id": "1910442782415528220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794923520348028928/pIKpU3an_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70746,
+          "following_count": 85,
+          "like_count": 355,
+          "listed_count": 60,
+          "media_count": 397,
+          "tweet_count": 412
+        },
+        "username": "FemboysGang",
+        "verified": false
+      }
+    ]
+  }
+}

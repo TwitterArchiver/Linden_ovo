@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074666233761239412",
+    "created_at": "2026-07-08T01:25:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T02:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074666233761239412"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1659979401042493441",
+          "start": 3,
+          "username": "Yudal9645510352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074666233761239412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074535804706467923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yudal9645510352: 我以后要做个土逼快乐的活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074666233761239412",
+        "created_at": "2026-07-08T01:25:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T02:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074666233761239412"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1659979401042493441",
+              "start": 3,
+              "username": "Yudal9645510352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074666233761239412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074535804706467923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yudal9645510352: 我以后要做个土逼快乐的活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659979401042493441",
+        "conversation_id": "2074535804706467923",
+        "created_at": "2026-07-07T16:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074535804706467923"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074535804706467923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我以后要做个土逼快乐的活着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 132,
+          "like_count": 2267,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1456
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T17:48:35.000Z",
+        "description": "总有一天会好的总有一天。",
+        "id": "1659979401042493441",
+        "location": "Munich, Bavaria",
+        "name": "Tina",
+        "pinned_tweet_id": "2028234214504534060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064442613114036224/48tNPCPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 2126,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "Yudal9645510352",
+        "verified": false
+      }
+    ]
+  }
+}

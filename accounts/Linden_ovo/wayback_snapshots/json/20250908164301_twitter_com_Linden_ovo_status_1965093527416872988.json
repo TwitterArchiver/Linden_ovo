@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1965093527416872988",
+    "created_at": "2025-09-08T16:43:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:43:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1965093527416872988"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1965093527416872988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一紧张一纠结一难以抉择就什么也做不好然后后悔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1965093527416872988",
+        "created_at": "2025-09-08T16:43:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:43:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965093527416872988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965093527416872988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一紧张一纠结一难以抉择就什么也做不好然后后悔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 45,
+          "like_count": 488,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 89
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

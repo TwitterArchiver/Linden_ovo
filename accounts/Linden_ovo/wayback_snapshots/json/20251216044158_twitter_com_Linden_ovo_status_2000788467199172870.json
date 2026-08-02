@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2000788467199172870",
+    "created_at": "2025-12-16T04:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000788467199172870"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000788467199172870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "真的很感动 虽然喝断片了 昨天一个人在ktv厕所大声的哭 真的哭得很惨很大声 有个女生在门口跟我喊说姐妹不要哭人生除了生死无大事 什么事都会过去的 还有个阿姨跟我说他给男的花了好多好多钱人家根本不爱她 什么的 我说他怎么这么坏！呜呜呜呜真的很感动啊 真的很感恩这样的善意…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2000788467199172870",
+        "created_at": "2025-12-16T04:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000788467199172870"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000788467199172870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的很感动 虽然喝断片了 昨天一个人在ktv厕所大声的哭 真的哭得很惨很大声 有个女生在门口跟我喊说姐妹不要哭人生除了生死无大事 什么事都会过去的 还有个阿姨跟我说他给男的花了好多好多钱人家根本不爱她 什么的 我说他怎么这么坏！呜呜呜呜真的很感动啊 真的很感恩这样的善意…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 378
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

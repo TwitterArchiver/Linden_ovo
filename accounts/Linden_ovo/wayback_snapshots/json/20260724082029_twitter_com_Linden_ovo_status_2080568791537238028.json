@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080568791537238028",
+    "created_at": "2026-07-24T08:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080568791537238028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1901287406919360512",
+          "start": 3,
+          "username": "4ever_keep_move"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080568791537238028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 183
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079912176144539651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ever_keep_move: 我觉得我是那种能无聊到买假牛子和飞机杯然后插着玩的神人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080568791537238028",
+        "created_at": "2026-07-24T08:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080568791537238028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1901287406919360512",
+              "start": 3,
+              "username": "4ever_keep_move"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080568791537238028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 183
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079912176144539651",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ever_keep_move: 我觉得我是那种能无聊到买假牛子和飞机杯然后插着玩的神人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901287406919360512",
+        "conversation_id": "2079912176144539651",
+        "created_at": "2026-07-22T12:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079912176144539651"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079912176144539651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 252945,
+          "like_count": 3674,
+          "quote_count": 24,
+          "reply_count": 480,
+          "retweet_count": 183
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我是那种能无聊到买假牛子和飞机杯然后插着玩的神人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 147,
+          "like_count": 2736,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1768
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-16T15:00:26.000Z",
+        "description": "俺嘞朋友圈丨switch丨05 直男 男同放过我谢谢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%AA%9D%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%AA%9D%E5%94%89%E8%82%A0%E7%B2%89",
+                "start": 0,
+                "url": "https://t.co/W4kfcgBEBv"
+              }
+            ]
+          }
+        },
+        "id": "1901287406919360512",
+        "location": "匿名在这里➡️",
+        "name": "Nam_",
+        "pinned_tweet_id": "1980821798678937639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069093543378087939/WyW_KMR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 307,
+          "like_count": 32117,
+          "listed_count": 4,
+          "media_count": 338,
+          "tweet_count": 7749
+        },
+        "url": "https://t.co/W4kfcgBEBv",
+        "username": "4ever_keep_move",
+        "verified": false
+      }
+    ]
+  }
+}

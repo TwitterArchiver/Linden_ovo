@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1927974200108601846",
+    "created_at": "2025-05-30T15:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-30T16:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928470655420273141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863305908111220736",
+          "start": 0,
+          "username": "GayIsReadinThis"
+        },
+        {
+          "end": 32,
+          "id": "1808381645256642562",
+          "start": 17,
+          "username": "AntifeminismCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928470655420273141",
+    "in_reply_to_user_id": "1863305908111220736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928239315793936661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GayIsReadinThis @AntifeminismCN 不说了是以侮辱词的情态下禁用么，国家没说卖逼合理轮不到一个妇女报做决定"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1927974200108601846",
+        "created_at": "2025-05-30T15:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T16:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928470655420273141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863305908111220736",
+              "start": 0,
+              "username": "GayIsReadinThis"
+            },
+            {
+              "end": 32,
+              "id": "1808381645256642562",
+              "start": 17,
+              "username": "AntifeminismCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928470655420273141",
+        "in_reply_to_user_id": "1863305908111220736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928239315793936661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GayIsReadinThis @AntifeminismCN 不说了是以侮辱词的情态下禁用么，国家没说卖逼合理轮不到一个妇女报做决定"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863305908111220736",
+        "conversation_id": "1927974200108601846",
+        "created_at": "2025-05-29T23:57:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T00:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928239315793936661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808381645256642562",
+              "start": 0,
+              "username": "AntifeminismCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928239315793936661",
+        "in_reply_to_user_id": "1808381645256642562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1623,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927974200108601846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AntifeminismCN 不使用“妓女”和“卖淫女”是想通过语言腐败潜移默化的使卖逼合理化吗？那这群母狗很死妈了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927724443654119424/p0JIUkhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 65,
+          "like_count": 356,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 151
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T19:35:48.000Z",
+        "description": "这是一个温柔的人类。(≧ᴗ≦)",
+        "id": "1863305908111220736",
+        "location": "Vancouver, Canada ",
+        "name": "父",
+        "pinned_tweet_id": "1878989606043214008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878614634573557760/tUmykVH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 17,
+          "like_count": 2405,
+          "listed_count": 2,
+          "media_count": 294,
+          "tweet_count": 2582
+        },
+        "username": "GayIsReadinThis",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T06:06:40.000Z",
+        "description": "国男在男权革命中得到的只是锁链，他们拴住的将是整个世界。\n 全世界反女权主义者，联合起来！",
+        "id": "1808381645256642562",
+        "name": "阿米娜 • 阔依姆@8964代目",
+        "pinned_tweet_id": "1891767787732791454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808382228344590339/PTSBEAXw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 86,
+          "like_count": 4592,
+          "listed_count": 3,
+          "media_count": 691,
+          "tweet_count": 1836
+        },
+        "username": "AntifeminismCN",
+        "verified": false
+      }
+    ]
+  }
+}

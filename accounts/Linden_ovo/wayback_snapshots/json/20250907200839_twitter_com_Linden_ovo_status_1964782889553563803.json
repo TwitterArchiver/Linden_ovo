@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964678929475923969"
+      ],
+      "media_source_tweet_id": [
+        "1964679277687050713"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1964782889553563803",
+    "created_at": "2025-09-07T20:08:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T21:08:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964782889553563803"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "bijouwled",
+          "probability": 0.4557,
+          "start": 40,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 39,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "865934696793776128",
+          "start": 3,
+          "username": "ttab865478"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o1FlvEPTlJ",
+          "end": 73,
+          "expanded_url": "https://x.com/ttab865478/status/1964679277687050713/photo/1",
+          "media_key": "3_1964678929475923969",
+          "start": 50,
+          "url": "https://t.co/o1FlvEPTlJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964782889553563803",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964679277687050713",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ttab865478: ⚠️3D cute rock alert⚠️\n#bijouwled https://t.co/o1FlvEPTlJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1964678929475923969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0PxE7kbcAEr2d7.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964678929475923969"
+          ],
+          "media_source_tweet_id": [
+            "1964679277687050713"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1964782889553563803",
+        "created_at": "2025-09-07T20:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T21:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964782889553563803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "bijouwled",
+              "probability": 0.4557,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 39,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "865934696793776128",
+              "start": 3,
+              "username": "ttab865478"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1FlvEPTlJ",
+              "end": 73,
+              "expanded_url": "https://x.com/ttab865478/status/1964679277687050713/photo/1",
+              "media_key": "3_1964678929475923969",
+              "start": 50,
+              "url": "https://t.co/o1FlvEPTlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964782889553563803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964679277687050713",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ttab865478: ⚠️3D cute rock alert⚠️\n#bijouwled https://t.co/o1FlvEPTlJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964678929475923969"
+          ]
+        },
+        "author_id": "865934696793776128",
+        "conversation_id": "1964679277687050713",
+        "created_at": "2025-09-07T13:16:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T14:16:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964679277687050713"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "bijouwled",
+              "probability": 0.4051,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o1FlvEPTlJ",
+              "end": 57,
+              "expanded_url": "https://x.com/ttab865478/status/1964679277687050713/photo/1",
+              "media_key": "3_1964678929475923969",
+              "start": 34,
+              "url": "https://t.co/o1FlvEPTlJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964679277687050713",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4302,
+          "like_count": 524,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️3D cute rock alert⚠️\n#bijouwled https://t.co/o1FlvEPTlJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958051018467323904/Lqx8miui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 41,
+          "like_count": 479,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 126
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-20T14:18:14.000Z",
+        "description": "台灣人🇹🇼\n試著創作的人\n｜Blue Archive｜｜HololiveEN｜\nstill learning English｜日本語を勉強中です",
+        "id": "865934696793776128",
+        "name": "海大膽_HaidanDa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864834280947617792/e-8caUgL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 221,
+          "like_count": 348,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 227
+        },
+        "username": "ttab865478",
+        "verified": false
+      }
+    ]
+  }
+}

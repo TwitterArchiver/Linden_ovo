@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072353371168952320"
+      ],
+      "media_source_tweet_id": [
+        "2072353381155557508"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072354833449852980",
+    "created_at": "2026-07-01T16:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072354833449852980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1659979401042493441",
+          "start": 3,
+          "username": "Yudal9645510352"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ks6xkonV8f",
+          "end": 72,
+          "expanded_url": "https://x.com/Yudal9645510352/status/2072353381155557508/photo/1",
+          "media_key": "3_2072353371168952320",
+          "start": 49,
+          "url": "https://t.co/Ks6xkonV8f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072354833449852980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072353381155557508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yudal9645510352: 对不起我除了打守望先锋什么也不会了\n甚至打的都不是很好 https://t.co/Ks6xkonV8f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072353371168952320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJ6aUmb0AApdJn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072353371168952320"
+          ],
+          "media_source_tweet_id": [
+            "2072353381155557508"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072354833449852980",
+        "created_at": "2026-07-01T16:21:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:21:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072354833449852980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1659979401042493441",
+              "start": 3,
+              "username": "Yudal9645510352"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ks6xkonV8f",
+              "end": 72,
+              "expanded_url": "https://x.com/Yudal9645510352/status/2072353381155557508/photo/1",
+              "media_key": "3_2072353371168952320",
+              "start": 49,
+              "url": "https://t.co/Ks6xkonV8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072354833449852980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072353381155557508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yudal9645510352: 对不起我除了打守望先锋什么也不会了\n甚至打的都不是很好 https://t.co/Ks6xkonV8f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072353371168952320"
+          ]
+        },
+        "author_id": "1659979401042493441",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072353381155557508",
+        "created_at": "2026-07-01T16:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072353381155557508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ks6xkonV8f",
+              "end": 51,
+              "expanded_url": "https://x.com/Yudal9645510352/status/2072353381155557508/photo/1",
+              "media_key": "3_2072353371168952320",
+              "start": 28,
+              "url": "https://t.co/Ks6xkonV8f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072353381155557508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "对不起我除了打守望先锋什么也不会了\n甚至打的都不是很好 https://t.co/Ks6xkonV8f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 109,
+          "like_count": 1929,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1207
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T17:48:35.000Z",
+        "description": "总有一天会好的总有一天。",
+        "id": "1659979401042493441",
+        "location": "Munich, Bavaria",
+        "name": "Tina",
+        "pinned_tweet_id": "2028234214504534060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064442613114036224/48tNPCPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 74,
+          "like_count": 2156,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Yudal9645510352",
+        "verified": false
+      }
+    ]
+  }
+}

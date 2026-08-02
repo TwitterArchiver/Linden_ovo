@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073362584229511561",
+    "created_at": "2026-07-04T13:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073391565393768532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1842567018899288064",
+          "start": 0,
+          "username": "lyh1310z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073391565393768532",
+    "in_reply_to_user_id": "1842567018899288064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073380324827075052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lyh1310z 他跟我互fo啊玩推咋了我都当wb用的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073362584229511561",
+        "created_at": "2026-07-04T13:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073391565393768532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1842567018899288064",
+              "start": 0,
+              "username": "lyh1310z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073391565393768532",
+        "in_reply_to_user_id": "1842567018899288064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073380324827075052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lyh1310z 他跟我互fo啊玩推咋了我都当wb用的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842567018899288064",
+        "conversation_id": "2073362584229511561",
+        "created_at": "2026-07-04T12:16:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T13:16:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073380324827075052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073380324827075052",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073362976392851806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 那你男朋友知道你玩推吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论上可以和我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 123,
+          "like_count": 2105,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1346
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T14:06:37.000Z",
+        "description": "Anime best",
+        "id": "1842567018899288064",
+        "location": "Tokyo",
+        "name": "坂本銀時",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999871052659531776/nTsIQ3Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 20,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "lyh1310z",
+        "verified": false
+      }
+    ]
+  }
+}

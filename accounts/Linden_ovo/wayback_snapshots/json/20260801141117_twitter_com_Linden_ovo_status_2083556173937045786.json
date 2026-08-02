@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2083556173937045786",
+    "created_at": "2026-08-01T14:11:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:11:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083556173937045786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2026521630449741824",
+          "start": 3,
+          "username": "kazekita382593"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083556173937045786",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083352704001429811",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kazekita382593: 想建一个全是东北人的群，然后在群里疯狂的说satisfaction，where is fucking base，小心震荡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2083556173937045786",
+        "created_at": "2026-08-01T14:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083556173937045786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2026521630449741824",
+              "start": 3,
+              "username": "kazekita382593"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083556173937045786",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083352704001429811",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kazekita382593: 想建一个全是东北人的群，然后在群里疯狂的说satisfaction，where is fucking base，小心震荡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026521630449741824",
+        "conversation_id": "2083352704001429811",
+        "created_at": "2026-08-01T00:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T01:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083352704001429811"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083352704001429811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "想建一个全是东北人的群，然后在群里疯狂的说satisfaction，where is fucking base，小心震荡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 146,
+          "like_count": 2902,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1919
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-25T04:56:37.000Z",
+        "description": "自由 民主 科学",
+        "id": "2026521630449741824",
+        "location": "中南海 北京",
+        "name": "kitakaze",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083352963104608256/lnZdHFJW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 41,
+          "like_count": 4469,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 160
+        },
+        "url": "",
+        "username": "kazekita382593",
+        "verified": false
+      }
+    ]
+  }
+}

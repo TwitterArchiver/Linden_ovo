@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1882977968957665729",
+    "created_at": "2025-01-25T02:25:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-25T03:25:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882977968957665729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1363489029430403073",
+          "start": 3,
+          "username": "5cmdkOARZbuaVAG"
+        },
+        {
+          "end": 37,
+          "id": "1869080163272761344",
+          "start": 21,
+          "username": "shunshoudeshier"
+        },
+        {
+          "end": 50,
+          "id": "1657923596591988737",
+          "start": 38,
+          "username": "dtooaaoooaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882977968957665729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882920277576950015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @5cmdkOARZbuaVAG: @shunshoudeshier @dtooaaoooaa 最优解是不跟男的做爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1882977968957665729",
+        "created_at": "2025-01-25T02:25:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T03:25:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882977968957665729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1363489029430403073",
+              "start": 3,
+              "username": "5cmdkOARZbuaVAG"
+            },
+            {
+              "end": 37,
+              "id": "1869080163272761344",
+              "start": 21,
+              "username": "shunshoudeshier"
+            },
+            {
+              "end": 50,
+              "id": "1657923596591988737",
+              "start": 38,
+              "username": "dtooaaoooaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882977968957665729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882920277576950015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @5cmdkOARZbuaVAG: @shunshoudeshier @dtooaaoooaa 最优解是不跟男的做爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363489029430403073",
+        "conversation_id": "1882611184379277512",
+        "created_at": "2025-01-24T22:35:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T23:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882920277576950015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869080163272761344",
+              "start": 0,
+              "username": "shunshoudeshier"
+            },
+            {
+              "end": 29,
+              "id": "1657923596591988737",
+              "start": 17,
+              "username": "dtooaaoooaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882920277576950015",
+        "in_reply_to_user_id": "1869080163272761344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882727083304182245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shunshoudeshier @dtooaaoooaa 最优解是不跟男的做爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 100
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T14:02:24.000Z",
+        "description": "Es ist ein Segen für dich, mich zu kennen, und es ist auch deine Vergeltung.  👸👩‍✈️👩‍🎓👮‍♀️🤵‍♀️\n“我”本位。100%支持激进女权。极度厌蠢。不完全统计99%的男的都是蠢货，挨骂是必然。来吧，向我证明你是那1%",
+        "id": "1363489029430403073",
+        "name": "Wilde Hexe",
+        "pinned_tweet_id": "1833034551548879315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760395314610008064/Bj_yjfX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3715,
+          "following_count": 482,
+          "like_count": 84920,
+          "listed_count": 16,
+          "media_count": 1924,
+          "tweet_count": 42583
+        },
+        "username": "5cmdkOARZbuaVAG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-17T18:00:26.000Z",
+        "description": "老年发癫队核心成员",
+        "id": "1869080163272761344",
+        "location": "你的左心室",
+        "name": "国家顺手保护废物🧧🈵🛜",
+        "pinned_tweet_id": "1875427666100412859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872609581073096704/CvP-0ljV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 164,
+          "like_count": 2262,
+          "listed_count": 0,
+          "media_count": 187,
+          "tweet_count": 1779
+        },
+        "username": "shunshoudeshier",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-15T01:39:38.000Z",
+        "description": "",
+        "id": "1657923596591988737",
+        "name": "td",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878969494443606016/w2Eq0rm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3429,
+          "following_count": 48,
+          "like_count": 3825,
+          "listed_count": 5,
+          "media_count": 541,
+          "tweet_count": 3458
+        },
+        "username": "dtooaaoooaa",
+        "verified": false
+      }
+    ]
+  }
+}

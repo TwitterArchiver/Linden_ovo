@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976249027130949639",
+        "3_1976249038547898368",
+        "3_1976249052640825344",
+        "3_1976249062170193920"
+      ],
+      "media_source_tweet_id": [
+        "1976249066901373285",
+        "1976249066901373285",
+        "1976249066901373285",
+        "1976249066901373285"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1976599177254568214",
+    "created_at": "2025-10-10T10:42:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T11:42:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976599177254568214"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "MyGO"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "982638749661069315",
+          "start": 3,
+          "username": "Lyytoaoitori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JYobzMNYrV",
+          "end": 50,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+          "media_key": "3_1976249027130949639",
+          "start": 27,
+          "url": "https://t.co/JYobzMNYrV"
+        },
+        {
+          "display_url": "pic.x.com/JYobzMNYrV",
+          "end": 50,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+          "media_key": "3_1976249038547898368",
+          "start": 27,
+          "url": "https://t.co/JYobzMNYrV"
+        },
+        {
+          "display_url": "pic.x.com/JYobzMNYrV",
+          "end": 50,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+          "media_key": "3_1976249052640825344",
+          "start": 27,
+          "url": "https://t.co/JYobzMNYrV"
+        },
+        {
+          "display_url": "pic.x.com/JYobzMNYrV",
+          "end": 50,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+          "media_key": "3_1976249062170193920",
+          "start": 27,
+          "url": "https://t.co/JYobzMNYrV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976599177254568214",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3205
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976249066901373285",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyytoaoitori: 📖✍\n#MyGO https://t.co/JYobzMNYrV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1115,
+        "media_key": "3_1976249027130949639",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20MBQHaAAct3ga.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1115,
+        "media_key": "3_1976249038547898368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20MB6pa0AAdw1n.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1116,
+        "media_key": "3_1976249052640825344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20MCvJb0AAmLAC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1115,
+        "media_key": "3_1976249062170193920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20MDSpacAAabc3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976249027130949639",
+            "3_1976249038547898368",
+            "3_1976249052640825344",
+            "3_1976249062170193920"
+          ],
+          "media_source_tweet_id": [
+            "1976249066901373285",
+            "1976249066901373285",
+            "1976249066901373285",
+            "1976249066901373285"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1976599177254568214",
+        "created_at": "2025-10-10T10:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T11:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976599177254568214"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "MyGO"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "982638749661069315",
+              "start": 3,
+              "username": "Lyytoaoitori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 50,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249027130949639",
+              "start": 27,
+              "url": "https://t.co/JYobzMNYrV"
+            },
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 50,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249038547898368",
+              "start": 27,
+              "url": "https://t.co/JYobzMNYrV"
+            },
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 50,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249052640825344",
+              "start": 27,
+              "url": "https://t.co/JYobzMNYrV"
+            },
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 50,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249062170193920",
+              "start": 27,
+              "url": "https://t.co/JYobzMNYrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976599177254568214",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3205
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976249066901373285",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lyytoaoitori: 📖✍\n#MyGO https://t.co/JYobzMNYrV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976249027130949639",
+            "3_1976249038547898368",
+            "3_1976249052640825344",
+            "3_1976249062170193920"
+          ]
+        },
+        "author_id": "982638749661069315",
+        "conversation_id": "1976249066901373285",
+        "created_at": "2025-10-09T11:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T12:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976249066901373285"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "MyGO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 32,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249027130949639",
+              "start": 9,
+              "url": "https://t.co/JYobzMNYrV"
+            },
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 32,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249038547898368",
+              "start": 9,
+              "url": "https://t.co/JYobzMNYrV"
+            },
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 32,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249052640825344",
+              "start": 9,
+              "url": "https://t.co/JYobzMNYrV"
+            },
+            {
+              "display_url": "pic.x.com/JYobzMNYrV",
+              "end": 32,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/1976249066901373285/photo/1",
+              "media_key": "3_1976249062170193920",
+              "start": 9,
+              "url": "https://t.co/JYobzMNYrV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976249066901373285",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2553,
+          "impression_count": 325134,
+          "like_count": 25757,
+          "quote_count": 38,
+          "reply_count": 57,
+          "retweet_count": 3205
+        },
+        "reply_settings": "everyone",
+        "text": "📖✍\n#MyGO https://t.co/JYobzMNYrV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 51,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 176
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T15:18:29.000Z",
+        "description": "リズと青い鳥、MyGO!!!!!に中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=4033649",
+                "start": 0,
+                "url": "https://t.co/f3o4fAnUn7"
+              }
+            ]
+          }
+        },
+        "id": "982638749661069315",
+        "location": "北宇治アイマスク専門大学院",
+        "name": "Lyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1144463536355102721/lDmnwqX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315017,
+          "following_count": 171,
+          "like_count": 1639,
+          "listed_count": 1246,
+          "media_count": 414,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/f3o4fAnUn7",
+        "username": "Lyytoaoitori",
+        "verified": false
+      }
+    ]
+  }
+}

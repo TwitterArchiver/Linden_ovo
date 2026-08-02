@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2083045187610185879",
+    "created_at": "2026-07-31T04:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083045187610185879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 26,
+          "id": "1720665183188922368",
+          "start": 21,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083045187610185879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我经常互动的用户中，告诉我符合的人  \n@grok \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n男朋友:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂:"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2083045187610185879",
+        "created_at": "2026-07-31T04:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083045187610185879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1720665183188922368",
+              "start": 21,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083045187610185879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我经常互动的用户中，告诉我符合的人  \n@grok \n\n父亲:  \n母亲:  \n哥哥:  \n弟弟:  \n姐姐:  \n妹妹:  \n闺蜜:  \n朋友:  \n前辈:  \n后辈:  \n男朋友:  \n女朋友:  \n邻家哥哥:  \n邻家姐姐:  \n跟踪狂:"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 148,
+          "like_count": 2879,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1903
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8888761,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7240,
+          "media_count": 9202771,
+          "tweet_count": 132968485
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

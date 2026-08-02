@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072658984251629924",
+    "created_at": "2026-07-02T12:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T13:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072658984251629924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066323895972777984",
+          "start": 3,
+          "username": "whyaiu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072658984251629924",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072652252192596017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyaiu_: 您的社交孤儿正在和十个异性聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072658984251629924",
+        "created_at": "2026-07-02T12:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072658984251629924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066323895972777984",
+              "start": 3,
+              "username": "whyaiu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072658984251629924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072652252192596017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyaiu_: 您的社交孤儿正在和十个异性聊天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066323895972777984",
+        "conversation_id": "2072652252192596017",
+        "created_at": "2026-07-02T12:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072652252192596017"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072652252192596017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "您的社交孤儿正在和十个异性聊天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 113,
+          "like_count": 1989,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1237
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-15T00:57:15.000Z",
+        "description": "=威士忌（三代目\n♀/高校生/海外/OD/自傷/病み垢/自発苦手\n無言fo失礼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tenshi00",
+                "end": 23,
+                "expanded_url": "https://ngl.link/tenshi00",
+                "start": 0,
+                "url": "https://t.co/6fJhGi3ZZ3"
+              }
+            ]
+          }
+        },
+        "id": "2066323895972777984",
+        "location": "浅尝辄止 是命运轻轻放过我",
+        "name": "病名は愛だった",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066324785001381888/dV5cly_f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 145,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 166
+        },
+        "url": "https://t.co/6fJhGi3ZZ3",
+        "username": "whyaiu_",
+        "verified": false
+      }
+    ]
+  }
+}

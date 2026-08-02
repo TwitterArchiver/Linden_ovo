@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012872885669367808"
+      ],
+      "media_source_tweet_id": [
+        "2016843774283174318"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2017189528448958893",
+    "created_at": "2026-01-30T10:53:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T11:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017189528448958893"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1545277694325116928",
+          "start": 3,
+          "username": "BI3BXI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2XVi7RwX3r",
+          "end": 35,
+          "expanded_url": "https://x.com/BI3BXI/status/2016843774283174318/photo/1",
+          "media_key": "3_2012872885669367808",
+          "start": 12,
+          "url": "https://t.co/2XVi7RwX3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017189528448958893",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016843774283174318",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BI3BXI: https://t.co/2XVi7RwX3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2012872885669367808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-8pOZBWkAAVfpX.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012872885669367808"
+          ],
+          "media_source_tweet_id": [
+            "2016843774283174318"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2017189528448958893",
+        "created_at": "2026-01-30T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017189528448958893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1545277694325116928",
+              "start": 3,
+              "username": "BI3BXI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XVi7RwX3r",
+              "end": 35,
+              "expanded_url": "https://x.com/BI3BXI/status/2016843774283174318/photo/1",
+              "media_key": "3_2012872885669367808",
+              "start": 12,
+              "url": "https://t.co/2XVi7RwX3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017189528448958893",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016843774283174318",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BI3BXI: https://t.co/2XVi7RwX3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012872885669367808"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2016843774283174318",
+        "created_at": "2026-01-29T12:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T13:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016843774283174318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2XVi7RwX3r",
+              "end": 23,
+              "expanded_url": "https://x.com/BI3BXI/status/2016843774283174318/photo/1",
+              "media_key": "3_2012872885669367808",
+              "start": 0,
+              "url": "https://t.co/2XVi7RwX3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016843774283174318",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 54112,
+          "like_count": 1152,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2XVi7RwX3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 521
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "07年的大只MtX🏳️‍⚧️｜@snowfairy011026所属｜请不要屏蔽我🥺｜前世17kfollowers @ryq59｜本体@yqua_｜除了梗图外 时不时发一些有价值的内容｜点击“查看更多”可以了解我～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 63,
+                "start": 57,
+                "username": "ryq59"
+              },
+              {
+                "end": 72,
+                "start": 66,
+                "username": "yqua_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qm.qq.com/q/TT3IUMhhUQ",
+                "end": 23,
+                "expanded_url": "https://qm.qq.com/q/TT3IUMhhUQ",
+                "start": 0,
+                "url": "https://t.co/9ZD7jPC8bX"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "阿彬秘制羊排饭",
+        "name": "你是要气死铨酱么🍥（二代目）",
+        "pinned_tweet_id": "2010144496995258841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6766,
+          "following_count": 3352,
+          "like_count": 30874,
+          "listed_count": 17,
+          "media_count": 1322,
+          "tweet_count": 5749
+        },
+        "url": "https://t.co/9ZD7jPC8bX",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995464772947673088"
+      ],
+      "media_source_tweet_id": [
+        "1995464800302760320"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1995590455757873465",
+    "created_at": "2025-12-01T20:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T21:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995590455757873465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682912923851841536",
+          "start": 3,
+          "username": "chan19890604t04"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RbS4agkOqx",
+          "end": 48,
+          "expanded_url": "https://x.com/chan19890604t04/status/1995464800302760320/photo/1",
+          "media_key": "3_1995464772947673088",
+          "start": 25,
+          "url": "https://t.co/RbS4agkOqx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995590455757873465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995464800302760320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chan19890604t04: 坦克克 https://t.co/RbS4agkOqx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1349,
+        "media_key": "3_1995464772947673088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7FQo3laAAAgdsa.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995464772947673088"
+          ],
+          "media_source_tweet_id": [
+            "1995464800302760320"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1995590455757873465",
+        "created_at": "2025-12-01T20:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T21:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995590455757873465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682912923851841536",
+              "start": 3,
+              "username": "chan19890604t04"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbS4agkOqx",
+              "end": 48,
+              "expanded_url": "https://x.com/chan19890604t04/status/1995464800302760320/photo/1",
+              "media_key": "3_1995464772947673088",
+              "start": 25,
+              "url": "https://t.co/RbS4agkOqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995590455757873465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995464800302760320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chan19890604t04: 坦克克 https://t.co/RbS4agkOqx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995464772947673088"
+          ]
+        },
+        "author_id": "1682912923851841536",
+        "conversation_id": "1995464800302760320",
+        "created_at": "2025-12-01T12:07:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T13:07:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995464800302760320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbS4agkOqx",
+              "end": 27,
+              "expanded_url": "https://x.com/chan19890604t04/status/1995464800302760320/photo/1",
+              "media_key": "3_1995464772947673088",
+              "start": 4,
+              "url": "https://t.co/RbS4agkOqx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995464800302760320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 33764,
+          "like_count": 888,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "坦克克 https://t.co/RbS4agkOqx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 805,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 313
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T00:38:40.000Z",
+        "description": "不跟粉蛆🕷️🐷🐰對話 圖和影片皆是轉載的 備用號@chan19890604to5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 24,
+                "username": "chan19890604to5"
+              }
+            ]
+          }
+        },
+        "id": "1682912923851841536",
+        "location": "Taiwan",
+        "name": "陳少4.0",
+        "pinned_tweet_id": "1992999502090031395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906652458711171072/LTlW2rI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2090,
+          "following_count": 1645,
+          "like_count": 64524,
+          "listed_count": 15,
+          "media_count": 12673,
+          "tweet_count": 31576
+        },
+        "username": "chan19890604t04",
+        "verified": false
+      }
+    ]
+  }
+}

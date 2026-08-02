@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048694756889575424",
+        "3_2048694756897943552"
+      ],
+      "media_source_tweet_id": [
+        "2048694765672452135",
+        "2048694765672452135"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048753732242825703",
+    "created_at": "2026-04-27T13:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048753732242825703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1429639768703340546",
+          "start": 3,
+          "username": "GEN_GLOSSER"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZpDvsAwnVS",
+          "end": 62,
+          "expanded_url": "https://x.com/GEN_GLOSSER/status/2048694765672452135/photo/1",
+          "media_key": "3_2048694756889575424",
+          "start": 39,
+          "url": "https://t.co/ZpDvsAwnVS"
+        },
+        {
+          "display_url": "pic.x.com/ZpDvsAwnVS",
+          "end": 62,
+          "expanded_url": "https://x.com/GEN_GLOSSER/status/2048694765672452135/photo/1",
+          "media_key": "3_2048694756897943552",
+          "start": 39,
+          "url": "https://t.co/ZpDvsAwnVS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048753732242825703",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048694765672452135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GEN_GLOSSER: 帽子すごい似合ってるな✨めっちゃかわいい💕 https://t.co/ZpDvsAwnVS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2048694756889575424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5tBuWbwAAsYp7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1149,
+        "media_key": "3_2048694756897943552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG5tBuYbcAAy992.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048694756889575424",
+            "3_2048694756897943552"
+          ],
+          "media_source_tweet_id": [
+            "2048694765672452135",
+            "2048694765672452135"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048753732242825703",
+        "created_at": "2026-04-27T13:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048753732242825703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1429639768703340546",
+              "start": 3,
+              "username": "GEN_GLOSSER"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpDvsAwnVS",
+              "end": 62,
+              "expanded_url": "https://x.com/GEN_GLOSSER/status/2048694765672452135/photo/1",
+              "media_key": "3_2048694756889575424",
+              "start": 39,
+              "url": "https://t.co/ZpDvsAwnVS"
+            },
+            {
+              "display_url": "pic.x.com/ZpDvsAwnVS",
+              "end": 62,
+              "expanded_url": "https://x.com/GEN_GLOSSER/status/2048694765672452135/photo/1",
+              "media_key": "3_2048694756897943552",
+              "start": 39,
+              "url": "https://t.co/ZpDvsAwnVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048753732242825703",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048694765672452135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GEN_GLOSSER: 帽子すごい似合ってるな✨めっちゃかわいい💕 https://t.co/ZpDvsAwnVS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048694756889575424",
+            "3_2048694756897943552"
+          ]
+        },
+        "author_id": "1429639768703340546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048694765672452135",
+        "created_at": "2026-04-27T09:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048694765672452135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpDvsAwnVS",
+              "end": 45,
+              "expanded_url": "https://x.com/GEN_GLOSSER/status/2048694765672452135/photo/1",
+              "media_key": "3_2048694756889575424",
+              "start": 22,
+              "url": "https://t.co/ZpDvsAwnVS"
+            },
+            {
+              "display_url": "pic.x.com/ZpDvsAwnVS",
+              "end": 45,
+              "expanded_url": "https://x.com/GEN_GLOSSER/status/2048694765672452135/photo/1",
+              "media_key": "3_2048694756897943552",
+              "start": 22,
+              "url": "https://t.co/ZpDvsAwnVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048694765672452135",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 43851,
+          "like_count": 3173,
+          "quote_count": 15,
+          "reply_count": 3,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "帽子すごい似合ってるな✨めっちゃかわいい💕 https://t.co/ZpDvsAwnVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 100,
+          "like_count": 1619,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 957
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-23T03:01:53.000Z",
+        "description": "メイン→轟はじめ🐧⚡️/NUROJUNK🦿🦾\n米津玄師/Mrs.GREEN APPLE/Vaundy/ReGLOSS/RK Music/KMNZ/HTH/NUROJUNK/学マス/スタレ/ブルアカ",
+        "id": "1429639768703340546",
+        "name": "げんちゃん",
+        "pinned_tweet_id": "2000149168816521579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046186725299683328/gyvKUZXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 1115,
+          "like_count": 65413,
+          "listed_count": 6,
+          "media_count": 1920,
+          "tweet_count": 10498
+        },
+        "username": "GEN_GLOSSER",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074002771259314189",
+    "created_at": "2026-07-06T05:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074002771259314189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1616813571433959424",
+          "start": 3,
+          "username": "lv__qx"
+        },
+        {
+          "end": 21,
+          "id": "2071237860267581440",
+          "start": 12,
+          "username": "Popfishp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074002771259314189",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073872702474174515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lv__qx: @Popfishp 中国人ってVPNいじらないと日本人のツイート見れないらしいよ？ちがうの？₍^ &gt;ヮ&lt;^₎"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074002771259314189",
+        "created_at": "2026-07-06T05:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074002771259314189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1616813571433959424",
+              "start": 3,
+              "username": "lv__qx"
+            },
+            {
+              "end": 21,
+              "id": "2071237860267581440",
+              "start": 12,
+              "username": "Popfishp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074002771259314189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073872702474174515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lv__qx: @Popfishp 中国人ってVPNいじらないと日本人のツイート見れないらしいよ？ちがうの？₍^ &gt;ヮ&lt;^₎"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616813571433959424",
+        "conversation_id": "2073862311920677009",
+        "created_at": "2026-07-05T20:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T21:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073872702474174515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2071237860267581440",
+              "start": 0,
+              "username": "Popfishp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073872702474174515",
+        "in_reply_to_user_id": "2071237860267581440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1560,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073870809056362932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Popfishp 中国人ってVPNいじらないと日本人のツイート見れないらしいよ？ちがうの？₍^ &gt;ヮ&lt;^₎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 130,
+          "like_count": 2190,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1407
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T15:02:57.000Z",
+        "description": "裏裏裏裏裏思考垂れ流し愚痴垢 ^. .^ ♡",
+        "id": "1616813571433959424",
+        "location": "日本語しか読めないですよ＞ᴗ＜♩翻訳してきて＞ᴗ＜♩",
+        "name": "るな",
+        "pinned_tweet_id": "1876738846538309985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071613131902926849/sEASNdP3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 1,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 2132
+        },
+        "url": "",
+        "username": "lv__qx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-28T14:24:10.000Z",
+        "description": "i am pro~~~~",
+        "id": "2071237860267581440",
+        "location": "no no no",
+        "name": "popfish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071244088997818368/EKBTRX3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 21,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "Popfishp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2037156684510974368",
+    "created_at": "2026-03-26T13:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T14:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037156684510974368"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1935372590060843008",
+          "start": 3,
+          "username": "luobotoumiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037156684510974368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037089761433665971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luobotoumiao: 我觉得法这个字是吉他张对这个世界最大的贡献，它彻底弥补了中文里没有“fuck”对应的单字的遗憾，“操”这个字方向性过强了，太容易让人联想到纳入方与被纳入方。而法这个字囊括了1至4爱所有的一切性行为，让各种性别或取向之间的性骚扰与性暗示变得无比…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2037156684510974368",
+        "created_at": "2026-03-26T13:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037156684510974368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1935372590060843008",
+              "start": 3,
+              "username": "luobotoumiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037156684510974368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037089761433665971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luobotoumiao: 我觉得法这个字是吉他张对这个世界最大的贡献，它彻底弥补了中文里没有“fuck”对应的单字的遗憾，“操”这个字方向性过强了，太容易让人联想到纳入方与被纳入方。而法这个字囊括了1至4爱所有的一切性行为，让各种性别或取向之间的性骚扰与性暗示变得无比…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935372590060843008",
+        "conversation_id": "2037089761433665971",
+        "created_at": "2026-03-26T08:50:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T09:50:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037089761433665971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037089761433665971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 16324,
+          "like_count": 358,
+          "quote_count": 7,
+          "reply_count": 12,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得法这个字是吉他张对这个世界最大的贡献，它彻底弥补了中文里没有“fuck”对应的单字的遗憾，“操”这个字方向性过强了，太容易让人联想到纳入方与被纳入方。而法这个字囊括了1至4爱所有的一切性行为，让各种性别或取向之间的性骚扰与性暗示变得无比顺滑与自然，这个字应该申遗。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 82,
+          "like_count": 1425,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 798
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-18T16:22:54.000Z",
+        "description": "纯卖的，过🚪可线下",
+        "id": "1935372590060843008",
+        "location": "0.01km",
+        "name": "萝",
+        "pinned_tweet_id": "2007753604074213851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036305765909274624/UrD4DucV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4156,
+          "following_count": 355,
+          "like_count": 3586,
+          "listed_count": 11,
+          "media_count": 187,
+          "tweet_count": 1407
+        },
+        "username": "luobotoumiao",
+        "verified": false
+      }
+    ]
+  }
+}

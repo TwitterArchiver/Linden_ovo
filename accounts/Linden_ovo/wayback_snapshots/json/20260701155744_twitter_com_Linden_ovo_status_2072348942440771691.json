@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072348942440771691",
+    "created_at": "2026-07-01T15:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T16:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072348942440771691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1433643005802541056",
+          "start": 3,
+          "username": "Tomyomoe"
+        },
+        {
+          "end": 23,
+          "id": "1103830967163117568",
+          "start": 14,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072348942440771691",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072234582649504081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Tomyomoe: @anblk984 7.裝扮成女孩子去勾引女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072348942440771691",
+        "created_at": "2026-07-01T15:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T16:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072348942440771691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1433643005802541056",
+              "start": 3,
+              "username": "Tomyomoe"
+            },
+            {
+              "end": 23,
+              "id": "1103830967163117568",
+              "start": 14,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072348942440771691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072234582649504081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Tomyomoe: @anblk984 7.裝扮成女孩子去勾引女人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1433643005802541056",
+        "conversation_id": "2072226782825370070",
+        "created_at": "2026-07-01T08:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072234582649504081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072234582649504081",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072226782825370070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 7.裝扮成女孩子去勾引女人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 109,
+          "like_count": 1924,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1204
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T04:09:30.000Z",
+        "description": "",
+        "id": "1433643005802541056",
+        "location": "大阪市 ",
+        "name": "ともよ🌸",
+        "pinned_tweet_id": "1942792917258756598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067576747655385089/XgjsG3mL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 776,
+          "following_count": 370,
+          "like_count": 43262,
+          "listed_count": 8,
+          "media_count": 1020,
+          "tweet_count": 20920
+        },
+        "url": "",
+        "username": "Tomyomoe",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15535,
+          "following_count": 1036,
+          "like_count": 124590,
+          "listed_count": 75,
+          "media_count": 3151,
+          "tweet_count": 30019
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

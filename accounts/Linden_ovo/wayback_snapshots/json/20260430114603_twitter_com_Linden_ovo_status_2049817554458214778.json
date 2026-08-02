@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049474545908953088"
+      ],
+      "media_source_tweet_id": [
+        "2049474555534852564"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2049817554458214778",
+    "created_at": "2026-04-30T11:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T12:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049817554458214778"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 15,
+          "tag": "初星学園ぬいぬい部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890780488077590528",
+          "start": 3,
+          "username": "Otema_san"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IavjHqxzPH",
+          "end": 49,
+          "expanded_url": "https://x.com/Otema_san/status/2049474555534852564/photo/1",
+          "media_key": "3_2049474545908953088",
+          "start": 26,
+          "url": "https://t.co/IavjHqxzPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049817554458214778",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049474555534852564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Otema_san: #初星学園ぬいぬい部 https://t.co/IavjHqxzPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1882,
+        "media_key": "3_2049474545908953088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHEyPa0bsAAfBsA.jpg",
+        "width": 1801
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049474545908953088"
+          ],
+          "media_source_tweet_id": [
+            "2049474555534852564"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2049817554458214778",
+        "created_at": "2026-04-30T11:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049817554458214778"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 15,
+              "tag": "初星学園ぬいぬい部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890780488077590528",
+              "start": 3,
+              "username": "Otema_san"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IavjHqxzPH",
+              "end": 49,
+              "expanded_url": "https://x.com/Otema_san/status/2049474555534852564/photo/1",
+              "media_key": "3_2049474545908953088",
+              "start": 26,
+              "url": "https://t.co/IavjHqxzPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049817554458214778",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049474555534852564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Otema_san: #初星学園ぬいぬい部 https://t.co/IavjHqxzPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049474545908953088"
+          ]
+        },
+        "author_id": "1890780488077590528",
+        "conversation_id": "2049474555534852564",
+        "created_at": "2026-04-29T13:03:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T14:03:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049474555534852564"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "初星学園ぬいぬい部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IavjHqxzPH",
+              "end": 34,
+              "expanded_url": "https://x.com/Otema_san/status/2049474555534852564/photo/1",
+              "media_key": "3_2049474545908953088",
+              "start": 11,
+              "url": "https://t.co/IavjHqxzPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049474555534852564",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 13601,
+          "like_count": 1085,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "#初星学園ぬいぬい部 https://t.co/IavjHqxzPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 100,
+          "like_count": 1651,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 982
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T15:09:54.000Z",
+        "description": "早くねないとおてまさんくるよ",
+        "id": "1890780488077590528",
+        "location": "ぬいの国",
+        "name": "おてまさん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039246772888051712/J6-g-Fu9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1615,
+          "following_count": 1,
+          "like_count": 333,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 157
+        },
+        "username": "Otema_san",
+        "verified": false
+      }
+    ]
+  }
+}

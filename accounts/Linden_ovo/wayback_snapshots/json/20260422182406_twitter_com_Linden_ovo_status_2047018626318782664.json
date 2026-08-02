@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047018620119658496"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2047018626318782664",
+    "created_at": "2026-04-22T18:24:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:24:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047018626318782664"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "戦場ヶ原ひたぎ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n48nSDoB0L",
+          "end": 32,
+          "expanded_url": "https://x.com/Linden_ovo/status/2047018626318782664/photo/1",
+          "media_key": "3_2047018620119658496",
+          "start": 9,
+          "url": "https://t.co/n48nSDoB0L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047018626318782664",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#戦場ヶ原ひたぎ https://t.co/n48nSDoB0L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047018620119658496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGh4luTXsAA7z1_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047018620119658496"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2047018626318782664",
+        "created_at": "2026-04-22T18:24:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:24:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047018626318782664"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "戦場ヶ原ひたぎ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n48nSDoB0L",
+              "end": 32,
+              "expanded_url": "https://x.com/Linden_ovo/status/2047018626318782664/photo/1",
+              "media_key": "3_2047018620119658496",
+              "start": 9,
+              "url": "https://t.co/n48nSDoB0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047018626318782664",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#戦場ヶ原ひたぎ https://t.co/n48nSDoB0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 95,
+          "like_count": 1585,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 938
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

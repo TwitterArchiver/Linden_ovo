@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1930518070675832894",
+    "created_at": "2025-06-05T19:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-05T20:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1930706964826460561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1823729658833055745",
+          "start": 0,
+          "username": "pijiuyayaya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1930706964826460561",
+    "in_reply_to_user_id": "1823729658833055745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1930518070675832894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pijiuyayaya 看这种这么明显的玩笑都能破防的真属于现实里狗屎一坨了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1130,
+        "media_key": "3_1930518064602427392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsqT85EaMAA-YaP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1930518070675832894",
+        "created_at": "2025-06-05T19:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T20:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1930706964826460561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1823729658833055745",
+              "start": 0,
+              "username": "pijiuyayaya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930706964826460561",
+        "in_reply_to_user_id": "1823729658833055745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1930518070675832894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pijiuyayaya 看这种这么明显的玩笑都能破防的真属于现实里狗屎一坨了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1930518064602427392"
+          ]
+        },
+        "author_id": "1823729658833055745",
+        "conversation_id": "1930518070675832894",
+        "created_at": "2025-06-05T06:52:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-05T07:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1930518070675832894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p9Lmyi7ISx",
+              "end": 30,
+              "expanded_url": "https://x.com/pijiuyayaya/status/1930518070675832894/photo/1",
+              "media_key": "3_1930518064602427392",
+              "start": 7,
+              "url": "https://t.co/p9Lmyi7ISx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1930518070675832894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 163451,
+          "like_count": 920,
+          "quote_count": 37,
+          "reply_count": 143,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "我的自我介绍 https://t.co/p9Lmyi7ISx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930378714023636992/4rZChgR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 71,
+          "like_count": 359,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 159
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T14:33:41.000Z",
+        "description": "鹈鹕不知道写什么所以决定睡觉觉觉觉觉觉觉觉觉觉觉觉去了",
+        "id": "1823729658833055745",
+        "name": "鹈鹕吃烤肠也吃鹌鹑",
+        "pinned_tweet_id": "1927295862364868888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926615139739897856/luxuAdbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 294,
+          "like_count": 8505,
+          "listed_count": 7,
+          "media_count": 1010,
+          "tweet_count": 7621
+        },
+        "username": "pijiuyayaya",
+        "verified": false
+      }
+    ]
+  }
+}

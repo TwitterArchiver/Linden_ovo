@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1982786060489806127",
+    "created_at": "2025-10-27T12:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T13:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982786060489806127"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1982786060489806127",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡觉吧 你啥样了 我都喜欢你 你嘴巴再毒 你再不讲理 你心里也不是那样想的 你很想表达 可是大小姐脾气嘛 我理解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1982786060489806127",
+        "created_at": "2025-10-27T12:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T13:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982786060489806127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982786060489806127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡觉吧 你啥样了 我都喜欢你 你嘴巴再毒 你再不讲理 你心里也不是那样想的 你很想表达 可是大小姐脾气嘛 我理解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 676,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 219
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

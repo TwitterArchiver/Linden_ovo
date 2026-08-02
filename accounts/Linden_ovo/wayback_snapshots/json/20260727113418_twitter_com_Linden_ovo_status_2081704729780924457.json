@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081704729780924457",
+    "created_at": "2026-07-27T11:34:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:34:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081704729780924457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1596489618429562882",
+          "start": 3,
+          "username": "plzjustluvmeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081704729780924457",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081442706119970949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @plzjustluvmeqwq: 好想自毁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081704729780924457",
+        "created_at": "2026-07-27T11:34:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:34:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081704729780924457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1596489618429562882",
+              "start": 3,
+              "username": "plzjustluvmeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081704729780924457",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081442706119970949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @plzjustluvmeqwq: 好想自毁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596489618429562882",
+        "conversation_id": "2081442706119970949",
+        "created_at": "2026-07-26T18:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081442706119970949"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081442706119970949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 391,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "好想自毁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2826,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1850
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T13:03:22.000Z",
+        "description": "我只是一个高p丑逼，我活得很累很焦虑这里是我唯一可以发泄情绪的地方了，如果你觉得我很负能量很烦你可以拉黑我这样我就死了",
+        "id": "1596489618429562882",
+        "name": "cryingsilence",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077427975902081024/vbmTuHby_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2907,
+          "following_count": 248,
+          "like_count": 8545,
+          "listed_count": 6,
+          "media_count": 540,
+          "tweet_count": 4193
+        },
+        "url": "",
+        "username": "plzjustluvmeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

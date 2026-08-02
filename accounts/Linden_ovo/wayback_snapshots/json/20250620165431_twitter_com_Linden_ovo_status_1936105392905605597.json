@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1936105392905605597",
+    "created_at": "2025-06-20T16:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-20T17:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1936105392905605597"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "biboo",
+          "probability": 0.848,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656531547279982593",
+          "start": 3,
+          "username": "kosekibijou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1936105392905605597",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 577
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936033224192582046",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kosekibijou: biboo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1936105392905605597",
+        "created_at": "2025-06-20T16:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T17:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1936105392905605597"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "biboo",
+              "probability": 0.848,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656531547279982593",
+              "start": 3,
+              "username": "kosekibijou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936105392905605597",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 577
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936033224192582046",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kosekibijou: biboo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656531547279982593",
+        "conversation_id": "1936033224192582046",
+        "created_at": "2025-06-20T12:07:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-20T13:07:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936033224192582046"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "biboo",
+              "probability": 0.8653,
+              "start": 0,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936033224192582046",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 241,
+          "impression_count": 263885,
+          "like_count": 17180,
+          "quote_count": 18,
+          "reply_count": 400,
+          "retweet_count": 577
+        },
+        "reply_settings": "everyone",
+        "text": "biboo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 75,
+          "like_count": 385,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 167
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T05:28:03.000Z",
+        "description": "Sparkling Gem of hololive English -Advent- |✨ Kira Kira~ Koseki! | Mama: @428clv | Papa: @otsukue | 🎨: #bijouwled | #LIVEseki | #LMOAI | #pebblesona",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "bijouwled"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "LIVEseki"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "LMOAI"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "tag": "pebblesona"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "428clv"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "otsukue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KosekiBijou",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KosekiBijou",
+                "start": 0,
+                "url": "https://t.co/BPFanQd0yb"
+              }
+            ]
+          }
+        },
+        "id": "1656531547279982593",
+        "name": "Koseki Bijou🗿holoEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776452971662049280/V_D-4vKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372305,
+          "following_count": 182,
+          "like_count": 20062,
+          "listed_count": 2619,
+          "media_count": 1077,
+          "tweet_count": 7336
+        },
+        "url": "https://t.co/BPFanQd0yb",
+        "username": "kosekibijou",
+        "verified": true
+      }
+    ]
+  }
+}

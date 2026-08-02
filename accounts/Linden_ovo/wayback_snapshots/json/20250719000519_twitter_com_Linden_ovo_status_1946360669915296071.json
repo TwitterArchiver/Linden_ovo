@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1946232324498087936"
+      ],
+      "media_source_tweet_id": [
+        "1946232946723270840"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1946360669915296071",
+    "created_at": "2025-07-19T00:05:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-19T01:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946360669915296071"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 46,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1872201158732943360",
+          "start": 3,
+          "username": "Castella_yaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ja8Y1IA6DI",
+          "end": 80,
+          "expanded_url": "https://x.com/Castella_yaki/status/1946232946723270840/photo/1",
+          "media_key": "3_1946232324498087936",
+          "start": 57,
+          "url": "https://t.co/Ja8Y1IA6DI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946360669915296071",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 85
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946232946723270840",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Castella_yaki: Ojou-sama trainer rock? 🤔\n\n#bijouwled https://t.co/Ja8Y1IA6DI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1946232324498087936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwJn_NAXYAAPtpg.jpg",
+        "width": 3376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946232324498087936"
+          ],
+          "media_source_tweet_id": [
+            "1946232946723270840"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1946360669915296071",
+        "created_at": "2025-07-19T00:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-19T01:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946360669915296071"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 46,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1872201158732943360",
+              "start": 3,
+              "username": "Castella_yaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja8Y1IA6DI",
+              "end": 80,
+              "expanded_url": "https://x.com/Castella_yaki/status/1946232946723270840/photo/1",
+              "media_key": "3_1946232324498087936",
+              "start": 57,
+              "url": "https://t.co/Ja8Y1IA6DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946360669915296071",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946232946723270840",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Castella_yaki: Ojou-sama trainer rock? 🤔\n\n#bijouwled https://t.co/Ja8Y1IA6DI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1946232324498087936"
+          ]
+        },
+        "author_id": "1872201158732943360",
+        "conversation_id": "1946232946723270840",
+        "created_at": "2025-07-18T15:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T16:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946232946723270840"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 27,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ja8Y1IA6DI",
+              "end": 61,
+              "expanded_url": "https://x.com/Castella_yaki/status/1946232946723270840/photo/1",
+              "media_key": "3_1946232324498087936",
+              "start": 38,
+              "url": "https://t.co/Ja8Y1IA6DI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946232946723270840",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 1946,
+          "like_count": 468,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "Ojou-sama trainer rock? 🤔\n\n#bijouwled https://t.co/Ja8Y1IA6DI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 34,
+          "like_count": 437,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 123
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T08:42:03.000Z",
+        "description": "Biboo is my Kami-oshi💜 \nI decided to start drawing (23/12/2024) and hope one day I can draw cute Biboo!  💜 \nI retweet a lot Biboo arts\nEN/日本語🤏",
+        "id": "1872201158732943360",
+        "name": "CheeseCastella🗿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935589674359136256/Qk8eRFuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3782,
+          "following_count": 358,
+          "like_count": 11829,
+          "listed_count": 15,
+          "media_count": 202,
+          "tweet_count": 1682
+        },
+        "username": "Castella_yaki",
+        "verified": false
+      }
+    ]
+  }
+}

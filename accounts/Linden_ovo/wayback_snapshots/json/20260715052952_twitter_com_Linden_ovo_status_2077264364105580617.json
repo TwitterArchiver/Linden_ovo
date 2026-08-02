@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2077264364105580617",
+    "created_at": "2026-07-15T05:29:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T06:29:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077264364105580617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1580018839688880130",
+          "start": 3,
+          "username": "biq315"
+        },
+        {
+          "end": 23,
+          "id": "1749808443236712448",
+          "start": 12,
+          "username": "Pupiko_404"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077264364105580617",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077188266517012924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biq315: @Pupiko_404 阁下是否姓王"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2077264364105580617",
+        "created_at": "2026-07-15T05:29:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T06:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077264364105580617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1580018839688880130",
+              "start": 3,
+              "username": "biq315"
+            },
+            {
+              "end": 23,
+              "id": "1749808443236712448",
+              "start": 12,
+              "username": "Pupiko_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077264364105580617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077188266517012924",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biq315: @Pupiko_404 阁下是否姓王"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580018839688880130",
+        "conversation_id": "2076877721263886347",
+        "created_at": "2026-07-15T00:27:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T01:27:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077188266517012924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1749808443236712448",
+              "start": 0,
+              "username": "Pupiko_404"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077188266517012924",
+        "in_reply_to_user_id": "1749808443236712448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2390,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076877721263886347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pupiko_404 阁下是否姓王"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 136,
+          "like_count": 2437,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1591
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-12T02:13:58.000Z",
+        "description": "揭露骗局｜探究真相｜币圈抽奖鉴定官｜   web3 最会整活的抽象艺术家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "oland.info/kol315.v",
+                "end": 23,
+                "expanded_url": "https://oland.info/kol315.v",
+                "start": 0,
+                "url": "https://t.co/YXVagbr5sx"
+              }
+            ]
+          }
+        },
+        "id": "1580018839688880130",
+        "location": "People's Republic of China",
+        "name": "315",
+        "pinned_tweet_id": "1807754324346646937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603369452032385026/3T01KMu8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15161,
+          "following_count": 1634,
+          "like_count": 3871,
+          "listed_count": 89,
+          "media_count": 3479,
+          "tweet_count": 15978
+        },
+        "url": "https://t.co/YXVagbr5sx",
+        "username": "biq315",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-23T14:57:07.000Z",
+        "description": "账号内的一切性幻想都只针对我男朋友",
+        "id": "1749808443236712448",
+        "name": "Seraphina",
+        "pinned_tweet_id": "2044096806402043984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985710078436261888/PPoRS9Bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 42,
+          "like_count": 155,
+          "listed_count": 4,
+          "media_count": 17,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "Pupiko_404",
+        "verified": false
+      }
+    ]
+  }
+}

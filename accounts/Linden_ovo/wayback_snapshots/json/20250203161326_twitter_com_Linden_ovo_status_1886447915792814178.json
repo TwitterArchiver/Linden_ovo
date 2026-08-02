@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10024011738",
+          "name": "Apple - iPhone"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "1883223477278400619",
+    "created_at": "2025-02-03T16:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T17:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886447915792814178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1724450512102178816",
+          "start": 0,
+          "username": "hanfeng0123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886447915792814178",
+    "in_reply_to_user_id": "1724450512102178816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883223477278400619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanfeng0123 想知道kana可以在iphone上下嘛qwq 可以有偿的 up能不能辅助下载一下 好想玩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1883223477278400619",
+        "created_at": "2025-02-03T16:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T17:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886447915792814178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1724450512102178816",
+              "start": 0,
+              "username": "hanfeng0123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886447915792814178",
+        "in_reply_to_user_id": "1724450512102178816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883223477278400619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanfeng0123 想知道kana可以在iphone上下嘛qwq 可以有偿的 up能不能辅助下载一下 好想玩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724450512102178816",
+        "conversation_id": "1883223477278400619",
+        "created_at": "2025-01-25T18:40:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-25T19:40:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1883223477278400619"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A Good Spanking Goes A Long Way. Available for Windows, macOS, Linux, Android",
+              "display_url": "kana-sensei.itch.io/kanasensei",
+              "end": 152,
+              "expanded_url": "https://kana-sensei.itch.io/kanasensei",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1885726971121795072/nV-e8QUC?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1885726971121795072/nV-e8QUC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 129,
+              "status": 200,
+              "title": "Kana Sensei by Kana",
+              "unwound_url": "https://kana-sensei.itch.io/kanasensei",
+              "url": "https://t.co/t4kPS6IAOj"
+            },
+            {
+              "description": "Creating Adult Games",
+              "display_url": "patreon.com/altosandherdone",
+              "end": 193,
+              "expanded_url": "https://www.patreon.com/altosandherdone",
+              "images": [
+                {
+                  "height": 945,
+                  "url": "https://pbs.twimg.com/news_img/1877640063154057216/2EblNxEs?format=jpg&name=orig",
+                  "width": 1800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1877640063154057216/2EblNxEs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 170,
+              "status": 200,
+              "title": "Get more from Altos and Herdone on Patreon",
+              "unwound_url": "https://www.patreon.com/altosandherdone",
+              "url": "https://t.co/zpGMj1rudJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883223477278400619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10908,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Kana sensei(有中文版的)和the headmaster的最新版现在公开发布了。\n对下载有问题的可以联系一下我，我会尽量帮助大家的。希望喜欢游戏的朋友可以支持一下作者，以支持助力作者创造出更优秀的作品。\n链接/Link:\nKana sensei: https://t.co/t4kPS6IAOj\n\nthe headmaster: https://t.co/zpGMj1rudJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 81,
+          "like_count": 311,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 114
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-14T15:33:57.000Z",
+        "description": "相关的链接：@ChocolateAndaa , 侵删，All people or characters posted are adults.\n图片游戏：@AngelaBrya99827",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "ChocolateAndaa"
+              },
+              {
+                "end": 92,
+                "start": 76,
+                "username": "AngelaBrya99827"
+              }
+            ]
+          }
+        },
+        "id": "1724450512102178816",
+        "name": "关于我喜欢打女孩子屁股这件事",
+        "pinned_tweet_id": "1871575072483528873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758131535142948864/y630h0x3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14315,
+          "following_count": 279,
+          "like_count": 3468,
+          "listed_count": 22,
+          "media_count": 112,
+          "tweet_count": 399
+        },
+        "username": "hanfeng0123",
+        "verified": false
+      }
+    ]
+  }
+}

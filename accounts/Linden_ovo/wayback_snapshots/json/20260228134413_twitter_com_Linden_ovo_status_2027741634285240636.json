@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027683495213236224",
+        "3_2027683528503390209"
+      ],
+      "media_source_tweet_id": [
+        "2027683968536219881",
+        "2027683968536219881"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2027741634285240636",
+    "created_at": "2026-02-28T13:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T14:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027741634285240636"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 18,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "771194591550713857",
+          "start": 3,
+          "username": "Green_Kohgen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bFlLxglxsR",
+          "end": 65,
+          "expanded_url": "https://x.com/Green_Kohgen/status/2027683968536219881/photo/1",
+          "media_key": "3_2027683495213236224",
+          "start": 42,
+          "url": "https://t.co/bFlLxglxsR"
+        },
+        {
+          "display_url": "pic.x.com/bFlLxglxsR",
+          "end": 65,
+          "expanded_url": "https://x.com/Green_Kohgen/status/2027683968536219881/photo/1",
+          "media_key": "3_2027683528503390209",
+          "start": 42,
+          "url": "https://t.co/bFlLxglxsR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027741634285240636",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 456
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027683968536219881",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Green_Kohgen: #今月描いた絵を晒そう \n永遠に幼い吸血鬼姉妹 https://t.co/bFlLxglxsR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2174,
+        "media_key": "3_2027683495213236224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPHZVEbgAAdl9Q.jpg",
+        "width": 1555
+      },
+      {
+        "height": 2174,
+        "media_key": "3_2027683528503390209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPHbRFa8AEbknx.jpg",
+        "width": 1555
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027683495213236224",
+            "3_2027683528503390209"
+          ],
+          "media_source_tweet_id": [
+            "2027683968536219881",
+            "2027683968536219881"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027741634285240636",
+        "created_at": "2026-02-28T13:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T14:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027741634285240636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "771194591550713857",
+              "start": 3,
+              "username": "Green_Kohgen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFlLxglxsR",
+              "end": 65,
+              "expanded_url": "https://x.com/Green_Kohgen/status/2027683968536219881/photo/1",
+              "media_key": "3_2027683495213236224",
+              "start": 42,
+              "url": "https://t.co/bFlLxglxsR"
+            },
+            {
+              "display_url": "pic.x.com/bFlLxglxsR",
+              "end": 65,
+              "expanded_url": "https://x.com/Green_Kohgen/status/2027683968536219881/photo/1",
+              "media_key": "3_2027683528503390209",
+              "start": 42,
+              "url": "https://t.co/bFlLxglxsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027741634285240636",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 456
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027683968536219881",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Green_Kohgen: #今月描いた絵を晒そう \n永遠に幼い吸血鬼姉妹 https://t.co/bFlLxglxsR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027683495213236224",
+            "3_2027683528503390209"
+          ]
+        },
+        "author_id": "771194591550713857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2027683968536219881",
+        "created_at": "2026-02-28T09:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T10:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027683968536219881"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bFlLxglxsR",
+              "end": 47,
+              "expanded_url": "https://x.com/Green_Kohgen/status/2027683968536219881/photo/1",
+              "media_key": "3_2027683495213236224",
+              "start": 24,
+              "url": "https://t.co/bFlLxglxsR"
+            },
+            {
+              "display_url": "pic.x.com/bFlLxglxsR",
+              "end": 47,
+              "expanded_url": "https://x.com/Green_Kohgen/status/2027683968536219881/photo/1",
+              "media_key": "3_2027683528503390209",
+              "start": 24,
+              "url": "https://t.co/bFlLxglxsR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027683968536219881",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 35139,
+          "like_count": 3304,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 456
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう \n永遠に幼い吸血鬼姉妹 https://t.co/bFlLxglxsR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 81,
+          "like_count": 1239,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 649
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T03:54:53.000Z",
+        "description": "◆お魚が好き。I like fish.🐟◆趣味でやってるので個人企業問わず絵のお仕事はお受けできません🙇‍♂️",
+        "id": "771194591550713857",
+        "location": "日本",
+        "name": "ぐりこげ🐟",
+        "pinned_tweet_id": "2026224351830511773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/876825012048494592/EYHXuses_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124064,
+          "following_count": 507,
+          "like_count": 10635,
+          "listed_count": 933,
+          "media_count": 417,
+          "tweet_count": 14722
+        },
+        "username": "Green_Kohgen",
+        "verified": false
+      }
+    ]
+  }
+}

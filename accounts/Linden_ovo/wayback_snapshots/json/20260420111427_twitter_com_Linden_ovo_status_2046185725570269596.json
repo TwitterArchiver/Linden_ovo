@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2046185725570269596",
+    "created_at": "2026-04-20T11:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T12:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046185725570269596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1875622919201513472",
+          "start": 3,
+          "username": "Donot_cry0v0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046185725570269596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045937257257771169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Donot_cry0v0: 不想失去和非常珍惜是两件事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2046185725570269596",
+        "created_at": "2026-04-20T11:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T12:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046185725570269596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1875622919201513472",
+              "start": 3,
+              "username": "Donot_cry0v0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046185725570269596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045937257257771169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Donot_cry0v0: 不想失去和非常珍惜是两件事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1875622919201513472",
+        "conversation_id": "2045937257257771169",
+        "created_at": "2026-04-19T18:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T19:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045937257257771169"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045937257257771169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 7396,
+          "like_count": 262,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "不想失去和非常珍惜是两件事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 95,
+          "like_count": 1568,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 910
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-04T19:18:54.000Z",
+        "description": "我们只能知道对方一半的事情",
+        "id": "1875622919201513472",
+        "name": "Minato",
+        "pinned_tweet_id": "2037461186262728913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262721979490305/Pcbk_VZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 93,
+          "like_count": 2151,
+          "listed_count": 1,
+          "media_count": 275,
+          "tweet_count": 807
+        },
+        "username": "Donot_cry0v0",
+        "verified": false
+      }
+    ]
+  }
+}

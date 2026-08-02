@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074361346104176640",
+        "3_2074361347106643968"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074361354996027648",
+    "created_at": "2026-07-07T05:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T06:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074361354996027648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HhFFf3d0JR",
+          "end": 37,
+          "expanded_url": "https://x.com/Linden_ovo/status/2074361354996027648/photo/1",
+          "media_key": "3_2074361346104176640",
+          "start": 14,
+          "url": "https://t.co/HhFFf3d0JR"
+        },
+        {
+          "display_url": "pic.x.com/HhFFf3d0JR",
+          "end": 37,
+          "expanded_url": "https://x.com/Linden_ovo/status/2074361354996027648/photo/1",
+          "media_key": "3_2074361347106643968",
+          "start": 14,
+          "url": "https://t.co/HhFFf3d0JR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074361354996027648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我是真来讨口子了夏促快没了 https://t.co/HhFFf3d0JR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2074361346104176640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmcp2JXMAAS3K6.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2074361347106643968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMmcp54XoAAnw3o.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074361346104176640",
+            "3_2074361347106643968"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074361354996027648",
+        "created_at": "2026-07-07T05:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T06:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074361354996027648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HhFFf3d0JR",
+              "end": 37,
+              "expanded_url": "https://x.com/Linden_ovo/status/2074361354996027648/photo/1",
+              "media_key": "3_2074361346104176640",
+              "start": 14,
+              "url": "https://t.co/HhFFf3d0JR"
+            },
+            {
+              "display_url": "pic.x.com/HhFFf3d0JR",
+              "end": 37,
+              "expanded_url": "https://x.com/Linden_ovo/status/2074361354996027648/photo/1",
+              "media_key": "3_2074361347106643968",
+              "start": 14,
+              "url": "https://t.co/HhFFf3d0JR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074361354996027648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是真来讨口子了夏促快没了 https://t.co/HhFFf3d0JR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 130,
+          "like_count": 2246,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1437
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074997810471067862",
+    "created_at": "2026-07-08T23:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074997810471067862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2007104134466736129",
+          "start": 0,
+          "username": "peipeimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074997810471067862",
+    "in_reply_to_user_id": "2007104134466736129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@peipeimao ，你回来，我给你买西安美院最好吃的烤肠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074997810471067862",
+        "created_at": "2026-07-08T23:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074997810471067862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2007104134466736129",
+              "start": 0,
+              "username": "peipeimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074997810471067862",
+        "in_reply_to_user_id": "2007104134466736129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@peipeimao ，你回来，我给你买西安美院最好吃的烤肠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 133,
+          "like_count": 2320,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1487
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T14:58:43.000Z",
+        "description": "纯绿只回复口令及同类\n我会去做我能做的一切吧\n🚪128好友位日常陪聊/520我爱你/其他定制过门详询",
+        "id": "2007104134466736129",
+        "location": "爱的中心",
+        "name": "林黛玉",
+        "pinned_tweet_id": "2040958169271455913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063325254924300288/ipnh_B0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634,
+          "following_count": 169,
+          "like_count": 680,
+          "listed_count": 12,
+          "media_count": 106,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "peipeimao",
+        "verified": true
+      }
+    ]
+  }
+}

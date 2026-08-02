@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2047504670416105551",
+    "created_at": "2026-04-24T14:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047678208993096190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1592922427935191040",
+          "start": 0,
+          "username": "p_bebobe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047678208993096190",
+    "in_reply_to_user_id": "1592922427935191040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047504670416105551",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@p_bebobe めっちゃかわいい"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2047504661801033728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoypEqbYAA3ULz.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047504661775781888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoypEkaEAAAJEb.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047504661788360704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoypEnaAAA6-Uw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047504661796802560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGoypEpa0AAeyN5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2047504670416105551",
+        "created_at": "2026-04-24T14:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047678208993096190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1592922427935191040",
+              "start": 0,
+              "username": "p_bebobe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047678208993096190",
+        "in_reply_to_user_id": "1592922427935191040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047504670416105551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@p_bebobe めっちゃかわいい"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047504661801033728",
+            "3_2047504661775781888",
+            "3_2047504661788360704",
+            "3_2047504661796802560"
+          ]
+        },
+        "author_id": "1592922427935191040",
+        "conversation_id": "2047504670416105551",
+        "created_at": "2026-04-24T02:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047504670416105551"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 43,
+              "tag": "きゃべつそふとcafe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBKNc5Edsp",
+              "end": 79,
+              "expanded_url": "https://x.com/p_bebobe/status/2047504670416105551/photo/1",
+              "media_key": "3_2047504661801033728",
+              "start": 56,
+              "url": "https://t.co/cBKNc5Edsp"
+            },
+            {
+              "display_url": "pic.x.com/cBKNc5Edsp",
+              "end": 79,
+              "expanded_url": "https://x.com/p_bebobe/status/2047504670416105551/photo/1",
+              "media_key": "3_2047504661775781888",
+              "start": 56,
+              "url": "https://t.co/cBKNc5Edsp"
+            },
+            {
+              "display_url": "pic.x.com/cBKNc5Edsp",
+              "end": 79,
+              "expanded_url": "https://x.com/p_bebobe/status/2047504670416105551/photo/1",
+              "media_key": "3_2047504661788360704",
+              "start": 56,
+              "url": "https://t.co/cBKNc5Edsp"
+            },
+            {
+              "display_url": "pic.x.com/cBKNc5Edsp",
+              "end": 79,
+              "expanded_url": "https://x.com/p_bebobe/status/2047504670416105551/photo/1",
+              "media_key": "3_2047504661796802560",
+              "start": 56,
+              "url": "https://t.co/cBKNc5Edsp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047504670416105551",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1497,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "恋ティー楽しみすぎんよ！\nパケ絵？さわやかな感じめちゃくちゃ新鮮…めっちゃかわいい！\n#きゃべつそふとcafe https://t.co/cBKNc5Edsp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 98,
+          "like_count": 1602,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 951
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T16:48:10.000Z",
+        "description": "ジュエハのルビイちゃん推し🫶 きゃべつそふと及びシナリオゲーメインで攻略中です！ しらたま先生/しらたまこを応援しています TMR、西川貴教垢→＠patiyoshi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 72,
+                "username": "patiyoshi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/tomokun681?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/tomokun681?igsh=N2xmY2l5ZzBucWJx&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/QSVnTtw6NL"
+              }
+            ]
+          }
+        },
+        "id": "1592922427935191040",
+        "location": "(⊃'-')⊃V🔥S⊂('-'⊂)",
+        "name": "ともくん",
+        "pinned_tweet_id": "2038359429326987706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872559057955086336/v8pi5C2C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 870,
+          "like_count": 24360,
+          "listed_count": 4,
+          "media_count": 3597,
+          "tweet_count": 24310
+        },
+        "url": "https://t.co/QSVnTtw6NL",
+        "username": "p_bebobe",
+        "verified": false
+      }
+    ]
+  }
+}

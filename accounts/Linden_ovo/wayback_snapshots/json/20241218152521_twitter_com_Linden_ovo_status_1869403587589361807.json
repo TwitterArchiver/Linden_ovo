@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1869403587589361807",
+    "created_at": "2024-12-18T15:25:21.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-18T16:25:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869403587589361807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1753800034531868672",
+          "start": 3,
+          "username": "xz985292086755"
+        },
+        {
+          "end": 28,
+          "id": "1583720184895877121",
+          "start": 20,
+          "username": "chucimm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869403587589361807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869378915439194560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xz985292086755: @chucimm 呃，遇到过他洗屁眼把自己洗摔了，大晚上我送他去急诊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1869403587589361807",
+        "created_at": "2024-12-18T15:25:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T16:25:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869403587589361807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1753800034531868672",
+              "start": 3,
+              "username": "xz985292086755"
+            },
+            {
+              "end": 28,
+              "id": "1583720184895877121",
+              "start": 20,
+              "username": "chucimm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869403587589361807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869378915439194560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xz985292086755: @chucimm 呃，遇到过他洗屁眼把自己洗摔了，大晚上我送他去急诊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753800034531868672",
+        "conversation_id": "1868942564763807772",
+        "created_at": "2024-12-18T13:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T14:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869378915439194560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1583720184895877121",
+              "start": 0,
+              "username": "chucimm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869378915439194560",
+        "in_reply_to_user_id": "1583720184895877121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1505,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1868942564763807772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chucimm 呃，遇到过他洗屁眼把自己洗摔了，大晚上我送他去急诊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "中区, 新加坡",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 61,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 49
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-03T15:18:18.000Z",
+        "description": "又来视奸我，不接广告版，孩子不懂事随便发着玩的。匿名箱https://t.co/MIco95KYMh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bing54259",
+                "end": 50,
+                "expanded_url": "https://ngl.link/bing54259",
+                "start": 27,
+                "url": "https://t.co/MIco95KYMh"
+              }
+            ]
+          }
+        },
+        "id": "1753800034531868672",
+        "name": "含一块冰",
+        "pinned_tweet_id": "1868495552448803119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868343077129363456/DjMe61nA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1967,
+          "following_count": 57,
+          "like_count": 4,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 272
+        },
+        "username": "xz985292086755",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-22T07:21:42.000Z",
+        "description": "朋友圈什么都发 自用vpn推荐👇：https://t.co/tO5whMwr7l",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 40,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=MQRRkPrN",
+                "start": 17,
+                "url": "https://t.co/tO5whMwr7l"
+              }
+            ]
+          }
+        },
+        "id": "1583720184895877121",
+        "location": "v🚪288",
+        "name": "香菜杀手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779559190555717632/V2D4zObW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13009,
+          "following_count": 171,
+          "like_count": 6631,
+          "listed_count": 21,
+          "media_count": 334,
+          "tweet_count": 2748
+        },
+        "username": "chucimm",
+        "verified": false
+      }
+    ]
+  }
+}

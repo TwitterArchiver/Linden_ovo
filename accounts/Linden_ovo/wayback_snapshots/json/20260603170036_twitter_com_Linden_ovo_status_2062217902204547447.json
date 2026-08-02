@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2062217902204547447",
+    "created_at": "2026-06-03T17:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T18:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062217902204547447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3529418117",
+          "start": 3,
+          "username": "bahhaninha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062217902204547447",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 827
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060880450709520826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bahhaninha: se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2062217902204547447",
+        "created_at": "2026-06-03T17:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T18:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062217902204547447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3529418117",
+              "start": 3,
+              "username": "bahhaninha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062217902204547447",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 827
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060880450709520826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bahhaninha: se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3529418117",
+        "conversation_id": "2060880450709520826",
+        "created_at": "2026-05-31T00:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T01:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060880450709520826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060880450709520826",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 579466,
+          "like_count": 12230,
+          "quote_count": 90,
+          "reply_count": 234,
+          "retweet_count": 827
+        },
+        "reply_settings": "everyone",
+        "text": "se masturbar sem estar com tesão é tão estranho porque parece que eu tô me estuprando"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1795,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1108
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-03T02:24:00.000Z",
+        "description": "viciada em pica, tapa e porra quente",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cityclowns",
+                "end": 23,
+                "expanded_url": "https://t.me/cityclowns",
+                "start": 0,
+                "url": "https://t.co/57KkUfp9NV"
+              }
+            ]
+          }
+        },
+        "id": "3529418117",
+        "location": "nuds aqui",
+        "name": "aninha 🦋",
+        "pinned_tweet_id": "1939822340063289845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058269937630576640/COZY0I37_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8202,
+          "following_count": 34,
+          "like_count": 2084,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/57KkUfp9NV",
+        "username": "bahhaninha",
+        "verified": false
+      }
+    ]
+  }
+}

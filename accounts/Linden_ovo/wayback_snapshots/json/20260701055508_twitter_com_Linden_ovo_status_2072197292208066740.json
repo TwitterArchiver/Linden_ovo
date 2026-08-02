@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072197292208066740",
+    "created_at": "2026-07-01T05:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072197292208066740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1727277830025973760",
+          "start": 3,
+          "username": "yuriano3479"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072197292208066740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071973124695068797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuriano3479: 我的性压抑程度已经不亚于一些男性了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072197292208066740",
+        "created_at": "2026-07-01T05:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072197292208066740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1727277830025973760",
+              "start": 3,
+              "username": "yuriano3479"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072197292208066740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071973124695068797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuriano3479: 我的性压抑程度已经不亚于一些男性了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727277830025973760",
+        "conversation_id": "2071973124695068797",
+        "created_at": "2026-06-30T15:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071973124695068797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071973124695068797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6686,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我的性压抑程度已经不亚于一些男性了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 115,
+          "like_count": 1895,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1182
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:48:32.000Z",
+        "description": "ユリです。我喜欢猫和烟 喜欢我就请关注吧^什么都发｜中文/日本語/Eng｜不回复dm",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkbio.co/8020909Yo7hsb",
+                "end": 23,
+                "expanded_url": "https://linkbio.co/8020909Yo7hsb",
+                "start": 0,
+                "url": "https://t.co/dUGLHyy8uQ"
+              }
+            ]
+          }
+        },
+        "id": "1727277830025973760",
+        "location": "天国",
+        "name": "yuriiano",
+        "pinned_tweet_id": "2062862792403951637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037149597009928198/mPcUl3UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 368,
+          "like_count": 5762,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1845
+        },
+        "url": "https://t.co/dUGLHyy8uQ",
+        "username": "yuriano3479",
+        "verified": false
+      }
+    ]
+  }
+}

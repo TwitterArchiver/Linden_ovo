@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1990065637553766400"
+      ],
+      "media_source_tweet_id": [
+        "1990065639893995594"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1990497026816295132",
+    "created_at": "2025-11-17T19:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T20:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990497026816295132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1497241020303495168",
+          "start": 3,
+          "username": "mosscghere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/roftQYNQ6C",
+          "end": 55,
+          "expanded_url": "https://x.com/mosscghere/status/1990065639893995594/photo/1",
+          "media_key": "3_1990065637553766400",
+          "start": 32,
+          "url": "https://t.co/roftQYNQ6C"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990497026816295132",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990065639893995594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mosscghere: 安慰人的小技巧be like： https://t.co/roftQYNQ6C"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 766,
+        "media_key": "3_1990065637553766400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G54iJ04agAASV02.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990065637553766400"
+          ],
+          "media_source_tweet_id": [
+            "1990065639893995594"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990497026816295132",
+        "created_at": "2025-11-17T19:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T20:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990497026816295132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1497241020303495168",
+              "start": 3,
+              "username": "mosscghere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/roftQYNQ6C",
+              "end": 55,
+              "expanded_url": "https://x.com/mosscghere/status/1990065639893995594/photo/1",
+              "media_key": "3_1990065637553766400",
+              "start": 32,
+              "url": "https://t.co/roftQYNQ6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990497026816295132",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990065639893995594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mosscghere: 安慰人的小技巧be like： https://t.co/roftQYNQ6C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990065637553766400"
+          ]
+        },
+        "author_id": "1497241020303495168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1990065639893995594",
+        "created_at": "2025-11-16T14:33:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990065639893995594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/roftQYNQ6C",
+              "end": 39,
+              "expanded_url": "https://x.com/mosscghere/status/1990065639893995594/photo/1",
+              "media_key": "3_1990065637553766400",
+              "start": 16,
+              "url": "https://t.co/roftQYNQ6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990065639893995594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 155336,
+          "like_count": 1955,
+          "quote_count": 7,
+          "reply_count": 38,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "安慰人的小技巧be like： https://t.co/roftQYNQ6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 738,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 263
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "这里是啥也不会的墨姐姐｜闲聊日常技术推｜后端Java+Python工程师｜早退OIer｜远古MC服主｜MossFrp老板娘｜Trans周边绝赞贩售中",
+        "id": "1497241020303495168",
+        "name": "啥也不会墨姐姐 #三玖天下第一！",
+        "pinned_tweet_id": "1805802094882078995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866694402057572356/bVsoVvV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5911,
+          "following_count": 818,
+          "like_count": 18620,
+          "listed_count": 7,
+          "media_count": 1411,
+          "tweet_count": 5402
+        },
+        "username": "mosscghere",
+        "verified": false
+      }
+    ]
+  }
+}

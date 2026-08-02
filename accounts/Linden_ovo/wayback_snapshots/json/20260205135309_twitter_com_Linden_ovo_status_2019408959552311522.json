@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2019055664442785792"
+      ],
+      "media_source_tweet_id": [
+        "2019055729999540563"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2019408959552311522",
+    "created_at": "2026-02-05T13:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-05T14:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019408959552311522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1810124599432245248",
+          "start": 3,
+          "username": "mahina_cos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BPvEPAh6oc",
+          "end": 51,
+          "expanded_url": "https://x.com/mahina_cos/status/2019055729999540563/video/1",
+          "media_key": "13_2019055664442785792",
+          "start": 28,
+          "url": "https://t.co/BPvEPAh6oc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019408959552311522",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019055729999540563",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mahina_cos: O☆YA☆SU☆MI🗿 https://t.co/BPvEPAh6oc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16893,
+        "height": 638,
+        "media_key": "13_2019055664442785792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019055664442785792/img/oEDD5l0wSu2p2CD8.jpg",
+        "public_metrics": {
+          "view_count": 6365
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019055664442785792/vid/avc1/320x424/-bwcPlIealXaMtgG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019055664442785792/vid/avc1/480x638/VLPPOufItYtXy3yu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019055664442785792/pl/BxWuRUA5J6MYCKhI.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019055664442785792"
+          ],
+          "media_source_tweet_id": [
+            "2019055729999540563"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2019408959552311522",
+        "created_at": "2026-02-05T13:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019408959552311522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1810124599432245248",
+              "start": 3,
+              "username": "mahina_cos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPvEPAh6oc",
+              "end": 51,
+              "expanded_url": "https://x.com/mahina_cos/status/2019055729999540563/video/1",
+              "media_key": "13_2019055664442785792",
+              "start": 28,
+              "url": "https://t.co/BPvEPAh6oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019408959552311522",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019055729999540563",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mahina_cos: O☆YA☆SU☆MI🗿 https://t.co/BPvEPAh6oc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2019055664442785792"
+          ]
+        },
+        "author_id": "1810124599432245248",
+        "conversation_id": "2019055729999540563",
+        "created_at": "2026-02-04T14:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T15:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019055729999540563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BPvEPAh6oc",
+              "end": 35,
+              "expanded_url": "https://x.com/mahina_cos/status/2019055729999540563/video/1",
+              "media_key": "13_2019055664442785792",
+              "start": 12,
+              "url": "https://t.co/BPvEPAh6oc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019055729999540563",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 16432,
+          "like_count": 1363,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "O☆YA☆SU☆MI🗿 https://t.co/BPvEPAh6oc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 1111,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 547
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T01:32:16.000Z",
+        "description": "┈┈┈┈┈┈ホロ▶のこすぷれ💫衣装製作も🪡┈┈┈┈相方······▸さあやさん(@lapin__plume)参加予定イベント→2/15 アコスタ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "lapin__plume"
+              }
+            ]
+          }
+        },
+        "id": "1810124599432245248",
+        "location": "お写真はDMでお願いします🙏🏻無加工投稿だめ🙅‍♀️",
+        "name": "まひな",
+        "pinned_tweet_id": "1957722023431663977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963302768673980416/-3rrw5b__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27750,
+          "following_count": 579,
+          "like_count": 10150,
+          "listed_count": 141,
+          "media_count": 677,
+          "tweet_count": 3705
+        },
+        "username": "mahina_cos",
+        "verified": true
+      }
+    ]
+  }
+}

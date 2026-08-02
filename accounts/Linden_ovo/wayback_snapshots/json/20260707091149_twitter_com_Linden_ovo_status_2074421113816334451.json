@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074353212703027454",
+    "created_at": "2026-07-07T09:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T10:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074421113816334451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1680560555936088065",
+          "start": 0,
+          "username": "ourakus3n1n"
+        },
+        {
+          "end": 28,
+          "id": "1841306675674075136",
+          "start": 13,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074421113816334451",
+    "in_reply_to_user_id": "1680560555936088065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074414282591359122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ourakus3n1n @suishoucrystal 评论区唯一正解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074353212703027454",
+        "created_at": "2026-07-07T09:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074421113816334451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1680560555936088065",
+              "start": 0,
+              "username": "ourakus3n1n"
+            },
+            {
+              "end": 28,
+              "id": "1841306675674075136",
+              "start": 13,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074421113816334451",
+        "in_reply_to_user_id": "1680560555936088065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074414282591359122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ourakus3n1n @suishoucrystal 评论区唯一正解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680560555936088065",
+        "conversation_id": "2074353212703027454",
+        "created_at": "2026-07-07T08:44:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074414282591359122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074414282591359122",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 110,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074353212703027454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 这是尼斯湖水怪呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 132,
+          "like_count": 2265,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T12:50:41.000Z",
+        "description": "his war, my war.",
+        "id": "1680560555936088065",
+        "location": "l",
+        "name": "最是人间留得住",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058442707220226048/jRTVVK2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 198,
+          "like_count": 1038,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 2302
+        },
+        "url": "",
+        "username": "ourakus3n1n",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "日本語+データサイエンス専攻 JPOP夢中 ミセス一番好き🍏📰日本人向けの中国速報🌗友跨🍥中推圈锐评家，独立时评人🌗钻研 数码科技/经济社会/跨境支付与理财 跨境引路人:@bailyLU 我出色的老乡:@realNyarime 中文区头部数码推主:@jlxc2001 X引路人:@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 85,
+                "username": "bailyLU"
+              },
+              {
+                "end": 113,
+                "start": 101,
+                "username": "realNyarime"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "jlxc2001"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1841306675674075136",
+        "location": "金門縣",
+        "name": "水晶クリスタル | Bird🕊️",
+        "pinned_tweet_id": "2059949086720319970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1352,
+          "following_count": 1582,
+          "like_count": 3172,
+          "listed_count": 3,
+          "media_count": 557,
+          "tweet_count": 5255
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1882396917935776245",
+    "created_at": "2025-01-23T11:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-23T12:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882396917935776245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2788373180",
+          "start": 3,
+          "username": "a204a218"
+        },
+        {
+          "end": 30,
+          "id": "1249525383797456898",
+          "start": 14,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882396917935776245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882170529643462946",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @a204a218: @jakobsonradical 能蠢到跑去小紅書這種精神病院的外國人，說實話我很難同情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1882396917935776245",
+        "created_at": "2025-01-23T11:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T12:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882396917935776245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2788373180",
+              "start": 3,
+              "username": "a204a218"
+            },
+            {
+              "end": 30,
+              "id": "1249525383797456898",
+              "start": 14,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882396917935776245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882170529643462946",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @a204a218: @jakobsonradical 能蠢到跑去小紅書這種精神病院的外國人，說實話我很難同情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2788373180",
+        "conversation_id": "1881911358582854106",
+        "created_at": "2025-01-22T20:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-22T21:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882170529643462946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882170529643462946",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 565,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881911358582854106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 能蠢到跑去小紅書這種精神病院的外國人，說實話我很難同情"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 81,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 89
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-03T18:04:27.000Z",
+        "description": "",
+        "id": "2788373180",
+        "name": "Hank",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 927,
+          "like_count": 13034,
+          "listed_count": 2,
+          "media_count": 115,
+          "tweet_count": 834
+        },
+        "username": "a204a218",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 229001,
+          "following_count": 1486,
+          "like_count": 43392,
+          "listed_count": 943,
+          "media_count": 17223,
+          "tweet_count": 24427
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2078041302747509106",
+    "created_at": "2026-07-18T01:11:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T02:11:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078286526190944634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1872300767136399361",
+          "start": 0,
+          "username": "tnggu34051"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078286526190944634",
+    "in_reply_to_user_id": "1872300767136399361",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078041302747509106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tnggu34051 我懒得喷你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2078041302747509106",
+        "created_at": "2026-07-18T01:11:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T02:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078286526190944634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1872300767136399361",
+              "start": 0,
+              "username": "tnggu34051"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078286526190944634",
+        "in_reply_to_user_id": "1872300767136399361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078041302747509106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tnggu34051 我懒得喷你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872300767136399361",
+        "conversation_id": "2078041302747509106",
+        "created_at": "2026-07-17T08:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T09:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078041302747509106"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078041302747509106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 27188,
+          "like_count": 195,
+          "quote_count": 2,
+          "reply_count": 125,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得和推特认识的人见面是一件很恐怖的事情吗？见面就等于默认准许发生性关系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "迷途知返",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077580379817377792/iUV8SwoF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 139,
+          "like_count": 2534,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 1656
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T15:17:50.000Z",
+        "description": "希望开开心心每一天˃ ˄ ˂̥̥  有🚪 提供情绪价值",
+        "id": "1872300767136399361",
+        "name": "兔糖",
+        "pinned_tweet_id": "1930252801764143392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919760197893099521/gNG0oioz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4353,
+          "following_count": 9,
+          "like_count": 304,
+          "listed_count": 6,
+          "media_count": 18,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "tnggu34051",
+        "verified": false
+      }
+    ]
+  }
+}

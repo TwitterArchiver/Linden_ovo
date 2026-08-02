@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1881359620138205264",
+    "created_at": "2025-01-21T01:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T02:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881515553522844016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1663908902323322889",
+          "start": 0,
+          "username": "ligang1944517"
+        },
+        {
+          "end": 27,
+          "id": "1291988176496545792",
+          "start": 15,
+          "username": "Vox35112635"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881515553522844016",
+    "in_reply_to_user_id": "1663908902323322889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881379378640339216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ligang1944517 @Vox35112635 90%可能性是国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1881359620138205264",
+        "created_at": "2025-01-21T01:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T02:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881515553522844016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1663908902323322889",
+              "start": 0,
+              "username": "ligang1944517"
+            },
+            {
+              "end": 27,
+              "id": "1291988176496545792",
+              "start": 15,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881515553522844016",
+        "in_reply_to_user_id": "1663908902323322889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881379378640339216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ligang1944517 @Vox35112635 90%可能性是国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663908902323322889",
+        "conversation_id": "1881359620138205264",
+        "created_at": "2025-01-20T16:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881379378640339216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291988176496545792",
+              "start": 0,
+              "username": "Vox35112635"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881379378640339216",
+        "in_reply_to_user_id": "1291988176496545792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1381,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881359620138205264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vox35112635 被外国人霸凌还是国人啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 79,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 81
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-31T14:03:04.000Z",
+        "description": "170/49kg infj 不是打钱还是别找我了",
+        "id": "1663908902323322889",
+        "name": "blair",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879196985783447552/yxglZBR2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 26,
+          "like_count": 180,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 1201
+        },
+        "username": "ligang1944517",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-08T06:42:48.000Z",
+        "description": "抖音号：32625516049/没有小红书/现在会接一点有偿转发/付费线上绿色交友委托/广告正规推以外的其他投稿均为免费/加vx随缘给门槛就好了",
+        "id": "1291988176496545792",
+        "location": "沙发床上",
+        "name": "跑调的毕加索",
+        "pinned_tweet_id": "1877697487651189120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523690111569117190/MeBry_Ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228727,
+          "following_count": 525,
+          "like_count": 488,
+          "listed_count": 271,
+          "media_count": 8438,
+          "tweet_count": 12232
+        },
+        "username": "Vox35112635",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972184419629756416"
+      ],
+      "media_source_tweet_id": [
+        "1972184454623121691"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1972789648939528316",
+    "created_at": "2025-09-29T22:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T23:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972789648939528316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "TokiyukiSAMAAAA"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xGYK8vHGl",
+          "end": 49,
+          "expanded_url": "https://x.com/TokiyukiSAMAAAA/status/1972184454623121691/photo/1",
+          "media_key": "3_1972184419629756416",
+          "start": 26,
+          "url": "https://t.co/7xGYK8vHGl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972789648939528316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 79
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972184454623121691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TokiyukiSAMAAAA: 求恋丑癖 https://t.co/7xGYK8vHGl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1972184419629756416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G16bR9OXcAAY2Y7.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972184419629756416"
+          ],
+          "media_source_tweet_id": [
+            "1972184454623121691"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1972789648939528316",
+        "created_at": "2025-09-29T22:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T23:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972789648939528316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "TokiyukiSAMAAAA"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xGYK8vHGl",
+              "end": 49,
+              "expanded_url": "https://x.com/TokiyukiSAMAAAA/status/1972184454623121691/photo/1",
+              "media_key": "3_1972184419629756416",
+              "start": 26,
+              "url": "https://t.co/7xGYK8vHGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972789648939528316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 79
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972184454623121691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TokiyukiSAMAAAA: 求恋丑癖 https://t.co/7xGYK8vHGl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972184419629756416"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "conversation_id": "1972184454623121691",
+        "created_at": "2025-09-28T06:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972184454623121691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xGYK8vHGl",
+              "end": 28,
+              "expanded_url": "https://x.com/TokiyukiSAMAAAA/status/1972184454623121691/photo/1",
+              "media_key": "3_1972184419629756416",
+              "start": 5,
+              "url": "https://t.co/7xGYK8vHGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972184454623121691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 58511,
+          "like_count": 1038,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "求恋丑癖 https://t.co/7xGYK8vHGl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 50,
+          "like_count": 547,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 142
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "# 愛？ # 唉！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "未來電波基地",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971589404347990016/IkfSVmns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6438,
+          "following_count": 247,
+          "like_count": 29775,
+          "listed_count": 16,
+          "media_count": 162,
+          "tweet_count": 793
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "TokiyukiSAMAAAA",
+        "verified": false
+      }
+    ]
+  }
+}

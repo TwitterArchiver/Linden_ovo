@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083099318450282496"
+      ],
+      "media_source_tweet_id": [
+        "2083099331284828608"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2083433727615463569",
+    "created_at": "2026-08-01T06:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083433727615463569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1521876423438643203",
+          "start": 3,
+          "username": "ann12OvO"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mYpbk7VYn7",
+          "end": 53,
+          "expanded_url": "https://x.com/ann12OvO/status/2083099331284828608/photo/1",
+          "media_key": "3_2083099318450282496",
+          "start": 30,
+          "url": "https://t.co/mYpbk7VYn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083433727615463569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083099331284828608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ann12OvO: 我忘了是哪里存的了怎么这么搞笑 https://t.co/mYpbk7VYn7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2083099318450282496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOinyxwWYAAwsFj.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083099318450282496"
+          ]
+        },
+        "author_id": "1521876423438643203",
+        "conversation_id": "2083099331284828608",
+        "created_at": "2026-07-31T07:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083099331284828608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYpbk7VYn7",
+              "end": 39,
+              "expanded_url": "https://x.com/ann12OvO/status/2083099331284828608/photo/1",
+              "media_key": "3_2083099318450282496",
+              "start": 16,
+              "url": "https://t.co/mYpbk7VYn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083099331284828608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 49421,
+          "like_count": 675,
+          "quote_count": 22,
+          "reply_count": 74,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "我忘了是哪里存的了怎么这么搞笑 https://t.co/mYpbk7VYn7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083099318450282496"
+          ],
+          "media_source_tweet_id": [
+            "2083099331284828608"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2083433727615463569",
+        "created_at": "2026-08-01T06:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433727615463569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1521876423438643203",
+              "start": 3,
+              "username": "ann12OvO"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mYpbk7VYn7",
+              "end": 53,
+              "expanded_url": "https://x.com/ann12OvO/status/2083099331284828608/photo/1",
+              "media_key": "3_2083099318450282496",
+              "start": 30,
+              "url": "https://t.co/mYpbk7VYn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433727615463569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083099331284828608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ann12OvO: 我忘了是哪里存的了怎么这么搞笑 https://t.co/mYpbk7VYn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 147,
+          "like_count": 2893,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1914
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-04T15:36:40.000Z",
+        "description": "18岁 现居加拿大🇨🇦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ann12OvO",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ann12OvO",
+                "start": 0,
+                "url": "https://t.co/EQABHyMZaB"
+              }
+            ]
+          }
+        },
+        "id": "1521876423438643203",
+        "location": "🚪99纯绿",
+        "name": "安酱^ ^",
+        "pinned_tweet_id": "2041665628835328303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061127451334610944/S8BVxRQQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6275,
+          "following_count": 198,
+          "like_count": 8425,
+          "listed_count": 13,
+          "media_count": 719,
+          "tweet_count": 4273
+        },
+        "url": "https://t.co/EQABHyMZaB",
+        "username": "ann12OvO",
+        "verified": false
+      }
+    ]
+  }
+}

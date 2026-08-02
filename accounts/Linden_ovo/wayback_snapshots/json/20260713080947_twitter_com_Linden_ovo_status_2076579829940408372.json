@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076579829940408372",
+    "created_at": "2026-07-13T08:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T09:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076579829940408372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1512311952114028548",
+          "start": 3,
+          "username": "yuki_sakuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076579829940408372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 853
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076236345694154865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki_sakuna: もう何も怖くない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076579829940408372",
+        "created_at": "2026-07-13T08:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076579829940408372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1512311952114028548",
+              "start": 3,
+              "username": "yuki_sakuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076579829940408372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076236345694154865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuki_sakuna: もう何も怖くない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512311952114028548",
+        "conversation_id": "2076236345694154865",
+        "created_at": "2026-07-12T09:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T10:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076236345694154865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076236345694154865",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 548162,
+          "like_count": 12135,
+          "quote_count": 15,
+          "reply_count": 333,
+          "retweet_count": 853
+        },
+        "reply_settings": "everyone",
+        "text": "もう何も怖くない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 135,
+          "like_count": 2405,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1568
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T06:10:51.000Z",
+        "description": "ゆうきさくなです^ ̳. ̫ . ̳^ฅ゛個人Vtuber\nᴛᴀɢ🏷️#さくなあーと￤ɪɴꜰᴏ📢@Yuukisakunainfo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 42,
+                "start": 35,
+                "tag": "さくなあーと"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 64,
+                "start": 48,
+                "username": "Yuukisakunainfo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCrV1H…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCrV1Hf5r8P148idjoSfrGEQ",
+                "start": 0,
+                "url": "https://t.co/8gCRiUmhku"
+              }
+            ]
+          }
+        },
+        "id": "1512311952114028548",
+        "location": "おうち",
+        "name": "結城さくな🎀🐾YuukiSakuna",
+        "pinned_tweet_id": "2070451262454378618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970843215113986048/PlAoNvNk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632429,
+          "following_count": 317,
+          "like_count": 7317,
+          "listed_count": 1948,
+          "media_count": 245,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/8gCRiUmhku",
+        "username": "yuki_sakuna",
+        "verified": true
+      }
+    ]
+  }
+}

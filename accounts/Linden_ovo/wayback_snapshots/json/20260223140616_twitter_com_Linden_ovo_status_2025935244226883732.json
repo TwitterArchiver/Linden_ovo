@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2025935244226883732",
+    "created_at": "2026-02-23T14:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T15:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025935244226883732"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/qqqqqf5/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/qqqqqf5/status/2025596193007599643",
+          "start": 15,
+          "url": "https://t.co/smEPxdqQHR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025935244226883732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025596193007599643",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我要笑呕了我在课上憋笑好难受 https://t.co/smEPxdqQHR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2361,
+        "media_key": "3_2025596181485920257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBxc_rfbIAEiPcz.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2025935244226883732",
+        "created_at": "2026-02-23T14:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T15:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025935244226883732"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qqqqqf5/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/qqqqqf5/status/2025596193007599643",
+              "start": 15,
+              "url": "https://t.co/smEPxdqQHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025935244226883732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025596193007599643",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑呕了我在课上憋笑好难受 https://t.co/smEPxdqQHR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025596181485920257"
+          ]
+        },
+        "author_id": "1618557658163970049",
+        "conversation_id": "2025596193007599643",
+        "created_at": "2026-02-22T15:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T16:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025596193007599643"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CAR1Aqy2IN",
+              "end": 23,
+              "expanded_url": "https://x.com/qqqqqf5/status/2025596193007599643/photo/1",
+              "media_key": "3_2025596181485920257",
+              "start": 0,
+              "url": "https://t.co/CAR1Aqy2IN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025596193007599643",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 135745,
+          "like_count": 609,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/CAR1Aqy2IN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1201,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 608
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T10:33:19.000Z",
+        "description": "你好！我是清凤\n不键政不od不割手不恶俗\n欢迎私信聊天投稿andmore!\n生活/开发/发疯向账号: @qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 51,
+                "username": "qqqqqf_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/qqqqqf-q",
+                "end": 23,
+                "expanded_url": "https://github.com/qqqqqf-q",
+                "start": 0,
+                "url": "https://t.co/Qfc6ZTRmX7"
+              }
+            ]
+          }
+        },
+        "id": "1618557658163970049",
+        "name": "清凤🍥",
+        "pinned_tweet_id": "2024083137333178414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998731259082846208/hLjeArGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9438,
+          "following_count": 1945,
+          "like_count": 14047,
+          "listed_count": 19,
+          "media_count": 2285,
+          "tweet_count": 5056
+        },
+        "url": "https://t.co/Qfc6ZTRmX7",
+        "username": "qqqqqf5",
+        "verified": true
+      }
+    ]
+  }
+}

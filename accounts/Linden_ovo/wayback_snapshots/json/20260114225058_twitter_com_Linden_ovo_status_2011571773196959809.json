@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2010670244633907200"
+      ],
+      "media_source_tweet_id": [
+        "2010670265022517310"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2011571773196959809",
+    "created_at": "2026-01-14T22:50:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T23:50:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011571773196959809"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 13,
+          "tag": "Aeruseni"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1988205793108451328",
+          "start": 3,
+          "username": "blris07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bLbgh1p2Df",
+          "end": 46,
+          "expanded_url": "https://x.com/blris07/status/2010670265022517310/photo/1",
+          "media_key": "3_2010670244633907200",
+          "start": 23,
+          "url": "https://t.co/bLbgh1p2Df"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011571773196959809",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 437
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010670265022517310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blris07: #Aeruseni https://t.co/bLbgh1p2Df"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2010670244633907200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-dV7zvaEAAngAo.jpg",
+        "width": 3239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010670244633907200"
+          ],
+          "media_source_tweet_id": [
+            "2010670265022517310"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2011571773196959809",
+        "created_at": "2026-01-14T22:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T23:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011571773196959809"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 13,
+              "tag": "Aeruseni"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1988205793108451328",
+              "start": 3,
+              "username": "blris07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLbgh1p2Df",
+              "end": 46,
+              "expanded_url": "https://x.com/blris07/status/2010670265022517310/photo/1",
+              "media_key": "3_2010670244633907200",
+              "start": 23,
+              "url": "https://t.co/bLbgh1p2Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011571773196959809",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 437
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010670265022517310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blris07: #Aeruseni https://t.co/bLbgh1p2Df"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010670244633907200"
+          ]
+        },
+        "author_id": "1988205793108451328",
+        "conversation_id": "2010670265022517310",
+        "created_at": "2026-01-12T11:08:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:08:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010670265022517310"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Aeruseni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLbgh1p2Df",
+              "end": 33,
+              "expanded_url": "https://x.com/blris07/status/2010670265022517310/photo/1",
+              "media_key": "3_2010670244633907200",
+              "start": 10,
+              "url": "https://t.co/bLbgh1p2Df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010670265022517310",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 263,
+          "impression_count": 40196,
+          "like_count": 4763,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 437
+        },
+        "reply_settings": "everyone",
+        "text": "#Aeruseni https://t.co/bLbgh1p2Df"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了滚",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 71,
+          "like_count": 991,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 453
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T11:22:59.000Z",
+        "description": "!Kobokerz\n보코보코짱 그립니다☔️",
+        "id": "1988205793108451328",
+        "name": "blris☔️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003029315336986624/WpGrcnxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 4,
+          "like_count": 589,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 69
+        },
+        "username": "blris07",
+        "verified": false
+      }
+    ]
+  }
+}

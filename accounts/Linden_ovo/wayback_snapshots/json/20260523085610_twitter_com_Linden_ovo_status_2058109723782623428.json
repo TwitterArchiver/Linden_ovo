@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057709887015317504"
+      ],
+      "media_source_tweet_id": [
+        "2057709897677222001"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2058109723782623428",
+    "created_at": "2026-05-23T08:56:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:56:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058109723782623428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1486209719740289024",
+          "start": 3,
+          "username": "oxniubi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZoSYZTotVT",
+          "end": 49,
+          "expanded_url": "https://x.com/oxniubi/status/2057709897677222001/photo/1",
+          "media_key": "3_2057709887015317504",
+          "start": 26,
+          "url": "https://t.co/ZoSYZTotVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058109723782623428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057709897677222001",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oxniubi: 千万不要去闲鱼开店卖东西 https://t.co/ZoSYZTotVT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2057709887015317504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI50PXJbcAAVqOg.jpg",
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057709887015317504"
+          ],
+          "media_source_tweet_id": [
+            "2057709897677222001"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2058109723782623428",
+        "created_at": "2026-05-23T08:56:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:56:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058109723782623428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1486209719740289024",
+              "start": 3,
+              "username": "oxniubi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoSYZTotVT",
+              "end": 49,
+              "expanded_url": "https://x.com/oxniubi/status/2057709897677222001/photo/1",
+              "media_key": "3_2057709887015317504",
+              "start": 26,
+              "url": "https://t.co/ZoSYZTotVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058109723782623428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057709897677222001",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oxniubi: 千万不要去闲鱼开店卖东西 https://t.co/ZoSYZTotVT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057709887015317504"
+          ]
+        },
+        "author_id": "1486209719740289024",
+        "conversation_id": "2057709897677222001",
+        "created_at": "2026-05-22T06:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057709897677222001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZoSYZTotVT",
+              "end": 36,
+              "expanded_url": "https://x.com/oxniubi/status/2057709897677222001/photo/1",
+              "media_key": "3_2057709887015317504",
+              "start": 13,
+              "url": "https://t.co/ZoSYZTotVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057709897677222001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 2010911,
+          "like_count": 1307,
+          "quote_count": 4,
+          "reply_count": 327,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "千万不要去闲鱼开店卖东西 https://t.co/ZoSYZTotVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 104,
+          "like_count": 1721,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1052
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T05:29:58.000Z",
+        "description": "昨天在梦里，我又看见你，\n宝贝，人和人一场游戏\nAI工具与生活观察爱好者，真诚交友",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xiaosen.shop",
+                "end": 23,
+                "expanded_url": "http://xiaosen.shop",
+                "start": 0,
+                "url": "https://t.co/V4kB3nNbmB"
+              }
+            ]
+          }
+        },
+        "id": "1486209719740289024",
+        "location": "Claudu 20x只要980",
+        "name": "小森",
+        "pinned_tweet_id": "2045810440224330171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772991198715908096/Z0s5NKKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4671,
+          "following_count": 3157,
+          "like_count": 3505,
+          "listed_count": 32,
+          "media_count": 534,
+          "tweet_count": 9657
+        },
+        "url": "https://t.co/V4kB3nNbmB",
+        "username": "oxniubi",
+        "verified": true
+      }
+    ]
+  }
+}

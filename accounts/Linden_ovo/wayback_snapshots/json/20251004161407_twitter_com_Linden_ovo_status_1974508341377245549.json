@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1963332187639463936"
+      ],
+      "media_source_tweet_id": [
+        "1963332491760038170"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1974508341377245549",
+    "created_at": "2025-10-04T16:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T17:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974508341377245549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1762668726149931008",
+          "start": 3,
+          "username": "allnight_longX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h920YvFnmO",
+          "end": 62,
+          "expanded_url": "https://x.com/FindomFemboyGod/status/1963332491760038170/video/1",
+          "media_key": "13_1963332187639463936",
+          "start": 39,
+          "url": "https://t.co/h920YvFnmO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974508341377245549",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7507
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966970578860208462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @allnight_longX: this would fix me  https://t.co/h920YvFnmO"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1974508341377245549].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1974508341377245549",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1974508341377245549"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32127,
+        "height": 1920,
+        "media_key": "13_1963332187639463936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1963332187639463936/img/LbhrRz49OZX2tPDA.jpg",
+        "public_metrics": {
+          "view_count": 3811374
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963332187639463936/vid/avc1/720x1280/FAgJJg-Gm7vn9oc8.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963332187639463936/vid/avc1/480x852/t094O5FXtXNHPVOm.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1963332187639463936/pl/Ugj0VYdBvvLxS7YH.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963332187639463936/vid/avc1/1080x1920/fGCgVobI4ADgw-6f.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1963332187639463936/vid/avc1/320x568/oLR3k2hFX69ttgA3.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1963332187639463936"
+          ],
+          "media_source_tweet_id": [
+            "1963332491760038170"
+          ]
+        },
+        "author_id": "1762668726149931008",
+        "conversation_id": "1966970578860208462",
+        "created_at": "2025-09-13T21:01:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T22:01:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966970578860208462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h920YvFnmO",
+              "end": 42,
+              "expanded_url": "https://x.com/FindomFemboyGod/status/1963332491760038170/video/1",
+              "media_key": "13_1963332187639463936",
+              "start": 19,
+              "url": "https://t.co/h920YvFnmO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966970578860208462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 54539,
+          "impression_count": 1087207,
+          "like_count": 94902,
+          "quote_count": 233,
+          "reply_count": 138,
+          "retweet_count": 7507
+        },
+        "reply_settings": "everyone",
+        "text": "this would fix me  https://t.co/h920YvFnmO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "ip西班牙点进来视奸我推立刻死妈",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 52,
+          "like_count": 555,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 153
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T02:39:17.000Z",
+        "description": "i google gay porn so you don’t have too :3. Dm for removal! alt/backup @Gayporn_K",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 71,
+                "username": "Gayporn_K"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/gaypp",
+                "end": 23,
+                "expanded_url": "https://throne.com/gaypp",
+                "start": 0,
+                "url": "https://t.co/izq9gmHKNm"
+              }
+            ]
+          }
+        },
+        "id": "1762668726149931008",
+        "location": "mdni",
+        "name": "Cummm!",
+        "pinned_tweet_id": "1809892082175320251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1844735998841716758/wMYP3dgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154910,
+          "following_count": 78,
+          "like_count": 885,
+          "listed_count": 300,
+          "media_count": 1409,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/izq9gmHKNm",
+        "username": "allnight_longX",
+        "verified": false
+      }
+    ]
+  }
+}

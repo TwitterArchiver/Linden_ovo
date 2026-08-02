@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2036024110174621749",
+    "created_at": "2026-03-23T10:15:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T11:15:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036024110174621749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1771131154214932480",
+          "start": 3,
+          "username": "ace_sana_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036024110174621749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035502950307750332",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ace_sana_: 等蔡徐坤60了，他孙子突然来了一句鸡你太美"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2036024110174621749",
+        "created_at": "2026-03-23T10:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T11:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036024110174621749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1771131154214932480",
+              "start": 3,
+              "username": "ace_sana_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036024110174621749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035502950307750332",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ace_sana_: 等蔡徐坤60了，他孙子突然来了一句鸡你太美"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1771131154214932480",
+        "conversation_id": "2035502950307750332",
+        "created_at": "2026-03-21T23:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T00:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035502950307750332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035502950307750332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 38890,
+          "like_count": 947,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "等蔡徐坤60了，他孙子突然来了一句鸡你太美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 82,
+          "like_count": 1389,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 775
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T11:06:03.000Z",
+        "description": "嘻嘻 好闺蜜是@xiaoyv_zero 最好的朋友@yuyuyu_428",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "xiaoyv_zero"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yuyuyu_428"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%95%A32",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%95%A32",
+                "start": 0,
+                "url": "https://t.co/urUMwGcFEL"
+              }
+            ]
+          }
+        },
+        "id": "1771131154214932480",
+        "location": "🙀",
+        "name": "永雏散",
+        "pinned_tweet_id": "2025544796539072754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009833410047442944/5k2FyQ9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 181,
+          "like_count": 15474,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3937
+        },
+        "url": "https://t.co/urUMwGcFEL",
+        "username": "ace_sana_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992897699998474240"
+      ],
+      "media_source_tweet_id": [
+        "1992897711121526987"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1992966582713143753",
+    "created_at": "2025-11-24T14:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-24T15:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992966582713143753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1793381335303909376",
+          "start": 3,
+          "username": "XinXiao74829"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8WW9bSFVlg",
+          "end": 45,
+          "expanded_url": "https://x.com/XinXiao74829/status/1992897711121526987/photo/1",
+          "media_key": "3_1992897699998474240",
+          "start": 22,
+          "url": "https://t.co/8WW9bSFVlg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992966582713143753",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992897711121526987",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XinXiao74829: 他咋了 https://t.co/8WW9bSFVlg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992897699998474240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6gx5joaIAAce_e.jpg",
+        "width": 1138
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992897699998474240"
+          ],
+          "media_source_tweet_id": [
+            "1992897711121526987"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1992966582713143753",
+        "created_at": "2025-11-24T14:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T15:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992966582713143753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1793381335303909376",
+              "start": 3,
+              "username": "XinXiao74829"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WW9bSFVlg",
+              "end": 45,
+              "expanded_url": "https://x.com/XinXiao74829/status/1992897711121526987/photo/1",
+              "media_key": "3_1992897699998474240",
+              "start": 22,
+              "url": "https://t.co/8WW9bSFVlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992966582713143753",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992897711121526987",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XinXiao74829: 他咋了 https://t.co/8WW9bSFVlg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992897699998474240"
+          ]
+        },
+        "author_id": "1793381335303909376",
+        "conversation_id": "1992897711121526987",
+        "created_at": "2025-11-24T10:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T11:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992897711121526987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WW9bSFVlg",
+              "end": 27,
+              "expanded_url": "https://x.com/XinXiao74829/status/1992897711121526987/photo/1",
+              "media_key": "3_1992897699998474240",
+              "start": 4,
+              "url": "https://t.co/8WW9bSFVlg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992897711121526987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 52605,
+          "like_count": 415,
+          "quote_count": 13,
+          "reply_count": 164,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "他咋了 https://t.co/8WW9bSFVlg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 62,
+          "like_count": 751,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 280
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-22T20:40:15.000Z",
+        "description": "",
+        "id": "1793381335303909376",
+        "location": "加v有🚪",
+        "name": "心",
+        "pinned_tweet_id": "1885831089874477488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936752046910091264/JuSVwtTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40427,
+          "following_count": 85,
+          "like_count": 2924,
+          "listed_count": 67,
+          "media_count": 49,
+          "tweet_count": 277
+        },
+        "username": "XinXiao74829",
+        "verified": false
+      }
+    ]
+  }
+}

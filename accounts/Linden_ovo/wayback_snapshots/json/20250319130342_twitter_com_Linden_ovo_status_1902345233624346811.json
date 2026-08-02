@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1902344614734090241"
+      ],
+      "media_source_tweet_id": [
+        "1902344617418252651"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1902345233624346811",
+    "created_at": "2025-03-19T13:03:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T14:03:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902345233624346811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1750055979121827840",
+          "start": 3,
+          "username": "tatakaustation"
+        },
+        {
+          "end": 34,
+          "id": "1889336574250565632",
+          "start": 24,
+          "username": "ayam3_0v0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Qo6XKx48A",
+          "end": 58,
+          "expanded_url": "https://x.com/tatakaustation/status/1902344617418252651/photo/1",
+          "media_key": "3_1902344614734090241",
+          "start": 35,
+          "url": "https://t.co/5Qo6XKx48A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902345233624346811",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902344617418252651",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tatakaustation: 谢安迪 @ayam3_0v0 https://t.co/5Qo6XKx48A"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1902345233624346811].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1902345233624346811",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1902345233624346811"
+    },
+    {
+      "detail": "Could not find user with entities.mentions.username: [ayam3_0v0].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ayam3_0v0",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "ayam3_0v0"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1902344614734090241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZ8WRmaUAEYm03.jpg",
+        "width": 899
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902344614734090241"
+          ]
+        },
+        "author_id": "1750055979121827840",
+        "conversation_id": "1902344617418252651",
+        "created_at": "2025-03-19T13:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T14:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902344617418252651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1889336574250565632",
+              "start": 4,
+              "username": "ayam3_0v0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Qo6XKx48A",
+              "end": 38,
+              "expanded_url": "https://x.com/tatakaustation/status/1902344617418252651/photo/1",
+              "media_key": "3_1902344614734090241",
+              "start": 15,
+              "url": "https://t.co/5Qo6XKx48A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902344617418252651",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "谢安迪 @ayam3_0v0 https://t.co/5Qo6XKx48A"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901358988714762241/bzFDIKcL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 79,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 133
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-24T07:20:58.000Z",
+        "description": "",
+        "id": "1750055979121827840",
+        "location": "LA",
+        "name": "Sta",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857969343268794373/A1KUw6s9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "tatakaustation",
+        "verified": false
+      }
+    ]
+  }
+}

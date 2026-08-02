@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1883385768586137633",
+    "created_at": "2025-01-26T08:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-26T09:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1883438184538984929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1498750645431857152",
+          "start": 0,
+          "username": "SeediqChiet"
+        },
+        {
+          "end": 29,
+          "id": "1363489029430403073",
+          "start": 13,
+          "username": "5cmdkOARZbuaVAG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1883438184538984929",
+    "in_reply_to_user_id": "1498750645431857152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1883437767595848030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SeediqChiet @5cmdkOARZbuaVAG 只有穷人爱生，因为试图生个凤凰让自己有脸有面并在晚年享受无尽的财富。且只有雕畜认为自己尊贵血脉需要传承😁😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1883385768586137633",
+        "created_at": "2025-01-26T08:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883438184538984929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1498750645431857152",
+              "start": 0,
+              "username": "SeediqChiet"
+            },
+            {
+              "end": 29,
+              "id": "1363489029430403073",
+              "start": 13,
+              "username": "5cmdkOARZbuaVAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883438184538984929",
+        "in_reply_to_user_id": "1498750645431857152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883437767595848030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SeediqChiet @5cmdkOARZbuaVAG 只有穷人爱生，因为试图生个凤凰让自己有脸有面并在晚年享受无尽的财富。且只有雕畜认为自己尊贵血脉需要传承😁😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498750645431857152",
+        "conversation_id": "1883385768586137633",
+        "created_at": "2025-01-26T08:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-26T09:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1883437767595848030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            },
+            {
+              "end": 28,
+              "id": "1363489029430403073",
+              "start": 12,
+              "username": "5cmdkOARZbuaVAG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1883437767595848030",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1883437399134650595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo @5cmdkOARZbuaVAG 你有什么底 你没有底 尘归尘 土归土 你的苗裔到不了复活日"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 81,
+          "like_count": 302,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 107
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-01T20:04:03.000Z",
+        "description": "we have surrendered to China many times but we want to liberate ourselves",
+        "id": "1498750645431857152",
+        "location": "Sai Kung District, Hong Kong",
+        "name": "Seediq Bale de Huyện Tiêu Sơn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1498751854003761152/w74IEPYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 473,
+          "like_count": 212,
+          "listed_count": 3,
+          "media_count": 9,
+          "tweet_count": 925
+        },
+        "username": "SeediqChiet",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-21T14:02:24.000Z",
+        "description": "Es ist ein Segen für dich, mich zu kennen, und es ist auch deine Vergeltung.  👸👩‍✈️👩‍🎓👮‍♀️🤵‍♀️\n“我”本位。100%支持激进女权。极度厌蠢。不完全统计99%的男的都是蠢货，挨骂是必然。来吧，向我证明你是那1%",
+        "id": "1363489029430403073",
+        "name": "Wilde Hexe",
+        "pinned_tweet_id": "1833034551548879315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760395314610008064/Bj_yjfX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3741,
+          "following_count": 484,
+          "like_count": 84603,
+          "listed_count": 17,
+          "media_count": 1926,
+          "tweet_count": 42685
+        },
+        "username": "5cmdkOARZbuaVAG",
+        "verified": false
+      }
+    ]
+  }
+}

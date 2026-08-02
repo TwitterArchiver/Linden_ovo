@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2038979022634320292",
+    "created_at": "2026-03-31T13:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038979022634320292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1829229897195368455",
+          "start": 3,
+          "username": "OVOTVTOVO_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038979022634320292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038281436856566238",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OVOTVTOVO_3: 我想问一下穷逼这个圈子怎么退呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2038979022634320292",
+        "created_at": "2026-03-31T13:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038979022634320292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1829229897195368455",
+              "start": 3,
+              "username": "OVOTVTOVO_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038979022634320292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038281436856566238",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OVOTVTOVO_3: 我想问一下穷逼这个圈子怎么退呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829229897195368455",
+        "conversation_id": "2038281436856566238",
+        "created_at": "2026-03-29T15:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T16:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038281436856566238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038281436856566238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 84827,
+          "like_count": 1815,
+          "quote_count": 22,
+          "reply_count": 120,
+          "retweet_count": 303
+        },
+        "reply_settings": "everyone",
+        "text": "我想问一下穷逼这个圈子怎么退呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 85,
+          "like_count": 1445,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 804
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-29T18:49:42.000Z",
+        "description": "？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovotvtouo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovotvtouo",
+                "start": 0,
+                "url": "https://t.co/VHfQubyMuT"
+              }
+            ]
+          }
+        },
+        "id": "1829229897195368455",
+        "location": "提问箱",
+        "name": "用户2778（祺嘉玛学长）",
+        "pinned_tweet_id": "2008187932621123964",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032517620172468227/XWboBXgK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 67,
+          "like_count": 3015,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 4228
+        },
+        "url": "https://t.co/VHfQubyMuT",
+        "username": "OVOTVTOVO_3",
+        "verified": false
+      }
+    ]
+  }
+}

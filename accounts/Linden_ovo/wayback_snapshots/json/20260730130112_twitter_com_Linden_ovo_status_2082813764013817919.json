@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082813764013817919",
+    "created_at": "2026-07-30T13:01:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:01:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082813764013817919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1685974668770217984",
+          "start": 3,
+          "username": "superginseng19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082813764013817919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082791141557285209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @superginseng19: 去，哪来那么多的规矩，我管你这那呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082813764013817919",
+        "created_at": "2026-07-30T13:01:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:01:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082813764013817919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1685974668770217984",
+              "start": 3,
+              "username": "superginseng19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082813764013817919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082791141557285209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @superginseng19: 去，哪来那么多的规矩，我管你这那呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685974668770217984",
+        "conversation_id": "2082791141557285209",
+        "created_at": "2026-07-30T11:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082791141557285209"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082791141557285209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "去，哪来那么多的规矩，我管你这那呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 148,
+          "like_count": 2859,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T11:24:31.000Z",
+        "description": "我已游离三界开外 求你们对我都好一点",
+        "id": "1685974668770217984",
+        "name": "你摔屁股墩应该屁股疼不是肚子疼",
+        "pinned_tweet_id": "2075011340939280684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685982539058651136/T_HK4m89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 95,
+          "like_count": 287,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 279
+        },
+        "url": "",
+        "username": "superginseng19",
+        "verified": false
+      }
+    ]
+  }
+}

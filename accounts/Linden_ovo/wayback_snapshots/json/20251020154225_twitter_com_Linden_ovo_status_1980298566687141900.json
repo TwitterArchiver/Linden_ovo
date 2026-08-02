@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1980298566687141900",
+    "created_at": "2025-10-20T15:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980298566687141900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980298566687141900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979944214277595183",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 有人把生殖隔离当套用😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1980298566687141900",
+        "created_at": "2025-10-20T15:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980298566687141900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980298566687141900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979944214277595183",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 有人把生殖隔离当套用😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639816523190763521",
+        "conversation_id": "1979944214277595183",
+        "created_at": "2025-10-19T16:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T17:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979944214277595183"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979944214277595183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 188184,
+          "like_count": 777,
+          "quote_count": 6,
+          "reply_count": 82,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "有人把生殖隔离当套用😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 640,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 201
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "我有乳头悲伤综合症，不要80我😭",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒芙兰",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977384975751335936/hdJMHO3v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11987,
+          "following_count": 459,
+          "like_count": 28570,
+          "listed_count": 21,
+          "media_count": 3006,
+          "tweet_count": 10310
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

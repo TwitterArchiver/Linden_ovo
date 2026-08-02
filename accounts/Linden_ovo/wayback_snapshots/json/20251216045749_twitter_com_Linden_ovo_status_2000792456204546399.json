@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000208788088119296"
+      ],
+      "media_source_tweet_id": [
+        "2000208792794038602"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2000792456204546399",
+    "created_at": "2025-12-16T04:57:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:57:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000792456204546399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1224606567917424641",
+          "start": 3,
+          "username": "J1le_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C7xj4D08zy",
+          "end": 76,
+          "expanded_url": "https://x.com/J1le_/status/2000208792794038602/photo/1",
+          "media_key": "3_2000208788088119296",
+          "start": 53,
+          "url": "https://t.co/C7xj4D08zy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000792456204546399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000208792794038602",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @J1le_: 你好，尊敬的马斯克先生，请你优化一下推荐机制可以吗？我不太想在我的首页看到这种傻逼 https://t.co/C7xj4D08zy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1748,
+        "media_key": "3_2000208788088119296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8IrS5KbYAAJg5A.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000208788088119296"
+          ],
+          "media_source_tweet_id": [
+            "2000208792794038602"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2000792456204546399",
+        "created_at": "2025-12-16T04:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000792456204546399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1224606567917424641",
+              "start": 3,
+              "username": "J1le_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7xj4D08zy",
+              "end": 76,
+              "expanded_url": "https://x.com/J1le_/status/2000208792794038602/photo/1",
+              "media_key": "3_2000208788088119296",
+              "start": 53,
+              "url": "https://t.co/C7xj4D08zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000792456204546399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000208792794038602",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @J1le_: 你好，尊敬的马斯克先生，请你优化一下推荐机制可以吗？我不太想在我的首页看到这种傻逼 https://t.co/C7xj4D08zy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000208788088119296"
+          ]
+        },
+        "author_id": "1224606567917424641",
+        "conversation_id": "2000208792794038602",
+        "created_at": "2025-12-14T14:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000208792794038602"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C7xj4D08zy",
+              "end": 65,
+              "expanded_url": "https://x.com/J1le_/status/2000208792794038602/photo/1",
+              "media_key": "3_2000208788088119296",
+              "start": 42,
+              "url": "https://t.co/C7xj4D08zy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000208792794038602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 339266,
+          "like_count": 2335,
+          "quote_count": 12,
+          "reply_count": 163,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "你好，尊敬的马斯克先生，请你优化一下推荐机制可以吗？我不太想在我的首页看到这种傻逼 https://t.co/C7xj4D08zy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 893,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 379
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-04T08:12:23.000Z",
+        "description": "",
+        "id": "1224606567917424641",
+        "name": "極樂",
+        "pinned_tweet_id": "1385235404178083841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886779353205219328/N-42lZ-K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50043,
+          "following_count": 480,
+          "like_count": 6172,
+          "listed_count": 72,
+          "media_count": 2559,
+          "tweet_count": 15487
+        },
+        "username": "J1le_",
+        "verified": false
+      }
+    ]
+  }
+}

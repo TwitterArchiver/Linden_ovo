@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082824586182201421",
+    "created_at": "2026-07-30T13:44:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:44:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082824586182201421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/linden_ovo/status/2077473165526122735",
+          "start": 9,
+          "url": "https://t.co/hDZVbdlKUu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082824586182201421",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077473165526122735",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "诶呀忘记逛这个了 https://t.co/hDZVbdlKUu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077473157837979648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNSq1INXgAAOaHN.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082824586182201421",
+        "created_at": "2026-07-30T13:44:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082824586182201421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2077473165526122735",
+              "start": 9,
+              "url": "https://t.co/hDZVbdlKUu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082824586182201421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077473165526122735",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "诶呀忘记逛这个了 https://t.co/hDZVbdlKUu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077473157837979648"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2077473165526122735",
+        "created_at": "2026-07-15T19:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T20:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077473165526122735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bllx0gQxa8",
+              "end": 40,
+              "expanded_url": "https://x.com/Linden_ovo/status/2077473165526122735/photo/1",
+              "media_key": "3_2077473157837979648",
+              "start": 17,
+              "url": "https://t.co/Bllx0gQxa8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077473165526122735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来个上海人买了发我我发你一句谢谢 https://t.co/Bllx0gQxa8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 147,
+          "like_count": 2863,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1898
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

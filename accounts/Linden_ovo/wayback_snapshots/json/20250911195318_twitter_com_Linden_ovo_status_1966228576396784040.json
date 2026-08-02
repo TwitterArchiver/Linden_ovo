@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1966228576396784040",
+    "created_at": "2025-09-11T19:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T20:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966228576396784040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "558733731",
+          "start": 3,
+          "username": "canuto647"
+        },
+        {
+          "end": 26,
+          "id": "1851514661105254403",
+          "start": 15,
+          "username": "Finger_999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966228576396784040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966065544634753423",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @canuto647: @Finger_999 你怎么知道我约炮被退货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1966228576396784040",
+        "created_at": "2025-09-11T19:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T20:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966228576396784040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "558733731",
+              "start": 3,
+              "username": "canuto647"
+            },
+            {
+              "end": 26,
+              "id": "1851514661105254403",
+              "start": 15,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966228576396784040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966065544634753423",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @canuto647: @Finger_999 你怎么知道我约炮被退货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "558733731",
+        "conversation_id": "1966052307390579084",
+        "created_at": "2025-09-11T09:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T10:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966065544634753423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851514661105254403",
+              "start": 0,
+              "username": "Finger_999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966065544634753423",
+        "in_reply_to_user_id": "1851514661105254403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1583,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966052307390579084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finger_999 你怎么知道我约炮被退货"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 47,
+          "like_count": 506,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 104
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2012-04-20T13:50:45.000Z",
+        "description": "enfp/希望世界和平/我支持虐待动物入刑/大家都要幸福/不聊黄/忙于现实生活中/网瘾/蓁：zhen",
+        "id": "558733731",
+        "location": "附近200m",
+        "name": "蓁蓁",
+        "pinned_tweet_id": "1921794377954804065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917924405302157312/3NS8nJf7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 31,
+          "like_count": 26,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 439
+        },
+        "username": "canuto647",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T06:41:17.000Z",
+        "description": "跟狗脑子没话说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/finger71674",
+                "end": 23,
+                "expanded_url": "https://ngl.link/finger71674",
+                "start": 0,
+                "url": "https://t.co/bvvTeNDxjC"
+              }
+            ]
+          }
+        },
+        "id": "1851514661105254403",
+        "location": "桂",
+        "name": "Finger",
+        "pinned_tweet_id": "1941076906402803814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937675611369275393/BRDtbNZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2432,
+          "following_count": 191,
+          "like_count": 7128,
+          "listed_count": 5,
+          "media_count": 10,
+          "tweet_count": 1380
+        },
+        "url": "https://t.co/bvvTeNDxjC",
+        "username": "Finger_999",
+        "verified": false
+      }
+    ]
+  }
+}

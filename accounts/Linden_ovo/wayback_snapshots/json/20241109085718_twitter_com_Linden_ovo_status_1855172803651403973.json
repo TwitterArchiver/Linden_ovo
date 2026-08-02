@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1854197336412709175",
+    "created_at": "2024-11-09T08:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-09T09:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1855172803651403973"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1760944011475652611",
+          "start": 0,
+          "username": "l0613745859240"
+        },
+        {
+          "end": 25,
+          "id": "1841432037137522688",
+          "start": 16,
+          "username": "zxhui123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1855172803651403973",
+    "in_reply_to_user_id": "1760944011475652611",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854963730431590858",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@l0613745859240 @zxhui123 我想要原味😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1854197336412709175",
+        "created_at": "2024-11-09T08:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-09T09:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1855172803651403973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1760944011475652611",
+              "start": 0,
+              "username": "l0613745859240"
+            },
+            {
+              "end": 25,
+              "id": "1841432037137522688",
+              "start": 16,
+              "username": "zxhui123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1855172803651403973",
+        "in_reply_to_user_id": "1760944011475652611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854963730431590858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@l0613745859240 @zxhui123 我想要原味😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760944011475652611",
+        "conversation_id": "1854197336412709175",
+        "created_at": "2024-11-08T19:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-08T20:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854963730431590858"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            },
+            {
+              "end": 21,
+              "id": "1841432037137522688",
+              "start": 12,
+              "username": "zxhui123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854963730431590858",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854241219997843735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo @zxhui123 你妈逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 55,
+          "like_count": 112,
+          "listed_count": 0,
+          "tweet_count": 18
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T08:25:52.000Z",
+        "description": "🚪➕v52r\n线下⬇️500/h\n男， 08，172，48kg，伪S",
+        "id": "1760944011475652611",
+        "location": "辽宁",
+        "name": "犬主",
+        "pinned_tweet_id": "1828780756086460568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849002401308553216/Nw38JvBG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 9,
+          "like_count": 108,
+          "listed_count": 0,
+          "tweet_count": 45
+        },
+        "username": "l0613745859240",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T11:04:41.000Z",
+        "description": "",
+        "id": "1841432037137522688",
+        "name": "zx慧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841434232285171712/n7IdkHOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9059,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 19,
+          "tweet_count": 43
+        },
+        "username": "zxhui123",
+        "verified": false
+      }
+    ]
+  }
+}

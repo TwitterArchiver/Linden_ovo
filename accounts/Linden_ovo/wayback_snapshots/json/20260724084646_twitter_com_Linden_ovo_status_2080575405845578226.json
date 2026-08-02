@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080205899474567168"
+      ],
+      "media_source_tweet_id": [
+        "2080205907896696835"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080575405845578226",
+    "created_at": "2026-07-24T08:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080575405845578226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1573704119516176384",
+          "start": 3,
+          "username": "SnozakiSakura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rCzGOFtdjY",
+          "end": 57,
+          "expanded_url": "https://x.com/SnozakiSakura/status/2080205907896696835/photo/1",
+          "media_key": "3_2080205899474567168",
+          "start": 34,
+          "url": "https://t.co/rCzGOFtdjY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080575405845578226",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080205907896696835",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SnozakiSakura: 我怀疑出题人当时是吸嗨了。😂 https://t.co/rCzGOFtdjY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1375,
+        "media_key": "3_2080205899474567168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5gPoHagAADOrZ.jpg",
+        "width": 1144
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080205899474567168"
+          ]
+        },
+        "author_id": "1573704119516176384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080205907896696835",
+        "created_at": "2026-07-23T08:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080205907896696835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCzGOFtdjY",
+              "end": 38,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2080205907896696835/photo/1",
+              "media_key": "3_2080205899474567168",
+              "start": 15,
+              "url": "https://t.co/rCzGOFtdjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080205907896696835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 410158,
+          "like_count": 1785,
+          "quote_count": 8,
+          "reply_count": 598,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我怀疑出题人当时是吸嗨了。😂 https://t.co/rCzGOFtdjY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080205899474567168"
+          ],
+          "media_source_tweet_id": [
+            "2080205907896696835"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080575405845578226",
+        "created_at": "2026-07-24T08:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080575405845578226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1573704119516176384",
+              "start": 3,
+              "username": "SnozakiSakura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rCzGOFtdjY",
+              "end": 57,
+              "expanded_url": "https://x.com/SnozakiSakura/status/2080205907896696835/photo/1",
+              "media_key": "3_2080205899474567168",
+              "start": 34,
+              "url": "https://t.co/rCzGOFtdjY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080575405845578226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080205907896696835",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SnozakiSakura: 我怀疑出题人当时是吸嗨了。😂 https://t.co/rCzGOFtdjY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 147,
+          "like_count": 2748,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1776
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-24T16:01:21.000Z",
+        "description": "私は地雷系女の子です～🌸 | She/Her | 分享段子和有趣的故事 ｜好看的自拍照都在“亮点”里🍧｜Living today with the hope that tomorrow will be a little better🩷💙",
+        "id": "1573704119516176384",
+        "location": "魔女岛",
+        "name": "草莓泡芙🍀",
+        "pinned_tweet_id": "2076297327455981834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070709599590920192/O5wJU2Nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96171,
+          "following_count": 2130,
+          "like_count": 7190,
+          "listed_count": 204,
+          "media_count": 420,
+          "tweet_count": 3463
+        },
+        "url": "",
+        "username": "SnozakiSakura",
+        "verified": true
+      }
+    ]
+  }
+}

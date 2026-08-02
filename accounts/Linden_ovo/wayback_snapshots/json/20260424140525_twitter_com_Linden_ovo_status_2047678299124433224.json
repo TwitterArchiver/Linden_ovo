@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2047678299124433224",
+    "created_at": "2026-04-24T14:05:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:05:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047678299124433224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843544190619463680",
+          "start": 3,
+          "username": "holopro_shopTYO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047678299124433224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2435
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047495742961656115",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @holopro_shopTYO: ⋱🎊ホロライブショップ 原宿 GRAND OPEN!🎊⋰\n\nhololive production official shop in Harajukuが\nついにオープンいたしました🎉\n原宿店ならではのポップな空間と、ここだけの特別な体験…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2047295353322704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl0Rt0bkAAZ2HL.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2047295353435885568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl0RuPakAAqLwS.jpg",
+        "width": 1200
+      },
+      {
+        "height": 900,
+        "media_key": "3_2047295353343664128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl0Rt5bYAAm05D.jpg",
+        "width": 1200
+      },
+      {
+        "height": 925,
+        "media_key": "3_2047295353360420864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGl0Rt9bEAAZ3Z9.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2047678299124433224",
+        "created_at": "2026-04-24T14:05:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047678299124433224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843544190619463680",
+              "start": 3,
+              "username": "holopro_shopTYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047678299124433224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2435
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047495742961656115",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @holopro_shopTYO: ⋱🎊ホロライブショップ 原宿 GRAND OPEN!🎊⋰\n\nhololive production official shop in Harajukuが\nついにオープンいたしました🎉\n原宿店ならではのポップな空間と、ここだけの特別な体験…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047295353322704896",
+            "3_2047295353435885568",
+            "3_2047295353343664128",
+            "3_2047295353360420864"
+          ]
+        },
+        "author_id": "1843544190619463680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2047495742961656115",
+        "created_at": "2026-04-24T02:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047495742961656115"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 140,
+              "tag": "holoshopHarajuku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YL4nOydjUL",
+              "end": 203,
+              "expanded_url": "https://x.com/holopro_shopTYO/status/2047495742961656115/photo/1",
+              "media_key": "3_2047295353322704896",
+              "start": 180,
+              "url": "https://t.co/YL4nOydjUL"
+            },
+            {
+              "display_url": "pic.x.com/YL4nOydjUL",
+              "end": 203,
+              "expanded_url": "https://x.com/holopro_shopTYO/status/2047495742961656115/photo/1",
+              "media_key": "3_2047295353435885568",
+              "start": 180,
+              "url": "https://t.co/YL4nOydjUL"
+            },
+            {
+              "display_url": "pic.x.com/YL4nOydjUL",
+              "end": 203,
+              "expanded_url": "https://x.com/holopro_shopTYO/status/2047495742961656115/photo/1",
+              "media_key": "3_2047295353343664128",
+              "start": 180,
+              "url": "https://t.co/YL4nOydjUL"
+            },
+            {
+              "display_url": "pic.x.com/YL4nOydjUL",
+              "end": 203,
+              "expanded_url": "https://x.com/holopro_shopTYO/status/2047495742961656115/photo/1",
+              "media_key": "3_2047295353360420864",
+              "start": 180,
+              "url": "https://t.co/YL4nOydjUL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047495742961656115",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 157,
+                "start": 140,
+                "tag": "holoshopHarajuku"
+              },
+              {
+                "end": 222,
+                "start": 205,
+                "tag": "holoshopHarajuku"
+              },
+              {
+                "end": 229,
+                "start": 223,
+                "tag": "ホロライブ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hololive.hololivepro.com/events/shophar…",
+                "end": 203,
+                "expanded_url": "https://hololive.hololivepro.com/events/shopharajuku/",
+                "start": 180,
+                "url": "https://t.co/baY4OdTv8m"
+              }
+            ]
+          },
+          "text": "⋱🎊ホロライブショップ 原宿 GRAND OPEN!🎊⋰\n\nhololive production official shop in Harajukuが\nついにオープンいたしました🎉\n原宿店ならではのポップな空間と、ここだけの特別な体験をぜひお楽しみください✨\nご来店の際はぜひ #holoshopHarajuku での感想をお待ちしています🌈\n\n👇店舗詳細\nhttps://t.co/baY4OdTv8m\n\n#holoshopHarajuku #ホロライブ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 896,
+          "impression_count": 696654,
+          "like_count": 11201,
+          "quote_count": 229,
+          "reply_count": 79,
+          "retweet_count": 2435
+        },
+        "reply_settings": "everyone",
+        "text": "⋱🎊ホロライブショップ 原宿 GRAND OPEN!🎊⋰\n\nhololive production official shop in Harajukuが\nついにオープンいたしました🎉\n原宿店ならではのポップな空間と、ここだけの特別な体験をぜひお楽しみください✨\nご来店の際はぜひ #holoshopHarajuku での感想をお待ちしています🌈\n\n👇店舗詳細 https://t.co/YL4nOydjUL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 98,
+          "like_count": 1603,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 952
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T06:49:48.000Z",
+        "description": "hololive production official shop 現在3店舗が営業中✨\n📍東京駅 #holoshopTokyo \n📍原宿 #holoshopHarajuku\n📍大阪梅田 #holoshopUmeda\n\n※2026年4月1日より公式店舗総合アカウントとしてリニューアルしました",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 50,
+                "tag": "holoshopTokyo"
+              },
+              {
+                "end": 87,
+                "start": 70,
+                "tag": "holoshopHarajuku"
+              },
+              {
+                "end": 108,
+                "start": 94,
+                "tag": "holoshopUmeda"
+              }
+            ]
+          }
+        },
+        "id": "1843544190619463680",
+        "name": "【公式店舗】hololive production official shop",
+        "pinned_tweet_id": "2047495742961656115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039134471748993024/OCMBwLs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56305,
+          "following_count": 68,
+          "like_count": 25,
+          "listed_count": 244,
+          "media_count": 98,
+          "tweet_count": 312
+        },
+        "username": "holopro_shopTYO",
+        "verified": true
+      }
+    ]
+  }
+}

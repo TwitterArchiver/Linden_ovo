@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1995970387575013753",
+    "created_at": "2025-12-02T21:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T22:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995970387575013753"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/linden_ovo/status/1995968700697247926",
+          "start": 91,
+          "url": "https://t.co/3FHf3UgYM9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995970387575013753",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995968700697247926",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不能和我有共友 不能只知道我互联网光鲜亮丽的一面 不能性格锐利 不能和我抱有恋爱感情 不要对我的事情对我的人抱有看法 不要批评我 要比较了解我 如果有人能做到我真生活费都给这人一半 https://t.co/3FHf3UgYM9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1995970387575013753",
+        "created_at": "2025-12-02T21:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T22:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995970387575013753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/linden_ovo/status/1995968700697247926",
+              "start": 91,
+              "url": "https://t.co/3FHf3UgYM9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995970387575013753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995968700697247926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能和我有共友 不能只知道我互联网光鲜亮丽的一面 不能性格锐利 不能和我抱有恋爱感情 不要对我的事情对我的人抱有看法 不要批评我 要比较了解我 如果有人能做到我真生活费都给这人一半 https://t.co/3FHf3UgYM9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1995968700697247926",
+        "created_at": "2025-12-02T21:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T22:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995968700697247926"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995968700697247926",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想要一个能知道我所有秘密的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 62,
+          "like_count": 812,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 321
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

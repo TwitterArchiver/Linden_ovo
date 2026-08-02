@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074003690504016247",
+    "created_at": "2026-07-06T05:33:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T06:33:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074003690504016247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1910085836420558848",
+          "start": 3,
+          "username": "tsuinoshiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074003690504016247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073767099449934294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsuinoshiro: 更想要被记住被看见的是可爱的样子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074003690504016247",
+        "created_at": "2026-07-06T05:33:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T06:33:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074003690504016247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1910085836420558848",
+              "start": 3,
+              "username": "tsuinoshiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074003690504016247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073767099449934294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsuinoshiro: 更想要被记住被看见的是可爱的样子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910085836420558848",
+        "conversation_id": "2073767099449934294",
+        "created_at": "2026-07-05T13:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073767099449934294"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073767099449934294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 346,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "更想要被记住被看见的是可爱的样子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 131,
+          "like_count": 2194,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1409
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-09T21:42:17.000Z",
+        "description": "这里有什么？",
+        "id": "1910085836420558848",
+        "name": "诅咒是纯白色",
+        "pinned_tweet_id": "2041532152857440448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055548430106374144/roXELH4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 452,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 109,
+          "tweet_count": 2228
+        },
+        "url": "",
+        "username": "tsuinoshiro",
+        "verified": false
+      }
+    ]
+  }
+}

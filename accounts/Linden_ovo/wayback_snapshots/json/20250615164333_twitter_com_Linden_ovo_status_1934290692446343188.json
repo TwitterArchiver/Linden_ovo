@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1933666072257049037",
+    "created_at": "2025-06-15T16:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T17:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934290692446343188"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1859824040422092800",
+          "start": 0,
+          "username": "RSteffanie22802"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934290692446343188",
+    "in_reply_to_user_id": "1859824040422092800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933666072257049037",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RSteffanie22802 智商这一块"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25007,
+        "height": 1280,
+        "media_key": "13_1933509405674516484",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1933509405674516484/img/Ofyf9Nltl3kMiovw.jpg",
+        "public_metrics": {
+          "view_count": 434218
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933509405674516484/vid/avc1/320x568/n5DqSr2wJlAHH06M.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933509405674516484/vid/avc1/480x852/xYHRcaHA8Gg1QwVn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1933509405674516484/vid/avc1/720x1280/6MgxmL_8Y-zv4ChN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1933509405674516484/pl/dBwsEsv2IQlhp1nG.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1933666072257049037",
+        "created_at": "2025-06-15T16:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T17:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934290692446343188"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1859824040422092800",
+              "start": 0,
+              "username": "RSteffanie22802"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934290692446343188",
+        "in_reply_to_user_id": "1859824040422092800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933666072257049037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RSteffanie22802 智商这一块"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1933509405674516484"
+          ],
+          "media_source_tweet_id": [
+            "1933509483449495657"
+          ]
+        },
+        "author_id": "1859824040422092800",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1933666072257049037",
+        "created_at": "2025-06-13T23:21:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-14T00:21:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933666072257049037"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BSm9EMDX1k",
+              "end": 49,
+              "expanded_url": "https://x.com/kiss486/status/1933509483449495657/video/1",
+              "media_key": "13_1933509405674516484",
+              "start": 26,
+              "url": "https://t.co/BSm9EMDX1k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933666072257049037",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 6136,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "這些資訊在中國都被刪除掉，所以你是在中國看不到的。\nhttps://t.co/BSm9EMDX1k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 73,
+          "like_count": 381,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 163
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-22T05:00:08.000Z",
+        "description": "真實新聞（互fo💯）必回\n和平，理性\n中共不等于中国\n解体中共,   回归中华传统。",
+        "id": "1859824040422092800",
+        "name": "Ropers Steffanie«不私聊»",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868885060587311104/vaJxSmu4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1073,
+          "following_count": 1097,
+          "like_count": 14550,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 7795
+        },
+        "username": "RSteffanie22802",
+        "verified": false
+      }
+    ]
+  }
+}

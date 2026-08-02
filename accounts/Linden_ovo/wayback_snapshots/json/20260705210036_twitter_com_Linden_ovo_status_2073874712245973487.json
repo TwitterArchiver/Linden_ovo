@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073874712245973487",
+    "created_at": "2026-07-05T21:00:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T22:00:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073874712245973487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "996645451045617664",
+          "start": 3,
+          "username": "natsuiromatsuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073874712245973487",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 186
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073825175175598130",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @natsuiromatsuri: このツイートみたら好きして"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073874712245973487",
+        "created_at": "2026-07-05T21:00:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T22:00:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073874712245973487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "996645451045617664",
+              "start": 3,
+              "username": "natsuiromatsuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073874712245973487",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 186
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073825175175598130",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @natsuiromatsuri: このツイートみたら好きして"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "996645451045617664",
+        "conversation_id": "2073825175175598130",
+        "created_at": "2026-07-05T17:43:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:43:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073825175175598130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073825175175598130",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 95100,
+          "like_count": 5137,
+          "quote_count": 1,
+          "reply_count": 430,
+          "retweet_count": 186
+        },
+        "reply_settings": "everyone",
+        "text": "このツイートみたら好きして"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 130,
+          "like_count": 2182,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1395
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2018-05-16T06:56:07.000Z",
+        "description": "ホロライブ1期生🏮\nまつりすのためのスーパーアイドル♡\nファンアート #祭絵 R18 #まつりは絵っち \nサムネイルに使用する場合があります。\nコスプレ専用タグ #まつりある \n世界一大好きなパパ(担当絵師)：@halllki \n日常アカウント→(@7216_2nd )\n夢はソロライブ🎤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "祭絵"
+              },
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "まつりは絵っち"
+              },
+              {
+                "end": 87,
+                "start": 81,
+                "tag": "まつりある"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 113,
+                "start": 105,
+                "username": "halllki"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "7216_2nd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCQ0UD…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/XO0UVwhFyx"
+              }
+            ]
+          }
+        },
+        "id": "996645451045617664",
+        "location": "君がいる場所がまつりの居場所",
+        "name": "夏色まつり🏮8周年記念グッズ発売中！",
+        "pinned_tweet_id": "2061039991283687703",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063533577208471552/D3Kuc1OR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409385,
+          "following_count": 3715,
+          "like_count": 418143,
+          "listed_count": 13485,
+          "media_count": 7265,
+          "tweet_count": 66972
+        },
+        "url": "https://t.co/XO0UVwhFyx",
+        "username": "natsuiromatsuri",
+        "verified": true
+      }
+    ]
+  }
+}

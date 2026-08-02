@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072724858639728702",
+    "created_at": "2026-07-02T16:51:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:51:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072724858639728702"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2034586230881722368",
+          "start": 3,
+          "username": "hgds03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072724858639728702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072714151177363952",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds03: 人生没那么多观众 但他妈的有挺多评委的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072724858639728702",
+        "created_at": "2026-07-02T16:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072724858639728702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2034586230881722368",
+              "start": 3,
+              "username": "hgds03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072724858639728702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072714151177363952",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds03: 人生没那么多观众 但他妈的有挺多评委的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034586230881722368",
+        "conversation_id": "2072714151177363952",
+        "created_at": "2026-07-02T16:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072714151177363952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072714151177363952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 680,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "人生没那么多观众 但他妈的有挺多评委的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 115,
+          "like_count": 2015,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 1259
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-19T11:02:47.000Z",
+        "description": "我们只是网友，你把手机摔了我就死了，放过彼此OK？放下手中的屠刀，神在救你\n匿名箱📮https://t.co/2OAcbUUA79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hgds03",
+                "end": 65,
+                "expanded_url": "https://ngl.link/hgds03",
+                "start": 42,
+                "url": "https://t.co/2OAcbUUA79"
+              }
+            ]
+          }
+        },
+        "id": "2034586230881722368",
+        "location": "世界上最忧郁的人",
+        "name": "哈根达斯",
+        "pinned_tweet_id": "2072001613376700663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043304519770226688/xqFH8lfE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5464,
+          "following_count": 614,
+          "like_count": 6527,
+          "listed_count": 5,
+          "media_count": 101,
+          "tweet_count": 922
+        },
+        "url": "",
+        "username": "hgds03",
+        "verified": true
+      }
+    ]
+  }
+}

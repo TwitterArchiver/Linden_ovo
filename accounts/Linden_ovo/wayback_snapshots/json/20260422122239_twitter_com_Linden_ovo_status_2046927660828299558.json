@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2046911074239205616",
+    "created_at": "2026-04-22T12:22:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T13:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046927660828299558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1653207153044520960",
+          "start": 0,
+          "username": "AsilenA123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046927660828299558",
+    "in_reply_to_user_id": "1653207153044520960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046925513797812553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsilenA123 所以你觉得我这段话是在寻求一个供吃供喝的人么 我只是太纠结焦虑的一个人 对我来说找到一个能完全展露情绪的人很难 我想的会很多 所以如果有朝一日有这样一个人出现了我会很高兴 如果我真的不满足于爱我就写找金主了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2046911074239205616",
+        "created_at": "2026-04-22T12:22:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046927660828299558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1653207153044520960",
+              "start": 0,
+              "username": "AsilenA123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046927660828299558",
+        "in_reply_to_user_id": "1653207153044520960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046925513797812553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsilenA123 所以你觉得我这段话是在寻求一个供吃供喝的人么 我只是太纠结焦虑的一个人 对我来说找到一个能完全展露情绪的人很难 我想的会很多 所以如果有朝一日有这样一个人出现了我会很高兴 如果我真的不满足于爱我就写找金主了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1653207153044520960",
+        "conversation_id": "2046911074239205616",
+        "created_at": "2026-04-22T12:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046925513797812553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046925513797812553",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046924601645584603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 在经济上不可能和其他人完全没有联系，不过这里的其他人并不必要是特定的某些人。我认为独立就是指通过自己的劳动维持生活的能力。情感上是可以和其他人没有联系的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 95,
+          "like_count": 1584,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 941
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-02T01:18:09.000Z",
+        "description": "今年工作|嵌入式学习中|南京|温州|爱好coding",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicoletteblog.vercel.app",
+                "end": 23,
+                "expanded_url": "https://nicoletteblog.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/VeBAi2f1TS"
+              }
+            ]
+          }
+        },
+        "id": "1653207153044520960",
+        "location": "暗淡蓝点",
+        "name": "Nicolette86132",
+        "pinned_tweet_id": "1904980730620592600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788453636206723072/RXoB8MTj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 970,
+          "like_count": 34383,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 3292
+        },
+        "url": "https://t.co/VeBAi2f1TS",
+        "username": "AsilenA123",
+        "verified": false
+      }
+    ]
+  }
+}

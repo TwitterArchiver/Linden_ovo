@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2071929140706492572",
+    "created_at": "2026-06-30T12:09:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:09:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071929140706492572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/linden_ovo/status/2071929072607797632",
+          "start": 11,
+          "url": "https://t.co/yQWkbskDKq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071929140706492572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071929072607797632",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前发疯全扔掉了后悔 https://t.co/yQWkbskDKq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071929140706492572",
+        "created_at": "2026-06-30T12:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071929140706492572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/linden_ovo/status/2071929072607797632",
+              "start": 11,
+              "url": "https://t.co/yQWkbskDKq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071929140706492572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071929072607797632",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前发疯全扔掉了后悔 https://t.co/yQWkbskDKq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2071929072607797632",
+        "created_at": "2026-06-30T12:09:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071929072607797632"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071929072607797632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太想吃药了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "想你哦",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 112,
+          "like_count": 1867,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1167
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

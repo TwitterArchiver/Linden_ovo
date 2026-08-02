@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073760111516909712",
+    "created_at": "2026-07-05T13:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073760111516909712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1153373316977176576",
+          "start": 3,
+          "username": "kotoro0223"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073760111516909712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073368937660625373",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kotoro0223: 操你们妈的没一个人代付。我想问你们平时都在装什么呢？🤢我自己付了便是。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073760111516909712",
+        "created_at": "2026-07-05T13:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073760111516909712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1153373316977176576",
+              "start": 3,
+              "username": "kotoro0223"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073760111516909712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073368937660625373",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kotoro0223: 操你们妈的没一个人代付。我想问你们平时都在装什么呢？🤢我自己付了便是。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153373316977176576",
+        "conversation_id": "2073368937660625373",
+        "created_at": "2026-07-04T11:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073368937660625373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073368937660625373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 18418,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 40,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "操你们妈的没一个人代付。我想问你们平时都在装什么呢？🤢我自己付了便是。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 129,
+          "like_count": 2165,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1382
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T18:36:42.000Z",
+        "description": "我只是一个乖乖的女孩 请不要欺负我",
+        "id": "1153373316977176576",
+        "location": "你心里",
+        "name": "kotoro",
+        "pinned_tweet_id": "2064938939014951381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791919850358775808/Ba0MfyyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3551,
+          "following_count": 82,
+          "like_count": 990,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 889
+        },
+        "url": "",
+        "username": "kotoro0223",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1854197336412709175",
+    "created_at": "2024-11-06T19:15:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T20:15:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854241219997843735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1841432037137522688",
+          "start": 0,
+          "username": "zxhui123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854241219997843735",
+    "in_reply_to_user_id": "1841432037137522688",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854197336412709175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxhui123 张晓慧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1854197336412709175",
+        "created_at": "2024-11-06T19:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T20:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854241219997843735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1841432037137522688",
+              "start": 0,
+              "username": "zxhui123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854241219997843735",
+        "in_reply_to_user_id": "1841432037137522688",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854197336412709175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxhui123 张晓慧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1841432037137522688",
+        "conversation_id": "1854197336412709175",
+        "created_at": "2024-11-06T16:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T17:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854197336412709175"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854197336412709175",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3834,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 52,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有奖竞猜 猜我的名字\nzxh是简拼\n评论区写下你的答案 猜对的我会私聊你\n奖品是原味一套"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 54,
+          "like_count": 108,
+          "listed_count": 0,
+          "tweet_count": 16
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T11:04:41.000Z",
+        "description": "",
+        "id": "1841432037137522688",
+        "name": "zx慧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841434232285171712/n7IdkHOr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7644,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 16,
+          "tweet_count": 31
+        },
+        "username": "zxhui123",
+        "verified": false
+      }
+    ]
+  }
+}

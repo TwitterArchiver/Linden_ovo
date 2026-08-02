@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082108326729662464"
+      ],
+      "media_source_tweet_id": [
+        "2082109545149808884"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082824323945902471",
+    "created_at": "2026-07-30T13:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082824323945902471"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 14,
+          "tag": "ウマ娘️️️️️️️️"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1476034275015540737",
+          "start": 3,
+          "username": "kokkkuen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MLeP6PkFC5",
+          "end": 60,
+          "expanded_url": "https://x.com/kokkkuen/status/2082109545149808884/photo/1",
+          "media_key": "3_2082108326729662464",
+          "start": 37,
+          "url": "https://t.co/MLeP6PkFC5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082824323945902471",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7469
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082109545149808884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kokkkuen: #ウマ娘️️️️️️️️ やっと出来た！！！ https://t.co/MLeP6PkFC5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3386,
+        "media_key": "3_2082108326729662464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUifd6awAA374t.jpg",
+        "width": 3500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082108326729662464"
+          ]
+        },
+        "author_id": "1476034275015540737",
+        "conversation_id": "2082109545149808884",
+        "created_at": "2026-07-28T14:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082109545149808884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ウマ娘️️️️️️️️"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLeP6PkFC5",
+              "end": 46,
+              "expanded_url": "https://x.com/kokkkuen/status/2082109545149808884/photo/1",
+              "media_key": "3_2082108326729662464",
+              "start": 23,
+              "url": "https://t.co/MLeP6PkFC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082109545149808884",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5474,
+          "impression_count": 526034,
+          "like_count": 48053,
+          "quote_count": 79,
+          "reply_count": 50,
+          "retweet_count": 7469
+        },
+        "reply_settings": "everyone",
+        "text": "#ウマ娘️️️️️️️️ やっと出来た！！！ https://t.co/MLeP6PkFC5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082108326729662464"
+          ],
+          "media_source_tweet_id": [
+            "2082109545149808884"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082824323945902471",
+        "created_at": "2026-07-30T13:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082824323945902471"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "ウマ娘️️️️️️️️"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1476034275015540737",
+              "start": 3,
+              "username": "kokkkuen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLeP6PkFC5",
+              "end": 60,
+              "expanded_url": "https://x.com/kokkkuen/status/2082109545149808884/photo/1",
+              "media_key": "3_2082108326729662464",
+              "start": 37,
+              "url": "https://t.co/MLeP6PkFC5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082824323945902471",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7469
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082109545149808884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kokkkuen: #ウマ娘️️️️️️️️ やっと出来た！！！ https://t.co/MLeP6PkFC5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 147,
+          "like_count": 2863,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1897
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T03:36:17.000Z",
+        "description": "のんびりと",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/39635…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/39635277",
+                "start": 0,
+                "url": "https://t.co/yl1JjDlwEU"
+              }
+            ]
+          }
+        },
+        "id": "1476034275015540737",
+        "location": "トイレ",
+        "name": "kokuen",
+        "pinned_tweet_id": "2024927386735923273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028174204332576769/6xXdMOKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4090,
+          "following_count": 176,
+          "like_count": 6192,
+          "listed_count": 17,
+          "media_count": 52,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/yl1JjDlwEU",
+        "username": "kokkkuen",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080569178918961169",
+    "created_at": "2026-07-24T11:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T12:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080609159649599612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999378882433286148",
+          "start": 0,
+          "username": "Morton1286551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080609159649599612",
+    "in_reply_to_user_id": "1999378882433286148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080591055213527096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morton1286551 对啊我有对象我就copy个文案"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080569178918961169",
+        "created_at": "2026-07-24T11:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080609159649599612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999378882433286148",
+              "start": 0,
+              "username": "Morton1286551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080609159649599612",
+        "in_reply_to_user_id": "1999378882433286148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080591055213527096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morton1286551 对啊我有对象我就copy个文案"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999378882433286148",
+        "conversation_id": "2080569178918961169",
+        "created_at": "2026-07-24T09:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080591055213527096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080591055213527096",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080569178918961169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 你不是有对象了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 147,
+          "like_count": 2750,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1779
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T07:21:02.000Z",
+        "description": "",
+        "id": "1999378882433286148",
+        "name": "Morton",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074858534798503936/nm_72cR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 32,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "Morton1286551",
+        "verified": false
+      }
+    ]
+  }
+}

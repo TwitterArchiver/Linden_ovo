@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1889245217351778304"
+      ],
+      "media_source_tweet_id": [
+        "1889245222057693242"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1890324637919088962",
+    "created_at": "2025-02-14T08:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890324637919088962"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 59,
+          "start": 50,
+          "tag": "spanking"
+        },
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "スパンキング"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "체벌"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "훈육"
+        },
+        {
+          "end": 80,
+          "start": 76,
+          "tag": "打屁股"
+        },
+        {
+          "end": 89,
+          "start": 81,
+          "tag": "おしりぺんぺん"
+        },
+        {
+          "end": 95,
+          "start": 90,
+          "tag": "お仕置き"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1377916475692871687",
+          "start": 3,
+          "username": "saerockjp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5lSzx1L7s",
+          "end": 119,
+          "expanded_url": "https://x.com/saerockjp/status/1889245222057693242/photo/1",
+          "media_key": "3_1889245217351778304",
+          "start": 96,
+          "url": "https://t.co/E5lSzx1L7s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890324637919088962",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889245222057693242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saerockjp: 久々のコスプレリクエスト！知らないアニメでしたが皆さまはご存知？😳\n\n#spanking #スパンキング #체벌 #훈육 #打屁股 #おしりぺんぺん #お仕置き https://t.co/E5lSzx1L7s"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1890324637919088962].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1890324637919088962",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1890324637919088962"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1696,
+        "media_key": "3_1889245217351778304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjfyg_nbwAArfe7.jpg",
+        "width": 1022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889245217351778304"
+          ]
+        },
+        "author_id": "1377916475692871687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1889245222057693242",
+        "created_at": "2025-02-11T09:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T10:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889245222057693242"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 35,
+              "tag": "spanking"
+            },
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "スパンキング"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "체벌"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "훈육"
+            },
+            {
+              "end": 65,
+              "start": 61,
+              "tag": "打屁股"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "おしりぺんぺん"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "お仕置き"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5lSzx1L7s",
+              "end": 104,
+              "expanded_url": "https://x.com/saerockjp/status/1889245222057693242/photo/1",
+              "media_key": "3_1889245217351778304",
+              "start": 81,
+              "url": "https://t.co/E5lSzx1L7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889245222057693242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 44800,
+          "like_count": 603,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "久々のコスプレリクエスト！知らないアニメでしたが皆さまはご存知？😳\n\n#spanking #スパンキング #체벌 #훈육 #打屁股 #おしりぺんぺん #お仕置き https://t.co/E5lSzx1L7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 80,
+          "like_count": 323,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 118
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T09:31:39.000Z",
+        "description": "https://t.co/aPLLm2eBN0(full vids/動画販売)💕https://t.co/16w0P4mgVu💕https://t.co/eJir13hNd6💕https://t.co/fHYa8zKuJw(支付宝👍)💕https://t.co/4zJREsSpge(支付宝👍)💕custom vids available💕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://saerock.com",
+                "start": 0,
+                "url": "https://t.co/aPLLm2eBN0"
+              },
+              {
+                "display_url": "onlyfans.com/saerockjp",
+                "end": 63,
+                "expanded_url": "http://onlyfans.com/saerockjp",
+                "start": 40,
+                "url": "https://t.co/16w0P4mgVu"
+              },
+              {
+                "display_url": "candfans.jp/saerockjp",
+                "end": 87,
+                "expanded_url": "http://candfans.jp/saerockjp",
+                "start": 64,
+                "url": "https://t.co/eJir13hNd6"
+              },
+              {
+                "display_url": "umate.me/saerockjp/",
+                "end": 111,
+                "expanded_url": "http://umate.me/saerockjp/",
+                "start": 88,
+                "url": "https://t.co/fHYa8zKuJw"
+              },
+              {
+                "display_url": "fansone.co/saerockjp",
+                "end": 141,
+                "expanded_url": "http://fansone.co/saerockjp",
+                "start": 118,
+                "url": "https://t.co/4zJREsSpge"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://www.saerock.com",
+                "start": 0,
+                "url": "https://t.co/PQWHm0cBEJ"
+              }
+            ]
+          }
+        },
+        "id": "1377916475692871687",
+        "name": "SaeRock",
+        "pinned_tweet_id": "1885562130507899058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713920715437785088/sYJfIOS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60125,
+          "following_count": 177,
+          "like_count": 17360,
+          "listed_count": 195,
+          "media_count": 803,
+          "tweet_count": 7108
+        },
+        "url": "https://t.co/PQWHm0cBEJ",
+        "username": "saerockjp",
+        "verified": true
+      }
+    ]
+  }
+}

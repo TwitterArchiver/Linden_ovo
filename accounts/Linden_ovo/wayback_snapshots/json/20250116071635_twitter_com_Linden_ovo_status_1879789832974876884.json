@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1879789832974876884",
+    "created_at": "2025-01-16T07:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-16T08:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879789832974876884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1832136784354144259",
+          "start": 3,
+          "username": "kashihara28612"
+        },
+        {
+          "end": 36,
+          "id": "1520806471918927872",
+          "start": 20,
+          "username": "AkasakaReitsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879789832974876884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879709022837981436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kashihara28612: @AkasakaReitsuki 要是共产党能让智商120以下的上不了网，那它就是历史上最伟大的政党，没有之一😁😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1879789832974876884",
+        "created_at": "2025-01-16T07:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T08:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879789832974876884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1832136784354144259",
+              "start": 3,
+              "username": "kashihara28612"
+            },
+            {
+              "end": 36,
+              "id": "1520806471918927872",
+              "start": 20,
+              "username": "AkasakaReitsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879789832974876884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879709022837981436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kashihara28612: @AkasakaReitsuki 要是共产党能让智商120以下的上不了网，那它就是历史上最伟大的政党，没有之一😁😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832136784354144259",
+        "conversation_id": "1879341770364137757",
+        "created_at": "2025-01-16T01:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T02:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879709022837981436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1520806471918927872",
+              "start": 0,
+              "username": "AkasakaReitsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879709022837981436",
+        "in_reply_to_user_id": "1520806471918927872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 496,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879708449308823792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkasakaReitsuki 要是共产党能让智商120以下的上不了网，那它就是历史上最伟大的政党，没有之一😁😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 75,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 86
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-06T19:20:49.000Z",
+        "description": "大号似了，重新炒作中｜东京外资职场不分享｜东雪莲单推人｜绿帽文学、交友文学",
+        "id": "1832136784354144259",
+        "name": "後鳥羽上豚(流罪中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866136311071158272/pa5qc8-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 408,
+          "like_count": 19689,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 2152
+        },
+        "username": "kashihara28612",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-01T16:45:12.000Z",
+        "description": "复活中…",
+        "id": "1520806471918927872",
+        "location": "China",
+        "name": "天☆城☆快☆斗",
+        "pinned_tweet_id": "1834510154844233852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876656602515939328/Q9hLc2Pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 446,
+          "like_count": 8639,
+          "listed_count": 4,
+          "media_count": 0,
+          "tweet_count": 3049
+        },
+        "username": "AkasakaReitsuki",
+        "verified": false
+      }
+    ]
+  }
+}

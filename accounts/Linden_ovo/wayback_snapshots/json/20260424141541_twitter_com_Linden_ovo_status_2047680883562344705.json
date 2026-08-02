@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004028337289814016",
+          "name": "THE IDOLM@STER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004028337289814016",
+          "name": "THE IDOLM@STER"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297717277677166593",
+          "name": "Karaoke"
+        }
+      }
+    ],
+    "conversation_id": "2047680883562344705",
+    "created_at": "2026-04-24T14:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T15:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047680883562344705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1850332459310989312",
+          "start": 3,
+          "username": "zutapoke"
+        }
+      ],
+      "urls": [
+        {
+          "description": "カラオケまねきねこのWEB予約サイト。通常ルームやコンセプトルームの予約ができます。",
+          "display_url": "reservation.karaokemanekineko.jp/collabo-room-l…",
+          "end": 85,
+          "expanded_url": "https://reservation.karaokemanekineko.jp/collabo-room-list",
+          "images": [
+            {
+              "height": 315,
+              "url": "https://pbs.twimg.com/news_img/2047235286514503680/hrbt8m-R?format=png&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2047235286514503680/hrbt8m-R?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 62,
+          "status": 200,
+          "title": "カラオケまねきねこ WEB予約",
+          "unwound_url": "https://reservation.karaokemanekineko.jp/collabo-room-list",
+          "url": "https://t.co/ZdCZeNSkCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047680883562344705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047235276204888464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zutapoke: 【学マスコラボ情報】カラオケまねきねこコラボ第２弾コラボルーム予約開始（学園アイドルマスター）\nhttps://t.co/ZdCZeNSkCw\n\n当ポストの15分後！\n18時からコラボルーム予約開始です！\n\n現地参加予定の同僚さんはお忘れなく！ ht…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2046950825176842240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGg67idbwAAnHJd.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2047680883562344705",
+        "created_at": "2026-04-24T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047680883562344705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1850332459310989312",
+              "start": 3,
+              "username": "zutapoke"
+            }
+          ],
+          "urls": [
+            {
+              "description": "カラオケまねきねこのWEB予約サイト。通常ルームやコンセプトルームの予約ができます。",
+              "display_url": "reservation.karaokemanekineko.jp/collabo-room-l…",
+              "end": 85,
+              "expanded_url": "https://reservation.karaokemanekineko.jp/collabo-room-list",
+              "images": [
+                {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/news_img/2047235286514503680/hrbt8m-R?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047235286514503680/hrbt8m-R?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 62,
+              "status": 200,
+              "title": "カラオケまねきねこ WEB予約",
+              "unwound_url": "https://reservation.karaokemanekineko.jp/collabo-room-list",
+              "url": "https://t.co/ZdCZeNSkCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047680883562344705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047235276204888464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zutapoke: 【学マスコラボ情報】カラオケまねきねこコラボ第２弾コラボルーム予約開始（学園アイドルマスター）\nhttps://t.co/ZdCZeNSkCw\n\n当ポストの15分後！\n18時からコラボルーム予約開始です！\n\n現地参加予定の同僚さんはお忘れなく！ ht…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046950825176842240"
+          ]
+        },
+        "author_id": "1850332459310989312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004028337289814016",
+              "name": "THE IDOLM@STER"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297717277677166593",
+              "name": "Karaoke"
+            }
+          }
+        ],
+        "conversation_id": "2047235276204888464",
+        "created_at": "2026-04-23T08:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047235276204888464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "カラオケまねきねこのWEB予約サイト。通常ルームやコンセプトルームの予約ができます。",
+              "display_url": "reservation.karaokemanekineko.jp/collabo-room-l…",
+              "end": 71,
+              "expanded_url": "https://reservation.karaokemanekineko.jp/collabo-room-list",
+              "images": [
+                {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/news_img/2047235286514503680/hrbt8m-R?format=png&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047235286514503680/hrbt8m-R?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "カラオケまねきねこ WEB予約",
+              "unwound_url": "https://reservation.karaokemanekineko.jp/collabo-room-list",
+              "url": "https://t.co/ZdCZeNSkCw"
+            },
+            {
+              "display_url": "pic.x.com/kK9UlM8x4c",
+              "end": 146,
+              "expanded_url": "https://x.com/zutapoke/status/2047235276204888464/photo/1",
+              "media_key": "3_2046950825176842240",
+              "start": 123,
+              "url": "https://t.co/kK9UlM8x4c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047235276204888464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 121,
+          "impression_count": 42644,
+          "like_count": 1417,
+          "quote_count": 25,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "【学マスコラボ情報】カラオケまねきねこコラボ第２弾コラボルーム予約開始（学園アイドルマスター）\nhttps://t.co/ZdCZeNSkCw\n\n当ポストの15分後！\n18時からコラボルーム予約開始です！\n\n現地参加予定の同僚さんはお忘れなく！ https://t.co/kK9UlM8x4c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 99,
+          "like_count": 1606,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 955
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T00:23:40.000Z",
+        "description": "📢 学マスの最新情報をお届けしています！\n📅毎朝6:30に【業務連絡】として、今日の予定や期日間近の情報をポストしています\nグッズの購入漏れやイベントの見逃し防止に、ぜひフォローしてみてください✨\n\n📲 ディスコードサーバーだと通知が届いてさらに便利！\nhttps://t.co/tXUZ1wzKKE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/QEUQjES7y8",
+                "end": 150,
+                "expanded_url": "https://discord.gg/QEUQjES7y8",
+                "start": 127,
+                "url": "https://t.co/tXUZ1wzKKE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zutapoke.com",
+                "end": 23,
+                "expanded_url": "https://zutapoke.com",
+                "start": 0,
+                "url": "https://t.co/jRODq0xdvc"
+              }
+            ]
+          }
+        },
+        "id": "1850332459310989312",
+        "name": "学園アイドルマスター 学マス まとめ情報",
+        "pinned_tweet_id": "2044613431068901500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855502299600392192/LHgyJw8R_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66576,
+          "following_count": 593,
+          "like_count": 2740,
+          "listed_count": 306,
+          "media_count": 2591,
+          "tweet_count": 4072
+        },
+        "url": "https://t.co/jRODq0xdvc",
+        "username": "zutapoke",
+        "verified": true
+      }
+    ]
+  }
+}

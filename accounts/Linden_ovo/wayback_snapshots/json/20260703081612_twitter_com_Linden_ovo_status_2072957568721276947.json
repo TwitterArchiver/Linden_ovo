@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072892049213591552"
+      ],
+      "media_source_tweet_id": [
+        "2072892056184160520"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072957568721276947",
+    "created_at": "2026-07-03T08:16:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T09:16:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072957568721276947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1759787246587379712",
+          "start": 3,
+          "username": "RainEngine2024m"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aglkFeJbpR",
+          "end": 44,
+          "expanded_url": "https://x.com/RainEngine2024m/status/2072892056184160520/photo/1",
+          "media_key": "3_2072892049213591552",
+          "start": 21,
+          "url": "https://t.co/aglkFeJbpR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072957568721276947",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072892056184160520",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RainEngine2024m: https://t.co/aglkFeJbpR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1092,
+        "media_key": "3_2072892049213591552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMRkVgsbkAAkvxR.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072892049213591552"
+          ],
+          "media_source_tweet_id": [
+            "2072892056184160520"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072957568721276947",
+        "created_at": "2026-07-03T08:16:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T09:16:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072957568721276947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1759787246587379712",
+              "start": 3,
+              "username": "RainEngine2024m"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aglkFeJbpR",
+              "end": 44,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2072892056184160520/photo/1",
+              "media_key": "3_2072892049213591552",
+              "start": 21,
+              "url": "https://t.co/aglkFeJbpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072957568721276947",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072892056184160520",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RainEngine2024m: https://t.co/aglkFeJbpR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072892049213591552"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2072892056184160520",
+        "created_at": "2026-07-03T03:55:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:55:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072892056184160520"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aglkFeJbpR",
+              "end": 23,
+              "expanded_url": "https://x.com/RainEngine2024m/status/2072892056184160520/photo/1",
+              "media_key": "3_2072892049213591552",
+              "start": 0,
+              "url": "https://t.co/aglkFeJbpR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072892056184160520",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 815,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/aglkFeJbpR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 116,
+          "like_count": 2038,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1279
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "专注次元联合创始人、合伙人、中国区市场部总经理 | WB@高坂穗奈雪 | 商务：gaoban@focuscy.cn",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RainBuild_2025",
+                "end": 23,
+                "expanded_url": "http://t.me/RainBuild_2025",
+                "start": 0,
+                "url": "https://t.co/kh92v6N9oi"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "JiLin China",
+        "name": "高坂穗奈雪",
+        "pinned_tweet_id": "2072641450085339349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069668562675859456/CCsU4ILA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1697,
+          "like_count": 5591,
+          "listed_count": 14,
+          "media_count": 959,
+          "tweet_count": 3108
+        },
+        "url": "https://t.co/kh92v6N9oi",
+        "username": "RainEngine2024m",
+        "verified": true
+      }
+    ]
+  }
+}

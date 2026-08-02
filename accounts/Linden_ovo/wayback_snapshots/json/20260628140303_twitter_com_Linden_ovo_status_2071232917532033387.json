@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1557773577243336705",
+          "name": "Houshou Marine"
+        }
+      }
+    ],
+    "conversation_id": "2071232917532033387",
+    "created_at": "2026-06-28T14:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T15:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071232917532033387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1153192638645821440",
+          "start": 3,
+          "username": "houshoumarine"
+        },
+        {
+          "end": 33,
+          "id": "1109748792721432577",
+          "start": 19,
+          "username": "inugamikorone"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071232917532033387",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 609
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071203951316267284",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @houshoumarine: @inugamikorone マリンの本物のケツで頭冷やしてあげようか？🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "2071232917532033387",
+        "created_at": "2026-06-28T14:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071232917532033387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1153192638645821440",
+              "start": 3,
+              "username": "houshoumarine"
+            },
+            {
+              "end": 33,
+              "id": "1109748792721432577",
+              "start": 19,
+              "username": "inugamikorone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071232917532033387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 609
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071203951316267284",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @houshoumarine: @inugamikorone マリンの本物のケツで頭冷やしてあげようか？🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1153192638645821440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "2071162811611312148",
+        "created_at": "2026-06-28T12:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T13:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071203951316267284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1109748792721432577",
+              "start": 0,
+              "username": "inugamikorone"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071203951316267284",
+        "in_reply_to_user_id": "1109748792721432577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 124587,
+          "like_count": 6112,
+          "quote_count": 23,
+          "reply_count": 52,
+          "retweet_count": 607
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071162811611312148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inugamikorone マリンの本物のケツで頭冷やしてあげようか？🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 110,
+          "like_count": 1833,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1148
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-22T06:38:45.000Z",
+        "description": "hololive houshou marine/【ファンネーム】宝鐘の一味/【生放送タグ】#マリン航海記/【切り抜き動画タグ】#わかるマリン/【ファンアート】#マリンのお宝/おかあさん💘 @AkasaAi /【TikTok】https://t.co/nK67k0iVCM",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "マリン航海記"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "わかるマリン"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "tag": "マリンのお宝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 94,
+                "username": "AkasaAi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "onl.tw/77s8tJX",
+                "end": 135,
+                "expanded_url": "https://onl.tw/77s8tJX",
+                "start": 112,
+                "url": "https://t.co/nK67k0iVCM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCCzUf…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/fGejv72tSS"
+              }
+            ]
+          }
+        },
+        "id": "1153192638645821440",
+        "location": "ホロライブファンタジー",
+        "name": "宝鐘マリン🏴‍☠️＠ホロライブ3期生",
+        "pinned_tweet_id": "2027734280181272626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1835492753289220096/rpWSQdrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989477,
+          "following_count": 1354,
+          "like_count": 91551,
+          "listed_count": 16356,
+          "media_count": 3113,
+          "tweet_count": 27347
+        },
+        "url": "https://t.co/fGejv72tSS",
+        "username": "houshoumarine",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-24T09:28:25.000Z",
+        "description": "ホロライブ所属💛裏垢作った！( @k5r6n3 ) 💛#生神もんざえもん #できたてころね #ころねすきー #ちょこっところね💛ママ(@fuka_hire)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 27,
+                "tag": "生神もんざえもん"
+              },
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "できたてころね"
+              },
+              {
+                "end": 53,
+                "start": 46,
+                "tag": "ころねすきー"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "tag": "ちょこっところね"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "k5r6n3"
+              },
+              {
+                "end": 77,
+                "start": 67,
+                "username": "fuka_hire"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UChAnq…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q?sub_confirmation=1",
+                "start": 0,
+                "url": "https://t.co/K955iTzQrx"
+              }
+            ]
+          }
+        },
+        "id": "1109748792721432577",
+        "location": "ニャンピョウのフエマイスター",
+        "name": "戌神ころね🥐本物",
+        "pinned_tweet_id": "2066504166374244370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774521397173448704/4538sb4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539836,
+          "following_count": 327,
+          "like_count": 84978,
+          "listed_count": 14033,
+          "media_count": 4568,
+          "tweet_count": 26737
+        },
+        "url": "https://t.co/K955iTzQrx",
+        "username": "inugamikorone",
+        "verified": true
+      }
+    ]
+  }
+}

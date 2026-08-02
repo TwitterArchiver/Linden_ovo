@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1980045755977994241"
+      ],
+      "media_source_tweet_id": [
+        "1980045774173192258"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1980201022229234128",
+    "created_at": "2025-10-20T09:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T10:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980201022229234128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1129627384301252608",
+          "start": 3,
+          "username": "yurafuwakurage"
+        },
+        {
+          "end": 40,
+          "id": "459144099",
+          "start": 31,
+          "username": "YasPhoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K8bOS14yEt",
+          "end": 64,
+          "expanded_url": "https://x.com/yurafuwakurage/status/1980045774173192258/photo/1",
+          "media_key": "3_1980045755977994241",
+          "start": 41,
+          "url": "https://t.co/K8bOS14yEt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980201022229234128",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2293
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980045774173192258",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @yurafuwakurage: 清掃中\n\nphoto:@YasPhoto https://t.co/K8bOS14yEt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1980045755977994241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3qJH9QWkAEa_yn.jpg",
+        "width": 2734
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980045755977994241"
+          ],
+          "media_source_tweet_id": [
+            "1980045774173192258"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1980201022229234128",
+        "created_at": "2025-10-20T09:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T10:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980201022229234128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1129627384301252608",
+              "start": 3,
+              "username": "yurafuwakurage"
+            },
+            {
+              "end": 40,
+              "id": "459144099",
+              "start": 31,
+              "username": "YasPhoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K8bOS14yEt",
+              "end": 64,
+              "expanded_url": "https://x.com/yurafuwakurage/status/1980045774173192258/photo/1",
+              "media_key": "3_1980045755977994241",
+              "start": 41,
+              "url": "https://t.co/K8bOS14yEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980201022229234128",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2293
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980045774173192258",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @yurafuwakurage: 清掃中\n\nphoto:@YasPhoto https://t.co/K8bOS14yEt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980045755977994241"
+          ]
+        },
+        "author_id": "1129627384301252608",
+        "conversation_id": "1980045774173192258",
+        "created_at": "2025-10-19T22:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T23:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980045774173192258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "459144099",
+              "start": 11,
+              "username": "YasPhoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K8bOS14yEt",
+              "end": 44,
+              "expanded_url": "https://x.com/yurafuwakurage/status/1980045774173192258/photo/1",
+              "media_key": "3_1980045755977994241",
+              "start": 21,
+              "url": "https://t.co/K8bOS14yEt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980045774173192258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15185,
+          "impression_count": 1348202,
+          "like_count": 59295,
+          "quote_count": 85,
+          "reply_count": 106,
+          "retweet_count": 2293
+        },
+        "reply_settings": "following",
+        "text": "清掃中\n\nphoto:@YasPhoto https://t.co/K8bOS14yEt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 626,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 193
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-18T05:58:50.000Z",
+        "description": "色んな*姿*で*表現*でもっとを現実に。⠀美しいふぇちを好きなものを全て。差分激しめ未確認移動物体🪼です。作品まとめ #Lunaspec ⠀さぶ垢➯@Luna_sab00 ⠀ ⠀ ⠀撮影規約📸▶︎ https://t.co/NmGiliimc5 ⠀活動地域🏠:関東･中部 ⠀🌟撮影･お仕事依頼等はDMまで！！有償被写体",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 68,
+                "start": 59,
+                "tag": "Lunaspec"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Luna_sab00"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.gd/K3Jtgf",
+                "end": 122,
+                "expanded_url": "https://is.gd/K3Jtgf",
+                "start": 99,
+                "url": "https://t.co/NmGiliimc5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mikakuninLuna",
+                "end": 23,
+                "expanded_url": "https://lit.link/mikakuninLuna",
+                "start": 0,
+                "url": "https://t.co/gYqdbwD4GF"
+              }
+            ]
+          }
+        },
+        "id": "1129627384301252608",
+        "location": "居住地は宇宙🛰 なんにでもなれる宇宙人目指し中！！",
+        "name": "☪︎*°.*⋆ ｰLunaｰ　Fantia毎日投稿✨",
+        "pinned_tweet_id": "1979504839970406459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1778023249496174592/aI-joLeT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22755,
+          "following_count": 835,
+          "like_count": 25690,
+          "listed_count": 184,
+          "media_count": 2909,
+          "tweet_count": 29697
+        },
+        "url": "https://t.co/gYqdbwD4GF",
+        "username": "yurafuwakurage",
+        "verified": false
+      },
+      {
+        "created_at": "2012-01-09T10:05:00.000Z",
+        "description": "自由気ままに作品制作をしております。撮影のお誘い依頼や仕事についてはお気軽にご相談ください。展示歴⇨闇の王展/沼の王展/リアポ東京 等々。海外コンテストOneEyeland Photography Awards silver/ FINE Art Top10 silver含め多数受賞",
+        "id": "459144099",
+        "location": "栃木",
+        "name": "YAS. @エイチ展9、FPF、HKD 他",
+        "pinned_tweet_id": "1521829554373169152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1089664999918776324/X1w4S-0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26929,
+          "following_count": 1296,
+          "like_count": 47075,
+          "listed_count": 207,
+          "media_count": 3445,
+          "tweet_count": 26269
+        },
+        "username": "YasPhoto",
+        "verified": false
+      }
+    ]
+  }
+}

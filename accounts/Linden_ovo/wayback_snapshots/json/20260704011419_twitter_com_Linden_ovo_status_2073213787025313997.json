@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073213787025313997",
+    "created_at": "2026-07-04T01:14:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:14:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073213787025313997"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1874458926558961664",
+          "start": 3,
+          "username": "DaiianaVez69773"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073213787025313997",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073084494673019033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DaiianaVez69773: 你们知道普瑞有多吊吗，我刚刚安慰路边蹲着哭的姐姐，我还跟工地上工人借水"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073213787025313997",
+        "created_at": "2026-07-04T01:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073213787025313997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1874458926558961664",
+              "start": 3,
+              "username": "DaiianaVez69773"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073213787025313997",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073084494673019033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DaiianaVez69773: 你们知道普瑞有多吊吗，我刚刚安慰路边蹲着哭的姐姐，我还跟工地上工人借水"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874458926558961664",
+        "conversation_id": "2073084494673019033",
+        "created_at": "2026-07-03T16:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073084494673019033"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073084494673019033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1842,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你们知道普瑞有多吊吗，我刚刚安慰路边蹲着哭的姐姐，我还跟工地上工人借水"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论上可以和我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 117,
+          "like_count": 2059,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 1310
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-01T14:14:55.000Z",
+        "description": "08 infj-t 双相情感障碍、重度焦虑、孤独症 服药治疗中，不良嗜好od吸烟割手\n音乐  jrock/噪音/盯鞋/黑金残死旋死血碾等金属/ボカロ/jpop/emocore/地下udg \n是个九年二次元小资历  喜欢cult片， 拉康派精神分析/不想有哲学门派倾向，大体上是悲观理性  会回fo喜欢的人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ouoshizego",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ouoshizego",
+                "start": 0,
+                "url": "https://t.co/EAnsMRl5JL"
+              }
+            ]
+          }
+        },
+        "id": "1874458926558961664",
+        "location": "ぺんてるに行きました",
+        "name": "矢澤源義かまってちゃん🔋🎸",
+        "pinned_tweet_id": "2059308590339678354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908777584210714625/L-fqHbRN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 293,
+          "like_count": 16490,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 1607
+        },
+        "url": "https://t.co/EAnsMRl5JL",
+        "username": "DaiianaVez69773",
+        "verified": false
+      }
+    ]
+  }
+}

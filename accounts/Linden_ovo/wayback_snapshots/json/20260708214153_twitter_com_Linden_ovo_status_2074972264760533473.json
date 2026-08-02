@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074545904150036480"
+      ],
+      "media_source_tweet_id": [
+        "2074545906066866411"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074972264760533473",
+    "created_at": "2026-07-08T21:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T22:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074972264760533473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1593799138893873152",
+          "start": 3,
+          "username": "Fuugetsu_808"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NcU04L1K9n",
+          "end": 48,
+          "expanded_url": "https://x.com/Fuugetsu_808/status/2074545906066866411/photo/1",
+          "media_key": "3_2074545904150036480",
+          "start": 25,
+          "url": "https://t.co/NcU04L1K9n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074972264760533473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074545906066866411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Fuugetsu_808: 有点像广西佬 https://t.co/NcU04L1K9n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2074545904150036480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpEgicawAA8Ijf.jpg",
+        "width": 516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074545904150036480"
+          ],
+          "media_source_tweet_id": [
+            "2074545906066866411"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074972264760533473",
+        "created_at": "2026-07-08T21:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T22:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074972264760533473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1593799138893873152",
+              "start": 3,
+              "username": "Fuugetsu_808"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcU04L1K9n",
+              "end": 48,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2074545906066866411/photo/1",
+              "media_key": "3_2074545904150036480",
+              "start": 25,
+              "url": "https://t.co/NcU04L1K9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074972264760533473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074545906066866411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Fuugetsu_808: 有点像广西佬 https://t.co/NcU04L1K9n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074545904150036480"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2074545906066866411",
+        "created_at": "2026-07-07T17:27:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T18:27:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074545906066866411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NcU04L1K9n",
+              "end": 30,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2074545906066866411/photo/1",
+              "media_key": "3_2074545904150036480",
+              "start": 7,
+              "url": "https://t.co/NcU04L1K9n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074545906066866411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 30646,
+          "like_count": 340,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "有点像广西佬 https://t.co/NcU04L1K9n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 134,
+          "like_count": 2320,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1489
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "做这个推号的初衷是给大家带来启示与欢乐\n文学 | 评论 |",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5721,
+          "following_count": 1914,
+          "like_count": 73109,
+          "listed_count": 13,
+          "media_count": 1637,
+          "tweet_count": 12495
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}

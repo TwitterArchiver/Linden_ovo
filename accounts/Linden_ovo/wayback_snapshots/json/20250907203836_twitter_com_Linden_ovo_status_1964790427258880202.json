@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1964790427258880202",
+    "created_at": "2025-09-07T20:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T21:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964790427258880202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1897396257322356736",
+          "start": 3,
+          "username": "o8qwp8o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964790427258880202",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910145701117383120",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o8qwp8o: 我一直在等，一直处于无意义的等待中，等你睡醒，等你下课，等你下班，等你和我说话….我就慢慢等啊等"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1964790427258880202",
+        "created_at": "2025-09-07T20:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T21:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964790427258880202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1897396257322356736",
+              "start": 3,
+              "username": "o8qwp8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964790427258880202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910145701117383120",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o8qwp8o: 我一直在等，一直处于无意义的等待中，等你睡醒，等你下课，等你下班，等你和我说话….我就慢慢等啊等"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897396257322356736",
+        "conversation_id": "1910145701117383120",
+        "created_at": "2025-04-10T01:39:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T02:39:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910145701117383120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1910145701117383120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在等，一直处于无意义的等待中，等你睡醒，等你下课，等你下班，等你和我说话….我就慢慢等啊等"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958051018467323904/Lqx8miui_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 41,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 88
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-05T21:18:27.000Z",
+        "description": "",
+        "id": "1897396257322356736",
+        "name": "下雨天",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927475094575603712/RqUQJasf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 10
+        },
+        "username": "o8qwp8o",
+        "verified": false
+      }
+    ]
+  }
+}

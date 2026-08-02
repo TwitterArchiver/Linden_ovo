@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1965836230899474815",
+    "created_at": "2025-09-10T18:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T19:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965849368424231427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2681499344",
+          "start": 0,
+          "username": "DianXian_cos"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965849368424231427",
+    "in_reply_to_user_id": "2681499344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965836230899474815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianXian_cos 老婆老婆老婆muamuamua"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12691,
+        "height": 1280,
+        "media_key": "13_1965836173357780992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965836173357780992/img/CnOhasEEHzwRFcbd.jpg",
+        "public_metrics": {
+          "view_count": 15
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965836173357780992/vid/avc1/320x568/uJ9kkHweCNhi0j_O.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965836173357780992/vid/avc1/480x852/J8FqaWrmWWzcBhJL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965836173357780992/vid/avc1/720x1280/J3UcZi8Alc1ZKYfa.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965836173357780992/pl/ceuHus56EQ_kjYk7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1965836230899474815",
+        "created_at": "2025-09-10T18:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T19:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965849368424231427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2681499344",
+              "start": 0,
+              "username": "DianXian_cos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965849368424231427",
+        "in_reply_to_user_id": "2681499344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965836230899474815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianXian_cos 老婆老婆老婆muamuamua"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965836173357780992"
+          ]
+        },
+        "author_id": "2681499344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1965836230899474815",
+        "created_at": "2025-09-10T17:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T18:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965836230899474815"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "百鬼絵巻"
+            },
+            {
+              "end": 23,
+              "start": 15,
+              "tag": "cosplay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OWC3n85Nkf",
+              "end": 47,
+              "expanded_url": "https://x.com/DianXian_cos/status/1965836230899474815/video/1",
+              "media_key": "13_1965836173357780992",
+              "start": 24,
+              "url": "https://t.co/OWC3n85Nkf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965836230899474815",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "余才不是狗狗呢！\n＃百鬼絵巻 #cosplay https://t.co/OWC3n85Nkf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964949496489484288/KV36hgeW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 46,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-26T06:05:29.000Z",
+        "description": "爱好cosplay，喜欢看Vtuber，男孩子一枚，请多多指教！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/4494100",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/4494100",
+                "start": 0,
+                "url": "https://t.co/4DTu3Ku5Qw"
+              }
+            ]
+          }
+        },
+        "id": "2681499344",
+        "location": "China",
+        "name": "穿越电线",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936673693574250496/BBpffYV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5366,
+          "following_count": 547,
+          "like_count": 4797,
+          "listed_count": 19,
+          "media_count": 308,
+          "tweet_count": 1609
+        },
+        "url": "https://t.co/4DTu3Ku5Qw",
+        "username": "DianXian_cos",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040298852947804160"
+      ],
+      "media_source_tweet_id": [
+        "2040368791805427800"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2040789106112844098",
+    "created_at": "2026-04-05T13:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T14:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040789106112844098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012631283898187776",
+          "start": 3,
+          "username": "youy1qwq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TH1zDBLWBa",
+          "end": 50,
+          "expanded_url": "https://x.com/youy1qwq/status/2040368791805427800/photo/1",
+          "media_key": "3_2040298852947804160",
+          "start": 27,
+          "url": "https://t.co/TH1zDBLWBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040789106112844098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 162
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040368791805427800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youy1qwq: 导师收邮件be like https://t.co/TH1zDBLWBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2040298852947804160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCY_y2XQAA0PEx.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040298852947804160"
+          ],
+          "media_source_tweet_id": [
+            "2040368791805427800"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040789106112844098",
+        "created_at": "2026-04-05T13:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T14:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040789106112844098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012631283898187776",
+              "start": 3,
+              "username": "youy1qwq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TH1zDBLWBa",
+              "end": 50,
+              "expanded_url": "https://x.com/youy1qwq/status/2040368791805427800/photo/1",
+              "media_key": "3_2040298852947804160",
+              "start": 27,
+              "url": "https://t.co/TH1zDBLWBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040789106112844098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 162
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040368791805427800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youy1qwq: 导师收邮件be like https://t.co/TH1zDBLWBa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040298852947804160"
+          ]
+        },
+        "author_id": "2012631283898187776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2040368791805427800",
+        "created_at": "2026-04-04T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040368791805427800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TH1zDBLWBa",
+              "end": 36,
+              "expanded_url": "https://x.com/youy1qwq/status/2040368791805427800/photo/1",
+              "media_key": "3_2040298852947804160",
+              "start": 13,
+              "url": "https://t.co/TH1zDBLWBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040368791805427800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 114361,
+          "like_count": 3113,
+          "quote_count": 13,
+          "reply_count": 80,
+          "retweet_count": 162
+        },
+        "reply_settings": "everyone",
+        "text": "导师收邮件be like https://t.co/TH1zDBLWBa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 84,
+          "like_count": 1449,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 811
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-17T21:01:14.000Z",
+        "description": "ASD｜ADHD｜双相情感障碍｜蓝v互关必回｜感谢你的关注！希望给大家带来一点开心w｜欢迎投稿",
+        "id": "2012631283898187776",
+        "name": "由依🍥",
+        "pinned_tweet_id": "2020120359257665781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013914887219449856/H9ph0zAm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9548,
+          "following_count": 1492,
+          "like_count": 3534,
+          "listed_count": 14,
+          "media_count": 1231,
+          "tweet_count": 1665
+        },
+        "username": "youy1qwq",
+        "verified": true
+      }
+    ]
+  }
+}

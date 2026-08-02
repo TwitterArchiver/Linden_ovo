@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080261316522967073",
+    "created_at": "2026-07-23T11:58:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:58:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080261316522967073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1685974668770217984",
+          "start": 3,
+          "username": "superginseng19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080261316522967073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080255423018660293",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @superginseng19: 扒去皮肉我们都是一副骨头 爱恨都是你的灵魂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080261316522967073",
+        "created_at": "2026-07-23T11:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080261316522967073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1685974668770217984",
+              "start": 3,
+              "username": "superginseng19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080261316522967073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080255423018660293",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @superginseng19: 扒去皮肉我们都是一副骨头 爱恨都是你的灵魂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685974668770217984",
+        "conversation_id": "2080255423018660293",
+        "created_at": "2026-07-23T11:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080255423018660293"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080255423018660293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "扒去皮肉我们都是一副骨头 爱恨都是你的灵魂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 146,
+          "like_count": 2712,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T11:24:31.000Z",
+        "description": "我已游离三界开外 求你们对我都好一点",
+        "id": "1685974668770217984",
+        "name": "你摔屁股墩应该屁股疼不是肚子疼",
+        "pinned_tweet_id": "2075011340939280684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685982539058651136/T_HK4m89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 96,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "superginseng19",
+        "verified": false
+      }
+    ]
+  }
+}

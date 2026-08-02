@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1938559287284105216"
+      ],
+      "media_source_tweet_id": [
+        "1938643487676866873"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1939549690560909676",
+    "created_at": "2025-06-30T05:00:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T06:00:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939549690560909676"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 33,
+          "start": 23,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2613964466",
+          "start": 3,
+          "username": "shutowl"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/56GCQp1TeK",
+          "end": 57,
+          "expanded_url": "https://x.com/shutowl/status/1938643487676866873/photo/1",
+          "media_key": "3_1938559287284105216",
+          "start": 34,
+          "url": "https://t.co/56GCQp1TeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939549690560909676",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 161
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938643487676866873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shutowl: uma pyoi! #bijouwled https://t.co/56GCQp1TeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2933,
+        "media_key": "3_1938559287284105216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuclZp6agAAeoTn.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938559287284105216"
+          ],
+          "media_source_tweet_id": [
+            "1938643487676866873"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1939549690560909676",
+        "created_at": "2025-06-30T05:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T06:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939549690560909676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 23,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2613964466",
+              "start": 3,
+              "username": "shutowl"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/56GCQp1TeK",
+              "end": 57,
+              "expanded_url": "https://x.com/shutowl/status/1938643487676866873/photo/1",
+              "media_key": "3_1938559287284105216",
+              "start": 34,
+              "url": "https://t.co/56GCQp1TeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939549690560909676",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938643487676866873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shutowl: uma pyoi! #bijouwled https://t.co/56GCQp1TeK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938559287284105216"
+          ]
+        },
+        "author_id": "2613964466",
+        "conversation_id": "1938643487676866873",
+        "created_at": "2025-06-27T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-27T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938643487676866873"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/56GCQp1TeK",
+              "end": 44,
+              "expanded_url": "https://x.com/shutowl/status/1938643487676866873/photo/1",
+              "media_key": "3_1938559287284105216",
+              "start": 21,
+              "url": "https://t.co/56GCQp1TeK"
+            },
+            {
+              "display_url": "x.com/kosekibijou/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/kosekibijou/status/1938269554708492585",
+              "start": 45,
+              "url": "https://t.co/QtPOZpOXAs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938643487676866873",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 7436,
+          "like_count": 868,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 161
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938269554708492585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "uma pyoi! #bijouwled https://t.co/56GCQp1TeK https://t.co/QtPOZpOXAs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 78,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 174
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-09T18:01:03.000Z",
+        "description": "just a pebbledachi who likes to draw :D\n\npixiv: https://t.co/yIikXtliBz\nkofi: https://t.co/ZADYMHtqCF\ncomms: https://t.co/puNumxcbqa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/86790…",
+                "end": 71,
+                "expanded_url": "https://www.pixiv.net/en/users/8679086",
+                "start": 48,
+                "url": "https://t.co/yIikXtliBz"
+              },
+              {
+                "display_url": "ko-fi.com/kshut",
+                "end": 101,
+                "expanded_url": "https://ko-fi.com/kshut",
+                "start": 78,
+                "url": "https://t.co/ZADYMHtqCF"
+              },
+              {
+                "display_url": "vgen.co/shutowl",
+                "end": 132,
+                "expanded_url": "https://vgen.co/shutowl",
+                "start": 109,
+                "url": "https://t.co/puNumxcbqa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/kshut",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/kshut",
+                "start": 0,
+                "url": "https://t.co/Oi3pIFPlwO"
+              }
+            ]
+          }
+        },
+        "id": "2613964466",
+        "name": "kshut🐙🗿",
+        "pinned_tweet_id": "1906247117418672346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1831937116009590785/QMaCkhW5_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8988,
+          "following_count": 721,
+          "like_count": 10605,
+          "listed_count": 33,
+          "media_count": 336,
+          "tweet_count": 1117
+        },
+        "url": "https://t.co/Oi3pIFPlwO",
+        "username": "shutowl",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1871791799485993279",
+    "created_at": "2024-12-26T04:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-26T05:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1872137294817513476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1576482383586799616",
+          "start": 0,
+          "username": "Wendyfan1"
+        },
+        {
+          "end": 25,
+          "id": "1593547850637791233",
+          "start": 11,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1872137294817513476",
+    "in_reply_to_user_id": "1576482383586799616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1871917634578739598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wendyfan1 @didengshengwu 最真实的一集，彩礼就是卖女儿啊，娘家要多少和男方衡量值不值不都是物化女性？至于说所谓彩礼是检测男方物质基础，都要谈婚论嫁的人了还搞不清楚对方几斤几两婚后物质基础够不够？真是心眼又坏又多🤣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1871791799485993279",
+        "created_at": "2024-12-26T04:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-26T05:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1872137294817513476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1576482383586799616",
+              "start": 0,
+              "username": "Wendyfan1"
+            },
+            {
+              "end": 25,
+              "id": "1593547850637791233",
+              "start": 11,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1872137294817513476",
+        "in_reply_to_user_id": "1576482383586799616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871917634578739598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wendyfan1 @didengshengwu 最真实的一集，彩礼就是卖女儿啊，娘家要多少和男方衡量值不值不都是物化女性？至于说所谓彩礼是检测男方物质基础，都要谈婚论嫁的人了还搞不清楚对方几斤几两婚后物质基础够不够？真是心眼又坏又多🤣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576482383586799616",
+        "conversation_id": "1871791799485993279",
+        "created_at": "2024-12-25T13:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-25T14:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1871917634578739598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1871917634578739598",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9368,
+          "like_count": 50,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1871791799485993279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 某国文化处处都是算计，有何感情可言，全都是假的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 63,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 54
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T08:01:18.000Z",
+        "description": "",
+        "id": "1576482383586799616",
+        "name": "Wendyfan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610288034267942912/66ZA0c0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 120,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 84
+        },
+        "username": "Wendyfan1",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "喜欢心理学和炒币，关注我一起刨析人性真像 ！ \n#OKX 是全球领先的 #Crypto 交易平台，提供 #btc #eth 等多种交易，帮您安全投资数字资产，注册链接：https://t.co/regYGr8viq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 28,
+                "start": 24,
+                "tag": "OKX"
+              },
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "Crypto"
+              },
+              {
+                "end": 56,
+                "start": 52,
+                "tag": "btc"
+              },
+              {
+                "end": 61,
+                "start": 57,
+                "tag": "eth"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/cn/join/2347246",
+                "end": 107,
+                "expanded_url": "http://www.okx.com/cn/join/2347246",
+                "start": 84,
+                "url": "https://t.co/regYGr8viq"
+              }
+            ]
+          }
+        },
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140747,
+          "following_count": 934,
+          "like_count": 2034,
+          "listed_count": 536,
+          "media_count": 1295,
+          "tweet_count": 3379
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

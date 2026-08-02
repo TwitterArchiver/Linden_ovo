@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072217744355840149",
+    "created_at": "2026-07-01T13:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T14:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072306199756784005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2048602915787665409",
+          "start": 0,
+          "username": "hongliwang48617"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072306199756784005",
+    "in_reply_to_user_id": "2048602915787665409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072300448053359076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongliwang48617 哇谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072217744355840149",
+        "created_at": "2026-07-01T13:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072306199756784005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2048602915787665409",
+              "start": 0,
+              "username": "hongliwang48617"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072306199756784005",
+        "in_reply_to_user_id": "2048602915787665409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072300448053359076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongliwang48617 哇谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048602915787665409",
+        "conversation_id": "2072217744355840149",
+        "created_at": "2026-07-01T12:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072300448053359076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072300448053359076",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072217744355840149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 你好漂亮。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我想一个akami",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 116,
+          "like_count": 1917,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1199
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T03:19:53.000Z",
+        "description": "",
+        "id": "2048602915787665409",
+        "name": "Sylvia久安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058821966065451008/P1h4o2CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 27,
+          "like_count": 112,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "url": "",
+        "username": "hongliwang48617",
+        "verified": false
+      }
+    ]
+  }
+}

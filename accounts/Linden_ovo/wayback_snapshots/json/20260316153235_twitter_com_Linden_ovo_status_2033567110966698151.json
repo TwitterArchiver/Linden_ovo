@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032826196438953985"
+      ],
+      "media_source_tweet_id": [
+        "2032826198888427594"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2033567110966698151",
+    "created_at": "2026-03-16T15:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T16:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033567110966698151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1974276207496867842",
+          "start": 3,
+          "username": "DXMDusk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cygyl9412u",
+          "end": 48,
+          "expanded_url": "https://x.com/DXMDusk/status/2032826198888427594/photo/1",
+          "media_key": "3_2032826196438953985",
+          "start": 25,
+          "url": "https://t.co/Cygyl9412u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033567110966698151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032826198888427594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DXMDusk: 什么时候看见这个能不笑 https://t.co/Cygyl9412u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1222,
+        "media_key": "3_2032826196438953985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYMp8DaMAEVILA.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032826196438953985"
+          ],
+          "media_source_tweet_id": [
+            "2032826198888427594"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2033567110966698151",
+        "created_at": "2026-03-16T15:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T16:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033567110966698151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1974276207496867842",
+              "start": 3,
+              "username": "DXMDusk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cygyl9412u",
+              "end": 48,
+              "expanded_url": "https://x.com/DXMDusk/status/2032826198888427594/photo/1",
+              "media_key": "3_2032826196438953985",
+              "start": 25,
+              "url": "https://t.co/Cygyl9412u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033567110966698151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032826198888427594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DXMDusk: 什么时候看见这个能不笑 https://t.co/Cygyl9412u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032826196438953985"
+          ]
+        },
+        "author_id": "1974276207496867842",
+        "conversation_id": "2032826198888427594",
+        "created_at": "2026-03-14T14:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T15:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032826198888427594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cygyl9412u",
+              "end": 35,
+              "expanded_url": "https://x.com/DXMDusk/status/2032826198888427594/photo/1",
+              "media_key": "3_2032826196438953985",
+              "start": 12,
+              "url": "https://t.co/Cygyl9412u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032826198888427594",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 246492,
+          "like_count": 2009,
+          "quote_count": 7,
+          "reply_count": 69,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候看见这个能不笑 https://t.co/Cygyl9412u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 80,
+          "like_count": 1350,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 737
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T00:52:02.000Z",
+        "description": "荒诞主义者/BPD/ADHD\n不属于这个身体/这个世界。",
+        "id": "1974276207496867842",
+        "name": "蓝狗🏳️‍⚧️🍥二代目（互关喵",
+        "pinned_tweet_id": "2016517163864199227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015443154850508800/JEO0K6Ms_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1006,
+          "like_count": 1721,
+          "listed_count": 3,
+          "media_count": 221,
+          "tweet_count": 1535
+        },
+        "username": "DXMDusk",
+        "verified": true
+      }
+    ]
+  }
+}

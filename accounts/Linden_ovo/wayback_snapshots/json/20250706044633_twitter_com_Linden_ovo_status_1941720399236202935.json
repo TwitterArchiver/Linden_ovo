@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941326581739188224"
+      ],
+      "media_source_tweet_id": [
+        "1941326919569641847"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1941720399236202935",
+    "created_at": "2025-07-06T04:46:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:46:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941720399236202935"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "Jorse",
+          "probability": 0.5525,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 37,
+          "normalized_text": "LIVEseki",
+          "probability": 0.4941,
+          "start": 30,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 29,
+          "tag": "LIVEseki"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1656531547279982593",
+          "start": 3,
+          "username": "kosekibijou"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Thumbnail Art: @noraneco117 thank you!https://x.com/noraneco117/status/1934186972194767063====================✧Twitter: https://twitter.com/kosekibijou✧Hasht...",
+          "display_url": "youtube.com/live/3_O5Owfzg…",
+          "end": 64,
+          "expanded_url": "https://youtube.com/live/3_O5Owfzgu0",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/1941326924770611200/fEdEu1xw?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1941326924770611200/fEdEu1xw?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 41,
+          "status": 200,
+          "title": "【Umamusume Pretty Derby】Jorse Girls",
+          "unwound_url": "https://www.youtube.com/live/3_O5Owfzgu0",
+          "url": "https://t.co/TzQx00Eg2y"
+        },
+        {
+          "display_url": "pic.x.com/t8p5mhnxTt",
+          "end": 88,
+          "expanded_url": "https://x.com/kosekibijou/status/1941326919569641847/photo/1",
+          "media_key": "3_1941326581739188224",
+          "start": 65,
+          "url": "https://t.co/t8p5mhnxTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941720399236202935",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941326919569641847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kosekibijou: Jorse girls #LIVEseki \n\nhttps://t.co/TzQx00Eg2y https://t.co/t8p5mhnxTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1941326581739188224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvD6PZGWcAAef4J.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941326581739188224"
+          ],
+          "media_source_tweet_id": [
+            "1941326919569641847"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941720399236202935",
+        "created_at": "2025-07-06T04:46:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:46:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941720399236202935"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Jorse",
+              "probability": 0.5525,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "LIVEseki",
+              "probability": 0.4941,
+              "start": 30,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 29,
+              "tag": "LIVEseki"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1656531547279982593",
+              "start": 3,
+              "username": "kosekibijou"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Thumbnail Art: @noraneco117 thank you!https://x.com/noraneco117/status/1934186972194767063====================✧Twitter: https://twitter.com/kosekibijou✧Hasht...",
+              "display_url": "youtube.com/live/3_O5Owfzg…",
+              "end": 64,
+              "expanded_url": "https://youtube.com/live/3_O5Owfzgu0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1941326924770611200/fEdEu1xw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1941326924770611200/fEdEu1xw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 41,
+              "status": 200,
+              "title": "【Umamusume Pretty Derby】Jorse Girls",
+              "unwound_url": "https://www.youtube.com/live/3_O5Owfzgu0",
+              "url": "https://t.co/TzQx00Eg2y"
+            },
+            {
+              "display_url": "pic.x.com/t8p5mhnxTt",
+              "end": 88,
+              "expanded_url": "https://x.com/kosekibijou/status/1941326919569641847/photo/1",
+              "media_key": "3_1941326581739188224",
+              "start": 65,
+              "url": "https://t.co/t8p5mhnxTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941720399236202935",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941326919569641847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kosekibijou: Jorse girls #LIVEseki \n\nhttps://t.co/TzQx00Eg2y https://t.co/t8p5mhnxTt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941326581739188224"
+          ]
+        },
+        "author_id": "1656531547279982593",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1941326919569641847",
+        "created_at": "2025-07-05T02:43:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T03:43:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941326919569641847"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Jorse",
+              "probability": 0.572,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 20,
+              "normalized_text": "LIVEseki",
+              "probability": 0.5392,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "LIVEseki"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Thumbnail Art: @noraneco117 thank you!https://x.com/noraneco117/status/1934186972194767063====================✧Twitter: https://twitter.com/kosekibijou✧Hasht...",
+              "display_url": "youtube.com/live/3_O5Owfzg…",
+              "end": 47,
+              "expanded_url": "https://youtube.com/live/3_O5Owfzgu0",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1941326924770611200/fEdEu1xw?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1941326924770611200/fEdEu1xw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "【Umamusume Pretty Derby】Jorse Girls",
+              "unwound_url": "https://www.youtube.com/live/3_O5Owfzgu0",
+              "url": "https://t.co/TzQx00Eg2y"
+            },
+            {
+              "display_url": "pic.x.com/t8p5mhnxTt",
+              "end": 71,
+              "expanded_url": "https://x.com/kosekibijou/status/1941326919569641847/photo/1",
+              "media_key": "3_1941326581739188224",
+              "start": 48,
+              "url": "https://t.co/t8p5mhnxTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941326919569641847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 100885,
+          "like_count": 3017,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "Jorse girls #LIVEseki \n\nhttps://t.co/TzQx00Eg2y https://t.co/t8p5mhnxTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 110
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T05:28:03.000Z",
+        "description": "Sparkling Gem of hololive English -Advent- |✨ Kira Kira~ Koseki! | Mama: @428clv | Papa: @otsukue | 🎨: #bijouwled | #LIVEseki | #LMOAI | #pebblesona",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "bijouwled"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "LIVEseki"
+              },
+              {
+                "end": 134,
+                "start": 128,
+                "tag": "LMOAI"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "tag": "pebblesona"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 80,
+                "start": 73,
+                "username": "428clv"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "otsukue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@KosekiBijou",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@KosekiBijou",
+                "start": 0,
+                "url": "https://t.co/BPFanQd0yb"
+              }
+            ]
+          }
+        },
+        "id": "1656531547279982593",
+        "name": "Koseki Bijou🗿holoEN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1776452971662049280/V_D-4vKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376427,
+          "following_count": 182,
+          "like_count": 20056,
+          "listed_count": 2630,
+          "media_count": 1099,
+          "tweet_count": 7427
+        },
+        "url": "https://t.co/BPFanQd0yb",
+        "username": "kosekibijou",
+        "verified": true
+      }
+    ]
+  }
+}

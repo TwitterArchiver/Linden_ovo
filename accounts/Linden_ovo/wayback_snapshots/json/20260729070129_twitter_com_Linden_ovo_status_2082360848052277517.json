@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082327412407513412",
+    "created_at": "2026-07-29T07:01:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:01:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082360848052277517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082360848052277517",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082327412407513412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@todorokidoya1 见者有份速度的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082327412407513412",
+        "created_at": "2026-07-29T07:01:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:01:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082360848052277517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082360848052277517",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327412407513412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@todorokidoya1 见者有份速度的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946149148878852096",
+        "conversation_id": "2082327412407513412",
+        "created_at": "2026-07-29T04:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082327412407513412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082327412407513412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 689,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我妈给我爆了十万日元哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 148,
+          "like_count": 2826,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1865
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "如此懦弱…\n\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "location": "绘画世界",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 583,
+          "like_count": 58374,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 4063
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true
+      }
+    ]
+  }
+}

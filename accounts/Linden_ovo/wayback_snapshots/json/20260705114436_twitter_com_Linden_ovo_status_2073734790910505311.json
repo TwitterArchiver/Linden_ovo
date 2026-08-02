@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073734790910505311",
+    "created_at": "2026-07-05T11:44:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073734790910505311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1879799070254096386",
+          "start": 3,
+          "username": "SherryJxpbp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073734790910505311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073662562806456584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SherryJxpbp: 你的社交孤儿正在和1万个女的聊骚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073734790910505311",
+        "created_at": "2026-07-05T11:44:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073734790910505311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1879799070254096386",
+              "start": 3,
+              "username": "SherryJxpbp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073734790910505311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073662562806456584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SherryJxpbp: 你的社交孤儿正在和1万个女的聊骚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1879799070254096386",
+        "conversation_id": "2073662562806456584",
+        "created_at": "2026-07-05T06:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073662562806456584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073662562806456584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6507,
+          "like_count": 176,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "你的社交孤儿正在和1万个女的聊骚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 129,
+          "like_count": 2150,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1370
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-16T07:53:30.000Z",
+        "description": "变身！小猫惡魔：☆…//★ 06 enfp 金牛 此号发的东西有点乱七八糟请见谅…互关可➕v \n防丢失小号：@Sherrysh2d \n定期回复信箱——匿名信箱📬：https://t.co/09pzHIo5EO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "Sherrysh2d"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sherryl25621",
+                "end": 104,
+                "expanded_url": "https://ngl.link/sherryl25621",
+                "start": 81,
+                "url": "https://t.co/09pzHIo5EO"
+              }
+            ]
+          }
+        },
+        "id": "1879799070254096386",
+        "location": "🚪纯绿88 🚪半绿188",
+        "name": "Sherry-J",
+        "pinned_tweet_id": "2064687600393466065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879799374022385664/TVkLtRn5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7020,
+          "following_count": 335,
+          "like_count": 5215,
+          "listed_count": 20,
+          "media_count": 325,
+          "tweet_count": 3380
+        },
+        "url": "",
+        "username": "SherryJxpbp",
+        "verified": false
+      }
+    ]
+  }
+}

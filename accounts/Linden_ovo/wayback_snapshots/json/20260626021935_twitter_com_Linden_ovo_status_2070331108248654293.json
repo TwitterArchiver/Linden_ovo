@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070331108248654293",
+    "created_at": "2026-06-26T02:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070331108248654293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1685008228923367424",
+          "start": 3,
+          "username": "papaai740"
+        },
+        {
+          "end": 24,
+          "id": "1727273302857822208",
+          "start": 15,
+          "username": "sisi7758"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070331108248654293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069717173585809836",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @papaai740: @sisi7758 逼连心的人就不要学人家找什么炮友了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070331108248654293",
+        "created_at": "2026-06-26T02:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070331108248654293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1685008228923367424",
+              "start": 3,
+              "username": "papaai740"
+            },
+            {
+              "end": 24,
+              "id": "1727273302857822208",
+              "start": 15,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070331108248654293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069717173585809836",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @papaai740: @sisi7758 逼连心的人就不要学人家找什么炮友了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685008228923367424",
+        "conversation_id": "2069649753852551445",
+        "created_at": "2026-06-24T09:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069717173585809836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1727273302857822208",
+              "start": 0,
+              "username": "sisi7758"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069717173585809836",
+        "in_reply_to_user_id": "1727273302857822208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16064,
+          "like_count": 271,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069649753852551445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sisi7758 逼连心的人就不要学人家找什么炮友了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1806,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1140
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T19:24:10.000Z",
+        "description": "看文看片",
+        "id": "1685008228923367424",
+        "name": "lemon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806066439230484480/wQwg3OOU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 192,
+          "like_count": 2978,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "papaai740",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T10:30:33.000Z",
+        "description": "喜欢女生 小小思@sisidawang123 盗图替我挡灾 推广自辨 谢谢你的喜欢^_^",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 8,
+                "username": "sisidawang123"
+              }
+            ]
+          }
+        },
+        "id": "1727273302857822208",
+        "location": "加联系方式需要过🚪(｡ì _ í｡) 188/520",
+        "name": "sisi",
+        "pinned_tweet_id": "2070000487500525730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833178858688032768/L96o5aM8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13626,
+          "following_count": 10,
+          "like_count": 2481,
+          "listed_count": 33,
+          "media_count": 165,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "sisi7758",
+        "verified": false
+      }
+    ]
+  }
+}

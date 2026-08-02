@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2017387934572269969",
+    "created_at": "2026-01-31T00:02:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T01:02:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017387934572269969"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2017387934572269969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "到现在都没有一个让我能倾诉的人\n我的压力我的秘密\n要么害怕打扰到人要么太不熟\n世界上有没有永远不对人产生看法的人呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2017387934572269969",
+        "created_at": "2026-01-31T00:02:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T01:02:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017387934572269969"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017387934572269969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到现在都没有一个让我能倾诉的人\n我的压力我的秘密\n要么害怕打扰到人要么太不熟\n世界上有没有永远不对人产生看法的人呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 1084,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 527
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

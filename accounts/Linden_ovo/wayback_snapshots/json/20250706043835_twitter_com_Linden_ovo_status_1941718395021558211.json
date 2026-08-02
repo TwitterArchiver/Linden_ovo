@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1933583331956043778"
+      ],
+      "media_source_tweet_id": [
+        "1933583370451296600"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1941718395021558211",
+    "created_at": "2025-07-06T04:38:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:38:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941718395021558211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1227606381227692037",
+          "start": 3,
+          "username": "SHUIxixixi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gf1iAghDd1",
+          "end": 54,
+          "expanded_url": "https://x.com/SHUIxixixi/status/1933583370451296600/video/1",
+          "media_key": "7_1933583331956043778",
+          "start": 31,
+          "url": "https://t.co/Gf1iAghDd1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941718395021558211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933583370451296600",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHUIxixixi: 没视频发了)找个老视频qaq https://t.co/Gf1iAghDd1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1941718395021558211].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1941718395021558211",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1941718395021558211"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21500,
+        "height": 1280,
+        "media_key": "7_1933583331956043778",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1933583331956043778/pu/img/UtpqhU_t11Ub42e7.jpg",
+        "public_metrics": {
+          "view_count": 3222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933583331956043778/pu/vid/avc1/320x568/Mc8W89dgITj6ujlw.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933583331956043778/pu/vid/avc1/480x852/SrwFPgEcsCDC_xzE.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1933583331956043778/pu/vid/avc1/720x1280/xjsxwtJI0COEKkye.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1933583331956043778/pu/pl/aMBoTwOj56dGR7Au.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1933583331956043778"
+          ]
+        },
+        "author_id": "1227606381227692037",
+        "conversation_id": "1933583370451296600",
+        "created_at": "2025-06-13T17:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T18:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933583370451296600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gf1iAghDd1",
+              "end": 38,
+              "expanded_url": "https://x.com/SHUIxixixi/status/1933583370451296600/video/1",
+              "media_key": "7_1933583331956043778",
+              "start": 15,
+              "url": "https://t.co/Gf1iAghDd1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933583370451296600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 8246,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "没视频发了)找个老视频qaq https://t.co/Gf1iAghDd1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 29,
+          "like_count": 395,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 103
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-12T14:53:42.000Z",
+        "description": "这里是汐汐喵！是烧烧药娘！坐标南京！身高178 生产日期2006.12.26 求多多点赞评论喵～🚪58 可聊天喵",
+        "id": "1227606381227692037",
+        "name": "汐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784546576918044672/5Uv048cS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9692,
+          "following_count": 206,
+          "like_count": 301,
+          "listed_count": 66,
+          "media_count": 157,
+          "tweet_count": 274
+        },
+        "username": "SHUIxixixi",
+        "verified": false
+      }
+    ]
+  }
+}

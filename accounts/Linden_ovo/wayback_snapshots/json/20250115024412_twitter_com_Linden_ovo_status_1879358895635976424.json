@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1879358895635976424",
+    "created_at": "2025-01-15T02:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-15T03:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879358895635976424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1741854793537290240",
+          "start": 3,
+          "username": "xox1in"
+        },
+        {
+          "end": 27,
+          "id": "1841188024870223878",
+          "start": 12,
+          "username": "BasnetRob73566"
+        },
+        {
+          "end": 38,
+          "id": "1410841706174455808",
+          "start": 28,
+          "username": "xixikeai_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879358895635976424",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879332334052458501",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xox1in: @BasnetRob73566 @xixikeai_ 52"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1879358895635976424",
+        "created_at": "2025-01-15T02:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T03:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879358895635976424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1741854793537290240",
+              "start": 3,
+              "username": "xox1in"
+            },
+            {
+              "end": 27,
+              "id": "1841188024870223878",
+              "start": 12,
+              "username": "BasnetRob73566"
+            },
+            {
+              "end": 38,
+              "id": "1410841706174455808",
+              "start": 28,
+              "username": "xixikeai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879358895635976424",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879332334052458501",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xox1in: @BasnetRob73566 @xixikeai_ 52"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741854793537290240",
+        "conversation_id": "1879192057992061034",
+        "created_at": "2025-01-15T00:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-15T01:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879332334052458501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841188024870223878",
+              "start": 0,
+              "username": "BasnetRob73566"
+            },
+            {
+              "end": 26,
+              "id": "1410841706174455808",
+              "start": 16,
+              "username": "xixikeai_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879332334052458501",
+        "in_reply_to_user_id": "1841188024870223878",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879305472030982349",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BasnetRob73566 @xixikeai_ 52"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 74,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 83
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-01T16:12:18.000Z",
+        "description": "有🚪",
+        "id": "1741854793537290240",
+        "name": "反差",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875579249719201792/ATyxO7Kv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 17,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 80
+        },
+        "username": "xox1in",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-01T18:46:57.000Z",
+        "description": "",
+        "id": "1841188024870223878",
+        "name": "08男高",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879211676568059904/6uUg3eNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 47,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 51
+        },
+        "username": "BasnetRob73566",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-02T06:04:19.000Z",
+        "description": "反差可爱，130r+vx~ 提供满满的情绪价值 私信只回复入门口令",
+        "id": "1410841706174455808",
+        "name": "栖栖敲可爱",
+        "pinned_tweet_id": "1814882910979432592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1600770625035198464/9PbbUsv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463235,
+          "following_count": 38,
+          "like_count": 370,
+          "listed_count": 481,
+          "media_count": 131,
+          "tweet_count": 551
+        },
+        "username": "xixikeai_",
+        "verified": false,
+        "withheld": {
+          "country_codes": [
+            "ID"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995241039532367872"
+      ],
+      "media_source_tweet_id": [
+        "1995251502273712181"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1995390363230687739",
+    "created_at": "2025-12-01T07:11:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:11:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995390363230687739"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "あくあ",
+          "probability": 0.5116,
+          "start": 56,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "あくあ",
+          "probability": 0.481,
+          "start": 70,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 66,
+          "start": 54,
+          "tag": "湊あくあ生誕祭2025"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "湊あくあ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1828149794096705536",
+          "start": 3,
+          "username": "Ha0507ru1201"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Y9o3GHXCz",
+          "end": 97,
+          "expanded_url": "https://x.com/Ha0507ru1201/status/1995251502273712181/photo/1",
+          "media_key": "3_1995241039532367872",
+          "start": 74,
+          "url": "https://t.co/7Y9o3GHXCz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995390363230687739",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995251502273712181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ha0507ru1201: 🎁𝓗𝓪𝓹𝓹𝔂 𝓫𝓲𝓻𝓽𝓱𝓭𝓪𝔂🎁\n⚓️\"𝓜𝓲𝓷𝓪𝓽𝓸 𝓐𝓺𝓾𝓪\"⚓️\n\n#湊あくあ生誕祭2025 \n#湊あくあ https://t.co/7Y9o3GHXCz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_1995241039532367872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7CFJ3qboAALPNY.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995241039532367872"
+          ],
+          "media_source_tweet_id": [
+            "1995251502273712181"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995390363230687739",
+        "created_at": "2025-12-01T07:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995390363230687739"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "あくあ",
+              "probability": 0.5116,
+              "start": 56,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "あくあ",
+              "probability": 0.481,
+              "start": 70,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 66,
+              "start": 54,
+              "tag": "湊あくあ生誕祭2025"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "湊あくあ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1828149794096705536",
+              "start": 3,
+              "username": "Ha0507ru1201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y9o3GHXCz",
+              "end": 97,
+              "expanded_url": "https://x.com/Ha0507ru1201/status/1995251502273712181/photo/1",
+              "media_key": "3_1995241039532367872",
+              "start": 74,
+              "url": "https://t.co/7Y9o3GHXCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995390363230687739",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995251502273712181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ha0507ru1201: 🎁𝓗𝓪𝓹𝓹𝔂 𝓫𝓲𝓻𝓽𝓱𝓭𝓪𝔂🎁\n⚓️\"𝓜𝓲𝓷𝓪𝓽𝓸 𝓐𝓺𝓾𝓪\"⚓️\n\n#湊あくあ生誕祭2025 \n#湊あくあ https://t.co/7Y9o3GHXCz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995241039532367872"
+          ]
+        },
+        "author_id": "1828149794096705536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1995251502273712181",
+        "created_at": "2025-11-30T22:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T23:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995251502273712181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "あくあ",
+              "probability": 0.5704,
+              "start": 38,
+              "type": "Person"
+            },
+            {
+              "end": 54,
+              "normalized_text": "あくあ",
+              "probability": 0.555,
+              "start": 52,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 36,
+              "tag": "湊あくあ生誕祭2025"
+            },
+            {
+              "end": 55,
+              "start": 50,
+              "tag": "湊あくあ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y9o3GHXCz",
+              "end": 79,
+              "expanded_url": "https://x.com/Ha0507ru1201/status/1995251502273712181/photo/1",
+              "media_key": "3_1995241039532367872",
+              "start": 56,
+              "url": "https://t.co/7Y9o3GHXCz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995251502273712181",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 345,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "🎁𝓗𝓪𝓹𝓹𝔂 𝓫𝓲𝓻𝓽𝓱𝓭𝓪𝔂🎁\n⚓️\"𝓜𝓲𝓷𝓪𝓽𝓸 𝓐𝓺𝓾𝓪\"⚓️\n\n#湊あくあ生誕祭2025 \n#湊あくあ https://t.co/7Y9o3GHXCz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 795,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 309
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T19:17:58.000Z",
+        "description": "《#あくあクルー⚓️》《#35P🌸》《#星詠み☄️》《#開拓者》《#さくなだふぁみりあ🎀🐾》あくたん最推しのホロリス&さくふぁみです( ^)o(^ )b ホロリスやさくふぁみ、気になった方はフォロバします✨ アイコンに使用させていただいてる神絵師様:@fof_0016",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 1,
+                "tag": "あくあクルー"
+              },
+              {
+                "end": 16,
+                "start": 12,
+                "tag": "35P"
+              },
+              {
+                "end": 23,
+                "start": 19,
+                "tag": "星詠み"
+              },
+              {
+                "end": 31,
+                "start": 27,
+                "tag": "開拓者"
+              },
+              {
+                "end": 43,
+                "start": 33,
+                "tag": "さくなだふぁみりあ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 125,
+                "username": "fof_0016"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hololive-fc.hololivepro.com/h/profiles/lga…",
+                "end": 23,
+                "expanded_url": "https://hololive-fc.hololivepro.com/h/profiles/lgaencnn",
+                "start": 0,
+                "url": "https://t.co/neXkWs0mtI"
+              }
+            ]
+          }
+        },
+        "id": "1828149794096705536",
+        "location": "🇩🇪&🇯🇵",
+        "name": "⚓️🎀🐾HARU☄️🌸⚒️ 再演絶対行きたい！！",
+        "pinned_tweet_id": "1995251502273712181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971565903075745792/xsIDs0w8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3390,
+          "following_count": 3499,
+          "like_count": 43823,
+          "listed_count": 35,
+          "media_count": 1312,
+          "tweet_count": 18906
+        },
+        "url": "https://t.co/neXkWs0mtI",
+        "username": "Ha0507ru1201",
+        "verified": false
+      }
+    ]
+  }
+}

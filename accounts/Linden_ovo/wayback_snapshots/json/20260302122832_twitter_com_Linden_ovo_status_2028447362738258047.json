@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027559653488697344"
+      ],
+      "media_source_tweet_id": [
+        "2027559655900356611"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2028447362738258047",
+    "created_at": "2026-03-02T12:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T13:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028447362738258047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1546737824837533697",
+          "start": 3,
+          "username": "IdleAircon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GKjdN4EifN",
+          "end": 41,
+          "expanded_url": "https://x.com/IdleAircon/status/2027559655900356611/photo/1",
+          "media_key": "3_2027559653488697344",
+          "start": 18,
+          "url": "https://t.co/GKjdN4EifN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028447362738258047",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027559655900356611",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IdleAircon: 草 https://t.co/GKjdN4EifN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2027559653488697344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCNWwysboAARZtU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027559653488697344"
+          ],
+          "media_source_tweet_id": [
+            "2027559655900356611"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2028447362738258047",
+        "created_at": "2026-03-02T12:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T13:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028447362738258047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1546737824837533697",
+              "start": 3,
+              "username": "IdleAircon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKjdN4EifN",
+              "end": 41,
+              "expanded_url": "https://x.com/IdleAircon/status/2027559655900356611/photo/1",
+              "media_key": "3_2027559653488697344",
+              "start": 18,
+              "url": "https://t.co/GKjdN4EifN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028447362738258047",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027559655900356611",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IdleAircon: 草 https://t.co/GKjdN4EifN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027559653488697344"
+          ]
+        },
+        "author_id": "1546737824837533697",
+        "conversation_id": "2027559655900356611",
+        "created_at": "2026-02-28T01:41:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:41:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027559655900356611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKjdN4EifN",
+              "end": 25,
+              "expanded_url": "https://x.com/IdleAircon/status/2027559655900356611/photo/1",
+              "media_key": "3_2027559653488697344",
+              "start": 2,
+              "url": "https://t.co/GKjdN4EifN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027559655900356611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 645955,
+          "like_count": 2451,
+          "quote_count": 12,
+          "reply_count": 96,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "草 https://t.co/GKjdN4EifN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 80,
+          "like_count": 1255,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 665
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-12T06:06:59.000Z",
+        "description": "中国出身のケンモメン\n趣味は「安倍晋三」",
+        "id": "1546737824837533697",
+        "location": "東京都武蔵野市吉祥寺東町１丁目１−２３",
+        "name": "暇空調",
+        "pinned_tweet_id": "2026953997421265013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007303312757096449/sb3OnS0Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 982,
+          "following_count": 526,
+          "like_count": 20964,
+          "listed_count": 7,
+          "media_count": 6942,
+          "tweet_count": 22228
+        },
+        "username": "IdleAircon",
+        "verified": false
+      }
+    ]
+  }
+}

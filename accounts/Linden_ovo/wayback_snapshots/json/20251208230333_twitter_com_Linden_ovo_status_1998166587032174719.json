@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1998166587032174719",
+    "created_at": "2025-12-08T23:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T00:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998166587032174719"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998166587032174719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "反正就是骂你是我该千刀万剐了，说你错处就是指责你了，还嘴了就是骂你了，你又不高兴了上吊了割腕了又是我逼死了你呗，然后第二天就是我都把你逼死了为什么还不赶紧给你磕头，第三天就是我都打算死了都舍不得和你分开，我为维护我们的relationship做出巨大努力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1998166587032174719",
+        "created_at": "2025-12-08T23:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T00:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998166587032174719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998166587032174719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反正就是骂你是我该千刀万剐了，说你错处就是指责你了，还嘴了就是骂你了，你又不高兴了上吊了割腕了又是我逼死了你呗，然后第二天就是我都把你逼死了为什么还不赶紧给你磕头，第三天就是我都打算死了都舍不得和你分开，我为维护我们的relationship做出巨大努力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 65,
+          "like_count": 858,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 356
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

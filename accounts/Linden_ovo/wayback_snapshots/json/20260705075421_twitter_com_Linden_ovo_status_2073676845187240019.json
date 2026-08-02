@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073676845187240019",
+    "created_at": "2026-07-05T07:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073676845187240019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553278286796451840",
+          "start": 3,
+          "username": "XuanZai12138"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073676845187240019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073409740927861078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XuanZai12138: 我真的开始理解劳荣枝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073676845187240019",
+        "created_at": "2026-07-05T07:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073676845187240019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553278286796451840",
+              "start": 3,
+              "username": "XuanZai12138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073676845187240019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073409740927861078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XuanZai12138: 我真的开始理解劳荣枝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553278286796451840",
+        "conversation_id": "2073409740927861078",
+        "created_at": "2026-07-04T14:12:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:12:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073409740927861078"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073409740927861078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31774,
+          "like_count": 159,
+          "quote_count": 3,
+          "reply_count": 92,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我真的开始理解劳荣枝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 129,
+          "like_count": 2139,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1365
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:16:29.000Z",
+        "description": "此账号皮下是一个有躯体化的活珠子丨性别男 取向男 接占卜烧香点蜡法事 塔罗师从龙女 家是出马的\n⬆️广告营业发在：@LeviCha61174973",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 57,
+                "username": "LeviCha61174973"
+              }
+            ]
+          }
+        },
+        "id": "1553278286796451840",
+        "location": "碎碎念的地方 别骂我",
+        "name": "十九岁帅到邻居想报警",
+        "pinned_tweet_id": "2039733988387139754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070899657190899712/gzgpkJWG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 115,
+          "like_count": 11678,
+          "listed_count": 8,
+          "media_count": 390,
+          "tweet_count": 4685
+        },
+        "url": "",
+        "username": "XuanZai12138",
+        "verified": false
+      }
+    ]
+  }
+}

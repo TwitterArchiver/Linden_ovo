@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2035691042440446266",
+    "created_at": "2026-03-22T15:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T16:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035746593987506265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1795072631169044480",
+          "start": 0,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035746593987506265",
+    "in_reply_to_user_id": "1795072631169044480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035691042440446266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FoxGod__ 这个图植物人看见也绷不住"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2035691027001184256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEA6NBjbEAALtVK.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2035691042440446266",
+        "created_at": "2026-03-22T15:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035746593987506265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1795072631169044480",
+              "start": 0,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035746593987506265",
+        "in_reply_to_user_id": "1795072631169044480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035691042440446266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FoxGod__ 这个图植物人看见也绷不住"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035691027001184256"
+          ]
+        },
+        "author_id": "1795072631169044480",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2035691042440446266",
+        "created_at": "2026-03-22T12:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035691042440446266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xp6vfp8t7f",
+              "end": 131,
+              "expanded_url": "https://x.com/FoxGod__/status/2035691042440446266/photo/1",
+              "media_key": "3_2035691027001184256",
+              "start": 108,
+              "url": "https://t.co/Xp6vfp8t7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035691042440446266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5734,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "不明白人家都成年人了做没做过关你们什么事 一直管这管那管人家私生活的 说白了和你们有什么关系？难不成要人家事业有成 前途似锦的女性把第一次给你们这种肥头大耳 300斤逼成就没有只会躲家里吃父母喝父母的死肥猪吗？搞笑 https://t.co/Xp6vfp8t7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 81,
+          "like_count": 1383,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 769
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "喜欢自称神明的精神病",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029222933172981760/d6fZdZpu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7357,
+          "following_count": 234,
+          "like_count": 32351,
+          "listed_count": 19,
+          "media_count": 208,
+          "tweet_count": 1090
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

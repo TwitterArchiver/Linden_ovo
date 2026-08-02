@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047344849838546944"
+      ],
+      "media_source_tweet_id": [
+        "2047345648916439444"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2047673695661965389",
+    "created_at": "2026-04-24T13:47:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T14:47:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047673695661965389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1923032474348826624",
+          "start": 3,
+          "username": "nneeing"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XzkbQdZ0no",
+          "end": 36,
+          "expanded_url": "https://x.com/nneeing/status/2047345648916439444/photo/1",
+          "media_key": "3_2047344849838546944",
+          "start": 13,
+          "url": "https://t.co/XzkbQdZ0no"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047673695661965389",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047345648916439444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nneeing: https://t.co/XzkbQdZ0no"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2330,
+        "media_key": "3_2047344849838546944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGmhSytaIAATFms.jpg",
+        "width": 2080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047344849838546944"
+          ],
+          "media_source_tweet_id": [
+            "2047345648916439444"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2047673695661965389",
+        "created_at": "2026-04-24T13:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T14:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047673695661965389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1923032474348826624",
+              "start": 3,
+              "username": "nneeing"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzkbQdZ0no",
+              "end": 36,
+              "expanded_url": "https://x.com/nneeing/status/2047345648916439444/photo/1",
+              "media_key": "3_2047344849838546944",
+              "start": 13,
+              "url": "https://t.co/XzkbQdZ0no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047673695661965389",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047345648916439444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nneeing: https://t.co/XzkbQdZ0no"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047344849838546944"
+          ]
+        },
+        "author_id": "1923032474348826624",
+        "conversation_id": "2047345648916439444",
+        "created_at": "2026-04-23T16:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T17:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047345648916439444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XzkbQdZ0no",
+              "end": 23,
+              "expanded_url": "https://x.com/nneeing/status/2047345648916439444/photo/1",
+              "media_key": "3_2047344849838546944",
+              "start": 0,
+              "url": "https://t.co/XzkbQdZ0no"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047345648916439444",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 377,
+          "impression_count": 34805,
+          "like_count": 3985,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XzkbQdZ0no"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 97,
+          "like_count": 1599,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 947
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-15T15:07:36.000Z",
+        "description": "장르계X 팔로 비추",
+        "id": "1923032474348826624",
+        "name": "낭니",
+        "pinned_tweet_id": "1954681514006090225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923033168539680769/u1jtddgb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1273,
+          "following_count": 64,
+          "like_count": 6151,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2408
+        },
+        "username": "nneeing",
+        "verified": false
+      }
+    ]
+  }
+}

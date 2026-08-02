@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2073656099845124164",
+    "created_at": "2026-07-05T13:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T14:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073758040323510557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1659979401042493441",
+          "start": 0,
+          "username": "Yudal9645510352"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073758040323510557",
+    "in_reply_to_user_id": "1659979401042493441",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073756839184089363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yudal9645510352 戴哥👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2073656099845124164",
+        "created_at": "2026-07-05T13:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073758040323510557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1659979401042493441",
+              "start": 0,
+              "username": "Yudal9645510352"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073758040323510557",
+        "in_reply_to_user_id": "1659979401042493441",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073756839184089363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yudal9645510352 戴哥👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659979401042493441",
+        "conversation_id": "2073656099845124164",
+        "created_at": "2026-07-05T13:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T14:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073756839184089363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073756839184089363",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073656099845124164",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 殊不知"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 129,
+          "like_count": 2161,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1378
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T17:48:35.000Z",
+        "description": "总有一天会好的总有一天。",
+        "id": "1659979401042493441",
+        "location": "Munich, Bavaria",
+        "name": "Tina",
+        "pinned_tweet_id": "2028234214504534060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064442613114036224/48tNPCPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 74,
+          "like_count": 2126,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "Yudal9645510352",
+        "verified": false
+      }
+    ]
+  }
+}

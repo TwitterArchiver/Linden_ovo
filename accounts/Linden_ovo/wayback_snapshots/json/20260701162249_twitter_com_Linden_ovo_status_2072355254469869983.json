@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2072355254469869983",
+    "created_at": "2026-07-01T16:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072355254469869983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1788083166856749056",
+          "start": 3,
+          "username": "LanLan93083241"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072355254469869983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072237561494560934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LanLan93083241: 希望大家不要仅凭和他人聊天同频，就觉得真的有共鸣，特别是如果观点是你先抛出的，我的意思是我们都写过命题作文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2072355254469869983",
+        "created_at": "2026-07-01T16:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072355254469869983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1788083166856749056",
+              "start": 3,
+              "username": "LanLan93083241"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072355254469869983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072237561494560934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LanLan93083241: 希望大家不要仅凭和他人聊天同频，就觉得真的有共鸣，特别是如果观点是你先抛出的，我的意思是我们都写过命题作文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788083166856749056",
+        "conversation_id": "2072237561494560934",
+        "created_at": "2026-07-01T08:35:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:35:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072237561494560934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072237561494560934",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 10151,
+          "like_count": 371,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家不要仅凭和他人聊天同频，就觉得真的有共鸣，特别是如果观点是你先抛出的，我的意思是我们都写过命题作文"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "我有对象",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070744255807766528/OGlRVBNa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 124,
+          "following_count": 109,
+          "like_count": 1932,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 1208
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-08T05:47:25.000Z",
+        "description": "一个在互联网上贩卖快乐的普通小女生\n(希望你每一天都是快乐的 感谢喜欢😉)",
+        "id": "1788083166856749056",
+        "name": "LanLan",
+        "pinned_tweet_id": "2071885445060043150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978758355318611968/KQBoDyuP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42504,
+          "following_count": 2909,
+          "like_count": 40832,
+          "listed_count": 130,
+          "media_count": 1674,
+          "tweet_count": 2866
+        },
+        "url": "",
+        "username": "LanLan93083241",
+        "verified": false
+      }
+    ]
+  }
+}

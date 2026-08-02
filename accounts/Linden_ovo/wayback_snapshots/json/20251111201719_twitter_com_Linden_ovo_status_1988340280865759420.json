@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1988340280865759420",
+    "created_at": "2025-11-11T20:17:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T21:17:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988340280865759420"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1708900742894067712",
+          "start": 3,
+          "username": "happycatty0403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988340280865759420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988128148362518666",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @happycatty0403: 我很爱玩丁真的梗\n之前和男朋友聊起丁真因为抽烟被黑，男朋友却说他就该抽烟\n我说可他的人设很纯真\n男朋友说，他是穷山恶水长大的孩子，他就该抽烟、辍学、满口脏话，这才是纯真。城里长大的人没资格臆想和定义农村孩子的纯真，这是一种高高在上的霸凌。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1988340280865759420",
+        "created_at": "2025-11-11T20:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T21:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988340280865759420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1708900742894067712",
+              "start": 3,
+              "username": "happycatty0403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988340280865759420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988128148362518666",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @happycatty0403: 我很爱玩丁真的梗\n之前和男朋友聊起丁真因为抽烟被黑，男朋友却说他就该抽烟\n我说可他的人设很纯真\n男朋友说，他是穷山恶水长大的孩子，他就该抽烟、辍学、满口脏话，这才是纯真。城里长大的人没资格臆想和定义农村孩子的纯真，这是一种高高在上的霸凌。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708900742894067712",
+        "conversation_id": "1988128148362518666",
+        "created_at": "2025-11-11T06:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1988128148362518666"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1988128148362518666",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 99,
+          "impression_count": 174888,
+          "like_count": 2062,
+          "quote_count": 7,
+          "reply_count": 83,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "我很爱玩丁真的梗\n之前和男朋友聊起丁真因为抽烟被黑，男朋友却说他就该抽烟\n我说可他的人设很纯真\n男朋友说，他是穷山恶水长大的孩子，他就该抽烟、辍学、满口脏话，这才是纯真。城里长大的人没资格臆想和定义农村孩子的纯真，这是一种高高在上的霸凌。\n我想了想觉得很有道理，于是再也没玩过丁真的梗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 729,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 257
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-02T17:44:27.000Z",
+        "description": "我不约炮",
+        "id": "1708900742894067712",
+        "location": "4.03km",
+        "name": "小猫大厨",
+        "pinned_tweet_id": "1985044981619265843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909526944972259332/TLmDftg1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 36,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 620
+        },
+        "username": "happycatty0403",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1881524158343074062",
+    "created_at": "2025-01-21T02:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-21T03:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881524158343074062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "44299475",
+          "start": 3,
+          "username": "MianMaoKu"
+        },
+        {
+          "end": 25,
+          "id": "28940967",
+          "start": 15,
+          "username": "lidangzzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881524158343074062",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881498173933498378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MianMaoKu: @lidangzzz “还可以”三个字传神地表现了中华民族喜怒不形于色的好面子又扭捏的神态。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1881524158343074062",
+        "created_at": "2025-01-21T02:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T03:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881524158343074062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "44299475",
+              "start": 3,
+              "username": "MianMaoKu"
+            },
+            {
+              "end": 25,
+              "id": "28940967",
+              "start": 15,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881524158343074062",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881498173933498378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MianMaoKu: @lidangzzz “还可以”三个字传神地表现了中华民族喜怒不形于色的好面子又扭捏的神态。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "44299475",
+        "conversation_id": "1881317558030327818",
+        "created_at": "2025-01-21T00:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-21T01:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881498173933498378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "28940967",
+              "start": 0,
+              "username": "lidangzzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881498173933498378",
+        "in_reply_to_user_id": "28940967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1837,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881317558030327818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lidangzzz “还可以”三个字传神地表现了中华民族喜怒不形于色的好面子又扭捏的神态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 79,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 84
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-03T05:15:23.000Z",
+        "description": "别fo我，我说话可难听了。",
+        "id": "44299475",
+        "name": "MMK",
+        "pinned_tweet_id": "1857872638590455975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653037673605664770/iijlc82L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43709,
+          "following_count": 1082,
+          "like_count": 1442,
+          "listed_count": 281,
+          "media_count": 3843,
+          "tweet_count": 97596
+        },
+        "username": "MianMaoKu",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/lidang",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/lidang",
+                "start": 0,
+                "url": "https://t.co/R98hZRJzFO"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房、劝人学CS计算机、劝人投美股SP500/纳斯达克100第一人）",
+        "pinned_tweet_id": "1806640806452744310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1576351,
+          "following_count": 2647,
+          "like_count": 24072,
+          "listed_count": 3602,
+          "media_count": 7527,
+          "tweet_count": 35340
+        },
+        "url": "https://t.co/R98hZRJzFO",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}

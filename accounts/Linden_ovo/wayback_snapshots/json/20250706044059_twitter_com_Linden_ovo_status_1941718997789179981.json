@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1941452657916616704"
+      ],
+      "media_source_tweet_id": [
+        "1941453182967873636"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1941718997789179981",
+    "created_at": "2025-07-06T04:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941718997789179981"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 31,
+          "start": 21,
+          "tag": "bijouwled"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "911509691150118913",
+          "start": 3,
+          "username": "Luke_The_Tako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XgvvqBnn85",
+          "end": 55,
+          "expanded_url": "https://x.com/Luke_The_Tako/status/1941453182967873636/photo/1",
+          "media_key": "3_1941452657916616704",
+          "start": 32,
+          "url": "https://t.co/XgvvqBnn85"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941718997789179981",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 369
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941453182967873636",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luke_The_Tako: 🐎\n#bijouwled https://t.co/XgvvqBnn85"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1941452657916616704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvFs5_dboAAscdh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941452657916616704"
+          ],
+          "media_source_tweet_id": [
+            "1941453182967873636"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1941718997789179981",
+        "created_at": "2025-07-06T04:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941718997789179981"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 21,
+              "tag": "bijouwled"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "911509691150118913",
+              "start": 3,
+              "username": "Luke_The_Tako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgvvqBnn85",
+              "end": 55,
+              "expanded_url": "https://x.com/Luke_The_Tako/status/1941453182967873636/photo/1",
+              "media_key": "3_1941452657916616704",
+              "start": 32,
+              "url": "https://t.co/XgvvqBnn85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941718997789179981",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 369
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941453182967873636",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luke_The_Tako: 🐎\n#bijouwled https://t.co/XgvvqBnn85"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1941452657916616704"
+          ]
+        },
+        "author_id": "911509691150118913",
+        "conversation_id": "1941453182967873636",
+        "created_at": "2025-07-05T11:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T12:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941453182967873636"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 2,
+              "tag": "bijouwled"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgvvqBnn85",
+              "end": 36,
+              "expanded_url": "https://x.com/Luke_The_Tako/status/1941453182967873636/photo/1",
+              "media_key": "3_1941452657916616704",
+              "start": 13,
+              "url": "https://t.co/XgvvqBnn85"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941453182967873636",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 171,
+          "impression_count": 37825,
+          "like_count": 3987,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 369
+        },
+        "reply_settings": "everyone",
+        "text": "🐎\n#bijouwled https://t.co/XgvvqBnn85"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 396,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 105
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-23T08:37:00.000Z",
+        "description": "hobby artist who draws biboo / silly biboo mmd :D\nsupport me here :D https://t.co/tvzU0amMSh\n🇻🇳",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/lukethetako",
+                "end": 92,
+                "expanded_url": "https://ko-fi.com/lukethetako",
+                "start": 69,
+                "url": "https://t.co/tvzU0amMSh"
+              }
+            ]
+          }
+        },
+        "id": "911509691150118913",
+        "location": "Vietnam",
+        "name": "Luke",
+        "pinned_tweet_id": "1917191291173245148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1812298131221991424/gVv2geLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2400,
+          "following_count": 490,
+          "like_count": 54269,
+          "listed_count": 4,
+          "media_count": 3083,
+          "tweet_count": 13943
+        },
+        "username": "Luke_The_Tako",
+        "verified": false
+      }
+    ]
+  }
+}

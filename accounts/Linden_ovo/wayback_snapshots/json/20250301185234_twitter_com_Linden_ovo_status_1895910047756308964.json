@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1895363395601489949",
+    "created_at": "2025-03-01T18:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T19:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895910047756308964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1601950231935225856",
+          "start": 0,
+          "username": "wcnmsbtuite"
+        },
+        {
+          "end": 22,
+          "id": "1663112063009574912",
+          "start": 13,
+          "username": "Lanyinwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895910047756308964",
+    "in_reply_to_user_id": "1601950231935225856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895735856998363406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wcnmsbtuite @Lanyinwu 讨伐一下兽交你在这乱套公式觉得自己很有攻击力？雕牲加油😂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1895363395601489949",
+        "created_at": "2025-03-01T18:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T19:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895910047756308964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1601950231935225856",
+              "start": 0,
+              "username": "wcnmsbtuite"
+            },
+            {
+              "end": 22,
+              "id": "1663112063009574912",
+              "start": 13,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895910047756308964",
+        "in_reply_to_user_id": "1601950231935225856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895735856998363406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wcnmsbtuite @Lanyinwu 讨伐一下兽交你在这乱套公式觉得自己很有攻击力？雕牲加油😂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601950231935225856",
+        "conversation_id": "1895363395601489949",
+        "created_at": "2025-03-01T07:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T08:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895735856998363406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1663112063009574912",
+              "start": 0,
+              "username": "Lanyinwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895735856998363406",
+        "in_reply_to_user_id": "1663112063009574912",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2710,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895363395601489949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lanyinwu 爱猫女😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 78,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 122
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-11T14:41:29.000Z",
+        "description": "",
+        "id": "1601950231935225856",
+        "name": "菠萝悍匪人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1620472659451731970/Kpakx2iO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 31,
+          "like_count": 160,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 78
+        },
+        "username": "wcnmsbtuite",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T09:16:36.000Z",
+        "description": "个人日常推丨小号 @kiraxiaoyao丨只有这两个号，私信不开，其余推特账号和墙内社交软件都是盗图诈骗",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "kiraxiaoyao"
+              }
+            ]
+          }
+        },
+        "id": "1663112063009574912",
+        "name": "盛予",
+        "pinned_tweet_id": "1887139555901378927",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892205029412458496/cwczjqDn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67279,
+          "following_count": 9,
+          "like_count": 6447,
+          "listed_count": 104,
+          "media_count": 161,
+          "tweet_count": 2829
+        },
+        "username": "Lanyinwu",
+        "verified": false
+      }
+    ]
+  }
+}

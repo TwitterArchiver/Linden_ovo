@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076522811514835101",
+    "created_at": "2026-07-13T04:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T05:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076522811514835101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "114382613",
+          "start": 3,
+          "username": "PrettiestBitch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076522811514835101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076281545707737090",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PrettiestBitch: 姐妹我懂你，真的希望女孩子们可以团结一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076522811514835101",
+        "created_at": "2026-07-13T04:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T05:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076522811514835101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "114382613",
+              "start": 3,
+              "username": "PrettiestBitch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076522811514835101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076281545707737090",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PrettiestBitch: 姐妹我懂你，真的希望女孩子们可以团结一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "114382613",
+        "conversation_id": "2076281545707737090",
+        "created_at": "2026-07-12T12:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076281545707737090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/furaalove/stat…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/furaalove/status/2076017377746223434",
+              "start": 21,
+              "url": "https://t.co/OWMrHiWurM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076281545707737090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1039,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076017377746223434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "姐妹我懂你，真的希望女孩子们可以团结一点 https://t.co/OWMrHiWurM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 136,
+          "like_count": 2383,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-15T06:33:21.000Z",
+        "description": "左 点进我主页你大概率破防了",
+        "id": "114382613",
+        "name": "好了大家尊重女性",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076195405902249985/U6OHHhdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 139,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "PrettiestBitch",
+        "verified": false
+      }
+    ]
+  }
+}

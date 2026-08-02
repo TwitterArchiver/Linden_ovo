@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2016939582978240750",
+    "created_at": "2026-01-30T11:08:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T12:08:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017193226747215951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859583818098712576",
+          "start": 0,
+          "username": "llxbb777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017193226747215951",
+    "in_reply_to_user_id": "1859583818098712576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016939582978240750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llxbb777 这句话我好像在梦里见过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2016939582978240750",
+        "created_at": "2026-01-30T11:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T12:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017193226747215951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859583818098712576",
+              "start": 0,
+              "username": "llxbb777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017193226747215951",
+        "in_reply_to_user_id": "1859583818098712576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016939582978240750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llxbb777 这句话我好像在梦里见过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859583818098712576",
+        "conversation_id": "2016939582978240750",
+        "created_at": "2026-01-29T18:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016939582978240750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016939582978240750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见识到了相当变态的人 还是河南的 办公室的人都对他的发言莫名其妙 有不同的想法很正常 但是唯独他是个利己到极点的人 嘴上为了所有人好 行动却是只要自己舒服 还幻想我们所有人都是和他一样的自私 好难绷 小动物都有情感阿 所谓为人的底线真的捉摸不透"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 1083,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 522
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T13:05:15.000Z",
+        "description": "",
+        "id": "1859583818098712576",
+        "name": "いちにち",
+        "pinned_tweet_id": "2005787479790719222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008956266484514816/XIxa_wdm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 2,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 9
+        },
+        "username": "llxbb777",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2035145796203548848",
+    "created_at": "2026-03-21T00:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T01:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035145796203548848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1764232461439897600",
+          "start": 3,
+          "username": "baobao_7777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035145796203548848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034979567740625031",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @baobao_7777: 遗书\n一个男孩子，一个倒霉蛋，一个弱智，一个傻子，一个神人，一个唐氏，文化水平较低，不聪明，情商低，没智商，没人爱，感受不到人间的温暖，拜拜。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2035145796203548848",
+        "created_at": "2026-03-21T00:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T01:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035145796203548848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1764232461439897600",
+              "start": 3,
+              "username": "baobao_7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035145796203548848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034979567740625031",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @baobao_7777: 遗书\n一个男孩子，一个倒霉蛋，一个弱智，一个傻子，一个神人，一个唐氏，文化水平较低，不聪明，情商低，没智商，没人爱，感受不到人间的温暖，拜拜。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764232461439897600",
+        "conversation_id": "2034979567740625031",
+        "created_at": "2026-03-20T13:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034979567740625031"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034979567740625031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6292,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "遗书\n一个男孩子，一个倒霉蛋，一个弱智，一个傻子，一个神人，一个唐氏，文化水平较低，不聪明，情商低，没智商，没人爱，感受不到人间的温暖，拜拜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 82,
+          "like_count": 1369,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 755
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T10:13:08.000Z",
+        "description": "普通忧郁老男人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/burger7777",
+                "end": 23,
+                "expanded_url": "https://ngl.link/burger7777",
+                "start": 0,
+                "url": "https://t.co/GIQCODGHiA"
+              }
+            ]
+          }
+        },
+        "id": "1764232461439897600",
+        "name": "雌香家母",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034979358360969220/17sce5BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1957,
+          "following_count": 136,
+          "like_count": 26378,
+          "listed_count": 3,
+          "media_count": 261,
+          "tweet_count": 10904
+        },
+        "url": "https://t.co/GIQCODGHiA",
+        "username": "baobao_7777",
+        "verified": false
+      }
+    ]
+  }
+}

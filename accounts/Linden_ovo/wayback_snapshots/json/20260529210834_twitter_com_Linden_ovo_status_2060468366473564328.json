@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2060468366473564328",
+    "created_at": "2026-05-29T21:08:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T22:08:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060468366473564328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721235053827555328",
+          "start": 3,
+          "username": "bugloom"
+        },
+        {
+          "end": 24,
+          "id": "1445104645622407168",
+          "start": 13,
+          "username": "yasmim_bdz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060468366473564328",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060088600792854720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bugloom: @yasmim_bdz se alguém cozinha uma porra dessa para mim eu como o macarrão e como ela tbm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2060468366473564328",
+        "created_at": "2026-05-29T21:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060468366473564328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721235053827555328",
+              "start": 3,
+              "username": "bugloom"
+            },
+            {
+              "end": 24,
+              "id": "1445104645622407168",
+              "start": 13,
+              "username": "yasmim_bdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060468366473564328",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060088600792854720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bugloom: @yasmim_bdz se alguém cozinha uma porra dessa para mim eu como o macarrão e como ela tbm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721235053827555328",
+        "conversation_id": "2060049739295420454",
+        "created_at": "2026-05-28T19:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T20:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060088600792854720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1445104645622407168",
+              "start": 0,
+              "username": "yasmim_bdz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060088600792854720",
+        "in_reply_to_user_id": "1445104645622407168",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 295894,
+          "like_count": 5872,
+          "quote_count": 18,
+          "reply_count": 49,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060049739295420454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yasmim_bdz se alguém cozinha uma porra dessa para mim eu como o macarrão e como ela tbm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1772,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1097
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-05T18:36:51.000Z",
+        "description": "Dê lirios",
+        "id": "1721235053827555328",
+        "name": "?",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045745530744061952/DwfPCeOH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 6,
+          "like_count": 1269,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1868
+        },
+        "username": "bugloom",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-04T19:13:49.000Z",
+        "description": "🇧🇷",
+        "id": "1445104645622407168",
+        "name": "Yasmimヤスミン",
+        "pinned_tweet_id": "2060049739295420454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027525839735160833/jYle7TkI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3292,
+          "following_count": 1601,
+          "like_count": 43873,
+          "listed_count": 10,
+          "media_count": 2016,
+          "tweet_count": 27693
+        },
+        "username": "yasmim_bdz",
+        "verified": true
+      }
+    ]
+  }
+}

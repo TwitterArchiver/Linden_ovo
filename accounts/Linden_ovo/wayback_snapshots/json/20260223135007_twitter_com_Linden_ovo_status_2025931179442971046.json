@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025803625642205184",
+        "3_2025803627013836801",
+        "3_2025806441991589888",
+        "3_2025806445430927360"
+      ],
+      "media_source_tweet_id": [
+        "2025806448383639783",
+        "2025806448383639783",
+        "2025806448383639783",
+        "2025806448383639783"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025931179442971046",
+    "created_at": "2026-02-23T13:50:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T14:50:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025931179442971046"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "フブちゃん",
+          "probability": 0.7628,
+          "start": 20,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1785999388864839680",
+          "start": 3,
+          "username": "R4lF_Spurs1882"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/92lfDXobaq",
+          "end": 59,
+          "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+          "media_key": "3_2025803625642205184",
+          "start": 36,
+          "url": "https://t.co/92lfDXobaq"
+        },
+        {
+          "display_url": "pic.x.com/92lfDXobaq",
+          "end": 59,
+          "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+          "media_key": "3_2025803627013836801",
+          "start": 36,
+          "url": "https://t.co/92lfDXobaq"
+        },
+        {
+          "display_url": "pic.x.com/92lfDXobaq",
+          "end": 59,
+          "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+          "media_key": "3_2025806441991589888",
+          "start": 36,
+          "url": "https://t.co/92lfDXobaq"
+        },
+        {
+          "display_url": "pic.x.com/92lfDXobaq",
+          "end": 59,
+          "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+          "media_key": "3_2025806445430927360",
+          "start": 36,
+          "url": "https://t.co/92lfDXobaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025931179442971046",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025806448383639783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @R4lF_Spurs1882: フブちゃんのジト目は世界を救う https://t.co/92lfDXobaq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_2025803625642205184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0ZqhMaIAASO9X.jpg",
+        "width": 880
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025803627013836801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0ZqmTbkAE_z5O.jpg",
+        "width": 1618
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025806441991589888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0cOc6bUAAY8u4.jpg",
+        "width": 912
+      },
+      {
+        "height": 537,
+        "media_key": "3_2025806445430927360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0cOpubcAAGq6L.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025803625642205184",
+            "3_2025803627013836801",
+            "3_2025806441991589888",
+            "3_2025806445430927360"
+          ],
+          "media_source_tweet_id": [
+            "2025806448383639783",
+            "2025806448383639783",
+            "2025806448383639783",
+            "2025806448383639783"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025931179442971046",
+        "created_at": "2026-02-23T13:50:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T14:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025931179442971046"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "フブちゃん",
+              "probability": 0.7628,
+              "start": 20,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1785999388864839680",
+              "start": 3,
+              "username": "R4lF_Spurs1882"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 59,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025803625642205184",
+              "start": 36,
+              "url": "https://t.co/92lfDXobaq"
+            },
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 59,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025803627013836801",
+              "start": 36,
+              "url": "https://t.co/92lfDXobaq"
+            },
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 59,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025806441991589888",
+              "start": 36,
+              "url": "https://t.co/92lfDXobaq"
+            },
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 59,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025806445430927360",
+              "start": 36,
+              "url": "https://t.co/92lfDXobaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025931179442971046",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025806448383639783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @R4lF_Spurs1882: フブちゃんのジト目は世界を救う https://t.co/92lfDXobaq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025803625642205184",
+            "3_2025803627013836801",
+            "3_2025806441991589888",
+            "3_2025806445430927360"
+          ]
+        },
+        "author_id": "1785999388864839680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025806448383639783",
+        "created_at": "2026-02-23T05:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T06:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025806448383639783"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "フブちゃん",
+              "probability": 0.8152,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 39,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025803625642205184",
+              "start": 16,
+              "url": "https://t.co/92lfDXobaq"
+            },
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 39,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025803627013836801",
+              "start": 16,
+              "url": "https://t.co/92lfDXobaq"
+            },
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 39,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025806441991589888",
+              "start": 16,
+              "url": "https://t.co/92lfDXobaq"
+            },
+            {
+              "display_url": "pic.x.com/92lfDXobaq",
+              "end": 39,
+              "expanded_url": "https://x.com/R4lF_Spurs1882/status/2025806448383639783/photo/1",
+              "media_key": "3_2025806445430927360",
+              "start": 16,
+              "url": "https://t.co/92lfDXobaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025806448383639783",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 12295,
+          "like_count": 1036,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "フブちゃんのジト目は世界を救う https://t.co/92lfDXobaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 81,
+          "like_count": 1195,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 604
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-02T11:47:11.000Z",
+        "description": "最推し白上フブキ、大神ミオ\n\nホロリス高校生、海外サッカー好き！絵も描いてます！趣味がめちゃくちゃ多いので気軽に話したいし絡みたい！ pixiv https://t.co/fXIGJVPhOp\n（すこん部🌽、ミオファ🌲、スパサポ🤍)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/113532639",
+                "end": 96,
+                "expanded_url": "http://pixiv.net/users/113532639",
+                "start": 73,
+                "url": "https://t.co/fXIGJVPhOp"
+              }
+            ]
+          }
+        },
+        "id": "1785999388864839680",
+        "location": "フブキングダム-Dハウス地区",
+        "name": "Le6_レオ🌽🌲‎‎🤍",
+        "pinned_tweet_id": "2004117570174308702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988759318381096962/vW-FUvOd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3978,
+          "following_count": 4861,
+          "like_count": 14431,
+          "listed_count": 10,
+          "media_count": 395,
+          "tweet_count": 5668
+        },
+        "username": "R4lF_Spurs1882",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080605135806537728"
+      ],
+      "media_source_tweet_id": [
+        "2080605142009999363"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081702354710110325",
+    "created_at": "2026-07-27T11:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081702354710110325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1743940674435887104",
+          "start": 3,
+          "username": "Harrison3_1122"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Wov6fBp4Cd",
+          "end": 45,
+          "expanded_url": "https://x.com/Harrison3_1122/status/2080605142009999363/photo/1",
+          "media_key": "3_2080605135806537728",
+          "start": 22,
+          "url": "https://t.co/Wov6fBp4Cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081702354710110325",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080605142009999363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Harrison3_1122: ？ https://t.co/Wov6fBp4Cd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2080605135806537728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_LWPWaIAAFY9k.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080605135806537728"
+          ]
+        },
+        "author_id": "1743940674435887104",
+        "conversation_id": "2080605142009999363",
+        "created_at": "2026-07-24T10:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080605142009999363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wov6fBp4Cd",
+              "end": 25,
+              "expanded_url": "https://x.com/Harrison3_1122/status/2080605142009999363/photo/1",
+              "media_key": "3_2080605135806537728",
+              "start": 2,
+              "url": "https://t.co/Wov6fBp4Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080605142009999363",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2143,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "？ https://t.co/Wov6fBp4Cd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080605135806537728"
+          ],
+          "media_source_tweet_id": [
+            "2080605142009999363"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081702354710110325",
+        "created_at": "2026-07-27T11:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081702354710110325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1743940674435887104",
+              "start": 3,
+              "username": "Harrison3_1122"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wov6fBp4Cd",
+              "end": 45,
+              "expanded_url": "https://x.com/Harrison3_1122/status/2080605142009999363/photo/1",
+              "media_key": "3_2080605135806537728",
+              "start": 22,
+              "url": "https://t.co/Wov6fBp4Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081702354710110325",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080605142009999363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Harrison3_1122: ？ https://t.co/Wov6fBp4Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2822,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1848
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-07T10:20:39.000Z",
+        "description": "不主動、不拒絕、不負責",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "harrison3.me",
+                "end": 23,
+                "expanded_url": "http://harrison3.me/",
+                "start": 0,
+                "url": "https://t.co/GpeXoYBc5G"
+              }
+            ]
+          }
+        },
+        "id": "1743940674435887104",
+        "name": "Harrison3",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055942857299795968/qbsCDwIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 278,
+          "like_count": 14622,
+          "listed_count": 0,
+          "media_count": 452,
+          "tweet_count": 1610
+        },
+        "url": "https://t.co/GpeXoYBc5G",
+        "username": "Harrison3_1122",
+        "verified": false
+      }
+    ]
+  }
+}

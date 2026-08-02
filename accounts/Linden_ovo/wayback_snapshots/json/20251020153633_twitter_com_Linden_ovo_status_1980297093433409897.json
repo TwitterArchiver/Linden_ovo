@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1980297093433409897",
+    "created_at": "2025-10-20T15:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980297093433409897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1257496945142030336",
+          "start": 3,
+          "username": "shuiyu_kiger"
+        },
+        {
+          "end": 25,
+          "id": "1613079089879076864",
+          "start": 18,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980297093433409897",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980172714490114347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuiyu_kiger: @Cldeop AttributeError: '腿' object has no attribute '站'"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1980297093433409897",
+        "created_at": "2025-10-20T15:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980297093433409897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1257496945142030336",
+              "start": 3,
+              "username": "shuiyu_kiger"
+            },
+            {
+              "end": 25,
+              "id": "1613079089879076864",
+              "start": 18,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980297093433409897",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980172714490114347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuiyu_kiger: @Cldeop AttributeError: '腿' object has no attribute '站'"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1257496945142030336",
+        "conversation_id": "1980140751964311669",
+        "created_at": "2025-10-20T07:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T08:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980172714490114347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1613079089879076864",
+              "start": 0,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980172714490114347",
+        "in_reply_to_user_id": "1613079089879076864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6413,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980140751964311669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cldeop AttributeError: '腿' object has no attribute '站'"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 53,
+          "like_count": 637,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 200
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-05T02:27:02.000Z",
+        "description": "这里是水余的主页哦～ 叫水余或者水鱼或者鱼鱼都可以啦～ //划水摸鱼是人生目标desu（才不 新人Kiger一只～ 已经确定的角色是东方project的犬走椛，碧蓝航线的TB和崩坏3的爱莉。 中文/English OK- 偶尔会捣鼓一些Kigurumi相关技术 欸....还要说什么....想不出啦就先这样吧！",
+        "id": "1257496945142030336",
+        "location": "幻想乡",
+        "name": "超级大水鱼！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759592864093462528/w0klwL3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 600,
+          "like_count": 1593,
+          "listed_count": 5,
+          "media_count": 22,
+          "tweet_count": 785
+        },
+        "username": "shuiyu_kiger",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84142,
+          "following_count": 649,
+          "like_count": 30931,
+          "listed_count": 257,
+          "media_count": 12864,
+          "tweet_count": 18223
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

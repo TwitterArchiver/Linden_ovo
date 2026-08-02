@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1890321139945415121",
+    "created_at": "2025-02-14T08:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1890321139945415121"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1890321139945415121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "每次来推上看片映入眼帘的总是一群傻逼发的帖，不看忍不住看了不舒服，给我看的性欲全无操你妈逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1890321139945415121",
+        "created_at": "2025-02-14T08:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890321139945415121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890321139945415121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次来推上看片映入眼帘的总是一群傻逼发的帖，不看忍不住看了不舒服，给我看的性欲全无操你妈逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "上推日常冲浪，并调教傻逼",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 81,
+          "like_count": 321,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 117
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

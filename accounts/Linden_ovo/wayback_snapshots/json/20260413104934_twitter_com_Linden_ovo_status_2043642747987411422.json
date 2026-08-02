@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043642740492185600"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2043642747987411422",
+    "created_at": "2026-04-13T10:49:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:49:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043642747987411422"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 17,
+          "start": 6,
+          "tag": "学園アイドルマスター"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HmrEvjRVcN",
+          "end": 41,
+          "expanded_url": "https://x.com/Linden_ovo/status/2043642747987411422/photo/1",
+          "media_key": "3_2043642740492185600",
+          "start": 18,
+          "url": "https://t.co/HmrEvjRVcN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043642747987411422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "藤田ことね #学園アイドルマスター https://t.co/HmrEvjRVcN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043642740492185600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx6PqrXsAAO3Xs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043642740492185600"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2043642747987411422",
+        "created_at": "2026-04-13T10:49:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:49:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043642747987411422"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 6,
+              "tag": "学園アイドルマスター"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HmrEvjRVcN",
+              "end": 41,
+              "expanded_url": "https://x.com/Linden_ovo/status/2043642747987411422/photo/1",
+              "media_key": "3_2043642740492185600",
+              "start": 18,
+              "url": "https://t.co/HmrEvjRVcN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043642747987411422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "藤田ことね #学園アイドルマスター https://t.co/HmrEvjRVcN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 84,
+          "like_count": 1512,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 852
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

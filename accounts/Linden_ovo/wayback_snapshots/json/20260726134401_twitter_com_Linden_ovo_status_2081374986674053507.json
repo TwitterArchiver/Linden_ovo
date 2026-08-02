@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081374986674053507",
+    "created_at": "2026-07-26T13:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T14:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081374986674053507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3353711054",
+          "start": 3,
+          "username": "wxd1041088104"
+        },
+        {
+          "end": 33,
+          "id": "1622066090074607616",
+          "start": 19,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081374986674053507",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081211279918735742",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wxd1041088104: @hoshinofujivy 狗：我一个妇道人家懂什么？有什么跟我那俩不成器的儿子说去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081374986674053507",
+        "created_at": "2026-07-26T13:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081374986674053507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3353711054",
+              "start": 3,
+              "username": "wxd1041088104"
+            },
+            {
+              "end": 33,
+              "id": "1622066090074607616",
+              "start": 19,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081374986674053507",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081211279918735742",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wxd1041088104: @hoshinofujivy 狗：我一个妇道人家懂什么？有什么跟我那俩不成器的儿子说去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3353711054",
+        "conversation_id": "2080951446955282620",
+        "created_at": "2026-07-26T02:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081211279918735742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081211279918735742",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5479,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080951446955282620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 狗：我一个妇道人家懂什么？有什么跟我那俩不成器的儿子说去吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 149,
+          "like_count": 2804,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-27T00:08:25.000Z",
+        "description": "爱我华夏！",
+        "id": "3353711054",
+        "name": "Mr.wrench",
+        "pinned_tweet_id": "2040843758103572718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1334757846207123456/NT4-Dgeu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 49,
+          "like_count": 15935,
+          "listed_count": 7,
+          "media_count": 293,
+          "tweet_count": 5622
+        },
+        "url": "",
+        "username": "wxd1041088104",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」|  头像自设，名为星野藤｜My beloved @nationalpurevf4｜Love NASA｜AIart｜Pixiv Illustrator｜love the whole world🇺🇳｜Partner @KokonaKokoro｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 46,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "KokonaKokoro"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台灣 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2070114577128489315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037206581524480000/7zwAevat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13466,
+          "following_count": 4398,
+          "like_count": 51993,
+          "listed_count": 24,
+          "media_count": 3507,
+          "tweet_count": 18359
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}

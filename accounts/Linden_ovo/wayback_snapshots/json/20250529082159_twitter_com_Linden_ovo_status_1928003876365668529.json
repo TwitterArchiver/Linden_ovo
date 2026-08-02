@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1611621065385738242"
+      ],
+      "media_source_tweet_id": [
+        "1611621123648786433"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1928003876365668529",
+    "created_at": "2025-05-29T08:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T09:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928003876365668529"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "博衣小夜璃",
+          "probability": 0.4788,
+          "start": 33,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 17,
+          "tag": "kigurumi"
+        },
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "着ぐるみ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1460481863848390658",
+          "start": 3,
+          "username": "NewfacedolL"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZyrGFn3CL",
+          "end": 62,
+          "expanded_url": "https://x.com/NewfacedolL/status/1611621123648786433/video/1",
+          "media_key": "7_1611621065385738242",
+          "start": 39,
+          "url": "https://t.co/RZyrGFn3CL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928003876365668529",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1611621123648786433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewfacedolL: #kigurumi #着ぐるみ 博衣小夜璃 https://t.co/RZyrGFn3CL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15001,
+        "height": 720,
+        "media_key": "7_1611621065385738242",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1611621065385738242/pu/img/VRcmdRBcG4pdEEOp.jpg",
+        "public_metrics": {
+          "view_count": 1707
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1611621065385738242/pu/vid/480x270/nWjtnJQeoVcLzXak.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1611621065385738242/pu/vid/640x360/lIT6MSPeTTsdLUKc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1611621065385738242/pu/vid/1280x720/EeKSzoAgJ6_p5rWx.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1611621065385738242/pu/pl/Oo_KUikllFGBZcnK.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1611621065385738242"
+          ],
+          "media_source_tweet_id": [
+            "1611621123648786433"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1928003876365668529",
+        "created_at": "2025-05-29T08:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T09:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928003876365668529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "博衣小夜璃",
+              "probability": 0.4788,
+              "start": 33,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1460481863848390658",
+              "start": 3,
+              "username": "NewfacedolL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZyrGFn3CL",
+              "end": 62,
+              "expanded_url": "https://x.com/NewfacedolL/status/1611621123648786433/video/1",
+              "media_key": "7_1611621065385738242",
+              "start": 39,
+              "url": "https://t.co/RZyrGFn3CL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928003876365668529",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1611621123648786433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewfacedolL: #kigurumi #着ぐるみ 博衣小夜璃 https://t.co/RZyrGFn3CL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1611621065385738242"
+          ]
+        },
+        "author_id": "1460481863848390658",
+        "conversation_id": "1611621123648786433",
+        "created_at": "2023-01-07T07:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-07T07:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1611621123648786433"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "博衣小夜璃",
+              "probability": 0.5205,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "着ぐるみ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZyrGFn3CL",
+              "end": 45,
+              "expanded_url": "https://x.com/NewfacedolL/status/1611621123648786433/video/1",
+              "media_key": "7_1611621065385738242",
+              "start": 22,
+              "url": "https://t.co/RZyrGFn3CL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1611621123648786433",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 18602,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#kigurumi #着ぐるみ 博衣小夜璃 https://t.co/RZyrGFn3CL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927724443654119424/p0JIUkhS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 64,
+          "like_count": 351,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 147
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-16T05:36:41.000Z",
+        "description": "Kigurumi Maker NFD -New Face Doll 新颜玩偶",
+        "id": "1460481863848390658",
+        "name": "NFD-新颜玩偶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1460482417370624003/gR2e3QKo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5014,
+          "following_count": 13,
+          "like_count": 25,
+          "listed_count": 84,
+          "media_count": 140,
+          "tweet_count": 186
+        },
+        "username": "NewfacedolL",
+        "verified": false
+      }
+    ]
+  }
+}

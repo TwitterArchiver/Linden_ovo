@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2003370071146590208"
+      ],
+      "media_source_tweet_id": [
+        "2003370079535448330"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2003750196615028794",
+    "created_at": "2025-12-24T08:50:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T09:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003750196615028794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999034817514807296",
+          "start": 3,
+          "username": "Kirara_Kazari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nCT0IhN5U5",
+          "end": 42,
+          "expanded_url": "https://x.com/Kirara_Kazari/status/2003370079535448330/photo/1",
+          "media_key": "3_2003370071146590208",
+          "start": 19,
+          "url": "https://t.co/nCT0IhN5U5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003750196615028794",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003370079535448330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kirara_Kazari: https://t.co/nCT0IhN5U5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2003370071146590208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G81mdyRXcAAQxYB.jpg",
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003370071146590208"
+          ],
+          "media_source_tweet_id": [
+            "2003370079535448330"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003750196615028794",
+        "created_at": "2025-12-24T08:50:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T09:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003750196615028794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999034817514807296",
+              "start": 3,
+              "username": "Kirara_Kazari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCT0IhN5U5",
+              "end": 42,
+              "expanded_url": "https://x.com/Kirara_Kazari/status/2003370079535448330/photo/1",
+              "media_key": "3_2003370071146590208",
+              "start": 19,
+              "url": "https://t.co/nCT0IhN5U5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003750196615028794",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003370079535448330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kirara_Kazari: https://t.co/nCT0IhN5U5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003370071146590208"
+          ]
+        },
+        "author_id": "1999034817514807296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003370079535448330",
+        "created_at": "2025-12-23T07:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T08:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003370079535448330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nCT0IhN5U5",
+              "end": 23,
+              "expanded_url": "https://x.com/Kirara_Kazari/status/2003370079535448330/photo/1",
+              "media_key": "3_2003370071146590208",
+              "start": 0,
+              "url": "https://t.co/nCT0IhN5U5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003370079535448330",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 207854,
+          "like_count": 1316,
+          "quote_count": 6,
+          "reply_count": 26,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nCT0IhN5U5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "你不要再看我的主页了 说的就是你 不要打扰我",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 412
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T08:33:47.000Z",
+        "description": "一起，起飞吧。第二次。 osu 5 digit player\nopen to everything. 一代目:@Kirara_Miku",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Kirara_Miku"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/13928307",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/13928307",
+                "start": 0,
+                "url": "https://t.co/TzQPM7aR5o"
+              }
+            ]
+          }
+        },
+        "id": "1999034817514807296",
+        "location": "風莉の星",
+        "name": "雲母風莉",
+        "pinned_tweet_id": "1999050355527839797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999034960959963137/ClOIp2wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 211,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/TzQPM7aR5o",
+        "username": "Kirara_Kazari",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1940995916284010496"
+      ],
+      "media_source_tweet_id": [
+        "1940996018944069692"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1277995430236680192",
+          "name": "Outdoors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265664739276763136",
+          "name": "Beach life"
+        }
+      }
+    ],
+    "conversation_id": "1941719087794827731",
+    "created_at": "2025-07-06T04:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-06T05:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941719087794827731"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "ShiorinSketch",
+          "probability": 0.485,
+          "start": 35,
+          "type": "Other"
+        },
+        {
+          "end": 71,
+          "normalized_text": "RavenCrafts",
+          "probability": 0.4789,
+          "start": 61,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 34,
+          "tag": "ShiorinSketch"
+        },
+        {
+          "end": 59,
+          "start": 49,
+          "tag": "bijouwled"
+        },
+        {
+          "end": 72,
+          "start": 60,
+          "tag": "RavenCrafts"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711151193274171392",
+          "start": 3,
+          "username": "shuraillusts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bxHbBT7NNK",
+          "end": 96,
+          "expanded_url": "https://x.com/shuraillusts/status/1940996018944069692/photo/1",
+          "media_key": "3_1940995916284010496",
+          "start": 73,
+          "url": "https://t.co/bxHbBT7NNK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941719087794827731",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2523
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940996018944069692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shuraillusts: Beach selfie✌️\n\n#ShiorinSketch #bijouwled #RavenCrafts https://t.co/bxHbBT7NNK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1940995916284010496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gu_NgISXoAAw01H.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940995916284010496"
+          ],
+          "media_source_tweet_id": [
+            "1940996018944069692"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "1941719087794827731",
+        "created_at": "2025-07-06T04:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-06T05:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941719087794827731"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "ShiorinSketch",
+              "probability": 0.485,
+              "start": 35,
+              "type": "Other"
+            },
+            {
+              "end": 71,
+              "normalized_text": "RavenCrafts",
+              "probability": 0.4789,
+              "start": 61,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 34,
+              "tag": "ShiorinSketch"
+            },
+            {
+              "end": 59,
+              "start": 49,
+              "tag": "bijouwled"
+            },
+            {
+              "end": 72,
+              "start": 60,
+              "tag": "RavenCrafts"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711151193274171392",
+              "start": 3,
+              "username": "shuraillusts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxHbBT7NNK",
+              "end": 96,
+              "expanded_url": "https://x.com/shuraillusts/status/1940996018944069692/photo/1",
+              "media_key": "3_1940995916284010496",
+              "start": 73,
+              "url": "https://t.co/bxHbBT7NNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941719087794827731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2523
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940996018944069692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shuraillusts: Beach selfie✌️\n\n#ShiorinSketch #bijouwled #RavenCrafts https://t.co/bxHbBT7NNK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1940995916284010496"
+          ]
+        },
+        "author_id": "1711151193274171392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265664739276763136",
+              "name": "Beach life"
+            }
+          }
+        ],
+        "conversation_id": "1940996018944069692",
+        "created_at": "2025-07-04T04:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T05:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1940996018944069692"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "ShiorinSketch",
+              "probability": 0.4459,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 53,
+              "normalized_text": "RavenCrafts",
+              "probability": 0.4373,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 16,
+              "tag": "ShiorinSketch"
+            },
+            {
+              "end": 41,
+              "start": 31,
+              "tag": "bijouwled"
+            },
+            {
+              "end": 54,
+              "start": 42,
+              "tag": "RavenCrafts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bxHbBT7NNK",
+              "end": 78,
+              "expanded_url": "https://x.com/shuraillusts/status/1940996018944069692/photo/1",
+              "media_key": "3_1940995916284010496",
+              "start": 55,
+              "url": "https://t.co/bxHbBT7NNK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940996018944069692",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4147,
+          "impression_count": 280821,
+          "like_count": 27050,
+          "quote_count": 8,
+          "reply_count": 58,
+          "retweet_count": 2523
+        },
+        "reply_settings": "everyone",
+        "text": "Beach selfie✌️\n\n#ShiorinSketch #bijouwled #RavenCrafts https://t.co/bxHbBT7NNK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 30,
+          "like_count": 397,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 106
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-08T22:47:02.000Z",
+        "description": "SD + CSP ✏️ \nCute & Cool Illustrations ✨\nFollow for more Hoyo/Vtubers",
+        "id": "1711151193274171392",
+        "name": "シュラ",
+        "pinned_tweet_id": "1940996018944069692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939891729508794368/4eVdgej6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 32,
+          "like_count": 134,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 15
+        },
+        "username": "shuraillusts",
+        "verified": true
+      }
+    ]
+  }
+}

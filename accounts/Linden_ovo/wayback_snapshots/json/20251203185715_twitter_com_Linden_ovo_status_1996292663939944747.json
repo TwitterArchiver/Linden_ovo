@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996028695778131968"
+      ],
+      "media_source_tweet_id": [
+        "1996028697946857735"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1996292663939944747",
+    "created_at": "2025-12-03T18:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T19:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996292663939944747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1755412002669789184",
+          "start": 3,
+          "username": "VTuberMemes"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rcGxBxEHj0",
+          "end": 40,
+          "expanded_url": "https://x.com/VTuberMemes/status/1996028697946857735/photo/1",
+          "media_key": "3_1996028695778131968",
+          "start": 17,
+          "url": "https://t.co/rcGxBxEHj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996292663939944747",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 949
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996028697946857735",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VTuberMemes: https://t.co/rcGxBxEHj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 835,
+        "media_key": "3_1996028695778131968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7NRhf1XgAA0UsM.jpg",
+        "width": 990
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996028695778131968"
+          ],
+          "media_source_tweet_id": [
+            "1996028697946857735"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1996292663939944747",
+        "created_at": "2025-12-03T18:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T19:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996292663939944747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1755412002669789184",
+              "start": 3,
+              "username": "VTuberMemes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcGxBxEHj0",
+              "end": 40,
+              "expanded_url": "https://x.com/VTuberMemes/status/1996028697946857735/photo/1",
+              "media_key": "3_1996028695778131968",
+              "start": 17,
+              "url": "https://t.co/rcGxBxEHj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996292663939944747",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 949
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996028697946857735",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VTuberMemes: https://t.co/rcGxBxEHj0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996028695778131968"
+          ]
+        },
+        "author_id": "1755412002669789184",
+        "conversation_id": "1996028697946857735",
+        "created_at": "2025-12-03T01:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T02:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996028697946857735"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rcGxBxEHj0",
+              "end": 23,
+              "expanded_url": "https://x.com/VTuberMemes/status/1996028697946857735/photo/1",
+              "media_key": "3_1996028695778131968",
+              "start": 0,
+              "url": "https://t.co/rcGxBxEHj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996028697946857735",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 472,
+          "impression_count": 87475,
+          "like_count": 10181,
+          "quote_count": 9,
+          "reply_count": 22,
+          "retweet_count": 949
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/rcGxBxEHj0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 62,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 323
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-08T02:03:42.000Z",
+        "description": "Memes? We got 'em! Clips? We got 'em!  #VTuberMemes \nParody Account. VTubers in Fortnite PLEASE!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 39,
+                "tag": "VTuberMemes"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/vtubermemes",
+                "end": 23,
+                "expanded_url": "https://discord.gg/vtubermemes",
+                "start": 0,
+                "url": "https://t.co/2Ls5yRBZuf"
+              }
+            ]
+          }
+        },
+        "id": "1755412002669789184",
+        "location": "VTubers",
+        "name": "VTuber Memes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990921628985745410/L9lo53Vs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54025,
+          "following_count": 1060,
+          "like_count": 226977,
+          "listed_count": 61,
+          "media_count": 7611,
+          "tweet_count": 36281
+        },
+        "url": "https://t.co/2Ls5yRBZuf",
+        "username": "VTuberMemes",
+        "verified": true
+      }
+    ]
+  }
+}

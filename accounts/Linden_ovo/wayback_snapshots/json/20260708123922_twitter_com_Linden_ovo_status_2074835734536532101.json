@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2074835734536532101",
+    "created_at": "2026-07-08T12:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T13:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074835734536532101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1685974668770217984",
+          "start": 3,
+          "username": "superginseng19"
+        },
+        {
+          "end": 32,
+          "id": "1700770926894481408",
+          "start": 20,
+          "username": "ainz_orb429"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074835734536532101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074784383060349425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @superginseng19: @ainz_orb429 对对其实我没来之前我幻想的留学生活是 每天在全世界旅游夜店酒吧游艇party 晚上穿着高定出入各种米其林 拍张照片定位在丽思卡尔顿 到底是谁偷走了我的人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2074835734536532101",
+        "created_at": "2026-07-08T12:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T13:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074835734536532101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1685974668770217984",
+              "start": 3,
+              "username": "superginseng19"
+            },
+            {
+              "end": 32,
+              "id": "1700770926894481408",
+              "start": 20,
+              "username": "ainz_orb429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074835734536532101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074784383060349425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @superginseng19: @ainz_orb429 对对其实我没来之前我幻想的留学生活是 每天在全世界旅游夜店酒吧游艇party 晚上穿着高定出入各种米其林 拍张照片定位在丽思卡尔顿 到底是谁偷走了我的人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685974668770217984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2074430420490518976",
+        "created_at": "2026-07-08T09:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074784383060349425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1700770926894481408",
+              "start": 0,
+              "username": "ainz_orb429"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074784383060349425",
+        "in_reply_to_user_id": "1700770926894481408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074430420490518976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ainz_orb429 对对其实我没来之前我幻想的留学生活是 每天在全世界旅游夜店酒吧游艇party 晚上穿着高定出入各种米其林 拍张照片定位在丽思卡尔顿 到底是谁偷走了我的人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 133,
+          "like_count": 2286,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1478
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-31T11:24:31.000Z",
+        "description": "我已游离三界开外 辱人类辱动物辱微生物辱微微生物 无法选中",
+        "id": "1685974668770217984",
+        "name": "你摔屁股墩应该屁股疼不是肚子疼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685982539058651136/T_HK4m89_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 92,
+          "like_count": 254,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "superginseng19",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T07:19:30.000Z",
+        "description": "屌丝难当 霸总难装",
+        "id": "1700770926894481408",
+        "location": "Melbourne, Victoria",
+        "name": "安兹摇摇乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943082122459086848/1m8TRBZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 5,
+          "like_count": 24,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "ainz_orb429",
+        "verified": true
+      }
+    ]
+  }
+}

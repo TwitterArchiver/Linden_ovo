@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1232780326058876928",
+          "name": "Ramen"
+        }
+      }
+    ],
+    "conversation_id": "2073811226056925596",
+    "created_at": "2026-07-05T16:48:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:48:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073811226056925596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2016844595829882880",
+          "start": 3,
+          "username": "tokumei_6_6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073811226056925596",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 287
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073722870648520968",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tokumei_6_6: この大麻、美味過ぎる。\nラーメンとか入ってるんじゃないか？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2073811226056925596",
+        "created_at": "2026-07-05T16:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073811226056925596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2016844595829882880",
+              "start": 3,
+              "username": "tokumei_6_6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073811226056925596",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073722870648520968",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tokumei_6_6: この大麻、美味過ぎる。\nラーメンとか入ってるんじゃないか？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016844595829882880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1232780326058876928",
+              "name": "Ramen"
+            }
+          }
+        ],
+        "conversation_id": "2073722870648520968",
+        "created_at": "2026-07-05T10:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073722870648520968"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073722870648520968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 478890,
+          "like_count": 7771,
+          "quote_count": 11,
+          "reply_count": 27,
+          "retweet_count": 287
+        },
+        "reply_settings": "everyone",
+        "text": "この大麻、美味過ぎる。\nラーメンとか入ってるんじゃないか？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 130,
+          "like_count": 2177,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 1392
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-29T12:03:30.000Z",
+        "description": "中の人→@tokumei__222\n誰でも通す鍵垢→@manpokochin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "tokumei__222"
+              },
+              {
+                "end": 38,
+                "start": 26,
+                "username": "manpokochin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/search?q=from%…",
+                "end": 23,
+                "expanded_url": "https://x.com/search?q=from%3Atokumei_6_6%20min_faves%3A1000&src=typed_query",
+                "start": 0,
+                "url": "https://t.co/zw7DquxaNO"
+              }
+            ]
+          }
+        },
+        "id": "2016844595829882880",
+        "location": "お笑いとネタツイが好き",
+        "name": "爆弾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016845171632328709/uwpmuGv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8041,
+          "following_count": 202,
+          "like_count": 32174,
+          "listed_count": 28,
+          "media_count": 77,
+          "tweet_count": 2344
+        },
+        "url": "https://t.co/zw7DquxaNO",
+        "username": "tokumei_6_6",
+        "verified": false
+      }
+    ]
+  }
+}

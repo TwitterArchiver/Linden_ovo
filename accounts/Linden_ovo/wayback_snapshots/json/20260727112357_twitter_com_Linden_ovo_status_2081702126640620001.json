@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080801821476392960"
+      ],
+      "media_source_tweet_id": [
+        "2080997997282762805"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081702126640620001",
+    "created_at": "2026-07-27T11:23:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T12:23:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081702126640620001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1336423773495504900",
+          "start": 3,
+          "username": "gordofobo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fwqvrG5fVH",
+          "end": 84,
+          "expanded_url": "https://x.com/gordofobo/status/2080997997282762805/photo/1",
+          "media_key": "3_2080801821476392960",
+          "start": 61,
+          "url": "https://t.co/fwqvrG5fVH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081702126640620001",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3449
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080997997282762805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gordofobo: mi propuesta para los nuevos billetes de euro https://t.co/fwqvrG5fVH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 545,
+        "media_key": "3_2080801821476392960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOB-O2kWEAAEYce.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080801821476392960"
+          ]
+        },
+        "author_id": "1336423773495504900",
+        "conversation_id": "2080997997282762805",
+        "created_at": "2026-07-25T12:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080997997282762805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwqvrG5fVH",
+              "end": 69,
+              "expanded_url": "https://x.com/gordofobo/status/2080997997282762805/photo/1",
+              "media_key": "3_2080801821476392960",
+              "start": 46,
+              "url": "https://t.co/fwqvrG5fVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080997997282762805",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1373,
+          "impression_count": 549576,
+          "like_count": 47702,
+          "quote_count": 80,
+          "reply_count": 104,
+          "retweet_count": 3449
+        },
+        "reply_settings": "everyone",
+        "text": "mi propuesta para los nuevos billetes de euro https://t.co/fwqvrG5fVH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080801821476392960"
+          ],
+          "media_source_tweet_id": [
+            "2080997997282762805"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081702126640620001",
+        "created_at": "2026-07-27T11:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T12:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081702126640620001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1336423773495504900",
+              "start": 3,
+              "username": "gordofobo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fwqvrG5fVH",
+              "end": 84,
+              "expanded_url": "https://x.com/gordofobo/status/2080997997282762805/photo/1",
+              "media_key": "3_2080801821476392960",
+              "start": 61,
+              "url": "https://t.co/fwqvrG5fVH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081702126640620001",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3449
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080997997282762805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gordofobo: mi propuesta para los nuevos billetes de euro https://t.co/fwqvrG5fVH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 552,
+          "following_count": 148,
+          "like_count": 2821,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1847
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-08T21:33:59.000Z",
+        "description": "cada uno es lo que es y anda siempre con lo puesto",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/gabrielpoderes",
+                "end": 23,
+                "expanded_url": "http://instagram.com/gabrielpoderes",
+                "start": 0,
+                "url": "https://t.co/cs43wHhu8P"
+              }
+            ]
+          }
+        },
+        "id": "1336423773495504900",
+        "location": "Madrid, Comunidad de Madrid",
+        "name": "Gabriel ⭐⭐",
+        "pinned_tweet_id": "2076313530597278122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081446950184878080/9nWbPPaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 520,
+          "like_count": 60364,
+          "listed_count": 5,
+          "media_count": 12963,
+          "tweet_count": 79803
+        },
+        "url": "https://t.co/cs43wHhu8P",
+        "username": "gordofobo",
+        "verified": false
+      }
+    ]
+  }
+}

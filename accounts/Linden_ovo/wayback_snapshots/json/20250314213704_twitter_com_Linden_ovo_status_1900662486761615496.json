@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1900614167570379099",
+    "created_at": "2025-03-14T21:37:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T22:37:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900662486761615496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1377916475692871687",
+          "start": 0,
+          "username": "saerockjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900662486761615496",
+    "in_reply_to_user_id": "1377916475692871687",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900614167570379099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saerockjp 我会一直记得你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1900614167570379099",
+        "created_at": "2025-03-14T21:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T22:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900662486761615496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1377916475692871687",
+              "start": 0,
+              "username": "saerockjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900662486761615496",
+        "in_reply_to_user_id": "1377916475692871687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900614167570379099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saerockjp 我会一直记得你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1377916475692871687",
+        "conversation_id": "1900614167570379099",
+        "created_at": "2025-03-14T18:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T19:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900614167570379099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1900614167570379099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "通过与某个人的交流，我最终下定决心结束自己的生命。\n\n我们并不是敌人。我们曾交换过想法和意见，我也坦率地向他分享了自己的观点。你们中的一些人可能知道，我一直在写关于M的安全和福祉，并明确表达了我的立场。我也向他说明，我的文章并非针对任何特定的人。我解释了自己写作的原因，我们之间并没有敌意。然而，由于我的文字在许多方面似乎与他有所契合，我尽力调整措辞，以避免引起误解。每当他询问文章是否在写他时，我都会直接向他解释写作背后的背景。\n\n事实上，我们对世界的看法和思维方式截然不同，但这并不意味着我们必须将彼此视为对立面。\n\n尽管如此，或许难以理解，但有一篇他写的帖子让我悲痛至极。它令我深感失望，尤其是在我们刚刚开诚布公地交谈过之后。\n\n但这就是我选择死亡的原因吗？\n不，这不是唯一的原因。然而，我无法在这里将一切都表达清楚，或许有些事情只有我自己才能真正理解。人与人之间的关系，以及其中的交互，都是极为复杂的。\n\n我已经没有力量再承受这份痛苦。我曾以为建立起来的信任被彻底摧毁，我的内心已经疲惫不堪。即便是我好不容易平息的焦虑，我也再无力去抗衡。\n\n今晚，我将结束自己的生命。\n\n对于支持我当前项目的人，\n相关安排已经做好，在我离开后，所有款项都会被退还，请不必担心。\n\n感谢所有曾出现在我生命中的人。\n感谢那些信任我、向我倾诉、与我分享痛苦的人。\n我真的尽力用真心去回应你们。希望你们能得到幸福。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4340,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "通过与某个人的交流，我最终下定决心结束自己的生命。…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896231829465694208/p4kIRcGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 79,
+          "like_count": 330,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 127
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-02T09:31:39.000Z",
+        "description": "https://t.co/aPLLm2eBN0(full vids/動画販売)💕https://t.co/16w0P4mgVu💕https://t.co/eJir13hNd6💕https://t.co/fHYa8zKuJw(支付宝👍)💕https://t.co/4zJREsSpge(支付宝👍)💕custom vids available💕",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://saerock.com",
+                "start": 0,
+                "url": "https://t.co/aPLLm2eBN0"
+              },
+              {
+                "display_url": "onlyfans.com/saerockjp",
+                "end": 63,
+                "expanded_url": "http://onlyfans.com/saerockjp",
+                "start": 40,
+                "url": "https://t.co/16w0P4mgVu"
+              },
+              {
+                "display_url": "candfans.jp/saerockjp",
+                "end": 87,
+                "expanded_url": "http://candfans.jp/saerockjp",
+                "start": 64,
+                "url": "https://t.co/eJir13hNd6"
+              },
+              {
+                "display_url": "umate.me/saerockjp/",
+                "end": 111,
+                "expanded_url": "http://umate.me/saerockjp/",
+                "start": 88,
+                "url": "https://t.co/fHYa8zKuJw"
+              },
+              {
+                "display_url": "fansone.co/saerockjp",
+                "end": 141,
+                "expanded_url": "http://fansone.co/saerockjp",
+                "start": 118,
+                "url": "https://t.co/4zJREsSpge"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saerock.com",
+                "end": 23,
+                "expanded_url": "http://www.saerock.com",
+                "start": 0,
+                "url": "https://t.co/PQWHm0cBEJ"
+              }
+            ]
+          }
+        },
+        "id": "1377916475692871687",
+        "name": "SaeRock",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713920715437785088/sYJfIOS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62261,
+          "following_count": 178,
+          "like_count": 18192,
+          "listed_count": 193,
+          "media_count": 853,
+          "tweet_count": 7415
+        },
+        "url": "https://t.co/PQWHm0cBEJ",
+        "username": "saerockjp",
+        "verified": true
+      }
+    ]
+  }
+}

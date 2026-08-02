@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2001335579511001148",
+    "created_at": "2025-12-17T16:55:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T17:55:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001335579511001148"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1994235613273575430",
+          "start": 3,
+          "username": "ALA666AL"
+        },
+        {
+          "end": 29,
+          "id": "44186175",
+          "start": 14,
+          "username": "xiaojingcanxue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001335579511001148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001231061574148561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ALA666AL: @xiaojingcanxue 这两三年内蒙蛆特别多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2001335579511001148",
+        "created_at": "2025-12-17T16:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T17:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001335579511001148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1994235613273575430",
+              "start": 3,
+              "username": "ALA666AL"
+            },
+            {
+              "end": 29,
+              "id": "44186175",
+              "start": 14,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001335579511001148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001231061574148561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ALA666AL: @xiaojingcanxue 这两三年内蒙蛆特别多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994235613273575430",
+        "conversation_id": "2001037466535686465",
+        "created_at": "2025-12-17T10:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T11:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001231061574148561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001231061574148561",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001037466535686465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 这两三年内蒙蛆特别多"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 67,
+          "like_count": 917,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 399
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T02:43:48.000Z",
+        "description": "",
+        "id": "1994235613273575430",
+        "name": "ALA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994235752855846912/8GSZyy9E_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 11,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 207
+        },
+        "username": "ALA666AL",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号。所发内容均可去掉id随意转载。若有错漏、传谣之处，还望大伙指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表本推认同其观念。阅读中美新闻时，建议怀抱乐子人心态，太较真则可能严重抑郁。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教。",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235131,
+          "following_count": 1841,
+          "like_count": 192,
+          "listed_count": 1232,
+          "media_count": 27262,
+          "tweet_count": 34833
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2045220465791127607",
+    "created_at": "2026-04-17T19:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T20:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045220465791127607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2010357366466990080",
+          "start": 3,
+          "username": "Kyanu_tut"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045220465791127607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044984983928881623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyanu_tut: 同龄人：感冒，发烧，皮肤痒，过敏\n我：梅毒，hpv ，hiv，癌症，猴痘，埃博拉，马尔堡，天花，黑死病\n就很[捂脸]。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2045220465791127607",
+        "created_at": "2026-04-17T19:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T20:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045220465791127607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2010357366466990080",
+              "start": 3,
+              "username": "Kyanu_tut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045220465791127607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044984983928881623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyanu_tut: 同龄人：感冒，发烧，皮肤痒，过敏\n我：梅毒，hpv ，hiv，癌症，猴痘，埃博拉，马尔堡，天花，黑死病\n就很[捂脸]。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2010357366466990080",
+        "conversation_id": "2044984983928881623",
+        "created_at": "2026-04-17T03:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T04:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044984983928881623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044984983928881623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 52440,
+          "like_count": 340,
+          "quote_count": 4,
+          "reply_count": 121,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "同龄人：感冒，发烧，皮肤痒，过敏\n我：梅毒，hpv ，hiv，癌症，猴痘，埃博拉，马尔堡，天花，黑死病\n就很[捂脸]。。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 94,
+          "like_count": 1552,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 887
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-11T14:25:51.000Z",
+        "description": "投稿私信奇异搞笑故事\n骂我先骂@shennaichuan22",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "shennaichuan22"
+              }
+            ]
+          }
+        },
+        "id": "2010357366466990080",
+        "name": "明日有香.",
+        "pinned_tweet_id": "2043766824786133368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033430656332730368/-ga_5xd0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 359,
+          "like_count": 576,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1536
+        },
+        "username": "Kyanu_tut",
+        "verified": false
+      }
+    ]
+  }
+}

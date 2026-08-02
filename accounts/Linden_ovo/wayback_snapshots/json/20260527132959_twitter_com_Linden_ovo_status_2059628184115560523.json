@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2058794360314241425",
+    "created_at": "2026-05-27T13:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059628184115560523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "853024229960187905",
+          "start": 0,
+          "username": "Nineyinnnnnnnn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059628184115560523",
+    "in_reply_to_user_id": "853024229960187905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059364649855017232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nineyinnnnnnnn 确实，我的关注点有点偏了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2058794360314241425",
+        "created_at": "2026-05-27T13:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059628184115560523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "853024229960187905",
+              "start": 0,
+              "username": "Nineyinnnnnnnn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059628184115560523",
+        "in_reply_to_user_id": "853024229960187905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059364649855017232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nineyinnnnnnnn 确实，我的关注点有点偏了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "853024229960187905",
+        "conversation_id": "2058794360314241425",
+        "created_at": "2026-05-26T20:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059364649855017232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059364649855017232",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059202665175720373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 穷困是多维度的，或许击垮一个人也是很轻易的事情：家庭暴力，精神疾病，无法完成学业……而且向这样的人收买性服务也很简单，甚至于完成交易以后想要掩盖真相也很容易。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 106,
+          "like_count": 1748,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1084
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-14T23:16:39.000Z",
+        "description": "Poemcore🌙 Arknights⛵OriginalCharcter🗃️\n【文手一體機📚】無律閣主 先鋒蛋黃派🥮\n浪漫主義 朦朧詩 烏托邦與反烏托邦 無賴派\n榮格：影、面具、阿尼姆斯\n💒@NineAndDouble",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 95,
+                "username": "NineAndDouble"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluerabbitandrea.wordpress.com",
+                "end": 23,
+                "expanded_url": "http://bluerabbitandrea.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/2jGYazjKL0"
+              }
+            ]
+          }
+        },
+        "id": "853024229960187905",
+        "location": "商务合作请联系：lxqm222@gmail.com",
+        "name": "九隱🌱牧者鴿於途",
+        "pinned_tweet_id": "1975804335234949163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021300803097722880/mj_4J2Cw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 830,
+          "like_count": 37201,
+          "listed_count": 6,
+          "media_count": 375,
+          "tweet_count": 7839
+        },
+        "url": "https://t.co/2jGYazjKL0",
+        "username": "Nineyinnnnnnnn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2000398261295972352"
+      ],
+      "media_source_tweet_id": [
+        "2000398296427405579"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2000796487048126489",
+    "created_at": "2025-12-16T05:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T06:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000796487048126489"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 48,
+          "start": 40,
+          "tag": "Artnose"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1942178092384174080",
+          "start": 3,
+          "username": "X0aE2X5rfh96448"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5XtcFXBFkO",
+          "end": 72,
+          "expanded_url": "https://x.com/X0aE2X5rfh96448/status/2000398296427405579/photo/1",
+          "media_key": "3_2000398261295972352",
+          "start": 49,
+          "url": "https://t.co/5XtcFXBFkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000796487048126489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2591
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000398296427405579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @X0aE2X5rfh96448: 今朝駅着いたらこれで泣きそうだった\n #Artnose https://t.co/5XtcFXBFkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2528,
+        "media_key": "3_2000398261295972352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8LXnr3bAAApE9I.jpg",
+        "width": 1696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000398261295972352"
+          ],
+          "media_source_tweet_id": [
+            "2000398296427405579"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2000796487048126489",
+        "created_at": "2025-12-16T05:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T06:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000796487048126489"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 40,
+              "tag": "Artnose"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1942178092384174080",
+              "start": 3,
+              "username": "X0aE2X5rfh96448"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XtcFXBFkO",
+              "end": 72,
+              "expanded_url": "https://x.com/X0aE2X5rfh96448/status/2000398296427405579/photo/1",
+              "media_key": "3_2000398261295972352",
+              "start": 49,
+              "url": "https://t.co/5XtcFXBFkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000796487048126489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000398296427405579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @X0aE2X5rfh96448: 今朝駅着いたらこれで泣きそうだった\n #Artnose https://t.co/5XtcFXBFkO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000398261295972352"
+          ]
+        },
+        "author_id": "1942178092384174080",
+        "conversation_id": "2000398296427405579",
+        "created_at": "2025-12-15T02:51:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T03:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000398296427405579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "Artnose"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5XtcFXBFkO",
+              "end": 51,
+              "expanded_url": "https://x.com/X0aE2X5rfh96448/status/2000398296427405579/photo/1",
+              "media_key": "3_2000398261295972352",
+              "start": 28,
+              "url": "https://t.co/5XtcFXBFkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000398296427405579",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1175,
+          "impression_count": 1005973,
+          "like_count": 26340,
+          "quote_count": 183,
+          "reply_count": 153,
+          "retweet_count": 2591
+        },
+        "reply_settings": "everyone",
+        "text": "今朝駅着いたらこれで泣きそうだった\n #Artnose https://t.co/5XtcFXBFkO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看我的主页了 大多也都是发发文案…",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 900,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 387
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T11:05:23.000Z",
+        "description": "sjk🙂 ︎身長:156cm 体重47kg  血液型:B型 誕生日:2月7日 好きなもの:たらこパスタ （クリーミーなやつ）嫌いなもの:国民うさぎ 特記:心で絵を描きます。ラテアート 、架空ホロライブグッズ✨️vtuberを目指して勉強中",
+        "id": "1942178092384174080",
+        "name": "モノミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990375562473508864/uagfzTq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1252,
+          "following_count": 12,
+          "like_count": 1870,
+          "listed_count": 24,
+          "media_count": 168,
+          "tweet_count": 1495
+        },
+        "username": "X0aE2X5rfh96448",
+        "verified": true
+      }
+    ]
+  }
+}

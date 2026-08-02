@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042571140498100227"
+      ],
+      "media_source_tweet_id": [
+        "2042573469607665999"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043295521003946172",
+    "created_at": "2026-04-12T11:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043295521003946172"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 25,
+          "tag": "空門蒼"
+        },
+        {
+          "end": 35,
+          "start": 30,
+          "tag": "サマポケ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1427571313376260100",
+          "start": 3,
+          "username": "suKonbu385"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jAIJ9OcpPC",
+          "end": 59,
+          "expanded_url": "https://x.com/suKonbu385/status/2042573469607665999/photo/1",
+          "media_key": "3_2042571140498100227",
+          "start": 36,
+          "url": "https://t.co/jAIJ9OcpPC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043295521003946172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 476
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042573469607665999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suKonbu385: 「お腹すいた？」 #空門蒼 #サマポケ https://t.co/jAIJ9OcpPC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1296,
+        "media_key": "3_2042571140498100227",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFiroVnakAM4wLo.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042571140498100227"
+          ],
+          "media_source_tweet_id": [
+            "2042573469607665999"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043295521003946172",
+        "created_at": "2026-04-12T11:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043295521003946172"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "空門蒼"
+            },
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "サマポケ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1427571313376260100",
+              "start": 3,
+              "username": "suKonbu385"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAIJ9OcpPC",
+              "end": 59,
+              "expanded_url": "https://x.com/suKonbu385/status/2042573469607665999/photo/1",
+              "media_key": "3_2042571140498100227",
+              "start": 36,
+              "url": "https://t.co/jAIJ9OcpPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043295521003946172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 476
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042573469607665999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suKonbu385: 「お腹すいた？」 #空門蒼 #サマポケ https://t.co/jAIJ9OcpPC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042571140498100227"
+          ]
+        },
+        "author_id": "1427571313376260100",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042573469607665999",
+        "created_at": "2026-04-10T12:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042573469607665999"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "空門蒼"
+            },
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "サマポケ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jAIJ9OcpPC",
+              "end": 43,
+              "expanded_url": "https://x.com/suKonbu385/status/2042573469607665999/photo/1",
+              "media_key": "3_2042571140498100227",
+              "start": 20,
+              "url": "https://t.co/jAIJ9OcpPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042573469607665999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 31335,
+          "like_count": 2235,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 476
+        },
+        "reply_settings": "everyone",
+        "text": "「お腹すいた？」 #空門蒼 #サマポケ https://t.co/jAIJ9OcpPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 85,
+          "like_count": 1499,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 846
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-17T10:02:12.000Z",
+        "description": "絵(2022年7月~。デジタル10月~。\n無断使用､無断転載禁止。\n同人誌寄稿などの依頼はDMまで。",
+        "id": "1427571313376260100",
+        "name": "水玉すこんぶ",
+        "pinned_tweet_id": "2036385198485676308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902698516142784512/-BTt0-aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10499,
+          "following_count": 412,
+          "like_count": 5651,
+          "listed_count": 69,
+          "media_count": 605,
+          "tweet_count": 4736
+        },
+        "username": "suKonbu385",
+        "verified": false
+      }
+    ]
+  }
+}

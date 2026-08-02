@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1987990364918255905",
+    "created_at": "2025-11-10T21:06:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-10T22:06:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987990364918255905"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linden_ovo/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/linden_ovo/status/1987905697594724355",
+          "start": 7,
+          "url": "https://t.co/OEaZgTEEEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987990364918255905",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987905697594724355",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好好包容我吧 https://t.co/OEaZgTEEEv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1987990364918255905",
+        "created_at": "2025-11-10T21:06:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T22:06:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987990364918255905"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linden_ovo/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/linden_ovo/status/1987905697594724355",
+              "start": 7,
+              "url": "https://t.co/OEaZgTEEEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987990364918255905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987905697594724355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好好包容我吧 https://t.co/OEaZgTEEEv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1987905697594724355",
+        "created_at": "2025-11-10T15:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T16:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987905697594724355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987905697594724355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有时候跟人吵架被说幼稚我会火大，因为幼稚这个词怎么想也不是我，但后面觉得怪怪的，因为我并不是不应该幼稚的人，我就是小孩子…在我身上幼稚是错的话，那对方是不是也潜意识里和我关系对待位置放错了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 61,
+          "like_count": 728,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 256
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

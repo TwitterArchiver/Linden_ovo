@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1877855165157666884",
+    "created_at": "2025-01-10T23:08:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-11T00:08:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1877855165157666884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wakeup_arrow/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/wakeup_arrow/status/1877703083008123280",
+          "start": 11,
+          "url": "https://t.co/8WPSmXFBWd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877855165157666884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877703083008123280",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没错这就是我们的智商 https://t.co/8WPSmXFBWd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1877855165157666884",
+        "created_at": "2025-01-10T23:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-11T00:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877855165157666884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wakeup_arrow/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/wakeup_arrow/status/1877703083008123280",
+              "start": 11,
+              "url": "https://t.co/8WPSmXFBWd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877855165157666884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877703083008123280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没错这就是我们的智商 https://t.co/8WPSmXFBWd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877703072983687168"
+          ]
+        },
+        "author_id": "1255397952325128193",
+        "conversation_id": "1877703083008123280",
+        "created_at": "2025-01-10T13:04:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T14:04:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877703083008123280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0O22wa0fQ",
+              "end": 39,
+              "expanded_url": "https://x.com/wakeup_arrow/status/1877703083008123280/photo/1",
+              "media_key": "3_1877703072983687168",
+              "start": 16,
+              "url": "https://t.co/N0O22wa0fQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877703083008123280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 53231,
+          "like_count": 476,
+          "quote_count": 9,
+          "reply_count": 148,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "加州火灾幕后指定黑手——中共🙃 https://t.co/N0O22wa0fQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 70,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 72
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-29T07:26:18.000Z",
+        "description": "",
+        "id": "1255397952325128193",
+        "location": "喵喵编辑部",
+        "name": "猫叔讲故事",
+        "pinned_tweet_id": "1870673415277076646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873420049886920704/yWVj9hqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86639,
+          "following_count": 2483,
+          "like_count": 119231,
+          "listed_count": 289,
+          "media_count": 8763,
+          "tweet_count": 59057
+        },
+        "username": "wakeup_arrow",
+        "verified": false
+      }
+    ]
+  }
+}

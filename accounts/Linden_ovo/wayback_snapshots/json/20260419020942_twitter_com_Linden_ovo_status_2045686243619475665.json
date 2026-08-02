@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045598632255356928"
+      ],
+      "media_source_tweet_id": [
+        "2045653606377136260"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2045686243619475665",
+    "created_at": "2026-04-19T02:09:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T03:09:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045686243619475665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1913949796458717184",
+          "start": 3,
+          "username": "ainezu555"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V6VHUSeKwN",
+          "end": 38,
+          "expanded_url": "https://x.com/ainezu555/status/2045653606377136260/photo/1",
+          "media_key": "3_2045598632255356928",
+          "start": 15,
+          "url": "https://t.co/V6VHUSeKwN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045686243619475665",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045653606377136260",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ainezu555: https://t.co/V6VHUSeKwN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2432,
+        "media_key": "3_2045598632255356928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGNtHjSbAAAi67n.jpg",
+        "width": 1664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045598632255356928"
+          ],
+          "media_source_tweet_id": [
+            "2045653606377136260"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2045686243619475665",
+        "created_at": "2026-04-19T02:09:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T03:09:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045686243619475665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1913949796458717184",
+              "start": 3,
+              "username": "ainezu555"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6VHUSeKwN",
+              "end": 38,
+              "expanded_url": "https://x.com/ainezu555/status/2045653606377136260/photo/1",
+              "media_key": "3_2045598632255356928",
+              "start": 15,
+              "url": "https://t.co/V6VHUSeKwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045686243619475665",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045653606377136260",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ainezu555: https://t.co/V6VHUSeKwN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045598632255356928"
+          ]
+        },
+        "author_id": "1913949796458717184",
+        "conversation_id": "2045653606377136260",
+        "created_at": "2026-04-19T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045653606377136260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6VHUSeKwN",
+              "end": 23,
+              "expanded_url": "https://x.com/ainezu555/status/2045653606377136260/photo/1",
+              "media_key": "3_2045598632255356928",
+              "start": 0,
+              "url": "https://t.co/V6VHUSeKwN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045653606377136260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 4205,
+          "like_count": 843,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/V6VHUSeKwN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 95,
+          "like_count": 1567,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 905
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T13:36:15.000Z",
+        "description": "AIイラスト",
+        "id": "1913949796458717184",
+        "name": "ainezu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919104245577728000/-4JKigHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11846,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 46,
+          "media_count": 343,
+          "tweet_count": 343
+        },
+        "username": "ainezu555",
+        "verified": true
+      }
+    ]
+  }
+}

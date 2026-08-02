@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1857511457166078372",
+    "created_at": "2024-11-15T19:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-15T20:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857511457166078372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1711998715303784448",
+          "start": 3,
+          "username": "amoxicilli53420"
+        },
+        {
+          "end": 32,
+          "id": "1817573438334341120",
+          "start": 21,
+          "username": "teachaerli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857511457166078372",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857050797843919303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amoxicilli53420: @teachaerli 我是个正直且没有色心的马克思主义者，你可以和我一起看列宁在十月"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1857511457166078372",
+        "created_at": "2024-11-15T19:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-15T20:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857511457166078372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1711998715303784448",
+              "start": 3,
+              "username": "amoxicilli53420"
+            },
+            {
+              "end": 32,
+              "id": "1817573438334341120",
+              "start": 21,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857511457166078372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857050797843919303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amoxicilli53420: @teachaerli 我是个正直且没有色心的马克思主义者，你可以和我一起看列宁在十月"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711998715303784448",
+        "conversation_id": "1857049770943992180",
+        "created_at": "2024-11-14T13:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T14:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857050797843919303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817573438334341120",
+              "start": 0,
+              "username": "teachaerli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857050797843919303",
+        "in_reply_to_user_id": "1817573438334341120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 52148,
+          "like_count": 820,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857049770943992180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@teachaerli 我是个正直且没有色心的马克思主义者，你可以和我一起看列宁在十月"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶 詞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842494286107156480/3GKuPxDg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 57,
+          "like_count": 146,
+          "listed_count": 0,
+          "tweet_count": 33
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-11T06:54:53.000Z",
+        "description": "Anarchist🏴Ⓐ 每个人都有自由选择的权利，不该因国别、种族、民族或信仰之分而被抹杀。第二人格兼战斗形态 @aspirin8964 我不认识他，他是个弱智，一切言论概不负责 逃生舱兼第三人格@amoxilillin2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "aspirin8964"
+              },
+              {
+                "end": 111,
+                "start": 98,
+                "username": "amoxilillin2"
+              }
+            ]
+          }
+        },
+        "id": "1711998715303784448",
+        "location": "Verdun, France",
+        "name": "Atorvastatin pills",
+        "pinned_tweet_id": "1855840637297517016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854903855345233920/6eipj0BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 516,
+          "like_count": 23198,
+          "listed_count": 1,
+          "tweet_count": 6449
+        },
+        "username": "amoxicilli53420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T14:51:15.000Z",
+        "description": "墙外天才鉴定师，没病走两步！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnouyi.co/join/41927183",
+                "end": 23,
+                "expanded_url": "https://www.cnouyi.co/join/41927183",
+                "start": 0,
+                "url": "https://t.co/fl7tcjHwoX"
+              }
+            ]
+          }
+        },
+        "id": "1817573438334341120",
+        "location": "OKX欧意交易所官方下载链接⬇️",
+        "name": "我是你的李院长",
+        "pinned_tweet_id": "1856962667845751296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817578026479370240/ENddSCbt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 13,
+          "like_count": 27,
+          "listed_count": 3,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/fl7tcjHwoX",
+        "username": "teachaerli",
+        "verified": false
+      }
+    ]
+  }
+}

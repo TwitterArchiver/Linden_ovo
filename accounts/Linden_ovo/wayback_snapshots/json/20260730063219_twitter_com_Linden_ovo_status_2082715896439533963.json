@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082506380502802433"
+      ],
+      "media_source_tweet_id": [
+        "2082506386391605448"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2082715896439533963",
+    "created_at": "2026-07-30T06:32:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:32:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082715896439533963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817596759335735296",
+          "start": 3,
+          "username": "kago1zq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AVDutFeEC6",
+          "end": 39,
+          "expanded_url": "https://x.com/kago1zq/status/2082506386391605448/photo/1",
+          "media_key": "3_2082506380502802433",
+          "start": 16,
+          "url": "https://t.co/AVDutFeEC6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082715896439533963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1239
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082506386391605448",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kago1zq: 休息 https://t.co/AVDutFeEC6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082506380502802433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOaMhPxaoAE3TOD.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082506380502802433"
+          ]
+        },
+        "author_id": "1817596759335735296",
+        "conversation_id": "2082506386391605448",
+        "created_at": "2026-07-29T16:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082506386391605448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVDutFeEC6",
+              "end": 26,
+              "expanded_url": "https://x.com/kago1zq/status/2082506386391605448/photo/1",
+              "media_key": "3_2082506380502802433",
+              "start": 3,
+              "url": "https://t.co/AVDutFeEC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082506386391605448",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1392,
+          "impression_count": 71870,
+          "like_count": 10807,
+          "quote_count": 30,
+          "reply_count": 5,
+          "retweet_count": 1239
+        },
+        "reply_settings": "everyone",
+        "text": "休息 https://t.co/AVDutFeEC6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082506380502802433"
+          ],
+          "media_source_tweet_id": [
+            "2082506386391605448"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2082715896439533963",
+        "created_at": "2026-07-30T06:32:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:32:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082715896439533963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817596759335735296",
+              "start": 3,
+              "username": "kago1zq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVDutFeEC6",
+              "end": 39,
+              "expanded_url": "https://x.com/kago1zq/status/2082506386391605448/photo/1",
+              "media_key": "3_2082506380502802433",
+              "start": 16,
+              "url": "https://t.co/AVDutFeEC6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715896439533963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1239
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082506386391605448",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kago1zq: 休息 https://t.co/AVDutFeEC6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 148,
+          "like_count": 2848,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1884
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T16:23:42.000Z",
+        "description": "雑多/夢 🐎にドハマり(umtr♀含みます)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kago9",
+                "end": 23,
+                "expanded_url": "https://lit.link/kago9",
+                "start": 0,
+                "url": "https://t.co/ondWdohSI1"
+              }
+            ]
+          }
+        },
+        "id": "1817596759335735296",
+        "location": "無言フォロー失礼します",
+        "name": "kago",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064815271358185472/DxoYS_ru_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2724,
+          "following_count": 154,
+          "like_count": 11937,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 1785
+        },
+        "url": "https://t.co/ondWdohSI1",
+        "username": "kago1zq",
+        "verified": true
+      }
+    ]
+  }
+}

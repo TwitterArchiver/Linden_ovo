@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2081026260105404690",
+    "created_at": "2026-07-25T14:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081026260105404690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1997985969958699008",
+          "start": 3,
+          "username": "ZaneTuT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081026260105404690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080834011912663236",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZaneTuT: 干嘛老说人家情感漠视 他和你没有情感吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2081026260105404690",
+        "created_at": "2026-07-25T14:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081026260105404690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1997985969958699008",
+              "start": 3,
+              "username": "ZaneTuT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081026260105404690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080834011912663236",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZaneTuT: 干嘛老说人家情感漠视 他和你没有情感吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997985969958699008",
+        "conversation_id": "2080834011912663236",
+        "created_at": "2026-07-25T01:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080834011912663236"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080834011912663236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 20441,
+          "like_count": 610,
+          "quote_count": 10,
+          "reply_count": 109,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "干嘛老说人家情感漠视 他和你没有情感吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 556,
+          "following_count": 149,
+          "like_count": 2781,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 1806
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T11:05:58.000Z",
+        "description": "互fo免🚪丨💗算卦找@kill_this_hate 不准你打我丨两个天使女孩@Ri0trix @Zoeeef2l1丨你们都是我的互联网好朋友 我只是搬搬文案而已 自己写的屈指可数。❗️陌生链接不要点❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "kill_this_hate"
+              },
+              {
+                "end": 46,
+                "start": 38,
+                "username": "Ri0trix"
+              },
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Zoeeef2l1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zane66050",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zane66050",
+                "start": 0,
+                "url": "https://t.co/gLkGOZQqmD"
+              }
+            ]
+          }
+        },
+        "id": "1997985969958699008",
+        "location": "🚪",
+        "name": "你说我的爱像溃疡",
+        "pinned_tweet_id": "2079103710270292225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004335137757290497/NlFGw2X2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8194,
+          "following_count": 274,
+          "like_count": 6136,
+          "listed_count": 5,
+          "media_count": 39,
+          "tweet_count": 2656
+        },
+        "url": "https://t.co/gLkGOZQqmD",
+        "username": "ZaneTuT",
+        "verified": true
+      }
+    ]
+  }
+}

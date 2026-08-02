@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1999153585788178784",
+    "created_at": "2025-12-12T22:42:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T23:42:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999610796674863197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1394784939216818179",
+          "start": 0,
+          "username": "Tequila_SUNRlSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999610796674863197",
+    "in_reply_to_user_id": "1394784939216818179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999153585788178784",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tequila_SUNRlSE 我是这样这很正常 交朋友肯定看兴趣爱好和圈子 我是因为打游戏太乱喜欢的二次元ip有点味味的问题，舒适区社交场合男的多点 认识到的男的多点，没什么女生朋友因为现实认识的有时候话题不一样，但网上也有几个同好女生玩的很好的，我觉得帖子重点应该在于只想跟男生玩的女生吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1999153585788178784",
+        "created_at": "2025-12-12T22:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999610796674863197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1394784939216818179",
+              "start": 0,
+              "username": "Tequila_SUNRlSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999610796674863197",
+        "in_reply_to_user_id": "1394784939216818179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999153585788178784",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tequila_SUNRlSE 我是这样这很正常 交朋友肯定看兴趣爱好和圈子 我是因为打游戏太乱喜欢的二次元ip有点味味的问题，舒适区社交场合男的多点 认识到的男的多点，没什么女生朋友因为现实认识的有时候话题不一样，但网上也有几个同好女生玩的很好的，我觉得帖子重点应该在于只想跟男生玩的女生吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1394784939216818179",
+        "conversation_id": "1999153585788178784",
+        "created_at": "2025-12-11T16:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T17:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999153585788178784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999153585788178784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 115940,
+          "like_count": 485,
+          "quote_count": 2,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的有点害怕和男人缘很好且没几个女生朋友的女孩子相处😔😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "不要再看了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 66,
+          "like_count": 885,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 370
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-18T22:40:41.000Z",
+        "description": "互联网光屁教教主/废话推主/同居热恋中/喜欢我请给我打钱  自用蜂鸟vpn：https://t.co/DpgTecV1tM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fnvpn1.net/#/register?cod…",
+                "end": 61,
+                "expanded_url": "https://www.fnvpn1.net/#/register?code=ulYN1VK2",
+                "start": 38,
+                "url": "https://t.co/DpgTecV1tM"
+              }
+            ]
+          }
+        },
+        "id": "1394784939216818179",
+        "location": "6.8km  ",
+        "name": "八十荣",
+        "pinned_tweet_id": "1776820462062100614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1410274938737414151/pFNLQOX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31546,
+          "following_count": 511,
+          "like_count": 3807,
+          "listed_count": 60,
+          "media_count": 1591,
+          "tweet_count": 14181
+        },
+        "username": "Tequila_SUNRlSE",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043643863978385408"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2043643871469416655",
+    "created_at": "2026-04-13T10:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043643871469416655"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "学マス"
+        },
+        {
+          "end": 11,
+          "start": 5,
+          "tag": "藤田ことね"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LrseH1EMtG",
+          "end": 35,
+          "expanded_url": "https://x.com/Linden_ovo/status/2043643871469416655/photo/1",
+          "media_key": "3_2043643863978385408",
+          "start": 12,
+          "url": "https://t.co/LrseH1EMtG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043643871469416655",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#学マス #藤田ことね https://t.co/LrseH1EMtG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2043643863978385408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx7RD_WoAA0Ds6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043643863978385408"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2043643871469416655",
+        "created_at": "2026-04-13T10:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043643871469416655"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "学マス"
+            },
+            {
+              "end": 11,
+              "start": 5,
+              "tag": "藤田ことね"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrseH1EMtG",
+              "end": 35,
+              "expanded_url": "https://x.com/Linden_ovo/status/2043643871469416655/photo/1",
+              "media_key": "3_2043643863978385408",
+              "start": 12,
+              "url": "https://t.co/LrseH1EMtG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043643871469416655",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#学マス #藤田ことね https://t.co/LrseH1EMtG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 85,
+          "like_count": 1514,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 854
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

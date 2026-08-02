@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078588121529102336"
+      ],
+      "media_source_tweet_id": [
+        "2078588124339278247"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2079834691570426252",
+    "created_at": "2026-07-22T07:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079834691570426252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1133355060732354560",
+          "start": 3,
+          "username": "animeposts"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IAgOGAiAYi",
+          "end": 39,
+          "expanded_url": "https://x.com/animeposts/status/2078588124339278247/photo/1",
+          "media_key": "3_2078588121529102336",
+          "start": 16,
+          "url": "https://t.co/IAgOGAiAYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079834691570426252",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 677
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078588124339278247",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @animeposts: https://t.co/IAgOGAiAYi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2078588121529102336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNig4joWsAAllis.jpg",
+        "width": 1055
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078588121529102336"
+          ]
+        },
+        "author_id": "1133355060732354560",
+        "conversation_id": "2078588124339278247",
+        "created_at": "2026-07-18T21:10:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T22:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078588124339278247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAgOGAiAYi",
+              "end": 23,
+              "expanded_url": "https://x.com/animeposts/status/2078588124339278247/photo/1",
+              "media_key": "3_2078588121529102336",
+              "start": 0,
+              "url": "https://t.co/IAgOGAiAYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078588124339278247",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 190074,
+          "like_count": 8262,
+          "quote_count": 40,
+          "reply_count": 8,
+          "retweet_count": 677
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IAgOGAiAYi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078588121529102336"
+          ],
+          "media_source_tweet_id": [
+            "2078588124339278247"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2079834691570426252",
+        "created_at": "2026-07-22T07:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079834691570426252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1133355060732354560",
+              "start": 3,
+              "username": "animeposts"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAgOGAiAYi",
+              "end": 39,
+              "expanded_url": "https://x.com/animeposts/status/2078588124339278247/photo/1",
+              "media_key": "3_2078588121529102336",
+              "start": 16,
+              "url": "https://t.co/IAgOGAiAYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079834691570426252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 677
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078588124339278247",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @animeposts: https://t.co/IAgOGAiAYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 145,
+          "like_count": 2691,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-28T12:51:17.000Z",
+        "description": "Posting Daily Anime Content",
+        "id": "1133355060732354560",
+        "name": "Anime Posts",
+        "pinned_tweet_id": "2079010909633098150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982996644514648064/8vIjFeVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815623,
+          "following_count": 48,
+          "like_count": 5754,
+          "listed_count": 719,
+          "media_count": 14314,
+          "tweet_count": 14841
+        },
+        "url": "",
+        "username": "animeposts",
+        "verified": true
+      }
+    ]
+  }
+}

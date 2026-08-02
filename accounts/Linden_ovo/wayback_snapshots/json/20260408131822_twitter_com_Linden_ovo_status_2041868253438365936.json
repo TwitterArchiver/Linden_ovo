@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041720936123265024"
+      ],
+      "media_source_tweet_id": [
+        "2041720951243731268"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2041868253438365936",
+    "created_at": "2026-04-08T13:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T14:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041868253438365936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1492813920742313989",
+          "start": 3,
+          "username": "say_nri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PjumlqCV83",
+          "end": 36,
+          "expanded_url": "https://x.com/say_nri/status/2041720951243731268/photo/1",
+          "media_key": "3_2041720936123265024",
+          "start": 13,
+          "url": "https://t.co/PjumlqCV83"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041868253438365936",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2842
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041720951243731268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @say_nri: https://t.co/PjumlqCV83"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2088,
+        "media_key": "3_2041720936123265024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWmX7ga8AAyFJ6.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041720936123265024"
+          ],
+          "media_source_tweet_id": [
+            "2041720951243731268"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2041868253438365936",
+        "created_at": "2026-04-08T13:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041868253438365936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1492813920742313989",
+              "start": 3,
+              "username": "say_nri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjumlqCV83",
+              "end": 36,
+              "expanded_url": "https://x.com/say_nri/status/2041720951243731268/photo/1",
+              "media_key": "3_2041720936123265024",
+              "start": 13,
+              "url": "https://t.co/PjumlqCV83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041868253438365936",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2842
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041720951243731268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @say_nri: https://t.co/PjumlqCV83"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041720936123265024"
+          ]
+        },
+        "author_id": "1492813920742313989",
+        "conversation_id": "2041720951243731268",
+        "created_at": "2026-04-08T03:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T04:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041720951243731268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PjumlqCV83",
+              "end": 23,
+              "expanded_url": "https://x.com/say_nri/status/2041720951243731268/photo/1",
+              "media_key": "3_2041720936123265024",
+              "start": 0,
+              "url": "https://t.co/PjumlqCV83"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041720951243731268",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4583,
+          "impression_count": 391936,
+          "like_count": 43305,
+          "quote_count": 97,
+          "reply_count": 432,
+          "retweet_count": 2842
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/PjumlqCV83"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 85,
+          "like_count": 1461,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 823
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-13T10:52:39.000Z",
+        "description": "callme ped/duck (20)",
+        "id": "1492813920742313989",
+        "name": "Pedkung",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039483978928037888/ZUdhee1H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46810,
+          "following_count": 84,
+          "like_count": 8627,
+          "listed_count": 66,
+          "media_count": 870,
+          "tweet_count": 1468
+        },
+        "username": "say_nri",
+        "verified": false
+      }
+    ]
+  }
+}

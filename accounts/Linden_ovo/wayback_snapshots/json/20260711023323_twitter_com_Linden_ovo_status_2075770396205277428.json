@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075770335840870400"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2075770396205277428",
+    "created_at": "2026-07-11T02:33:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T03:33:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075770396205277428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bsUzGXmn0M",
+          "end": 30,
+          "expanded_url": "https://x.com/Linden_ovo/status/2075770396205277428/video/1",
+          "media_key": "13_2075770335840870400",
+          "start": 7,
+          "url": "https://t.co/bsUzGXmn0M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075770396205277428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "所有人早上好 https://t.co/bsUzGXmn0M"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6453,
+        "height": 1280,
+        "media_key": "13_2075770335840870400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075770335840870400/img/Uq8CEgmq7veVo7tw.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075770335840870400/vid/avc1/320x568/vHPw7f3jnYRpcbzm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075770335840870400/vid/avc1/480x852/XnVOW2MVcmuxMCTn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075770335840870400/vid/avc1/720x1280/DwCtCwPkQLlUag6q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075770335840870400/pl/uhSvzeTl1uUimZ2l.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075770335840870400"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2075770396205277428",
+        "created_at": "2026-07-11T02:33:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T03:33:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075770396205277428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bsUzGXmn0M",
+              "end": 30,
+              "expanded_url": "https://x.com/Linden_ovo/status/2075770396205277428/video/1",
+              "media_key": "13_2075770335840870400",
+              "start": 7,
+              "url": "https://t.co/bsUzGXmn0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075770396205277428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人早上好 https://t.co/bsUzGXmn0M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 134,
+          "like_count": 2345,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1513
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2075852279341515078",
+    "created_at": "2026-07-11T13:30:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:30:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075935693180715486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075935693180715486",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075865843922292794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2075852279341515078",
+        "created_at": "2026-07-11T13:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075935693180715486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075935693180715486",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075865843922292794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2075852279341515078",
+        "created_at": "2026-07-11T08:52:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:52:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075865843922292794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075865843922292794",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075852279341515078",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 要吃人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 134,
+          "like_count": 2356,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1526
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "我想写什么写什么",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072040900591816704/hT4oIZPt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2439,
+          "following_count": 922,
+          "like_count": 262970,
+          "listed_count": 5,
+          "media_count": 674,
+          "tweet_count": 17155
+        },
+        "url": "",
+        "username": "wabnp",
+        "verified": true
+      }
+    ]
+  }
+}

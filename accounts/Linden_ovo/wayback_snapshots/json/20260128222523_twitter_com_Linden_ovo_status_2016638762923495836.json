@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016243821579800577"
+      ],
+      "media_source_tweet_id": [
+        "2016243823496622564"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2016638762923495836",
+    "created_at": "2026-01-28T22:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T23:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016638762923495836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972989998333861888",
+          "start": 3,
+          "username": "LiteralMem3s"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GZwzVz8CHb",
+          "end": 41,
+          "expanded_url": "https://x.com/LiteralMem3s/status/2016243823496622564/photo/1",
+          "media_key": "3_2016243821579800577",
+          "start": 18,
+          "url": "https://t.co/GZwzVz8CHb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016638762923495836",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1616
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016243823496622564",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LiteralMem3s: https://t.co/GZwzVz8CHb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2016243821579800577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_sjEr3XEAEeKBS.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016243821579800577"
+          ],
+          "media_source_tweet_id": [
+            "2016243823496622564"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2016638762923495836",
+        "created_at": "2026-01-28T22:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T23:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016638762923495836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972989998333861888",
+              "start": 3,
+              "username": "LiteralMem3s"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZwzVz8CHb",
+              "end": 41,
+              "expanded_url": "https://x.com/LiteralMem3s/status/2016243823496622564/photo/1",
+              "media_key": "3_2016243821579800577",
+              "start": 18,
+              "url": "https://t.co/GZwzVz8CHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016638762923495836",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1616
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016243823496622564",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LiteralMem3s: https://t.co/GZwzVz8CHb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016243821579800577"
+          ]
+        },
+        "author_id": "1972989998333861888",
+        "conversation_id": "2016243823496622564",
+        "created_at": "2026-01-27T20:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T21:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016243823496622564"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GZwzVz8CHb",
+              "end": 23,
+              "expanded_url": "https://x.com/LiteralMem3s/status/2016243823496622564/photo/1",
+              "media_key": "3_2016243821579800577",
+              "start": 0,
+              "url": "https://t.co/GZwzVz8CHb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016243823496622564",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1164,
+          "impression_count": 162774,
+          "like_count": 20720,
+          "quote_count": 50,
+          "reply_count": 40,
+          "retweet_count": 1616
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GZwzVz8CHb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 1072,
+          "listed_count": 1,
+          "media_count": 10,
+          "tweet_count": 517
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-30T11:40:57.000Z",
+        "description": "literal memes | powered by @memelordtech | make viral memes easily 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "memelordtech"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "signup.memelord.com/literalmemes",
+                "end": 23,
+                "expanded_url": "https://signup.memelord.com/literalmemes",
+                "start": 0,
+                "url": "https://t.co/5VCFFZ7lof"
+              }
+            ]
+          }
+        },
+        "id": "1972989998333861888",
+        "name": "literal memes",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10748,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 11,
+          "media_count": 756,
+          "tweet_count": 1277
+        },
+        "url": "https://t.co/5VCFFZ7lof",
+        "username": "LiteralMem3s",
+        "verified": true
+      }
+    ]
+  }
+}

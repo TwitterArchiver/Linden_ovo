@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041837946836574208"
+      ],
+      "media_source_tweet_id": [
+        "2041838077086461962"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2041990893641613513",
+    "created_at": "2026-04-08T21:25:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T22:25:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041990893641613513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1398465702009348096",
+          "start": 3,
+          "username": "haburashi893"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rWDqh6q3o9",
+          "end": 50,
+          "expanded_url": "https://x.com/haburashi893/status/2041838077086461962/photo/1",
+          "media_key": "3_2041837946836574208",
+          "start": 27,
+          "url": "https://t.co/rWDqh6q3o9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041990893641613513",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041838077086461962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @haburashi893: 100年後ゴルシ https://t.co/rWDqh6q3o9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_2041837946836574208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFYQy2YbYAA9XLH.jpg",
+        "width": 1895
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041837946836574208"
+          ],
+          "media_source_tweet_id": [
+            "2041838077086461962"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2041990893641613513",
+        "created_at": "2026-04-08T21:25:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T22:25:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041990893641613513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1398465702009348096",
+              "start": 3,
+              "username": "haburashi893"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWDqh6q3o9",
+              "end": 50,
+              "expanded_url": "https://x.com/haburashi893/status/2041838077086461962/photo/1",
+              "media_key": "3_2041837946836574208",
+              "start": 27,
+              "url": "https://t.co/rWDqh6q3o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041990893641613513",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041838077086461962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @haburashi893: 100年後ゴルシ https://t.co/rWDqh6q3o9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041837946836574208"
+          ]
+        },
+        "author_id": "1398465702009348096",
+        "conversation_id": "2041838077086461962",
+        "created_at": "2026-04-08T11:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041838077086461962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rWDqh6q3o9",
+              "end": 32,
+              "expanded_url": "https://x.com/haburashi893/status/2041838077086461962/photo/1",
+              "media_key": "3_2041837946836574208",
+              "start": 9,
+              "url": "https://t.co/rWDqh6q3o9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041838077086461962",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 11740,
+          "like_count": 1356,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "100年後ゴルシ https://t.co/rWDqh6q3o9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 85,
+          "like_count": 1474,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 831
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-29T02:28:44.000Z",
+        "description": "二代目\n別垢【@haburashidou】\n絵チャルーム【https://t.co/XdPz5WJ0Y7】\nお題箱【https://t.co/fPhlITYafz】",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 7,
+                "username": "haburashidou"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kuku.lu/p13882cbca",
+                "end": 52,
+                "expanded_url": "https://kuku.lu/p13882cbca",
+                "start": 29,
+                "url": "https://t.co/XdPz5WJ0Y7"
+              },
+              {
+                "display_url": "odaibako.net/u/haburaseeker",
+                "end": 81,
+                "expanded_url": "https://odaibako.net/u/haburaseeker",
+                "start": 58,
+                "url": "https://t.co/fPhlITYafz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/haburashidou",
+                "end": 23,
+                "expanded_url": "http://lit.link/haburashidou",
+                "start": 0,
+                "url": "https://t.co/H3iQFiN0oI"
+              }
+            ]
+          }
+        },
+        "id": "1398465702009348096",
+        "name": "ハブラシ🔥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031725344299134976/F5HL90Bj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5034,
+          "following_count": 76,
+          "like_count": 0,
+          "listed_count": 13,
+          "media_count": 11,
+          "tweet_count": 23
+        },
+        "url": "https://t.co/H3iQFiN0oI",
+        "username": "haburashi893",
+        "verified": false
+      }
+    ]
+  }
+}

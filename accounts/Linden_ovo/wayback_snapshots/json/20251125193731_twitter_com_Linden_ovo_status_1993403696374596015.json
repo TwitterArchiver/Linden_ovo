@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1993403696374596015",
+    "created_at": "2025-11-25T19:37:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:37:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993403696374596015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1650178404384391169",
+          "start": 3,
+          "username": "o_tohiro"
+        },
+        {
+          "end": 23,
+          "id": "1959345859352842240",
+          "start": 14,
+          "username": "Ru1u1210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993403696374596015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993179732817723715",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @o_tohiro: @Ru1u1210 什么人能想到奶奶逃离原生家庭中这句话 我笑喷了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1993403696374596015",
+        "created_at": "2025-11-25T19:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993403696374596015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1650178404384391169",
+              "start": 3,
+              "username": "o_tohiro"
+            },
+            {
+              "end": 23,
+              "id": "1959345859352842240",
+              "start": 14,
+              "username": "Ru1u1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993403696374596015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993179732817723715",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @o_tohiro: @Ru1u1210 什么人能想到奶奶逃离原生家庭中这句话 我笑喷了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650178404384391169",
+        "conversation_id": "1993137944044224546",
+        "created_at": "2025-11-25T04:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T05:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993179732817723715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1959345859352842240",
+              "start": 0,
+              "username": "Ru1u1210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993179732817723715",
+        "in_reply_to_user_id": "1959345859352842240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1586,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993137944044224546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ru1u1210 什么人能想到奶奶逃离原生家庭中这句话 我笑喷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 61,
+          "like_count": 766,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 287
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-23T16:42:56.000Z",
+        "description": "ちゅうごくのカメラマン/galgame",
+        "id": "1650178404384391169",
+        "location": "Kowloon City District",
+        "name": "hiro",
+        "pinned_tweet_id": "1991620619960742015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966264313129426944/MCX5-ydD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 223,
+          "like_count": 390,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 550
+        },
+        "username": "o_tohiro",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T20:03:59.000Z",
+        "description": "",
+        "id": "1959345859352842240",
+        "name": "ru ru",
+        "pinned_tweet_id": "1993327200498831497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992983054143647744/WIx6AJ6D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 149,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 231
+        },
+        "username": "Ru1u1210",
+        "verified": false
+      }
+    ]
+  }
+}

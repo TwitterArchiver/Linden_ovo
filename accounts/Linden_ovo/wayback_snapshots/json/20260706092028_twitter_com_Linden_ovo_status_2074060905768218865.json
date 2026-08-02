@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2074060905768218865",
+    "created_at": "2026-07-06T09:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T10:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074060905768218865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680560555936088065",
+          "start": 3,
+          "username": "ourakus3n1n"
+        },
+        {
+          "end": 28,
+          "id": "868887840230330368",
+          "start": 17,
+          "username": "momoGZ0412"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074060905768218865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074056852602782187",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ourakus3n1n: @momoGZ0412 游泳呢别拍了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2074060905768218865",
+        "created_at": "2026-07-06T09:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074060905768218865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680560555936088065",
+              "start": 3,
+              "username": "ourakus3n1n"
+            },
+            {
+              "end": 28,
+              "id": "868887840230330368",
+              "start": 17,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074060905768218865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074056852602782187",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ourakus3n1n: @momoGZ0412 游泳呢别拍了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680560555936088065",
+        "conversation_id": "2074033998381080972",
+        "created_at": "2026-07-06T09:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074056852602782187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "868887840230330368",
+              "start": 0,
+              "username": "momoGZ0412"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074056852602782187",
+        "in_reply_to_user_id": "868887840230330368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 173,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074033998381080972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momoGZ0412 游泳呢别拍了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "有对象，纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072721512079986688/NHYVNNT1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 131,
+          "like_count": 2207,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-16T12:50:41.000Z",
+        "description": "his war, my war.",
+        "id": "1680560555936088065",
+        "location": "l",
+        "name": "最是人间留得住",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058442707220226048/jRTVVK2w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 198,
+          "like_count": 1037,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 2292
+        },
+        "url": "",
+        "username": "ourakus3n1n",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T17:52:59.000Z",
+        "description": "别人都假装正经，我只有假装不正经。",
+        "id": "868887840230330368",
+        "location": "Paris, France",
+        "name": "默默",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996847012906717184/fVYoKJaa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77128,
+          "following_count": 6408,
+          "like_count": 163835,
+          "listed_count": 209,
+          "media_count": 7681,
+          "tweet_count": 23720
+        },
+        "url": "",
+        "username": "momoGZ0412",
+        "verified": true
+      }
+    ]
+  }
+}

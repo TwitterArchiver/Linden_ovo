@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1939101743171653632"
+      ],
+      "media_source_tweet_id": [
+        "1939101928480227791"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1939123555528253509",
+    "created_at": "2025-06-29T00:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T01:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939123555528253509"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "コイカツ"
+        },
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "Sabalewd"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1465742255868760070",
+          "start": 3,
+          "username": "Wataaamage"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wOpD8kzDho",
+          "end": 79,
+          "expanded_url": "https://x.com/Wataaamage/status/1939101928480227791/video/1",
+          "media_key": "13_1939101743171653632",
+          "start": 56,
+          "url": "https://t.co/wOpD8kzDho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939123555528253509",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939101928480227791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wataaamage: (Sameko Saba)\nKani Krew\n#コイカツ #Sabalewd https://t.co/wOpD8kzDho"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1939123555528253509].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1939123555528253509",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1939123555528253509"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23594,
+        "height": 1080,
+        "media_key": "13_1939101743171653632",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1939101743171653632/img/HuBjuIaOr_UncJwO.jpg",
+        "public_metrics": {
+          "view_count": 9264
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939101743171653632/vid/avc1/1280x720/s80Qj589RNcOWK60.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939101743171653632/vid/avc1/1920x1080/sqQHHVRFGKoXaSaP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939101743171653632/vid/avc1/640x360/xoW5OpCq0Sm26i2m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1939101743171653632/pl/4pVNscMSSk3nuY7o.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1939101743171653632/vid/avc1/480x270/6WcrdrjI05BCS0py.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1939101743171653632"
+          ]
+        },
+        "author_id": "1465742255868760070",
+        "conversation_id": "1939101928480227791",
+        "created_at": "2025-06-28T23:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T00:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939101928480227791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "コイカツ"
+            },
+            {
+              "end": 39,
+              "start": 30,
+              "tag": "Sabalewd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wOpD8kzDho",
+              "end": 63,
+              "expanded_url": "https://x.com/Wataaamage/status/1939101928480227791/video/1",
+              "media_key": "13_1939101743171653632",
+              "start": 40,
+              "url": "https://t.co/wOpD8kzDho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939101928480227791",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1497,
+          "impression_count": 25198,
+          "like_count": 3362,
+          "quote_count": 10,
+          "reply_count": 20,
+          "retweet_count": 401
+        },
+        "reply_settings": "everyone",
+        "text": "(Sameko Saba)\nKani Krew\n#コイカツ #Sabalewd https://t.co/wOpD8kzDho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Dublin City, Ireland",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933519875328389120/uYt3KrVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 78,
+          "like_count": 393,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 171
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-30T18:01:05.000Z",
+        "description": "Home grown Vtuber+ Koikatsu lewds.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Wataaamage",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/Wataaamage",
+                "start": 0,
+                "url": "https://t.co/xr4WFVSAG2"
+              }
+            ]
+          }
+        },
+        "id": "1465742255868760070",
+        "name": "Wataamage (Commissions Open)",
+        "pinned_tweet_id": "1939109387102024145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1465742748850475015/j_j6r26y_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123429,
+          "following_count": 7,
+          "like_count": 4019,
+          "listed_count": 561,
+          "media_count": 2934,
+          "tweet_count": 5873
+        },
+        "url": "https://t.co/xr4WFVSAG2",
+        "username": "Wataaamage",
+        "verified": true
+      }
+    ]
+  }
+}

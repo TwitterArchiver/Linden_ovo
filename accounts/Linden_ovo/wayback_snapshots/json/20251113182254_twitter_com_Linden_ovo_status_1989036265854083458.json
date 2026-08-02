@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1838587222359945217"
+      ],
+      "media_source_tweet_id": [
+        "1838587807968772588"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sanrio (サンリオ)",
+          "id": "1038116841485303808",
+          "name": "Sanrio"
+        }
+      }
+    ],
+    "conversation_id": "1989036265854083458",
+    "created_at": "2025-11-13T18:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-13T19:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989036265854083458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1980957437692977152",
+          "start": 3,
+          "username": "twilightofedtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DTOWqyhTHo",
+          "end": 90,
+          "expanded_url": "https://x.com/39_u2/status/1838587807968772588/video/1",
+          "media_key": "7_1838587222359945217",
+          "start": 67,
+          "url": "https://t.co/DTOWqyhTHo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989036265854083458",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1615
+    },
+    "referenced_tweets": [
+      {
+        "id": "1988562084041228315",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @twilightofedtwt: How it feels buying cute sanrio themed razors https://t.co/DTOWqyhTHo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22997,
+        "height": 1440,
+        "media_key": "7_1838587222359945217",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1838587222359945217/pu/img/rUXDP7n-sywWNGng.jpg",
+        "public_metrics": {
+          "view_count": 488069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838587222359945217/pu/vid/avc1/480x270/gT4P9pSuFCb16iRV.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838587222359945217/pu/vid/avc1/640x360/V-3mbkdUODROZca4.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1838587222359945217/pu/vid/avc1/1280x720/yhaZq_hY2wVVU0kG.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1838587222359945217/pu/pl/g1Dy3Dk6gZKRvW1g.m3u8?tag=12&v=ac8"
+          }
+        ],
+        "width": 2560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838587222359945217"
+          ],
+          "media_source_tweet_id": [
+            "1838587807968772588"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          }
+        ],
+        "conversation_id": "1989036265854083458",
+        "created_at": "2025-11-13T18:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-13T19:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989036265854083458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1980957437692977152",
+              "start": 3,
+              "username": "twilightofedtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTOWqyhTHo",
+              "end": 90,
+              "expanded_url": "https://x.com/39_u2/status/1838587807968772588/video/1",
+              "media_key": "7_1838587222359945217",
+              "start": 67,
+              "url": "https://t.co/DTOWqyhTHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989036265854083458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1615
+        },
+        "referenced_tweets": [
+          {
+            "id": "1988562084041228315",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @twilightofedtwt: How it feels buying cute sanrio themed razors https://t.co/DTOWqyhTHo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1838587222359945217"
+          ],
+          "media_source_tweet_id": [
+            "1838587807968772588"
+          ]
+        },
+        "author_id": "1980957437692977152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sanrio (サンリオ)",
+              "id": "1038116841485303808",
+              "name": "Sanrio"
+            }
+          }
+        ],
+        "conversation_id": "1988562084041228315",
+        "created_at": "2025-11-12T10:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-12T11:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988562084041228315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DTOWqyhTHo",
+              "end": 69,
+              "expanded_url": "https://x.com/39_u2/status/1838587807968772588/video/1",
+              "media_key": "7_1838587222359945217",
+              "start": 46,
+              "url": "https://t.co/DTOWqyhTHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988562084041228315",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1100,
+          "impression_count": 67355,
+          "like_count": 8058,
+          "quote_count": 74,
+          "reply_count": 33,
+          "retweet_count": 1615
+        },
+        "reply_settings": "everyone",
+        "text": "How it feels buying cute sanrio themed razors https://t.co/DTOWqyhTHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 734,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 259
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-22T11:20:51.000Z",
+        "description": "he/they\n5teen\nhello niche community\nplease reply to my strawpage 🙏 !!!\nhttps://t.co/UPmZsXGixl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jayisawesomecom.straw.page",
+                "end": 94,
+                "expanded_url": "http://jayisawesomecom.straw.page",
+                "start": 71,
+                "url": "https://t.co/UPmZsXGixl"
+              }
+            ]
+          }
+        },
+        "id": "1980957437692977152",
+        "name": "jazzyoftwt!!",
+        "pinned_tweet_id": "1988562084041228315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988235196010033153/ZYKz3g7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 52,
+          "like_count": 961,
+          "listed_count": 0,
+          "media_count": 125,
+          "tweet_count": 204
+        },
+        "username": "twilightofedtwt",
+        "verified": false
+      }
+    ]
+  }
+}

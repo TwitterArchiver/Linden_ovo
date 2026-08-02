@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985657943954780160"
+      ],
+      "media_source_tweet_id": [
+        "1985658395148603418"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "1985749663702487214",
+    "created_at": "2025-11-04T16:43:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T17:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985749663702487214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1757962849790648320",
+          "start": 3,
+          "username": "noraneco117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5lZuA1wNQQ",
+          "end": 57,
+          "expanded_url": "https://x.com/noraneco117/status/1985658395148603418/photo/1",
+          "media_key": "3_1985657943954780160",
+          "start": 34,
+          "url": "https://t.co/5lZuA1wNQQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985749663702487214",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985658395148603418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noraneco117: ビブーのアクリルスタンド Wip https://t.co/5lZuA1wNQQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3521,
+        "media_key": "3_1985657943954780160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G455YSrbcAAOTvu.jpg",
+        "width": 2022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985657943954780160"
+          ],
+          "media_source_tweet_id": [
+            "1985658395148603418"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "1985749663702487214",
+        "created_at": "2025-11-04T16:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985749663702487214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1757962849790648320",
+              "start": 3,
+              "username": "noraneco117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lZuA1wNQQ",
+              "end": 57,
+              "expanded_url": "https://x.com/noraneco117/status/1985658395148603418/photo/1",
+              "media_key": "3_1985657943954780160",
+              "start": 34,
+              "url": "https://t.co/5lZuA1wNQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985749663702487214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985658395148603418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noraneco117: ビブーのアクリルスタンド Wip https://t.co/5lZuA1wNQQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985657943954780160"
+          ]
+        },
+        "author_id": "1757962849790648320",
+        "conversation_id": "1985658395148603418",
+        "created_at": "2025-11-04T10:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T11:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985658395148603418"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5lZuA1wNQQ",
+              "end": 40,
+              "expanded_url": "https://x.com/noraneco117/status/1985658395148603418/photo/1",
+              "media_key": "3_1985657943954780160",
+              "start": 17,
+              "url": "https://t.co/5lZuA1wNQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985658395148603418",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 382,
+          "impression_count": 29616,
+          "like_count": 3470,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "ビブーのアクリルスタンド Wip https://t.co/5lZuA1wNQQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 59,
+          "like_count": 706,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 240
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-15T02:59:48.000Z",
+        "description": "イラストレーター┆Vgen▷https://t.co/KjdHNKCc0V┆✉noraneco117@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vgen.co/noraneco117",
+                "end": 37,
+                "expanded_url": "https://vgen.co/noraneco117",
+                "start": 14,
+                "url": "https://t.co/KjdHNKCc0V"
+              }
+            ]
+          }
+        },
+        "id": "1757962849790648320",
+        "location": "AI学習禁止",
+        "name": "✧rato✧",
+        "pinned_tweet_id": "1952566352625229830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794345916872437762/cXLtlEY4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11002,
+          "following_count": 218,
+          "like_count": 6599,
+          "listed_count": 75,
+          "media_count": 97,
+          "tweet_count": 759
+        },
+        "username": "noraneco117",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2080717554679779497",
+    "created_at": "2026-07-30T10:58:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:58:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082782857823453280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646145702148407297",
+          "start": 0,
+          "username": "DavidOC03712570"
+        },
+        {
+          "end": 27,
+          "id": "1760944011475652611",
+          "start": 17,
+          "username": "itto_1120"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082782857823453280",
+    "in_reply_to_user_id": "1646145702148407297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082138745520738558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavidOC03712570 @itto_1120 我是好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2080717554679779497",
+        "created_at": "2026-07-30T10:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082782857823453280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646145702148407297",
+              "start": 0,
+              "username": "DavidOC03712570"
+            },
+            {
+              "end": 27,
+              "id": "1760944011475652611",
+              "start": 17,
+              "username": "itto_1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082782857823453280",
+        "in_reply_to_user_id": "1646145702148407297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082138745520738558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavidOC03712570 @itto_1120 我是好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1646145702148407297",
+        "conversation_id": "2080717554679779497",
+        "created_at": "2026-07-28T16:18:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:18:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082138745520738558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760944011475652611",
+              "start": 0,
+              "username": "itto_1120"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082138745520738558",
+        "in_reply_to_user_id": "1760944011475652611",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081362754775159272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itto_1120 你是好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079496047701688320/Dv2yHGoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 148,
+          "like_count": 2857,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T13:38:15.000Z",
+        "description": "beinpresent",
+        "id": "1646145702148407297",
+        "name": "lla",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940457255419228160/83ejhFa6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "DavidOC03712570",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T08:25:52.000Z",
+        "description": "",
+        "id": "1760944011475652611",
+        "location": "1.14514",
+        "name": "airmr",
+        "pinned_tweet_id": "1828780756086460568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070227490560491520/YlAD1hhV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 8,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "itto_1120",
+        "verified": false
+      }
+    ]
+  }
+}

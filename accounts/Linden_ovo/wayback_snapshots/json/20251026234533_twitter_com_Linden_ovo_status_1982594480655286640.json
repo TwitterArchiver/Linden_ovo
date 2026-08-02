@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1982594480655286640",
+    "created_at": "2025-10-26T23:45:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T00:45:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982594480655286640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1822132008228974592",
+          "start": 3,
+          "username": "CA11mes0oN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982594480655286640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982509184555061673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CA11mes0oN: 我不是母狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1982594480655286640",
+        "created_at": "2025-10-26T23:45:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T00:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982594480655286640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1822132008228974592",
+              "start": 3,
+              "username": "CA11mes0oN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982594480655286640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982509184555061673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CA11mes0oN: 我不是母狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822132008228974592",
+        "conversation_id": "1982509184555061673",
+        "created_at": "2025-10-26T18:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T19:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982509184555061673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982509184555061673",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5751,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是母狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 55,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 220
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T04:45:10.000Z",
+        "description": "03,女",
+        "id": "1822132008228974592",
+        "name": "flor",
+        "pinned_tweet_id": "1955886224595710055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949900165848190978/334SbL94_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25316,
+          "following_count": 83,
+          "like_count": 83,
+          "listed_count": 35,
+          "media_count": 23,
+          "tweet_count": 432
+        },
+        "username": "CA11mes0oN",
+        "verified": false
+      }
+    ]
+  }
+}

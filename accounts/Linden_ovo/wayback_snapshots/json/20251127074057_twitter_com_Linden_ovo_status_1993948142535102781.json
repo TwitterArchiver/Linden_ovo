@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1993735201101328569",
+    "created_at": "2025-11-27T07:40:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T08:40:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993948142535102781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1617162636415598593",
+          "start": 0,
+          "username": "DebbieS23013354"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993948142535102781",
+    "in_reply_to_user_id": "1617162636415598593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993823733405110550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DebbieS23013354 666老资历来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1993735201101328569",
+        "created_at": "2025-11-27T07:40:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T08:40:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993948142535102781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1617162636415598593",
+              "start": 0,
+              "username": "DebbieS23013354"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993948142535102781",
+        "in_reply_to_user_id": "1617162636415598593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993823733405110550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DebbieS23013354 666老资历来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1617162636415598593",
+        "conversation_id": "1993735201101328569",
+        "created_at": "2025-11-26T23:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T00:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993823733405110550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993823733405110550",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993735201101328569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 最好不要一起吃都是肝脏代谢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 61,
+          "like_count": 770,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 299
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-22T14:10:09.000Z",
+        "description": "😈💩🫶🤡🙀👹🤲🫥😪🤥🤮🫲👋🫷🫀👄🫁🫂🫦👯👩‍🦼👯‍♀️🫶😋🫁🏝️🍊💰😂💩🏝️🥺🧦🚪",
+        "id": "1617162636415598593",
+        "location": "贾巴沃克岛🏝️",
+        "name": "3r EUSho",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623933446975541249/B_LXNXHi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 358,
+          "like_count": 11746,
+          "listed_count": 1,
+          "media_count": 175,
+          "tweet_count": 3025
+        },
+        "username": "DebbieS23013354",
+        "verified": false
+      }
+    ]
+  }
+}

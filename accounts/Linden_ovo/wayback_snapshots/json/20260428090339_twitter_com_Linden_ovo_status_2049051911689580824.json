@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1240063989779841024",
+          "name": "hololive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "2049051911689580824",
+    "created_at": "2026-04-28T09:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T10:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049051911689580824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "91081573",
+          "start": 3,
+          "username": "ichibanKUJI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049051911689580824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1760
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049028387872928131",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ichibanKUJI: ⋱ 全ラインナップ公開 ⋰\n\n一番くじ ホロライブ\nちょこのっこコレクション 2026ver.\n\n📅5月21日(木)17:00より\n一番くじONLINEにて販売開始予定\n\nちょこのっこフィギュアが\n表情新たに大集合✨\n\n商品詳細\n🔗https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2049028368679784448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG-ccfHbUAAaYeQ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2049051911689580824",
+        "created_at": "2026-04-28T09:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T10:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049051911689580824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "91081573",
+              "start": 3,
+              "username": "ichibanKUJI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049051911689580824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1760
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049028387872928131",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ichibanKUJI: ⋱ 全ラインナップ公開 ⋰\n\n一番くじ ホロライブ\nちょこのっこコレクション 2026ver.\n\n📅5月21日(木)17:00より\n一番くじONLINEにて販売開始予定\n\nちょこのっこフィギュアが\n表情新たに大集合✨\n\n商品詳細\n🔗https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049028368679784448"
+          ]
+        },
+        "author_id": "91081573",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "2049028387872928131",
+        "created_at": "2026-04-28T07:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049028387872928131"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 184,
+              "start": 178,
+              "tag": "ホロライブ"
+            },
+            {
+              "end": 194,
+              "start": 185,
+              "tag": "hololive"
+            }
+          ],
+          "urls": [
+            {
+              "description": "日本全国のコンビニエンスストアや書店、ホビーショップなどで販売している オリジナルグッズが当たるハズレなしのキャラクターくじ！必ずいずれかの商品が手に入ります！さらにお店で最後のくじを引くと特別なラストワン賞が手に入ります！",
+              "display_url": "1kuji.com/products/holol…",
+              "end": 139,
+              "expanded_url": "https://1kuji.com/products/hololive-ck2",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2049028437072138240/X_rIdXRi?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2049028437072138240/X_rIdXRi?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "一番くじ倶楽部｜BANDAI SPIRITS公式 一番くじ情報サイト",
+              "unwound_url": "https://1kuji.com/products/hololive-ck2",
+              "url": "https://t.co/i2J9bPhBh2"
+            },
+            {
+              "description": "一番くじ ホロライブ ちょこのっこコレクション 2026ver.。人気キャラクターグッズが必ず当たる『一番くじ』を、いつでも・どこでも手軽にネットで楽しもう！最新商品を今すぐチェック！",
+              "display_url": "on-line.1kuji.com/Form/Product/P…",
+              "end": 176,
+              "expanded_url": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008436&bid=IP00002898",
+              "start": 153,
+              "status": 200,
+              "title": "一番くじ ホロライブ ちょこのっこコレクション 2026ver. | 一番くじONLINE",
+              "unwound_url": "https://on-line.1kuji.com/Form/Product/ProductDetail.aspx?pid=sap_0000008436&bid=IP00002898",
+              "url": "https://t.co/tG7VcsK2CP"
+            },
+            {
+              "display_url": "pic.x.com/tg0Gtb626y",
+              "end": 218,
+              "expanded_url": "https://x.com/ichibanKUJI/status/2049028387872928131/photo/1",
+              "media_key": "3_2049028368679784448",
+              "start": 195,
+              "url": "https://t.co/tg0Gtb626y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049028387872928131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 769,
+          "impression_count": 251513,
+          "like_count": 5550,
+          "quote_count": 294,
+          "reply_count": 92,
+          "retweet_count": 1760
+        },
+        "reply_settings": "everyone",
+        "text": "⋱ 全ラインナップ公開 ⋰\n\n一番くじ ホロライブ\nちょこのっこコレクション 2026ver.\n\n📅5月21日(木)17:00より\n一番くじONLINEにて販売開始予定\n\nちょこのっこフィギュアが\n表情新たに大集合✨\n\n商品詳細\n🔗https://t.co/i2J9bPhBh2\n\n一番くじONLINE\n🛒https://t.co/tG7VcsK2CP\n\n#ホロライブ #hololive https://t.co/tg0Gtb626y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "水泼落地",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2044595916775039007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 100,
+          "like_count": 1621,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 959
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T11:03:10.000Z",
+        "description": "「一番くじ」公式アカウントです。新商品＆キャンペーン情報をお届けします😊 当アカウントでは原則DMやリプライの対応はしておりません。 キャンペーン注意事項 https://t.co/U5YwVMAn16 公式Instagram📷https://t.co/Vor0h86G17",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "1kuji.com/specials/tc_a",
+                "end": 101,
+                "expanded_url": "http://1kuji.com/specials/tc_a",
+                "start": 78,
+                "url": "https://t.co/U5YwVMAn16"
+              },
+              {
+                "display_url": "instagram.com/ichibankuji/",
+                "end": 137,
+                "expanded_url": "http://instagram.com/ichibankuji/",
+                "start": 114,
+                "url": "https://t.co/Vor0h86G17"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1kuji.com",
+                "end": 23,
+                "expanded_url": "https://1kuji.com/",
+                "start": 0,
+                "url": "https://t.co/zrZB9wA2oF"
+              }
+            ]
+          }
+        },
+        "id": "91081573",
+        "location": "日本 東京",
+        "name": "一番くじ（BANDAI SPIRITS）",
+        "pinned_tweet_id": "2036563752305447175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886221804349620224/Q6SWUa-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2804135,
+          "following_count": 13,
+          "like_count": 434,
+          "listed_count": 6787,
+          "media_count": 4355819,
+          "tweet_count": 4365021
+        },
+        "url": "https://t.co/zrZB9wA2oF",
+        "username": "ichibanKUJI",
+        "verified": true
+      }
+    ]
+  }
+}

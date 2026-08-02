@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2037173960308109327",
+    "created_at": "2026-03-26T14:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037173960308109327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978032792383709184",
+          "start": 3,
+          "username": "Sabrina8964"
+        },
+        {
+          "end": 29,
+          "id": "1741063508102627328",
+          "start": 17,
+          "username": "kitty068_ly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037173960308109327",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036833152866595128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sabrina8964: @kitty068_ly 任何人都不欠土逼女大什么，每个人都有权利不接受女大恶心自己空间"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2037173960308109327",
+        "created_at": "2026-03-26T14:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037173960308109327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978032792383709184",
+              "start": 3,
+              "username": "Sabrina8964"
+            },
+            {
+              "end": 29,
+              "id": "1741063508102627328",
+              "start": 17,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037173960308109327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036833152866595128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sabrina8964: @kitty068_ly 任何人都不欠土逼女大什么，每个人都有权利不接受女大恶心自己空间"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2036826888824668582",
+        "created_at": "2026-03-25T15:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036833152866595128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1741063508102627328",
+              "start": 0,
+              "username": "kitty068_ly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036833152866595128",
+        "in_reply_to_user_id": "1741063508102627328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5702,
+          "like_count": 210,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036826888824668582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kitty068_ly 任何人都不欠土逼女大什么，每个人都有权利不接受女大恶心自己空间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 82,
+          "like_count": 1427,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 800
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "欧美迪哥百家黑，纯良舒肤佳雷妈妈梦男｜東雲繪名转世灵童",
+        "id": "1978032792383709184",
+        "location": "California, USA",
+        "name": "霉娇娇推特反黑站",
+        "pinned_tweet_id": "2034638140753977453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036276872171094016/rSuhuRdY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 204,
+          "like_count": 8238,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1847
+        },
+        "username": "Sabrina8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T11:47:58.000Z",
+        "description": "只想随便说些想说的话和喜欢我或者认同我的人交流懒得说服或者赢过任何人\n任何求偶意愿的私信@dngyng169770781都会看",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "dngyng169770781"
+              }
+            ]
+          }
+        },
+        "id": "1741063508102627328",
+        "location": "Fall in love",
+        "name": "易子而食",
+        "pinned_tweet_id": "2036628825292091673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019851159041949696/qYHRz2xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 388,
+          "like_count": 3178,
+          "listed_count": 1,
+          "media_count": 161,
+          "tweet_count": 2350
+        },
+        "username": "kitty068_ly",
+        "verified": false
+      }
+    ]
+  }
+}

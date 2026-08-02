@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1996916386803679730",
+    "created_at": "2025-12-05T12:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T13:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996917332812374470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1859583818098712576",
+          "start": 0,
+          "username": "llxbb777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996917332812374470",
+    "in_reply_to_user_id": "1859583818098712576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996917273572135210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@llxbb777 出勤率不够会死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1996916386803679730",
+        "created_at": "2025-12-05T12:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996917332812374470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1859583818098712576",
+              "start": 0,
+              "username": "llxbb777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996917332812374470",
+        "in_reply_to_user_id": "1859583818098712576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996917273572135210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@llxbb777 出勤率不够会死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859583818098712576",
+        "conversation_id": "1996916386803679730",
+        "created_at": "2025-12-05T12:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996917273572135210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842490676543627264",
+              "start": 0,
+              "username": "Linden_ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996917273572135210",
+        "in_reply_to_user_id": "1842490676543627264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996916386803679730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Linden_ovo 那就不去了嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "刷到的企鵝列表可以滑走嗎",
+        "id": "1842490676543627264",
+        "location": "Vancouver, British Columbia",
+        "name": "鳶",
+        "pinned_tweet_id": "1993230666461241670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 63,
+          "like_count": 827,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 333
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T13:05:15.000Z",
+        "description": "",
+        "id": "1859583818098712576",
+        "name": "一日",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891923950168371200/PC09khhp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 3,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 22
+        },
+        "username": "llxbb777",
+        "verified": false
+      }
+    ]
+  }
+}

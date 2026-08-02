@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2019840331785666580",
+    "created_at": "2026-02-06T18:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T19:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2019840331785666580"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019840331785666580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天被一直以来当很好朋友的朋友表白了一点也不开心 今年九月还一起要去uk读一所学校来着 对我来说今日我失去了一个好朋友 在未来和当下都失去了\n不是所有人都能不用异性的视角去看异性吧 虽然我的朋友基本都是异性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2019840331785666580",
+        "created_at": "2026-02-06T18:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T19:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019840331785666580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019840331785666580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天被一直以来当很好朋友的朋友表白了一点也不开心 今年九月还一起要去uk读一所学校来着 对我来说今日我失去了一个好朋友 在未来和当下都失去了\n不是所有人都能不用异性的视角去看异性吧 虽然我的朋友基本都是异性"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "为没有痛苦的明天",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2015523414400770235",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967563817979703296/MXilUm2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 76,
+          "like_count": 1117,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 553
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      }
+    ]
+  }
+}

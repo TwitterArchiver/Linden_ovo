@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2058897031037321523",
+    "created_at": "2026-05-25T13:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058897031037321523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1992095465559715840",
+          "start": 3,
+          "username": "lisianthus2088"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058897031037321523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 260
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058545825387790847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lisianthus2088: 不doi就出不去的房间也太弱了 我可是生活在不考好没考上好大学找不到好工作没考上公编研就被歧视的世界"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2058897031037321523",
+        "created_at": "2026-05-25T13:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058897031037321523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1992095465559715840",
+              "start": 3,
+              "username": "lisianthus2088"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058897031037321523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 260
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058545825387790847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lisianthus2088: 不doi就出不去的房间也太弱了 我可是生活在不考好没考上好大学找不到好工作没考上公编研就被歧视的世界"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992095465559715840",
+        "conversation_id": "2058545825387790847",
+        "created_at": "2026-05-24T13:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058545825387790847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058545825387790847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 67997,
+          "like_count": 3006,
+          "quote_count": 14,
+          "reply_count": 145,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "不doi就出不去的房间也太弱了 我可是生活在不考好没考上好大学找不到好工作没考上公编研就被歧视的世界"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041869011210612736/P60dDJaL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 105,
+          "like_count": 1734,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 1062
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T04:59:24.000Z",
+        "description": "₊⁺꒰১ 𝓕𝓪𝓽𝓮 𝓛𝓸𝓿𝓮 ໒꒱⁺₊  提问箱↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lilili31966",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lilili31966",
+                "start": 0,
+                "url": "https://t.co/7HxnVsWe36"
+              }
+            ]
+          }
+        },
+        "id": "1992095465559715840",
+        "location": "≤0m",
+        "name": "莉莉莉",
+        "pinned_tweet_id": "2038267583536013355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042468835106963457/APxGrtJN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2970,
+          "following_count": 87,
+          "like_count": 4096,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/7HxnVsWe36",
+        "username": "lisianthus2088",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "1879713410956611888",
+    "created_at": "2025-01-17T06:17:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-17T07:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880137359964209276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1409636696145154051",
+          "start": 0,
+          "username": "Liberal_KD"
+        },
+        {
+          "end": 24,
+          "id": "1511950915934187521",
+          "start": 12,
+          "username": "Tofucurd999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880137359964209276",
+    "in_reply_to_user_id": "1409636696145154051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879797767515853192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liberal_KD @Tofucurd999 观点很中肯，但是推主今年08，如果推主现是成年人我会百分百支持你的观点喵，1k5说多不多说少不少，至少去一趟别的城市一共花1k5是少的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "1879713410956611888",
+        "created_at": "2025-01-17T06:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-17T07:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880137359964209276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1409636696145154051",
+              "start": 0,
+              "username": "Liberal_KD"
+            },
+            {
+              "end": 24,
+              "id": "1511950915934187521",
+              "start": 12,
+              "username": "Tofucurd999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880137359964209276",
+        "in_reply_to_user_id": "1409636696145154051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879797767515853192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liberal_KD @Tofucurd999 观点很中肯，但是推主今年08，如果推主现是成年人我会百分百支持你的观点喵，1k5说多不多说少不少，至少去一趟别的城市一共花1k5是少的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1409636696145154051",
+        "conversation_id": "1879713410956611888",
+        "created_at": "2025-01-16T07:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-16T08:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879797767515853192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511950915934187521",
+              "start": 0,
+              "username": "Tofucurd999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879797767515853192",
+        "in_reply_to_user_id": "1511950915934187521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 20127,
+          "like_count": 351,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879713410956611888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tofucurd999 不想理发就不收钱呗，有本事自己经济独立。父母跟你谈条件又没逼你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "description": "",
+        "id": "1842490676543627264",
+        "location": "Central Region, Singapore",
+        "name": "鳶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873210000182788099/nGShI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 76,
+          "like_count": 243,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 91
+        },
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T22:16:01.000Z",
+        "description": "不定时分享书报片段及胡言乱语 | 过气刊物《青鸟信使》@courier_blue | 黎波塔联省民国（虚拟国）大总统兼国务总理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "courier_blue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bluebirdcourier",
+                "end": 23,
+                "expanded_url": "https://t.me/bluebirdcourier",
+                "start": 0,
+                "url": "https://t.co/JNQdoOLeHA"
+              }
+            ]
+          }
+        },
+        "id": "1409636696145154051",
+        "location": "Bluebirdcourier",
+        "name": "海棠🇩🇴Kaidou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875846477429579776/KlqZpJeQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 1057,
+          "like_count": 24370,
+          "listed_count": 7,
+          "media_count": 164,
+          "tweet_count": 1096
+        },
+        "url": "https://t.co/JNQdoOLeHA",
+        "username": "Liberal_KD",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T06:16:13.000Z",
+        "description": "08上海｜🏳️‍⚧️无证深柜-24.5.14 mtf 同类互fo｜轻度躁郁｜惊恐｜病娇｜INFP｜有喜欢的宝宝｜容貌焦虑｜独居｜GD｜日常｜轻度zcod｜不圆｜无政治立场｜猫娘｜绝望燃尽的一刻，希望就会来临，正如黎明时光会褪尽整夜黑暗♡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/tofucurd999",
+                "end": 23,
+                "expanded_url": "http://t.me/tofucurd999",
+                "start": 0,
+                "url": "https://t.co/t9JuOSvGDF"
+              }
+            ]
+          }
+        },
+        "id": "1511950915934187521",
+        "name": "🏳️‍⚧️巧克力豆腐猫🍥",
+        "pinned_tweet_id": "1848023256273744167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814673517780348928/O0ZUCW1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1369,
+          "following_count": 1848,
+          "like_count": 3856,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/t9JuOSvGDF",
+        "username": "Tofucurd999",
+        "verified": false
+      }
+    ]
+  }
+}

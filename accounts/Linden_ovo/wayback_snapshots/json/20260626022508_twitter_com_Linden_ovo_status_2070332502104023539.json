@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2070332502104023539",
+    "created_at": "2026-06-26T02:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T03:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070332502104023539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liiliiiiiliill…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/liiliiiiiliilli/status/2070009211313164413",
+          "start": 5,
+          "url": "https://t.co/pT1aXQpqe7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070332502104023539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070009211313164413",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有义务 https://t.co/pT1aXQpqe7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2070332502104023539",
+        "created_at": "2026-06-26T02:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T03:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070332502104023539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liiliiiiiliill…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/liiliiiiiliilli/status/2070009211313164413",
+              "start": 5,
+              "url": "https://t.co/pT1aXQpqe7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070332502104023539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070009211313164413",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有义务 https://t.co/pT1aXQpqe7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938788988590153728",
+        "conversation_id": "2070009211313164413",
+        "created_at": "2026-06-25T05:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070009211313164413"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070009211313164413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4723,
+          "like_count": 92,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "other",
+        "text": "我最讨厌冷暴力，真的，在现在这个时代不回消息你就去死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "沉淀心性",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2057204975504150745",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067076164821344256/H32I7piX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 107,
+          "like_count": 1809,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-28T02:38:27.000Z",
+        "description": "隐藏相册@liiliIIiiliIii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "liiliIIiiliIii"
+              }
+            ]
+          }
+        },
+        "id": "1938788988590153728",
+        "name": "咖啡果",
+        "pinned_tweet_id": "2041168174755049593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053472679395803136/JsBrK8_x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27838,
+          "following_count": 137,
+          "like_count": 4579,
+          "listed_count": 97,
+          "media_count": 799,
+          "tweet_count": 3472
+        },
+        "url": "",
+        "username": "liiliIIiiliIllI",
+        "verified": true
+      }
+    ]
+  }
+}

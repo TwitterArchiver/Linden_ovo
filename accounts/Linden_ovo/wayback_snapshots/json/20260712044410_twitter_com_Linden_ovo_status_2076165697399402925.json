@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075964072219295744"
+      ],
+      "media_source_tweet_id": [
+        "2075964090229620815"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2076165697399402925",
+    "created_at": "2026-07-12T04:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T05:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076165697399402925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1668257047647776770",
+          "start": 3,
+          "username": "nekoTiao0w0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EtBKYrHil6",
+          "end": 86,
+          "expanded_url": "https://x.com/nekoTiao0w0/status/2075964090229620815/photo/1",
+          "media_key": "3_2075964072219295744",
+          "start": 63,
+          "url": "https://t.co/EtBKYrHil6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076165697399402925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075964090229620815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekoTiao0w0: 特别想死我没吃饭然后有点免费酒水我就一直在吐，还吃了普，瑞我一直在吐，我操，一直在吐好想死 https://t.co/EtBKYrHil6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075964072219295744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM9OUyMawAAWmA1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075964072219295744"
+          ],
+          "media_source_tweet_id": [
+            "2075964090229620815"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2076165697399402925",
+        "created_at": "2026-07-12T04:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T05:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076165697399402925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1668257047647776770",
+              "start": 3,
+              "username": "nekoTiao0w0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtBKYrHil6",
+              "end": 86,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2075964090229620815/photo/1",
+              "media_key": "3_2075964072219295744",
+              "start": 63,
+              "url": "https://t.co/EtBKYrHil6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076165697399402925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075964090229620815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekoTiao0w0: 特别想死我没吃饭然后有点免费酒水我就一直在吐，还吃了普，瑞我一直在吐，我操，一直在吐好想死 https://t.co/EtBKYrHil6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075964072219295744"
+          ]
+        },
+        "author_id": "1668257047647776770",
+        "conversation_id": "2075964090229620815",
+        "created_at": "2026-07-11T15:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T16:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075964090229620815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EtBKYrHil6",
+              "end": 69,
+              "expanded_url": "https://x.com/nekoTiao0w0/status/2075964090229620815/photo/1",
+              "media_key": "3_2075964072219295744",
+              "start": 46,
+              "url": "https://t.co/EtBKYrHil6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075964090229620815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1019,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "特别想死我没吃饭然后有点免费酒水我就一直在吐，还吃了普，瑞我一直在吐，我操，一直在吐好想死 https://t.co/EtBKYrHil6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "纯网蛆清水推\n私信已关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2074834677806887310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075387906915512320/P36dD2QG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 136,
+          "like_count": 2370,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1542
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T14:01:46.000Z",
+        "description": "低能量低自尊低素质低道德痛苦女孩 看你们也没多喜欢我 关注我干嘛？",
+        "id": "1668257047647776770",
+        "location": "🚪188",
+        "name": "丰川祥子爱分尸",
+        "pinned_tweet_id": "2073746703950528654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059143750694350848/9P2mQIqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2268,
+          "following_count": 252,
+          "like_count": 9135,
+          "listed_count": 3,
+          "media_count": 336,
+          "tweet_count": 4090
+        },
+        "url": "",
+        "username": "nekoTiao0w0",
+        "verified": false
+      }
+    ]
+  }
+}
