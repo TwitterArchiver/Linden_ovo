@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2083910985602195603",
+    "created_at": "2026-08-03T11:44:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:44:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084244031853228204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1475395784527212546",
+          "start": 0,
+          "username": "yamaro0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084244031853228204",
+    "in_reply_to_user_id": "1475395784527212546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083910985602195603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yamaro0 アストンマーチャン"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2083910985602195603",
+        "created_at": "2026-08-03T11:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084244031853228204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1475395784527212546",
+              "start": 0,
+              "username": "yamaro0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084244031853228204",
+        "in_reply_to_user_id": "1475395784527212546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083910985602195603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yamaro0 アストンマーチャン"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1475395784527212546",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "2083910985602195603",
+        "created_at": "2026-08-02T13:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083910985602195603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083910985602195603",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 141095,
+          "like_count": 2731,
+          "quote_count": 81,
+          "reply_count": 2115,
+          "retweet_count": 185
+        },
+        "reply_settings": "everyone",
+        "text": "突然ですがこのツイートを見かけた人はウマ娘の最推しキャラを1人リプで教えてください！！！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 147,
+          "like_count": 2941,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-27T09:19:17.000Z",
+        "description": "趣味で絵を描いています。練習中。ご依頼▶︎ https://t.co/zE8VtyT83t skeb▶︎https://t.co/tEY6DZsIrZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/yamaro000",
+                "end": 45,
+                "expanded_url": "https://lit.link/yamaro000",
+                "start": 22,
+                "url": "https://t.co/zE8VtyT83t"
+              },
+              {
+                "display_url": "skeb.jp/@yamaro0",
+                "end": 75,
+                "expanded_url": "https://skeb.jp/@yamaro0",
+                "start": 52,
+                "url": "https://t.co/tEY6DZsIrZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/13I0JWP8AXJJ6?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/eNjo3kFzg9"
+              }
+            ]
+          }
+        },
+        "id": "1475395784527212546",
+        "location": "見てくださってありがとうございます",
+        "name": "やまろ@C108土曜東３ホ20b売り子",
+        "pinned_tweet_id": "1823642175571419554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946405311155261440/2Fq9kz3O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22183,
+          "following_count": 647,
+          "like_count": 16502,
+          "listed_count": 227,
+          "media_count": 254,
+          "tweet_count": 3329
+        },
+        "url": "https://t.co/eNjo3kFzg9",
+        "username": "yamaro0",
+        "verified": true
+      }
+    ]
+  }
+}

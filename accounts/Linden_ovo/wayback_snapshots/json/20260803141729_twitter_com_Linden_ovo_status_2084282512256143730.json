@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2083984848205889977",
+    "created_at": "2026-08-03T14:17:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:17:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084282512256143730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1578395243891855362",
+          "start": 0,
+          "username": "hate_0811"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084282512256143730",
+    "in_reply_to_user_id": "1578395243891855362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083984848205889977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hate_0811 把异性删完只能野排是什么鬼bro玩游戏只打甜双啊不是胡桃直接踢，这波是真把pvp当相亲市场耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_2083984839515258880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvNK4ybQAAP1e3.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2083984848205889977",
+        "created_at": "2026-08-03T14:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084282512256143730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1578395243891855362",
+              "start": 0,
+              "username": "hate_0811"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084282512256143730",
+        "in_reply_to_user_id": "1578395243891855362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083984848205889977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hate_0811 把异性删完只能野排是什么鬼bro玩游戏只打甜双啊不是胡桃直接踢，这波是真把pvp当相亲市场耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083984839515258880"
+          ]
+        },
+        "author_id": "1578395243891855362",
+        "conversation_id": "2083984848205889977",
+        "created_at": "2026-08-02T18:34:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083984848205889977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/emBLoTohVR",
+              "end": 38,
+              "expanded_url": "https://x.com/hate_0811/status/2083984848205889977/photo/1",
+              "media_key": "3_2083984839515258880",
+              "start": 15,
+              "url": "https://t.co/emBLoTohVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083984848205889977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 34997,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "希望我以后别这么小心眼了吧！ https://t.co/emBLoTohVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 147,
+          "like_count": 2947,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 1944
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-07T14:42:16.000Z",
+        "description": "防失联小号喵@Tiesa1234",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 6,
+                "username": "Tiesa1234"
+              }
+            ]
+          }
+        },
+        "id": "1578395243891855362",
+        "location": "🚪128",
+        "name": "讨厌你的好",
+        "pinned_tweet_id": "1990474102017306720",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048724780837150720/pNdCkBZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5490,
+          "following_count": 248,
+          "like_count": 12471,
+          "listed_count": 6,
+          "media_count": 1277,
+          "tweet_count": 10452
+        },
+        "url": "",
+        "username": "hate_0811",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084118551837949952"
+      ],
+      "media_source_tweet_id": [
+        "2084118563439440364"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2084242829891551511",
+    "created_at": "2026-08-03T11:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084242829891551511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756909109788753920",
+          "start": 3,
+          "username": "__fanqie__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4sXoMM4oSJ",
+          "end": 45,
+          "expanded_url": "https://x.com/__fanqie__/status/2084118563439440364/photo/1",
+          "media_key": "3_2084118551837949952",
+          "start": 22,
+          "url": "https://t.co/4sXoMM4oSJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084242829891551511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084118563439440364",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__fanqie__: 这怎么办？ https://t.co/4sXoMM4oSJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2822,
+        "media_key": "3_2084118551837949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOxGx-AaQAAi3Ka.jpg",
+        "width": 4016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084118551837949952"
+          ]
+        },
+        "author_id": "1756909109788753920",
+        "conversation_id": "2084118563439440364",
+        "created_at": "2026-08-03T03:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084118563439440364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sXoMM4oSJ",
+              "end": 29,
+              "expanded_url": "https://x.com/__fanqie__/status/2084118563439440364/photo/1",
+              "media_key": "3_2084118551837949952",
+              "start": 6,
+              "url": "https://t.co/4sXoMM4oSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084118563439440364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 98949,
+          "like_count": 187,
+          "quote_count": 0,
+          "reply_count": 344,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这怎么办？ https://t.co/4sXoMM4oSJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084118551837949952"
+          ],
+          "media_source_tweet_id": [
+            "2084118563439440364"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2084242829891551511",
+        "created_at": "2026-08-03T11:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084242829891551511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756909109788753920",
+              "start": 3,
+              "username": "__fanqie__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4sXoMM4oSJ",
+              "end": 45,
+              "expanded_url": "https://x.com/__fanqie__/status/2084118563439440364/photo/1",
+              "media_key": "3_2084118551837949952",
+              "start": 22,
+              "url": "https://t.co/4sXoMM4oSJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084242829891551511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084118563439440364",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__fanqie__: 这怎么办？ https://t.co/4sXoMM4oSJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 147,
+          "like_count": 2937,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1941
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-12T05:12:40.000Z",
+        "description": "这里是番茄🍅随机性评论\n不讨论政治/随缘分享\n侵权私信删除/接受投稿\n评论区约炮广告均为诈骗，请勿相信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/baozhefanqie_h…",
+                "end": 23,
+                "expanded_url": "http://telegram.me/baozhefanqie_home",
+                "start": 0,
+                "url": "https://t.co/ndOwWuO2ty"
+              }
+            ]
+          }
+        },
+        "id": "1756909109788753920",
+        "location": "番茄树上",
+        "name": "不包番茄籽的番茄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043538335155859456/EL2nafA__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11659,
+          "following_count": 2783,
+          "like_count": 1611,
+          "listed_count": 25,
+          "media_count": 2481,
+          "tweet_count": 11306
+        },
+        "url": "https://t.co/ndOwWuO2ty",
+        "username": "__fanqie__",
+        "verified": true
+      }
+    ]
+  }
+}

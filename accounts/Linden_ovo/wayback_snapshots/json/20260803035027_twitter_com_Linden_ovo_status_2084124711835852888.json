@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082871191409438722"
+      ],
+      "media_source_tweet_id": [
+        "2082871199382811118"
+      ]
+    },
+    "author_id": "1842490676543627264",
+    "conversation_id": "2084124711835852888",
+    "created_at": "2026-08-03T03:50:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:50:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084124711835852888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2023691065266778112",
+          "start": 3,
+          "username": "dai_xiao76509"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/88I5Q43DDU",
+          "end": 60,
+          "expanded_url": "https://x.com/dai_xiao76509/status/2082871199382811118/photo/1",
+          "media_key": "3_2082871191409438722",
+          "start": 37,
+          "url": "https://t.co/88I5Q43DDU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084124711835852888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082871199382811118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dai_xiao76509: 好想把我最讨厌的两个人照片放上去啊 https://t.co/88I5Q43DDU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1950,
+        "media_key": "3_2082871191409438722",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfYUCTasAIPBeS.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082871191409438722"
+          ]
+        },
+        "author_id": "2023691065266778112",
+        "conversation_id": "2082871199382811118",
+        "created_at": "2026-07-30T16:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082871199382811118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/88I5Q43DDU",
+              "end": 41,
+              "expanded_url": "https://x.com/dai_xiao76509/status/2082871199382811118/photo/1",
+              "media_key": "3_2082871191409438722",
+              "start": 18,
+              "url": "https://t.co/88I5Q43DDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082871199382811118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1910,
+          "impression_count": 218932,
+          "like_count": 9702,
+          "quote_count": 20,
+          "reply_count": 319,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "好想把我最讨厌的两个人照片放上去啊 https://t.co/88I5Q43DDU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082871191409438722"
+          ],
+          "media_source_tweet_id": [
+            "2082871199382811118"
+          ]
+        },
+        "author_id": "1842490676543627264",
+        "conversation_id": "2084124711835852888",
+        "created_at": "2026-08-03T03:50:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084124711835852888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2023691065266778112",
+              "start": 3,
+              "username": "dai_xiao76509"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/88I5Q43DDU",
+              "end": 60,
+              "expanded_url": "https://x.com/dai_xiao76509/status/2082871199382811118/photo/1",
+              "media_key": "3_2082871191409438722",
+              "start": 37,
+              "url": "https://t.co/88I5Q43DDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084124711835852888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082871199382811118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dai_xiao76509: 好想把我最讨厌的两个人照片放上去啊 https://t.co/88I5Q43DDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 146,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1929
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-17T09:28:51.000Z",
+        "description": "老子不约炮",
+        "id": "2023691065266778112",
+        "name": "小呆呆",
+        "pinned_tweet_id": "2034327808101740550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035033635699740672/nMsQWLAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 116
+        },
+        "url": "",
+        "username": "dai_xiao76509",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2084245061722628163",
+    "created_at": "2026-08-03T11:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084245061722628163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1682435915002834944",
+          "start": 3,
+          "username": "lulu21108365361"
+        },
+        {
+          "end": 30,
+          "id": "1914771310665781248",
+          "start": 21,
+          "username": "ke_aiovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084245061722628163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084020293954363532",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lulu21108365361: @ke_aiovo 因为每个人都有尿尿的地方。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2084245061722628163",
+        "created_at": "2026-08-03T11:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084245061722628163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1682435915002834944",
+              "start": 3,
+              "username": "lulu21108365361"
+            },
+            {
+              "end": 30,
+              "id": "1914771310665781248",
+              "start": 21,
+              "username": "ke_aiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084245061722628163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084020293954363532",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lulu21108365361: @ke_aiovo 因为每个人都有尿尿的地方。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682435915002834944",
+        "conversation_id": "2083948886943781222",
+        "created_at": "2026-08-02T20:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084020293954363532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914771310665781248",
+              "start": 0,
+              "username": "ke_aiovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084020293954363532",
+        "in_reply_to_user_id": "1914771310665781248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 15587,
+          "like_count": 306,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083948886943781222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ke_aiovo 因为每个人都有尿尿的地方。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 147,
+          "like_count": 2944,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1943
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:02:45.000Z",
+        "description": "07 泛 switch 可以叫我小栗子呀＾3＾\nos这个人的主页居然全是碎碎念…😨\n不聊骚 不线下 不约 不kp  纯诱惑\n私信不怎么看 纯绿\n不会加任何联系方式 止于推´ₒ⦁⩊⦁ₒ`\n和你聊天不是我的义务，请有一点边界感和自知之明，不要来持续打扰我的生活\n宝宝，我其实是个很糟糕的人，请不要对我抱有任何幻想好吗😌",
+        "id": "1682435915002834944",
+        "location": "附近-18cm",
+        "name": "栗子酱酱",
+        "pinned_tweet_id": "2074321177888293063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047232881769242624/FMiUQ6qH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 64,
+          "like_count": 5670,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 430
+        },
+        "url": "",
+        "username": "lulu21108365361",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-22T20:00:43.000Z",
+        "description": "",
+        "id": "1914771310665781248",
+        "name": "C",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082885321566687232/ifatn6FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7865,
+          "following_count": 98,
+          "like_count": 5087,
+          "listed_count": 19,
+          "media_count": 19,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "ke_aiovo",
+        "verified": false
+      }
+    ]
+  }
+}

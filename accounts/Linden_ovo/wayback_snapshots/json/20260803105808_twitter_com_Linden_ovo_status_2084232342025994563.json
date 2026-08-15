@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1842490676543627264",
+    "conversation_id": "2084232342025994563",
+    "created_at": "2026-08-03T10:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T11:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084232342025994563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1776638570276827136",
+          "start": 3,
+          "username": "fuckboi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084232342025994563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084169834959671748",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @fuckboi8964: 为什么要和一个签证都办不下来的人计较？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842490676543627264",
+        "conversation_id": "2084232342025994563",
+        "created_at": "2026-08-03T10:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T11:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084232342025994563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1776638570276827136",
+              "start": 3,
+              "username": "fuckboi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084232342025994563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084169834959671748",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @fuckboi8964: 为什么要和一个签证都办不下来的人计较？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1776638570276827136",
+        "conversation_id": "2084169834959671748",
+        "created_at": "2026-08-03T06:49:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084169834959671748"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084169834959671748",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "为什么要和一个签证都办不下来的人计较？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-05T09:03:14.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "Seattle, Washington, United States",
+              "geo": {
+                "coordinates": [
+                  -122.33207,
+                  47.60621
+                ],
+                "type": "Point"
+              },
+              "locality": "Seattle",
+              "region": "Washington",
+              "sub_region": "King County"
+            }
+          ]
+        },
+        "description": "理论可以找我聊天\n有对象，私信关了",
+        "id": "1842490676543627264",
+        "location": "Seattle, WA",
+        "name": "鳶",
+        "pinned_tweet_id": "2072217744355840149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083115657999130624/O6P3v1l1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 147,
+          "like_count": 2925,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1934
+        },
+        "url": "",
+        "username": "Linden_ovo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T15:50:33.000Z",
+        "description": "整个法兰西为她倾倒",
+        "id": "1776638570276827136",
+        "location": " Chamberlain Hills",
+        "name": "PLAYER",
+        "pinned_tweet_id": "2082406178152423874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082150313289818112/1vBdIztv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 192,
+          "like_count": 6522,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "fuckboi8964",
+        "verified": false
+      }
+    ]
+  }
+}
